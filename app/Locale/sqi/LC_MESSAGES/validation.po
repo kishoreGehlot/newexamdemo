@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 17:40+0530\n"
+"PO-Revision-Date: 2016-04-27 17:12+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: sq\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Vetëm shkronja dhe numra të lejuara"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Grupi tashmë ekzistojnë"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "vetëm Url"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "File nuk ka një shtrirje të vlefshme"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Ju duhet të ofrojë një JPG, GIF ose PNG file."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Invalid Header Kontakt"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "vetëm alfabetet"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Valuta Emri ekzistojnë"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Ju duhet të furnizimit lartësia e imazhit është më pak se 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Ju duhet të furnizimit me gjerësinë e imazhit është më pak se 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Vetëm një numër i lejuar"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Vetëm Data / Ora format"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Shkruani një email të vlefshme"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Ju lutem zgjidhni"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Username pavlefshme"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Fjalëkalim i pavlefshëm"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Nënshkrimi i pavlefshëm"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "vetëm një numër i"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Ju duhet të furnizimit me lartësinë e imazhit është më pak se 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Kjo Email tashmë ekziston! provoni një të ri"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "Password nevojshme"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Fjalëkalimi minimum 4 karakter të gjatë"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Emri tashmë ekzistojnë"

@@ -1,0 +1,5494 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 15:56+0530\n"
+"PO-Revision-Date: 2016-04-27 15:37+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: uk\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "Файловий менеджер"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Ви можете знайти свій результат тут."
+
+#: /Controller/AjaxcontentsController.php:44 /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Дякую за даний іспит."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: /Controller/AppController.php:190 /Plugin/Admin/View/Configurations/index.ctp:121 /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "керівник ради"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5 /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5 /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "Мої іспити"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "Мій результат"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "ефективність групи"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "Платежі:"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20 /Plugin/Admin/View/Students/trnhistory.ctp:1 /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "Історія транзакцій"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19 /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "поштову скриньку"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112 /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Допомога"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Головна"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "Реєстрація"
+
+#: /Controller/AppController.php:200 /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Увійти"
+
+#: /Controller/ContentsController.php:7;13 /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497 /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60 /Controller/ResultsController.php:283;307 /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149 /Plugin/Admin/Controller/AttemptedpapersController.php:122;151 /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122 /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583 /Plugin/Admin/Controller/MailsController.php:148
+#: /Plugin/Admin/Controller/QuestionsController.php:244;262 /Plugin/Admin/Controller/ResultsController.php:77;155 /Plugin/Admin/Controller/SlidesController.php:126;132;145;151
+#: /Plugin/Admin/Controller/SmstemplatesController.php:42;76 /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315 /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "Invalid повідомлення"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "січ"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "лют"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "бер"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "квіт"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "трав"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "черв"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "лип"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "серп"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "вер"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "жовт"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "лист"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "руд"
+
+#: /Controller/DashboardsController.php:62;106 /Controller/GroupperformancesController.php:39 /Plugin/Admin/Controller/ResultsController.php:131 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21 /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30 /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "Відсотки"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "Місяць"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "іспити"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "Електронна пошта перевіряється успішно"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Невірний код верифікації"
+
+#: /Controller/EmailverificationsController.php:109 /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "Код підтвердження надіслати на Вашу електронну поштову скриньку або спам"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "Id електронної пошти вже підтверджено"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "Id E-mail не зареєстрований в системі"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Ви спробували максимально іспит."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Ви спробували максимальну кількість питань в цій темі"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Ви можете знайти свій результат тут"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Недостатня кількість."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. Інструкції випробувань були "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. Мова було питання "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. Загальний досвід роботи тест був "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Будь-яке інше пропозицію зворотного зв'язку: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Зворотній зв'язок успішно відправлений!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Зворотній зв'язок вже подали."
+
+#: /Controller/ForgotsController.php:17 /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "Посвідчення особи електронної пошти не зареєстрований в системі"
+
+#: /Controller/ForgotsController.php:69 /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Ваше посилання для скидання пароля відправляється на зареєстрований електронний ідентифікатор"
+
+#: /Controller/ForgotsController.php:91 /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "невірний код"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88 /Plugin/Admin/Controller/ForgotsController.php:121 /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Пароль успішно змінений"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "моя продуктивність"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "Мій виступ групи"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Застосування вже встановлена. Видалити додаток / TMP / installed.txt перевстановити додаток"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "UNWRITEABLE"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "Writeable"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "На жаль! Файл Дозвіл Помилка <br> ласка Гото додаток / Config / database.php до записаного режимі."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "З'єднання було успішно встановлено з сервером."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Чи не вдалося підключитися до бази даних. Будь ласка, перевірте налаштування в додаток / Config / database.php і спробуйте ще раз"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "На жаль! Папка Дозвіл Помилка <br> ласка папку TMP до записаного режимі."
+
+#: /Controller/MailsController.php:83 /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Ваш лист було відправлено"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "пересилається повідомлення"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129 /Plugin/Admin/View/Dashboards/index.ctp:69 /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Від"
+
+#: /Controller/MailsController.php:109 /Plugin/Admin/Controller/MailsController.php:130 /Plugin/Admin/View/Addquestions/index.ctp:20;53 /Plugin/Admin/View/Exams/add.ctp:239 /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23 /Plugin/Admin/View/Mails/compose.ctp:42;44 /Plugin/Admin/View/Questions/add.ctp:132 /Plugin/Admin/View/Questions/edit.ctp:146 /Plugin/Admin/View/Questions/index.ctp:23;51
+#: /Plugin/Admin/View/Questions/view.ctp:47 /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39 /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "Тема"
+
+#: /Controller/MailsController.php:153 /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "Пошта була переміщений в кошик"
+
+#: /Controller/MailsController.php:183 /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Ваша пошта була видалена"
+
+#: /Controller/MailsController.php:209 /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "Лист було переміщено в папку"
+
+#: /Controller/MailsController.php:236 /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "Лист було позначене як прочитане"
+
+#: /Controller/MailsController.php:240 /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "Пошта була відзначена як непрочитана"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal Оплата не встановлено"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "оплата Скасувати"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "гаманець Оплата"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Спробуйте ще раз! Не вдається підключитися до PayPal"
+
+#: /Controller/PaymentsController.php:79 /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "неприпустима сума"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Оплата вже зроблено"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Оплата не зробили"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Оплата успішно! Сума %s доданий у вашому гаманці "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Профіль успішно оновлений"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Фото Оновлене Успішно"
+
+#: /Controller/ProfilesController.php:93 /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "неправильний пароль"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Будь ласка, виберіть будь-яку групу"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Невірний код безпеки"
+
+#: /Controller/ResultsController.php:133;178 /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "рахунок"
+
+#: /Controller/ResultsController.php:142;188 /Plugin/Admin/Controller/ResultsController.php:239 /Plugin/Admin/View/Results/index.ctp:40;126 /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7 /View/Results/attemptedpapers.ctp:17 /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Макс Marks"
+
+#: /Controller/ResultsController.php:143;187 /Plugin/Admin/Controller/ResultsController.php:238 /Plugin/Admin/View/Results/index.ctp:41;127 /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8 /View/Results/attemptedpapers.ctp:15 /View/Results/index.ctp:29
+#: /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "Marks Склад виконавців"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Тема Wise Час зйомки"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "Student Performance"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "Правильне питання"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "некоректне питання"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "праві Marks"
+
+#: /Controller/ResultsController.php:195 /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19 /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "негативні знаки"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Відсоток (%) в іспит"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Відсотки"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "ша"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "га"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "тя"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "стор"
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Ви %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Топпер %s"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422 /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "Адміністратор "
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "платіжний шлюз"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "оплатити іспит"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Ваш аккаунт закінчився. Будь ласка, зверніться до адміністратора"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Ви були успішно увійшли в систему"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Ваша електронна адреса не підтверджений! Будь ласка, натисніть на посилання, відправлену на вашу електронну поштову скриньку або спам"
+
+#: /Controller/UsersController.php:58 /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "Неправильне ім'я користувача / пароль"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Ви вийшли з системи успішно"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Ви %s член! Будь ласка, зверніться до адміністратора"
+
+#: /Controller/Component/CustomFunctionComponent.php:14 /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "Години"
+
+#: /Controller/Component/CustomFunctionComponent.php:20 /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "Mins"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28 /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "Сек"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "загальний підсумок"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Ваше питання було додано до іспиту"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Ваше питання був видалений за іспит"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "Немає дозволу"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Реклама була збережена"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63 /Plugin/Admin/Controller/ContentsController.php:62;73 /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64 /Plugin/Admin/Controller/ExamsController.php:128;141 /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63 /Plugin/Admin/Controller/MenunamesController.php:32;43 /Plugin/Admin/Controller/NewsController.php:52;63 /Plugin/Admin/Controller/QtypesController.php:32;43
+#: /Plugin/Admin/Controller/QuestionsController.php:122;129 /Plugin/Admin/Controller/SlidesController.php:61;72 /Plugin/Admin/Controller/SmstemplatesController.php:51;62
+#: /Plugin/Admin/Controller/StudentsController.php:133;146;365 /Plugin/Admin/Controller/SubjectsController.php:106;121 /Plugin/Admin/Controller/TestimonialsController.php:52;63
+#: /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "Invalid повідомлення"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Реклама видалена"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160 /Plugin/Admin/Controller/SlidesController.php:162 /Plugin/Admin/Controller/StudentsController.php:326 /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Фотографія успішно змінений"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85 /Plugin/Admin/View/Results/result.ctp:235 /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211 /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "Чи не Замах"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "Marks Оновлене"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "успішно Доопрацювати"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Успішно Закрито іспит"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Англійська"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "Французьк"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139 /Plugin/Admin/Controller/EmailsettingsController.php:24 /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Ваша установка була збережена"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Сторінка успішно доданий"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Сторінки успішно оновлений"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Сторінка була вилучена"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Сторінка була Неопубліковані"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Сторінка була опублікована"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159 /Plugin/Admin/Controller/SignaturesController.php:43 /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "Щось не так"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Валюта була збережена"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Валюта була видалена"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "студент Детальніше"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "активний"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103 /Plugin/Admin/View/Attemptedpapers/index.ctp:43 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "в очікуванні"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "призупинити"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115 /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "ПРИЙНЯТО"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116 /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "НЕ ПРИЙНЯТО"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117 /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "Відсутні"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135 /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "Студент "
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158 /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Переходячи %a GE"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159 /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Середня %a GE"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "питання Граф"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226 /Plugin/Admin/View/Dashboards/index.ctp:172 /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "загальне питання"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Питання банку Складність Мудрий"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "12504\tЛЕГКИЙ"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "Середньо"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "Складно"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51 /Plugin/Admin/Controller/MenunamesController.php:51 /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "ім'я оновлений"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "Шаблон повідомлення електронної пошти збережений"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "Шаблон повідомлення електронної пошти видалений"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Дата закінчення не менше Дата початку"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160 /Plugin/Admin/Controller/QuestionsController.php:81;152 /Plugin/Admin/Controller/StudentsController.php:157 /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Виберіть будь-яку групу"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Будь ласка, Додати тему до іспиту"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Іспит був збережений. Додавання питань в іспит"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Іспит був збережений"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Іспит був оновлений"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Іспит був видалений"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303 /Plugin/Admin/View/Addquestions/index.ctp:26 /Plugin/Admin/View/Exams/add.ctp:213;264 /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158 /Plugin/Admin/View/Questions/edit.ctp:173 /Plugin/Admin/View/Questions/index.ctp:29 /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "рівень складності"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Тема Мудрий Питання Граф"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Іспит успішно інактивується"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Іспит успішно активований"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Там немає жодного питання додав!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Ваше ім'я користувача буде відправлено на Ваш зареєстрований електронний ідентифікатор"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Група успішно доданий"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Група була збережена"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Група видалена"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Видалити тему перший"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "Зміст Допомога була збережена"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "Вміст довідки було видалено"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Питання успішно імпортовано"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49 /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "Файл не завантажено"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55 /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Підтримується тільки CSV-файл"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61 /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Виберіть Тема"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Виберіть будь-яку групу"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Студенти успішно імпортовано"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Виберіть групу"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Студент E-mail не найден"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Новини були збережені"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Новини видалений"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Paypal Оплата Установка була збережена"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "постановка завдання"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Будь ласка, виберіть правильну відповідь"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Будь ласка, виберіть істинним або хибним"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Будь ласка, заповніть порожній простір"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Питання доданий в банк успішно"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Питання було оновлено"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Питання був видалений"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231 /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "Видалити іспит першим!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Питання Рівень складності"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Продуктивність"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Кандидат Marks Розподіл"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks Розподіл"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27 /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Будь ласка, виберіть будь-який тип в списку"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Будь ласка, введіть будь-яку електронну пошту"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "Повідомлення було відправлено"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Ні електронної пошти для відправки"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Будь ласка, введіть будь-яке ім'я"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "Sms було відправлено"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Ні смс для відправки"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Підпис була збережена"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "підпис видалена"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Slide збережений"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Слайд був видалений"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "шаблон SMS збережений"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "шаблон SMS видалений"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Студент успішно доданий"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117 /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Виберіть принаймні одну групу"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Студент був оновлений"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Студент був видалений"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Студентський гаманець був оновлений"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Тема Успішно доданий"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Тема вже існують"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Тема була оновлена"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Тема була видалена"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Характеризує був збережений"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Характеризує був оновлений"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Характеризує був видалений"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Користувач успішно доданий"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Користувач оновлений"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Користувач вилучений"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "Оновлення Дозвіл успішно"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Ви були успішно увійшли в систему"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Ви вийшли з системи"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Для оператора був збережений"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "Для оператора був видалений"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Логотип був збережений"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Логотип був видалений"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10 /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Додати питання"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23 /Plugin/Admin/View/Exams/add.ctp:212;257 /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49 /Plugin/Admin/View/Questions/index.ctp:26 /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "Тип питання"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29 /Plugin/Admin/View/Questions/index.ctp:32 /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Пошук"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:33 /Plugin/Admin/View/Sendemails/index.ctp:128 /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Скинути"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Додати до іспиту"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Видалити Щоб іспит"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38 /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Назад до іспиту"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52 /Plugin/Admin/View/Contents/pages.ctp:31 /Plugin/Admin/View/Currencies/index.ctp:31 /Plugin/Admin/View/Diffs/index.ctp:30 /Plugin/Admin/View/Emailtemplates/index.ctp:32
+#: /Plugin/Admin/View/Groups/index.ctp:31 /Plugin/Admin/View/Helpcontents/index.ctp:32 /Plugin/Admin/View/Menunames/index.ctp:30 /Plugin/Admin/View/News/index.ctp:32 /Plugin/Admin/View/Qtypes/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:49 /Plugin/Admin/View/Results/index.ctp:122 /Plugin/Admin/View/Slides/index.ctp:31 /Plugin/Admin/View/Smstemplates/index.ctp:32 /Plugin/Admin/View/Students/index.ctp:34
+#: /Plugin/Admin/View/Students/trnhistory.ctp:18 /Plugin/Admin/View/Subjects/index.ctp:31 /Plugin/Admin/View/Testimonials/index.ctp:32 /Plugin/Admin/View/Users/assignrightsedit.ctp:18
+#: /Plugin/Admin/View/Users/index.ctp:32 /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54 /Plugin/Admin/View/Sendemails/index.ctp:84 /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10 /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "Тип"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "тіло Питання"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56 /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "Рівень"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57 /Plugin/Admin/View/Attemptedpapers/index.ctp:163 /Plugin/Admin/View/Dashboards/index.ctp:30 /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161 /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84 /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "маркування"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58 /Plugin/Admin/View/Advertisements/index.ctp:35;47 /Plugin/Admin/View/Contents/pages.ctp:36;50 /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32 /Plugin/Admin/View/Emailtemplates/index.ctp:35;46 /Plugin/Admin/View/Groups/index.ctp:33;43 /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35 /Plugin/Admin/View/News/index.ctp:35;46 /Plugin/Admin/View/Qtypes/index.ctp:32 /Plugin/Admin/View/Questions/index.ctp:53;65 /Plugin/Admin/View/Results/index.ctp:44;130
+#: /Plugin/Admin/View/Slides/index.ctp:35;47 /Plugin/Admin/View/Smstemplates/index.ctp:36;48 /Plugin/Admin/View/Students/index.ctp:41;57 /Plugin/Admin/View/Students/wallet.ctp:41
+#: /Plugin/Admin/View/Subjects/index.ctp:35;47 /Plugin/Admin/View/Testimonials/index.ctp:37;54 /Plugin/Admin/View/Users/assignrights.ctp:19;28 /Plugin/Admin/View/Users/index.ctp:40;57
+#: /View/Helper/FunctionHelper.php:110 /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Дія"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Додати Оголошення"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8 /Plugin/Admin/View/Advertisements/edit.ctp:11;13 /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Реклама Ім'я"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14 /Plugin/Admin/View/Advertisements/edit.ctp:17;19 /Plugin/Admin/View/Advertisements/index.ctp:33 /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31 /Plugin/Admin/View/Menunames/index.ctp:34 /Plugin/Admin/View/Slides/add.ctp:14;16 /Plugin/Admin/View/Slides/edit.ctp:18;20 /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "замовлення"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20 /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24 /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "URL Тип"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "внутрішня"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "зовнішній"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30 /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "URL Target"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "_self"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "Бланк"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Завантажити зображення (350 * 260)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43 /Plugin/Admin/View/Contents/add.ctp:71 /Plugin/Admin/View/Currencies/add.ctp:28 /Plugin/Admin/View/Emailtemplates/add.ctp:19 /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26 /Plugin/Admin/View/Groups/add.ctp:13 /Plugin/Admin/View/Helpcontents/add.ctp:20 /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16 /Plugin/Admin/View/Smstemplates/add.ctp:20 /Plugin/Admin/View/Students/add.ctp:63 /Plugin/Admin/View/Subjects/add.ctp:19 /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14 /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Зберегти"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44 /Plugin/Admin/View/Advertisements/changephoto.ctp:21 /Plugin/Admin/View/Contents/add.ctp:72 /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:29 /Plugin/Admin/View/Emailtemplates/add.ctp:20 /Plugin/Admin/View/Emailtemplates/edit.ctp:45 /Plugin/Admin/View/Exams/add.ctp:222;274
+#: /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14 /Plugin/Admin/View/Groups/edit.ctp:29 /Plugin/Admin/View/Helpcontents/add.ctp:21 /Plugin/Admin/View/Helpcontents/edit.ctp:42
+#: /Plugin/Admin/View/Mails/compose.ctp:56 /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21 /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29
+#: /Plugin/Admin/View/Questions/add.ctp:164 /Plugin/Admin/View/Questions/edit.ctp:181 /Plugin/Admin/View/Slides/add.ctp:29 /Plugin/Admin/View/Slides/changephoto.ctp:21 /Plugin/Admin/View/Slides/edit.ctp:43
+#: /Plugin/Admin/View/Smstemplates/add.ctp:21 /Plugin/Admin/View/Smstemplates/edit.ctp:46 /Plugin/Admin/View/Students/add.ctp:64 /Plugin/Admin/View/Students/changepass.ctp:40
+#: /Plugin/Admin/View/Students/changephoto.ctp:22 /Plugin/Admin/View/Students/edit.ctp:88 /Plugin/Admin/View/Students/wallet.ctp:65 /Plugin/Admin/View/Subjects/add.ctp:20 /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29 /Plugin/Admin/View/Testimonials/changephoto.ctp:21 /Plugin/Admin/View/Testimonials/edit.ctp:47 /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79
+#: /Plugin/Admin/View/Users/leveladd.ctp:15 /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36 /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Закрити"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3 /Plugin/Admin/View/Slides/changephoto.ctp:3 /Plugin/Admin/View/Students/changephoto.ctp:4 /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3 /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "оновлення Фото"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7 /Plugin/Admin/View/Students/add.ctp:56 /Plugin/Admin/View/Students/changephoto.ctp:8 /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Завантажити фото"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19 /Plugin/Admin/View/Advertisements/edit.ctp:57 /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43 /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27 /Plugin/Admin/View/Helpcontents/edit.ctp:40 /Plugin/Admin/View/Menunames/edit.ctp:45
+#: /Plugin/Admin/View/News/edit.ctp:40 /Plugin/Admin/View/Qtypes/edit.ctp:27 /Plugin/Admin/View/Questions/edit.ctp:179 /Plugin/Admin/View/Slides/add.ctp:27 /Plugin/Admin/View/Slides/changephoto.ctp:19
+#: /Plugin/Admin/View/Slides/edit.ctp:41 /Plugin/Admin/View/Smstemplates/edit.ctp:44 /Plugin/Admin/View/Students/changepass.ctp:38 /Plugin/Admin/View/Students/changephoto.ctp:20 /Plugin/Admin/View/Students/edit.ctp:86
+#: /Plugin/Admin/View/Students/wallet.ctp:63 /Plugin/Admin/View/Subjects/edit.ctp:37 /Plugin/Admin/View/Testimonials/changephoto.ctp:19 /Plugin/Admin/View/Testimonials/edit.ctp:45
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:36 /Plugin/Admin/View/Users/change_pass.ctp:39 /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58 /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Оновити"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20 /Plugin/Admin/View/Advertisements/edit.ctp:58 /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44 /Plugin/Admin/View/Exams/edit.ctp:154 /Plugin/Admin/View/Exams/maxquestion.ctp:27 /Plugin/Admin/View/Groups/edit.ctp:28 /Plugin/Admin/View/Helpcontents/edit.ctp:41
+#: /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41 /Plugin/Admin/View/Qtypes/edit.ctp:28 /Plugin/Admin/View/Questions/edit.ctp:180 /Plugin/Admin/View/Slides/add.ctp:28
+#: /Plugin/Admin/View/Slides/changephoto.ctp:20 /Plugin/Admin/View/Slides/edit.ctp:42 /Plugin/Admin/View/Smstemplates/edit.ctp:45 /Plugin/Admin/View/Students/changepass.ctp:39
+#: /Plugin/Admin/View/Students/changephoto.ctp:21 /Plugin/Admin/View/Students/edit.ctp:87 /Plugin/Admin/View/Students/wallet.ctp:64 /Plugin/Admin/View/Subjects/edit.ctp:38
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:20 /Plugin/Admin/View/Testimonials/edit.ctp:46 /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Скасувати "
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "редагувати Реклама"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8 /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8 /Plugin/Admin/View/Emailtemplates/edit.ctp:8 /Plugin/Admin/View/Exams/edit.ctp:30
+#: /Plugin/Admin/View/Groups/edit.ctp:8 /Plugin/Admin/View/Helpcontents/edit.ctp:9 /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9 /Plugin/Admin/View/Qtypes/edit.ctp:8
+#: /Plugin/Admin/View/Slides/edit.ctp:9 /Plugin/Admin/View/Smstemplates/edit.ctp:9 /Plugin/Admin/View/Students/edit.ctp:13 /Plugin/Admin/View/Subjects/edit.ctp:8 /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "......"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41 /Plugin/Admin/View/Advertisements/index.ctp:34 /Plugin/Admin/View/Emailtemplates/edit.ctp:23 /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24 /Plugin/Admin/View/Helpcontents/index.ctp:34 /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34 /Plugin/Admin/View/Slides/edit.ctp:24
+#: /Plugin/Admin/View/Slides/index.ctp:34 /Plugin/Admin/View/Smstemplates/edit.ctp:24 /Plugin/Admin/View/Smstemplates/index.ctp:35 /Plugin/Admin/View/Students/add.ctp:50 /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40 /Plugin/Admin/View/Testimonials/edit.ctp:28 /Plugin/Admin/View/Testimonials/index.ctp:35 /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "Статус"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "оголошення"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Додати нове оголошення"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52 /Plugin/Admin/View/Contents/pages.ctp:16;53 /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50 /Plugin/Admin/View/Groups/index.ctp:16;46 /Plugin/Admin/View/Helpcontents/index.ctp:16;49 /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47 /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:16;41 /Plugin/Admin/View/Questions/index.ctp:69
+#: /Plugin/Admin/View/Slides/index.ctp:16;52 /Plugin/Admin/View/Smstemplates/index.ctp:17;51 /Plugin/Admin/View/Students/index.ctp:16;62 /Plugin/Admin/View/Subjects/index.ctp:16;51
+#: /Plugin/Admin/View/Testimonials/index.ctp:16;58 /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Редагувати"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53 /Plugin/Admin/View/Contents/pages.ctp:17;54 /Plugin/Admin/View/Currencies/index.ctp:16;50 /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47 /Plugin/Admin/View/Helpcontents/index.ctp:17;50 /Plugin/Admin/View/News/index.ctp:17;50 /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53 /Plugin/Admin/View/Smstemplates/index.ctp:18;52 /Plugin/Admin/View/Students/index.ctp:17;63 /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59 /Plugin/Admin/View/Users/assignrights.ctp:8;32 /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Видаляти"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50 /Plugin/Admin/View/Emailtemplates/index.ctp:49 /Plugin/Admin/View/Questions/index.ctp:68 /Plugin/Admin/View/Slides/index.ctp:50 /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "Вигляд"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51 /Plugin/Admin/View/Slides/index.ctp:51 /Plugin/Admin/View/Testimonials/index.ctp:57 /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "Змінити світлину"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6 /Plugin/Admin/View/Slides/view.ctp:3 /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Перегляд слайдів"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "замах Папери"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34 /Plugin/Admin/View/Diffs/edit.ctp:11;13 /Plugin/Admin/View/Diffs/index.ctp:31 /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13 /Plugin/Admin/View/Emailtemplates/index.ctp:33 /Plugin/Admin/View/Emailtemplates/view.ctp:8 /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31 /Plugin/Admin/View/Smstemplates/add.ctp:7;9 /Plugin/Admin/View/Smstemplates/edit.ctp:12;14 /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18 /Plugin/Admin/View/Students/edit.ctp:31;33 /Plugin/Admin/View/Students/index.ctp:36 /Plugin/Admin/View/Students/wallet.ctp:17 /Plugin/Admin/View/Testimonials/add.ctp:9;11
+#: /Plugin/Admin/View/Testimonials/edit.ctp:16;18 /Plugin/Admin/View/Testimonials/index.ctp:33 /Plugin/Admin/View/Users/add.ctp:30;32 /Plugin/Admin/View/Users/edit.ctp:41;43 /Plugin/Admin/View/Users/index.ctp:35
+#: /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8 /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13 /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22
+#: /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Ім'я "
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36 /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5 /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5 /Plugin/Admin/View/Students/add.ctp:6;8 /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35 /Plugin/Admin/View/Students/trnhistory.ctp:19 /Plugin/Admin/View/Students/wallet.ctp:11 /Plugin/Admin/View/Users/add.ctp:36;38 /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36 /Plugin/Admin/View/Users/my_profile.ctp:15 /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12 /View/Registers/index.ctp:10;12
+#: /View/Results/pdf/certificate.ctp:10 /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "E-mail"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40 /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "всього знаків"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "отримані Marks"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "результат Завершена"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "доопрацювання It"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "ПРИЙНЯТО"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "Не вдалося"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "завершується По"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "питання №"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78 /Plugin/Admin/View/Questions/add.ctp:63;78 /Plugin/Admin/View/Questions/edit.ctp:74;88;89 /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84 /Plugin/Admin/View/Questions/add.ctp:64;82 /Plugin/Admin/View/Questions/edit.ctp:75;92;93 /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90 /Plugin/Admin/View/Questions/add.ctp:65;86 /Plugin/Admin/View/Questions/edit.ctp:76;96;97 /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96 /Plugin/Admin/View/Questions/add.ctp:66;90 /Plugin/Admin/View/Questions/edit.ctp:77;100;101 /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102 /Plugin/Admin/View/Questions/add.ctp:67;94 /Plugin/Admin/View/Questions/edit.ctp:78;104;105 /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108 /Plugin/Admin/View/Questions/add.ctp:68;98 /Plugin/Admin/View/Questions/edit.ctp:79;108;109 /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "19515 Опції:"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158 /Plugin/Admin/View/Results/result.ctp:175 /Plugin/Admin/View/Results/stdexamresult.ctp:161 /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "виражене відповіді"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159 /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Правильна відповідь"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162 /Plugin/Admin/View/Results/result.ctp:25;103;179 /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165 /View/Results/attemptedpapers.ctp:18
+#: /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "час зйомки"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "Marks Отримано"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Перевірено"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "Системи"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "параметри конфігурації"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8 /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Назва об'єкту"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12 /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "Назва організації "
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18 /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Доменне ім'я"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22 /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "Організація E-mail"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "00000007 = Мета Заголовок"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32 /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "00000008 = Мета Опис"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36 /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Часовий пояс"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85 /Plugin/Admin/View/Iequestions/index.ctp:25 /Plugin/Admin/View/Questions/add.ctp:134;158 /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116 /Plugin/Admin/View/Sendsms/index.ctp:93;117 /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "Виберіть"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40 /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "Валюта "
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "Тема Зв'язатися"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "Електронна пошта Контактний"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "Показати записи на сторінці"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Макс записує на одній сторінці"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "Формат дати:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Дата, місяць, рік, година, хв, сек, Меридіан, дата Seprator, час Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Зображення"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Текст"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "напрямок тексту"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Зліва направо (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Справа наліво (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Мова"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Включити повідомлення по SMS"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Включити повідомлення по електронній пошті"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "Керівництво по перевірці"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Front End реєстрації"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Front End Слайди"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "Неофіційний переклад"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117 /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101 /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "платний іспит"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "Math Editor"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "іспит експірації"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "іспит Зворотній зв'язок"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Tolrance граф"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "сертифікат"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "свидетельский"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "реклама"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "кількість Відвідувач"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "кількість Student"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "кількість іспиту"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174 /Plugin/Admin/View/Emailsettings/index.ctp:43 /Plugin/Admin/View/Payments/index.ctp:31 /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "зберегти налаштування"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Додати Сторінки"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28 /Plugin/Admin/View/Contents/edit.ctp:32;34 /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "посилання Ім'я"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32 /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "посилання Замовити"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36 /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "смуга набору"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44 /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "зовнішній URL"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46 /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "Веб-сайт Цільовий"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55 /Plugin/Admin/View/Contents/pages.ctp:33 /Plugin/Admin/View/Menunames/edit.ctp:17;19 /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Простір назв"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59 /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "URL сторінки"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65 /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "зміст сторінки"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "редагувати сторінки"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "Сторінки"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Додати нову сторінку"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "опублікований"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "неопублікований"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Додати валюту"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11 /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "Назва валюти"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17 /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Коротке ім'я"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Завантажити Валюта (менше або дорівнює 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Додати нову валюту"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "В ході іспиту"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13 /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13 /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "найближчий іспит"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "завершена іспит"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18 /Plugin/Admin/View/Sendemails/index.ctp:86;90 /Plugin/Admin/View/Sendsms/index.ctp:93;97 /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "студенти"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "In Progress & Майбутні іспити"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Дата "
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28 /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8 /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "іспит Назва"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122 /Plugin/Admin/View/Iequestions/index.ctp:17 /Plugin/Admin/View/Iestudents/index.ctp:17 /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99 /Plugin/Admin/View/Students/add.ctp:10 /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12 /Plugin/Admin/View/Users/edit.ctp:19
+#: /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "Група"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31 /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "ТЕРМІН ДІЇ"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Останні Результати іспиту"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61 /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "іспит"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62 /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "Загальний результат"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63 /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "Student Статистика"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70 /Plugin/Admin/View/Exams/stats.ctp:16 /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "них"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71 /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "Детальніше"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Топ-10 Студентська група Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Student Статистика Таблиця"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "всього учнів"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "Загальний вміст активного"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "Разом В очікуванні"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "Загальний вміст зважених"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Питання банку Предмет Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Складність питань"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Питання Count Таблиця"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "Назва банку"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "Total Easy"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Разом Нормальний"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "Разом змогли"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "рівень Труднощі"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "Налаштування електронної пошти"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "Тип E-mail"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "LOCALHOST"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Ім'я сервера / хоста"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "порт"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33 /Plugin/Admin/View/Payments/index.ctp:6;8 /Plugin/Admin/View/Smssettings/index.ctp:17;19 /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Ім'я користувача"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37 /Plugin/Admin/View/Forgots/reset.ctp:20 /Plugin/Admin/View/Payments/index.ctp:12;14 /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22 /Plugin/Admin/View/Students/changepass.ctp:20;22 /Plugin/Admin/View/Users/add.ctp:24;26 /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37 /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47 /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47 /View/Registers/index.ctp:24;26
+#: /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "Пароль"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Додати Шаблон листа"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14 /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19 /Plugin/Admin/View/Emailtemplates/view.ctp:3 /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "Шаблон повідомлення електронної пошти"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Шаблони Змінити Email"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "Шаблони електронних повідомлень"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Додати новий шаблон електронної пошти"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12 /Plugin/Admin/View/Smstemplates/add.ctp:13;15 /Plugin/Admin/View/Smstemplates/edit.ctp:18;20 /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "шаблон"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Тема успішно доданий"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Додати іспит"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92 /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Назва іспиту"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96 /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "Passing Відсоток"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102 /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "інструкція"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Іспит Тривалість (хв.)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 на необмежений термін"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "спроба граф"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 для необмеженої спроби"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60 /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20 /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "Дата початку"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67 /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22 /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "Дата закінчення"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76 /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Показати відповідь Sheet"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "Так"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Ні"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80 /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "вибір групи"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "Студентська група"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90 /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "негативна Маркування"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "Випадкове питання"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161 /Plugin/Admin/View/Exams/edit.ctp:106;108 /Plugin/Admin/View/Exams/view.ctp:40 /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "Кількість "
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "браузер Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136 /Plugin/Admin/View/Students/add.ctp:46 /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "експірації Дні"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138 /Plugin/Admin/View/Exams/maxquestion.ctp:16 /Plugin/Admin/View/Students/add.ctp:48 /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 для Необмежений"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114 /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Результат Після завершення"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "Режим"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "Prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124 /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "миттєвий результат"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128 /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "Опція В випадковому порядку"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Додати підданим Екзаменів"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209 /Plugin/Admin/View/Subjects/add.ctp:12;14 /Plugin/Admin/View/Subjects/edit.ctp:21;23 /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "ім'я суб'єкта"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247 /Plugin/Admin/View/Results/result.ctp:100 /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "кількість питань"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Ques Спробувати Count"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251 /Plugin/Admin/View/Exams/maxquestion.ctp:9 /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Питання Спробувати Count"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Залиште порожнім, щоб не показувати (0 для нескінченної кількості)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "Ctrl + клік, щоб додати кратні"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Додати"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "редагувати іспит"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "іспит Статистика"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Ні студентських Пройдено"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Завантажит"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Ні студентських Failed"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Ні Студентського Absent"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "іспит подробиці"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "доопрацювання Результат"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "замах Документи"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "прийнятні групи"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Закрити іспит"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "активувати іспит"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Іспит Закрито Re-Activate іспит"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "браузер Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "витікання терміну"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "необмежений"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "днів"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "суб'єктивний"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Мета"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Правда & Amp; помилковий"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Заповнити пропущені місця"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "всього Питання"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Питання Замах Count"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "8 год."
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "Загалом"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "С"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "М"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3
+#: /View/Results/index.ctp:26 /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "S.No."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4 /Plugin/Admin/View/Results/index.ctp:37;96;123 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "Ім'я студента"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "зарахування"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7 /Plugin/Admin/View/Students/add.ctp:30;32 /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "Телефон"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9 /Plugin/Admin/View/Results/index.ctp:129 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "результат Статус"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2 /Plugin/Admin/View/Forgots/username.ctp:13 /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Забули пароль"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5 /Plugin/Admin/View/Forgots/username.ctp:5 /Plugin/Admin/View/Results/result.ctp:13 /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "Email ID"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9 /Plugin/Admin/View/Forgots/presetcode.ctp:9 /Plugin/Admin/View/Forgots/reset.ctp:29 /Plugin/Admin/View/Forgots/username.ctp:9 /View/Emailverifications/index.ctp:17
+#: /View/Emailverifications/resend.ctp:17 /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17 /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39 /View/Installers/step1.ctp:82
+#: /View/Profiles/change_photo.ctp:33 /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Уявити"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12 /Plugin/Admin/View/Forgots/presetcode.ctp:12 /Plugin/Admin/View/Forgots/reset.ctp:32 /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "Забули Ім'я користувача"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13 /Plugin/Admin/View/Forgots/presetcode.ctp:13 /Plugin/Admin/View/Forgots/reset.ctp:33 /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Увійти"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2 /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "Код підтвердження"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Будь ласка, введіть код перевірки"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Скинути пароль"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24 /Plugin/Admin/View/Students/changepass.ctp:26;28 /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33 /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "Підтвердження паролю:"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Додавання груп"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8 /Plugin/Admin/View/Groups/edit.ctp:11;13 /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "Назва групи"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "редагування груп"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:128 /Plugin/Admin/View/Questions/edit.ctp:142 /Plugin/Admin/View/Students/index.ctp:38 /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33 /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "Групи"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Додати нову групу"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Додати вмісту довідки"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9 /Plugin/Admin/View/Helpcontents/edit.ctp:12;14 /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Заголовок"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15 /Plugin/Admin/View/Helpcontents/edit.ctp:18;20 /Plugin/Admin/View/Results/result.ctp:174 /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17 /Plugin/Admin/View/Testimonials/edit.ctp:22;24 /Plugin/Admin/View/Testimonials/index.ctp:34 /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "Опис"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Редагування вмісту довідки"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "Допомога Зміст"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Додати Вміст довідки"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Імпорт / Експорт Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Назад до списку питань"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "експорт Питання"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11 /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Виберіть файл"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "імпорт Питання"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1 /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Імпорт / Експорт Студенти"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Назад до студентів"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "експорт Студенти"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "імпорт Студенти"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "всі повідомлення"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111 /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133 /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "Мій аккаунт"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113 /Plugin/Admin/View/Students/changepass.ctp:16 /Plugin/Admin/View/Students/view.ctp:11 /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12 /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Змінити пароль"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Вийти "
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353 /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "працює на"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190 /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Дата & Amp; час"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "написати листа"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Пошук Студентська пошта"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25 /Plugin/DebugKit/View/Elements/log_panel.ctp:27 /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Повідомлення"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55 /Plugin/Admin/View/Sendemails/index.ctp:127 /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Відправити"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "компонувати"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "Вхідні"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Надіслати пошту"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "Смітник"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Більш"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Відзначити як прочитане"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Відзначити як непрочитане"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Перемістити в папку Вхідні"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "відповісти"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "Вперед"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "Меню Назви"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13 /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "Назва моделі"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25 /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "іконка"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Додати Новини"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14 /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Тема новини"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "Новини Опис"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "редагувати Новини"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Новини"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Додати новини"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Paypal Оплати"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Підпис:"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "режим Пісочниця"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26 /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "True"
+msgstr "True"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43 /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Додати питання"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73 /Plugin/Admin/View/Questions/edit.ctp:73;84;85 /Plugin/Admin/View/Questions/index.ctp:50 /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "Питання"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69 /Plugin/Admin/View/Questions/edit.ctp:80 /Plugin/Admin/View/Results/result.ctp:177 /Plugin/Admin/View/Results/stdexamresult.ctp:163 /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "правильні відповіді"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Введіть своє питання тут"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107 /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "True / False"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "False"
+msgstr "False"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121 /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "пробіл"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Пояснення (Необов'язково)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Забезпечити роз'яснення на підтримку правильної відповіді"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140 /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Підказка (опціонально)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Підказка, щоб допомогти правильно відповісти"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153 /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "без знака мінус"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Редагувати Тип питання"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135 /Plugin/Admin/View/Questions/view.ctp:97 /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "пояснення"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154 /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Підказка"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "Питань"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Додати нове питання"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Імпорт / Експорт Питання"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "answer = 42;"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "питання Детальніше"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "іспит Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Будь ласка, виберіть іспит"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "статус Результат"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Виберіть Результат Статус"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "завантажити Результат"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12 /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "Стартовий номер"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "тест"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "відсотків"
+
+#: /Plugin/Admin/View/Results/index.ctp:43 /Plugin/Admin/View/Results/result.ctp:37 /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31 /View/Results/view.ctp:89
+msgid "Result"
+msgstr "результат"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Подивитися результат"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Завантажити / Роздрукувати Результат"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "студент Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Ім'я або Зарахування Номер"
+
+#: /Plugin/Admin/View/Results/index.ctp:98 /Plugin/Admin/View/Students/add.ctp:40;42 /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "зарахування Номер"
+
+#: /Plugin/Admin/View/Results/index.ctp:115 /Plugin/Admin/View/Results/result.ctp:1;244 /Plugin/Admin/View/Students/trnhistory.ctp:5 /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "Задня сторона"
+
+#: /Plugin/Admin/View/Results/result.ctp:7 /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Assesment Звіт про"
+
+#: /Plugin/Admin/View/Results/result.ctp:17 /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "взяті Дата"
+
+#: /Plugin/Admin/View/Results/result.ctp:29 /Plugin/Admin/View/Results/stdexamresult.ctp:24 /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "загальний час"
+
+#: /Plugin/Admin/View/Results/result.ctp:33 /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. Браузера спроба tolrance"
+
+#: /Plugin/Admin/View/Results/result.ctp:48 /Plugin/Admin/View/Results/stdexamresult.ctp:43 /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "ЗАГАЛЬНИЙ РАХУНОК"
+
+#: /Plugin/Admin/View/Results/result.ctp:61 /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Student Marks Розподіл"
+
+#: /Plugin/Admin/View/Results/result.ctp:77 /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Зворотній зв'язок"
+
+#: /Plugin/Admin/View/Results/result.ctp:91 /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Marks Sheet"
+
+#: /Plugin/Admin/View/Results/result.ctp:98 /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "Назва розділу"
+
+#: /Plugin/Admin/View/Results/result.ctp:99 /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "розділ частка"
+
+#: /Plugin/Admin/View/Results/result.ctp:101 /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "фактичний"
+
+#: /Plugin/Admin/View/Results/result.ctp:102 /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "Ваш Відсоток"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137 /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "розділ Резюме"
+
+#: /Plugin/Admin/View/Results/result.ctp:144 /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "Максимальний бал"
+
+#: /Plugin/Admin/View/Results/result.ctp:148 /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "розвинена Уміння"
+
+#: /Plugin/Admin/View/Results/result.ctp:152 /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "потреби розвитку"
+
+#: /Plugin/Admin/View/Results/result.ctp:156 /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "відсутність досвіду"
+
+#: /Plugin/Admin/View/Results/result.ctp:167 /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ відповів"
+
+#: /Plugin/Admin/View/Results/result.ctp:173 /Plugin/Admin/View/Results/stdexamresult.ctp:159 /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "С.Н."
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "легенда"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "Надіслати повідомлення електронної пошти"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96 /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "Вчителі"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "будь Email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "За замовчуванням всі студенти, якщо ви додаєте вручну, то пошук студента по електронній пошті"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "За замовчуванням всі вчителі, якщо ви додаєте вручну, то пошук вчителя по електронній пошті"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Введіть будь-яку адресу електронної коми seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "Тип Заголовок"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Вибрати шаблон E-mail"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "Якщо ви не хочете, щоб вибрати шаблон електронної пошти, то просто введіть повідомлення електронної пошти. Після завантаження редактора, то ви не можете вибрати шаблон перейти кнопку для скидання"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "Відправити смс"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "Будь-яке Sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "За замовчуванням всі студент, якщо ви додаєте вручну, то пошук студентів ім'я"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "За замовчуванням всі вчителі, якщо додати вручну, то пошук ім'я вчителя"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "будь-який номер"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Введіть будь-яке число коми seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Виберіть Sms Шаблон"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "Sms шаблону"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "Якщо ви не хочете, щоб вибрати шаблон смс, то просто наберіть смс повідомлення"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "підпис Сертифікат"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Завантажити зображення (* висота менше 75 пікселів)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "видалити підпис"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Додати Слайди"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10 /Plugin/Admin/View/Slides/edit.ctp:12;14 /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Slide Ім'я"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20 /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Завантажити Slide (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "редагування Слайди"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "слайди"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Додати новий слайд"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "налаштування SMS"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "API Посилання"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "ID відправника"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "Тема Ім'я користувача"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Ім'я користувача поля забезпечується SMS Gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "Тема Пароль"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "Поле для введення пароля забезпечується SMS Gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Очолюючи мобільний тел"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Чи не Mobile Немає поля забезпечується SMS Gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "Тема повідомлення"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "Поле повідомлень забезпечується SMS Gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Тема Id Відправник"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "Id Відправник поле забезпечується SMS Gateway"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Додати SMS шаблон"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "шаблони SMS Редагувати"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "SMS Шаблони"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Додати SMS шаблон"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Додати студентів"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28 /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "Адреса  "
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38 /Plugin/Admin/View/Students/edit.ctp:51;53 /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "опікун Телефон"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "редагувати Студенти"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "Дата продовження"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Додати новий студент"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "гаманець"
+
+#: /Plugin/Admin/View/Students/index.ctp:39 /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "прийом Дата"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20 /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "кредит"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21 /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "дебет"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22 /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119 /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "--balance;"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23 /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "6.14 Дата і час"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24 /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "оплата через"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25 /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19 /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "Примітки"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Перегляд Інформація для студентів"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "Повне ім'я"
+
+#: /Plugin/Admin/View/Students/view.ctp:18 /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Номер телефону"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "Зареєстровано E-mail"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "через одне число"
+
+#: /Plugin/Admin/View/Students/view.ctp:34 /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "зарахування Немає"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "Останній Ввійти"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "студенти Гаманець"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "форма угоди"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23 /Plugin/Admin/View/Users/add.ctp:42;44 /Plugin/Admin/View/Users/edit.ctp:53;55 /Plugin/Admin/View/Users/index.ctp:37 /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "Додавати"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "віднімати"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Додати Суб'єкти"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "редагування Суб'єкти"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "Підмет"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Додати Предмет"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "питання банку"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Завантажити Відгук"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Завантажити фото (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "редагувати Відгуки"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "Відгуки"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Додати Testimonial"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "Фото"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Додати користувачів"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "Для оператора"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20 /Plugin/Admin/View/Users/edit.ctp:29;31 /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "рівень користувачів"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Додати новий рівень"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Повернутися до користувачів"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "ім'я Рівень"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "набір дозволів"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11 /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Призначають оформлення прав"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "[НазваМодуля]"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22 /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "Старий пароль"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "Редагування облікових записів користувачів"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Форма реєстрації користувача"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "Користувачі"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Додавання нового користувача"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Додати Рівень користувачів"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "Для оператора"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Шановний користувач, увійдіть в систему, щоб отримати доступ до області адміністратора!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Адміністратор / Ім'я користувача Учитель"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Забули Ім'я користувача"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "організація Логотип"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Завантажити зображення (* висота менше 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "видалити логотип"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Надішліть листа з вказівкою тип для діаграми %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Діаграма: \\ \" %s \" не може бути знайдений. Переконайтеся в тому, що діаграма Ім'я це та ж сама рядок, яка передається в $ this-> HighCharts-> Render () у вашому уявленні."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "Угода Експрес замовлення закінчився, і угода повинна бути перезапущено"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Ви, можливо, зробив другий виклик для тієї ж оплати або ви, можливо, використовували один і той же ідентифікатор для рахунку операцій окремими."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Будь ласка, використовуйте інший джерело funcing."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "Сталася помилка, будь ласка, повторіть операцію."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Ця угода не може бути завершена. Перенаправлення на платіжний шлюз"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Ви не погодилися з угодою виставлення рахунків."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Угода білінгу відключений або неактивним."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "Кредитна карта, яка використовується закінчився."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Угода була відхилена, так як відповідь AVS повернула значення N, а торговий рахунок не в змозі приймати такі угоди."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Рахунок платіжний шлюз обмежений."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Ви повинні представити IP-адреса покупця з кожним викликом API."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "Купець вибрав значення поля PaymentAction, який не підтримується."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Поле кредитна карта була порожня."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "Загальна сума, і пункт суми не збігаються."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Кредитної картки увійшли в даний час обмежується платіжним шлюзом."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "Торговець ввели рахунки ID, який вже пов'язаний з транзакцією тим же комерсанта. Спроба з новим ID рахунки-фактури"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Угода була відхилена по країні фільтр під керуванням торговця."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Угода була відхилена максимальною кількістю фільтра під керуванням торговця."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Угода був відхилений платіжним шлюзом."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Угода була відхилена платіжним шлюзом через можливу шахрайської діяльності."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Угода була відхилена платіжним шлюзом через можливу шахрайської діяльності по IP-адресою."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "Торговий рахунок спробі угоди не бізнес рахунки."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "Торговий рахунок спробі угоди не в змозі обробляти прямі транзакції оплати. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Доступ до прямий платіж був відключений для вашого облікового запису."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "Торговий рахунок спробі угоди не має підтверджений адреса електронної пошти з платіжним шлюзом."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "Торговець спробував угоди, коли сума перевищила верхню межу для цього торговця."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Угода була відхилена через фільтра комерсант ризику для AVS. Зокрема, торговець встановив зниження угоди, коли AVS повернувся, не рівня (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Угода була відхилена через фільтра комерсант ризику для AVS. Зокрема, комерсант встановити фільтр зниження транзакцій, коли AVS повертає частковий збіг."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Угода була відхилена через фільтра комерсант ризику для AVS. Зокрема, комерсант встановити фільтр зниження транзакцій, коли AVS непідтриманих."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "Торговець ввели IP-адресу, яка була в неправильному форматі. IP-адреса має бути в форматі, наприклад, 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "Конфігурація торговця вимагає CVV бути введені, але не CVV представлено не було з цією угодою."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "Торговець надав адресу або в Сполучених Штатах чи Канаді, але держава за умови, що не є допустимим державою в будь-якій країні."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Угода була відхилена банком-емітентом, а не платіжний шлюз. Продавець зобов'язаний спробувати ще одну карту."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "країна торговця проживання в даний час не підтримує для забезпечення операцій прямого платежу."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid ""
+"The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick "
+"succession."
+msgstr "Угода була відхилена, оскільки платіжний шлюз в даний час обробляє транзакції одним і тим же покупцем на ту ж суму. Це може статися, коли покупець відправляє кілька, ідентичні операції в швидкій послідовності."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "CVV є недійсною. CVV довжиною від 3-4 цифр."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Будь-ласка спробуйте пізніше. Переконайтеся, що ви пройшли правильну CVV і адреса інформацію для покупця. При створенні повторюваного профілю, будь ласка, спробуйте ще раз, передаючи суму ініціалізації 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Угода не відповідає через відсутність або недійсних 3-D Secure значень аутентифікації. Перевірте поля ECI, ECI3DS, CAVV, XID."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Угода була відхилена платіжний шлюз через надмірні відмов протягом короткого періоду часу для цієї кредитної картки."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Угода була відхилена платіжним шлюзом."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Угода була відхилена, оскільки продавець не має дійсне комерційна угода суті в файлі з платіжним шлюзом."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Угода була відхилена, тому що CVV ввели не збігається з кредитної картки."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Угода була відхилена банком-емітентом через вичерпаним кредитної картки. Продавець зобов'язаний спробувати ще одну карту."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55 /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42 /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "Utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Перевищено допустиму межу для покинете"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Ви перевищили допустиму межу для навігації від вашого тесту"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "Ваш тест завершений. Ви можете закрити вікно прямо зараз"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "установка завершена"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Ахо! Система успішно встановлена."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Перейти до: Admin / Інтерфейс вчителя"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "Користувач"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Перейти до Front End / Student інтерфейс"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Відвідайте наш веб-сайт"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "для документації та підтримки"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "Мій іспит Статистика"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Загальний іспит З огляду на"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "відсутні іспитів"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Кращий Рахунок в"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "Увімкн."
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "Неможливо в"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "середній відсоток"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "Ваш ранг"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Місяць Wise Продуктивність"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Іспит Wise Performance"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "Зверху"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11 /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11 /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "сьогоднішніми іспит"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "Зверху"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Це іспит (и), які можуть бути прийняті прямо зараз"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Ні іспитів знайдено на сьогоднішній день"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Щось пішло не так"
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Показати()"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "запису"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137 /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "Назад"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39 /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "Наступна"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Відображення {:start} кілька разів {:current} з {:count} записів"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "Підтвердження адреси електронної пошти"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Будь ласка, введіть код в текстовому полі"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Re-Надіслати Підтвердження адреси електронної пошти"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Будь ласка, введіть електронну ідентифікатор в текстовому полі, яке ви вводите в момент реєстрації"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12 /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "придбані іспит"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14 /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "минув іспит"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Це іспит (и), який закінчився термін"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36 /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Не знайдено іспитів"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Дякуємо Вам за використання тест"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. Інструкції випробувань були"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "В значній мірі Очистити"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "Середня Очистити"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Не чисто"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. Мова було питання"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. Загальний досвід роботи тест був"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "Добре"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "краще"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "Найкращий "
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Будь-яке інше пропозицію зворотного зв'язку"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Будь ласка, закрийте всі ваші вікна чату, заставки та антивірусні програми перед початком тесту"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Будь ласка, не натискайте \\ \"F5 \" під час тесту. Це дозволить закінчити тест, і ви не зможете повторно відкрити тест"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Ваші відповіді будуть збережені. Якщо тест відключений з якої-небудь причини, будуть збережені ваші відповіді до цього моменту"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Будь ласка, закрийте всі програми, які або завантажувати файли в фоновому режимі Наприклад: Dropbox, торренти і т.д."
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "Опис"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Я готовий почати"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "іспит Старт"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Цей іспит є платним. Сума повинна бути вирахувана на ваш гаманець автоматично. Після запуску таймера іспиту не зупиниться. Ви хочете оплатити і почати?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Це іспит (и), який був придбаний"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "правильні Marks"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Зберегти & Наступна"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Unreview"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "Перегляд"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "Скидання відповіді"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Оздоблення"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Поточний питання"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "Відповів"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "Чи не Відповів"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "Відсутня перемикання між якими здійснюється"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "Ви вже переходите від тестового вікна. Це буде повідомлено модератору"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Чи не повторювати цю поведінку"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "В іншому випадку ви можете отримати дискваліфікований"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Продовжити"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "завершувати"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Ви хочете, щоб представити і закрити"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Після того, як ви уявляєте, ви не зможете провести огляд"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Резюме ваших спроб в цьому"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "як показано нижче"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "спроба"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Повернення до першого питання"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Це іспит (и), які планується вам в найближчому майбутньому"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "спробувати зараз"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Ваша продуктивність в порівнянні з вашою групою"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "Чи не можете прочитати? перезавантажувати"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Введіть захисний код, вказаний вище"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Відповідь проста математики"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "Спроби"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "решті"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Дата закінчення терміну дії"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "вичерпаним терміном придатності"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Безкоштовна версія"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "Чи не Придбані"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Докладніше"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "редактор навантаження"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9 /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "Встановлення"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Крок 1 з 4"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Конфігурація сервера і установки Вимоги"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Вимоги до налаштування"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Установка цього програмного забезпечення вимагають певної стороні сервера розширення і можливості"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "будь ласка, перевірте нижче, і порівняти з сервером поточних статуй справа. Ви можете натиснути на іконку поруч з кожної технології для деталей."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Розширення & Amp; додатків"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP-сервер. Наприклад: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "вимагати"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 або вище"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "MySQL Database Engine (4 або пізнішої версії)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "PDO Extension"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Extension"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "обов'язкове"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "статус сервера"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "веб-сервер"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL версія"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PDO Недоступний"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "PDO Доступні"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Доступно"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Каталог & Amp; дозвіл файлу"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Ці папки файлів повинні бути"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "Writable"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "для застосування до установки."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Папок або файлів"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "додаток / TMP /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "додаток / Config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "додаток / Config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Оновлення"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "Давайте розпочнемо"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Крок 2 з 4"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "Угода по установці"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Я приймаю до Продовжити"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Крок 3 з 4"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Налаштування підключення до бази даних"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "ім'я хоста"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "зазвичай Localhost"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "Ім'я бази даних"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "База даних користувачів"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Ім'я користувача бази даних"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "база паролів"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "База даних користувача Пароль"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "Тип бази даних"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "Пров.соед"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Крок 4 з 4"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Назва вашого сайту"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "Мета Ключове слово"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Корисно для SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Мета Контент для SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Виберіть часовий пояс"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Назва організації / компанії"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "За замовчуванням Адміністратор E-mail"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Установка зразків даних з соскою записів"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "Встановити"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Вітаємо"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "набір Аватар"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Вийти з аккаунта"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Копірайти ?"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "слідувати на Facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Останні новини та події"
+
+#: /View/Layouts/default.ctp:348 /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "Час"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "завантажити PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Середній відсоток (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "іспит З огляду на"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "видалити назавжди"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Перемістити в кошик"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "Новини в подробицях"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "ні Відвідувачів"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "немає студентів"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "ні іспитів"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Оплата від Pay Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Оплатити Від Pay Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9 /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Профіль"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10 /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Редагувати профіль"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "Новий Student Реєстрація"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Код безпеки"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "відповіді"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "Мої результати"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "замах Дата"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "облікові картки"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "ПРЕДМЕТ ЗВІТ"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "УПРАВЛІННЯ ЧАСОМ"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "ПИТАННЯ ЗВІТ"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "РІШЕННЯ"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "ПОРІВНЯТИ ЗВІТ"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Облікові картки для"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Загальна кількість Student"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "Мої оцінки"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Всього Відмітки Test"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "Мій Процентиль"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Загальне питання в тесті"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Total Замах Питання в тесті"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "лівий Питання"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Лівий Питання Marks"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Загальний час Тесту"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "My Time"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "Мій Ранг"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "звіт для"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Питання & Marks Мудрий звіт для"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Тема Звіт для"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "Правильний"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Unattempted Питання"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Графічний звіт для"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Час для управління"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Питання Звіт для"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "питання статусу"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Ваша відповідь"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Ваш рахунок"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "Ваш час"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "рішення Для"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "Не намагайтеся"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "спроба"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "некоректний"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "Ваші відповіді"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "рішення"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "Закладки"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "Порівняти звіт за"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Всього Ques."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "максимальні Marks"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Замах Ques."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Unattempted Ques."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Правильні Ques."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Невірні Ques."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "процентиль"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "Попередня"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Цим засвідчується, що"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "вже успішно завершена"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "в ході програми, пропоновані"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "студент Ввійти"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "увійти"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Забули Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Новий користувач? Створити обліковий запис"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Двигун не завантажений"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf двигун \\ \" %s \" не найден"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "Pdf двигуни повинні розширити \\ \"\" AbstractPdfEngine"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Crypto не завантажено"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf Crypto \\ \" %s \" не найден"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "Crypto двигун повинен продовжити \\ \"\" AbstractPdfCrypto"
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "Атрибут контролера $ pdfConfig не є правильним або відсутній"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Тестування: URL"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Всього запитів: з: запити"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Загальний час минув :: тривалість (в секундах)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Запити / Second :: RPS запитів / сек"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "Середній час запиту :: середня-час секунд"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Стандартне відхилення середнього часу запиту :: СТД-DEV"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Найтриваліша / коротка прохання :: найбільша протяжність сек /: Найкоротший сек"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Дозволяє отримати деякі грубі бенчмаркінг statisticsabout повністю кваліфіковане URL."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "URL для запиту."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Число ітерацій для виконання."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "Максимальна загальна час для всіх ітерацій, в seconds.If однієї ітерації займає більше, ніж тайм-аут, тільки один запит буде зроблений"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Приклад використання: `торт тест --n 10 --t 100 HTTP: // локальний / testsite`. <Інформація> Примітка: </ Інформація> цей тест не включає в себе браузер час рендеринга."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "компонент ініціалізації"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "регулятор"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "початок дії контролера"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "стан панелі інструментів обробки"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "Дані панелі інструментів обробки"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Контролер візуалізації початок"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Не вдалося завантажити DebugToolbar панель %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Основний обробіток (похідний від $ _SERVER [\\ \"request_time \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Заголовки вже відправлені в %s на лінії %s . Неможливо відправити дані журналу FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "Некоректне підрахунок параметрів для FireCake :: фб ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Максимальна кількість (99999) повідомлень досяг!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Там немає активних панелей. Ви повинні включити панель, щоб побачити його вихід."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "App Константи"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP Константи"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP Environment"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "HiDef Довкілля"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "запит історії"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Жодна з попередніх запитів не увійшли."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "попередні прохання про доступні"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Відновити поточного запиту"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "включення файл"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "колоди"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Там не було ніяких записів журналу зробили цей запит"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "запит"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Немає даних. Розмістити"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Немає даних QueryString."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "Поточний маршрут"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "сесія"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "Sql Журнали"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Немає запитів журналів, коли налагодити <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Немає запитів журналів."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Загальний час: %s мс <br /> Всього запитів: %s запити"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Запит Поясніть:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Натисніть на \\ \"\" Поясніть посилання вище, щоб отримати пояснення запиту."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Немає активних сполук з базою даних"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "пам'ять"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Пік використання пам'яті"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "використання пам'яті"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "таймери"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "%s (мс)"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Загальний час запиту:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Час в мс"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "графік"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Перегляд змінних"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "Rendering View"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Rendering %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Переглянути повний візуалізації"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "пояснювати"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Починаючи %s мс в запиті, приймаючи %s мс"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "Чи не знайдено жодної помилки розмітки"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "може бути повільним"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "Абсолютний шлях або щодо APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "Сталася помилка під час отримання статусу вашого облікового запису."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Був помилка при підключенні до Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Існував проблема ініціювання транзакції, будь ласка, спробуйте ще раз."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Існував проблема отримати ваші деталі, будь ласка, спробуйте ще раз."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Був помилка завершення платежу"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Існував проблема оформлення угоди, будь ласка, спробуйте ще раз."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Був помилка при обробці платіжної картки"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Існував проблема обробки вашої картки, будь ласка, спробуйте ще раз."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Був помилка при обробці повернення"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "Виникла проблема в процесі повернення, будь ласка, спробуйте ще раз."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Був проблема спілкування з платіжним шлюзом"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "Відсутня ідентифікатор клієнта / секрет"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Необхідно вказати дату закінчення терміну дії"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Повинна включати в себе M і Y в дати закінчення терміну"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "Невірна дата закінчення терміну дії"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "Невірний номер кредитної картки"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "Неприпустимий номер CVV2"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Невірний тип карти"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "Я не можу знайти IP-адресу клієнта"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Чи не дійсний номер кредитної картки"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Ви повинні вказати номер безпеки 3 цифри"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Необхідно вказати \\ \"кількість \" для зарядки"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Ви повинні передати дійсний масив замовлення"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Дійсно \\ \"зворотний \" і \\ \"Скасування \" повинна бути забезпечена URLs"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Ви повинні надати код валюти"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "Оригінал PayPal ID транзакції потрібен"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Необхідно вказати \\ \"кількість \", щоб повернути"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Необхідно вказати тип повернення, такі як повна або часткова"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "Немає запису був завантажений."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Ні %s знайдено для цього діапазону дат"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "Ваша форма дані зберігаються ви будете перенаправлені до нього після входу в систему."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Повідомлення про помилку від %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Афганістан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Албанія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Алжир"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "американське Самоа"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "андорра"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Ангола"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "Ангілья"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "Антарктида"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Антигуа і Барбуда"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Аргентина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "* Вірменія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Аруба"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "Австралія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Австрія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Багамські о-ви"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Білорусь"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "Бельгія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "БЕЛІЗ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Бенін"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "Бермудські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Болівія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Боснія і Герцеговина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "острів Буве"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Бразилія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "Британська територія в Індійському океані"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "Бруней"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Болгарія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Буркіна-Фасо"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Бурунді"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "Канада"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Кайманові острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Центрально-Африканська Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Чад"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Чилі"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "Китай"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "острів різдва"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосові (Кілінг) острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Колумбія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Коморські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Конго"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Конго, Демократична Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "острови Кука"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Коста-Ріка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Берег Слонової Кістки"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Хорватія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Куба"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Кіпр"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Чеська Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Данія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Джібуті"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Домініка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "Домініканська республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Еквадор"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Єгипет"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Екваторіальна Гвінея"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Еритрея"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Естонія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Ефіопія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолклендські (Мальвінські)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Фарерські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Фіджі"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Фінляндія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "Франція"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "Французька Гвіана"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Французька Полінезія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "Французькі Південні Території"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Габон"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Гамбія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Грузія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Німеччина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "Гана"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Гібралтар"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "Греція"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Гренландія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Гренада"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Гуам"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Гвінея"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Гвінея-Бісау"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Гайана"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Гаїті"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Острів Херд і острови Макдональд"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Апостольська Столиця (Ватикан)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Гондурас"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Угорщина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Ісландія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "Індія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "Індонезія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Іран, Ісламська Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Іраком."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "Ірландія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Ізраїль"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "Італія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "Японія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Йорданія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Кенія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Острови Кірібаті"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "Корея, Корейська Народно-Демократична Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Корея, Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "* Киргизстан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Лаоська Народно-Демократична Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "* Латвія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Ліван"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Ліберія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Лівійська Арабська Джамахірія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "(Ліхтенштейн)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "Литва"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Macao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "колишня Югославська Республіка Македонія,"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Малаві"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Малайзія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Мальдіви"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Малі"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "Мальта"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Маршаллові острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Мартинюк"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Мавританія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "Маврикій"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Мексика"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Мікронезія, Федеративні Штати"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Молдова"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Монако"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "Монголія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Монсеррат"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Марокко (1930)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Мозамбік"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "М'янма"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Намібія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "+674 о. Науру"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "Непал"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Нідерланди"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "Нідерландські Антильські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "Нова Каледонія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "Нова Зеландія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "Нікарагуа"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "Нігер"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "Нігерія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "острів Норфолк"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Північні Маріанські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "Норвегія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Оман"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Палестинська територія, окупована"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Панама"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Папуа-Нова Гвінея"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Перу"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Філіпіни"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Піткерн"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "Польща"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Португалія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Пуерто Ріко"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Катар"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "возз'єднання"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Румунія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "РОСІЙСЬКА ФЕДЕРАЦІЯ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Острів Святої Єлени"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Сент-Кітс і Невіс"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Сент-Люсія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-П'єр і Мікелон"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Вінсент і Гренадіни"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Самоа"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "Сан - Маріно"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "Сан-Томе і Прінсіпі"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Саудівська Аравія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Сербія і Чорногорія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Сейшельські острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Сьєрра-Леоне"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Словаччина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "Словенія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Соломонові острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Сомалі"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "Південна Африка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Південна Джорджія та Південні Сандвічеві острови"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "Іспанія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Шрі Ланка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Судан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Суринам"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Шпіцберген і Ян-Маєн"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Свазіленд"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Швеція"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Швейцарія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Сирійська Арабська Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Тайвань, провінція Китаю"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "* Таджикистан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Танзанія, Об'єднана Республіка"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "Таїланд"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Тимор-Лешті"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "Залишилось"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Острови Токелау"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Тонга"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Тринідад і Тобаго"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Туніс"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Туреччина"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "* Туркменістан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Острови Теркс і Кайкос"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Острови Тувалу"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "Уганда"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Україна"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "Об'єднані Арабські Емірати"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Великобританія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "США"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "Венесуела"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "В'єтнам"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Віргінські острови, Британські"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Віргінські острови, США"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Уолліс і Футуна"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Західна Сахара"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Ємен"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Замбія"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Зімбабве"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Невірний аргумент # 1: %s не є коректним %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s для рядка %d не вдалося врятувати."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Ви повинні визначити принаймні одне поле, щоб бути перемикається."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Поле %s не в списку перемикається полів."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Поле %s не має двох перемикається стану визначені."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "Невірна запис"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235 /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Сервер lipsum.com повертає код помилки %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255 /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Відповідь від lipsum.com порожня або не могли бути розшифровані."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290 /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Підключення до сервера lipsum.com не вдалося. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Виправте помилки нижче."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21 /View/Errors/missing_controller.ctp:21 /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "Помилка "
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Запитуваний адресу %s не знайдено на цьому сервері."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Внутрішня помилка."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "Конфігурація джерела даних не знайдений"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: швидке середовище розробки PHP"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "Налаштування налагодження не дозволяє отримувати доступ до цим посиланням."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Додати новий іспит"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "неактивний"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Початок і Закінчення"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "сертифікація Завершення"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Натисніть тут, щоб завантажити формат файлу бути першим"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "Ви впевнені, що хочете закрити цей іспит?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "Ви впевнені, що ви хочете, щоб заново активувати цей іспит?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "Закритий"
+
+#: /Menu Name
+msgid "Results"
+msgstr "Результати"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "конфігурації"
+
+#: /Menu Name
+msgid "General"
+msgstr "Загальні"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "Зміс"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "Електронна пошта і SMS"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Служба підтримки клієнтів"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "База знань (для документації)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Форум (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Онлайн-чат (для продажів & Billing Only)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Підтримка (Для отримання технічної підтримки)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Відвідайте наш веб-сайт"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "Для отримання додаткової документації і деталі"

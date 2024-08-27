@@ -1,0 +1,5498 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 16:00+0530\n"
+"PO-Revision-Date: 2016-04-27 15:56+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: vi\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "Quản lý File:"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Bạn có thể tìm thấy kết quả của bạn ở đây."
+
+#: /Controller/AjaxcontentsController.php:44 /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Cảm ơn cho cho các kỳ thi."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Bảng chức năng"
+
+#: /Controller/AppController.php:190 /Plugin/Admin/View/Configurations/index.ctp:121 /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "Ban lãnh đạo"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5 /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5 /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "Các kỳ thi của tôi"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "Kết quả của tôi"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "hiệu suất nhóm"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20 /Plugin/Admin/View/Students/trnhistory.ctp:1 /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "Lịch sử giao dịch"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19 /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "Hộp thư"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112 /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Trang chủ"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "Đăng ký"
+
+#: /Controller/AppController.php:200 /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Đăng Nhập "
+
+#: /Controller/ContentsController.php:7;13 /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497 /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60 /Controller/ResultsController.php:283;307 /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149 /Plugin/Admin/Controller/AttemptedpapersController.php:122;151 /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122 /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583 /Plugin/Admin/Controller/MailsController.php:148
+#: /Plugin/Admin/Controller/QuestionsController.php:244;262 /Plugin/Admin/Controller/ResultsController.php:77;155 /Plugin/Admin/Controller/SlidesController.php:126;132;145;151
+#: /Plugin/Admin/Controller/SmstemplatesController.php:42;76 /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315 /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "Bài viết không hợp lệ"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Tháng Một"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "Tháng Hai"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "Tháng Ba"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "Tháng Tư"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "Tháng Năm"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "Tháng Sáu"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Tháng Bảy"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Tháng Tám"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "Tháng Chín"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Tháng Mười"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "Tháng Mười Một"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Tháng Mười Hai"
+
+#: /Controller/DashboardsController.php:62;106 /Controller/GroupperformancesController.php:39 /Plugin/Admin/Controller/ResultsController.php:131 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21 /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30 /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "Tỷ lệ phần trăm"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "Tháng"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "Exams"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "Email xác nhận thành công"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Mã xác nhận không hợp lệ"
+
+#: /Controller/EmailverificationsController.php:109 /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "Một xác minh Mã gửi đến hộp thư email của bạn hoặc Spam"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "Id Email đã được xác nhận"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "Id email không được đăng ký trong hệ thống"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Bạn đã cố gắng thi tối đa."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Bạn đã cố gắng số lượng tối đa của câu hỏi trong chủ đề này"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Bạn có thể tìm thấy kết quả của bạn ở đây"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Không đủ tiền."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. Các hướng dẫn kiểm tra là "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. Ngôn ngữ của câu hỏi là "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. kinh nghiệm kiểm tra chung là "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Bất kỳ thông tin phản hồi đề nghị khác: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Phản hồi đã gửi thành công!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Phản hồi đã nộp."
+
+#: /Controller/ForgotsController.php:17 /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "Email id không được đăng ký trong hệ thống"
+
+#: /Controller/ForgotsController.php:69 /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "liên kết đặt lại mật khẩu của bạn sẽ được gửi đến id email đã đăng ký"
+
+#: /Controller/ForgotsController.php:91 /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "mã không đúng"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88 /Plugin/Admin/Controller/ForgotsController.php:121 /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Mật khẩu Thay đổi thành công"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "hiệu suất của tôi"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "hiệu suất Nhóm của tôi"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Ứng dụng đã được cài đặt. Di chuyển ứng dụng / tmp / installed.txt phải cài đặt lại các ứng dụng"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "writeable"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Thật đáng tiếc! File Permission Lỗi <br> Xin goto app / config / database.php là trong chế độ cho phép ghi."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "Một kết nối đã được thiết lập thành công với máy chủ."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Không thể kết nối với cơ sở dữ liệu. Vui lòng kiểm tra các thiết lập trong ứng dụng / Config / database.php và thử lại"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Thật đáng tiếc! Thư mục Permission Lỗi <br> Xin thư mục tmp là trong chế độ cho phép ghi."
+
+#: /Controller/MailsController.php:83 /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Thư của bạn đã được gửi"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "tin nhắn đã được chuyển tiếp"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129 /Plugin/Admin/View/Dashboards/index.ctp:69 /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Từ"
+
+#: /Controller/MailsController.php:109 /Plugin/Admin/Controller/MailsController.php:130 /Plugin/Admin/View/Addquestions/index.ctp:20;53 /Plugin/Admin/View/Exams/add.ctp:239 /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23 /Plugin/Admin/View/Mails/compose.ctp:42;44 /Plugin/Admin/View/Questions/add.ctp:132 /Plugin/Admin/View/Questions/edit.ctp:146
+#: /Plugin/Admin/View/Questions/index.ctp:23;51 /Plugin/Admin/View/Questions/view.ctp:47 /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39 /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#: /Controller/MailsController.php:153 /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "Thư đã được chuyển tới Thùng rác"
+
+#: /Controller/MailsController.php:183 /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Thư của bạn đã bị xóa"
+
+#: /Controller/MailsController.php:209 /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "Thư đã được chuyển tới Hộp thư đến"
+
+#: /Controller/MailsController.php:236 /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "Thư đã được đánh dấu là đã đọc"
+
+#: /Controller/MailsController.php:240 /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "Thư đã được đánh dấu là chưa đọc"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal thanh toán không được thiết lập"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "Thanh toán Hủy bỏ"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "Thanh toán Wallet"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Thử lại! Không thể kết nối với paypal"
+
+#: /Controller/PaymentsController.php:79 /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "Số tiền không hợp lệ"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Thanh toán đã được thực hiện"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Thanh toán không được thực hiện"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Thanh toán thành công! Số tiền %s thêm vào trong ví của bạn "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Hồ sơ Cập nhật thành công"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Ảnh Cập nhật thành công"
+
+#: /Controller/ProfilesController.php:93 /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "Mật khẩu không hợp lệ"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Vui lòng chọn bất kỳ nhóm"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Mã bảo vệ không hợp lệ"
+
+#: /Controller/ResultsController.php:133;178 /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "Điểm"
+
+#: /Controller/ResultsController.php:142;188 /Plugin/Admin/Controller/ResultsController.php:239 /Plugin/Admin/View/Results/index.ctp:40;126 /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7 /View/Results/attemptedpapers.ctp:17
+#: /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Max Marks"
+
+#: /Controller/ResultsController.php:143;187 /Plugin/Admin/Controller/ResultsController.php:238 /Plugin/Admin/View/Results/index.ctp:41;127 /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8 /View/Results/attemptedpapers.ctp:15
+#: /View/Results/index.ctp:29 /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "Marks Ghi bàn"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Chủ đề khôn ngoan Thời gian thực hiện"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "Quả Học sinh"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "Câu hỏi chính xác"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "Câu hỏi không chính xác"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "Marks phải"
+
+#: /Controller/ResultsController.php:195 /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19 /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "Marks tiêu cực"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Tỷ lệ phần trăm (%) trong thi"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Tỷ lệ phần trăm"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "thứ 1"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "thứ 2"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "thứ 3"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "Thứ năm"
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Bạn %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Topper %s"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422 /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "Quản trị viên"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "Cổng thanh toán"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "Pay thi"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Tài khoản của bạn đã hết hạn. Hãy liên hệ với quản trị viên"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Bạn đã đăng nhập thành công"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Email của bạn không xác minh! Vui lòng click vào liên kết được gửi đến hộp thư email của bạn hay thư rác"
+
+#: /Controller/UsersController.php:58 /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "Không đúng tên người dùng / mật khẩu"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Bạn đã đăng xuất thành công"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Bạn đang %s Thành viên! Hãy liên hệ với quản trị viên"
+
+#: /Controller/Component/CustomFunctionComponent.php:14 /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "Giờ"
+
+#: /Controller/Component/CustomFunctionComponent.php:20 /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "phút"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28 /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "giây"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "Tổng cộng"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Câu hỏi của bạn đã được thêm vào cho kỳ thi"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Câu hỏi của bạn đã bị xóa cho kỳ thi"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "Không cho phep"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Quảng cáo đã được lưu"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63 /Plugin/Admin/Controller/ContentsController.php:62;73 /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64 /Plugin/Admin/Controller/ExamsController.php:128;141 /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63 /Plugin/Admin/Controller/MenunamesController.php:32;43 /Plugin/Admin/Controller/NewsController.php:52;63
+#: /Plugin/Admin/Controller/QtypesController.php:32;43 /Plugin/Admin/Controller/QuestionsController.php:122;129 /Plugin/Admin/Controller/SlidesController.php:61;72
+#: /Plugin/Admin/Controller/SmstemplatesController.php:51;62 /Plugin/Admin/Controller/StudentsController.php:133;146;365 /Plugin/Admin/Controller/SubjectsController.php:106;121
+#: /Plugin/Admin/Controller/TestimonialsController.php:52;63 /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "Bài viết không hợp lệ"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Quảng cáo đã bị xóa"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160 /Plugin/Admin/Controller/SlidesController.php:162 /Plugin/Admin/Controller/StudentsController.php:326
+#: /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Ảnh Thay đổi thành công"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85 /Plugin/Admin/View/Results/result.ctp:235 /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211 /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "không Toan"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "Marks Cập nhật"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "Hoàn thành công"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Thi công đóng"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "Pháp"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139 /Plugin/Admin/Controller/EmailsettingsController.php:24 /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Thiết lập của bạn đã được lưu"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Trang thêm thành công"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Các trang được cập nhật thành công"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Trang đã bị xóa"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Trang đã không công bố"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Trang đã được đăng"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159 /Plugin/Admin/Controller/SignaturesController.php:43 /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "Có gì đó không đúng"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Ngoại tệ đã được lưu"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Ngoại tệ đã bị xóa"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "Chi tiết sinh viên"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "Hoạt động"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103 /Plugin/Admin/View/Attemptedpapers/index.ctp:43 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "chờ xử lý"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "Tạm dừng"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115 /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "Vượt qua"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116 /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "Không thành công"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117 /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "Vắng mặt"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135 /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "Sinh viên"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158 /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Đi qua %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159 /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Trung bình %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "Đếm Câu hỏi"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226 /Plugin/Admin/View/Dashboards/index.ctp:172 /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "Tổng số câu hỏi"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Ngân hàng Câu hỏi khó khôn ngoan"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "Dễ"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "Trung bình"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "Khó"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51 /Plugin/Admin/Controller/MenunamesController.php:51 /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "Tên đã được cập nhật"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "Mẫu email đã được lưu"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "Mẫu email đã bị xóa"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Cuối ngày là không ít hơn Ngày bắt đầu"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160 /Plugin/Admin/Controller/QuestionsController.php:81;152 /Plugin/Admin/Controller/StudentsController.php:157 /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Vui lòng chọn bất kỳ nhóm"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Xin vui lòng Thêm Subject To thi"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Thi đã được lưu. Thêm câu hỏi trong bài thi"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Thi đã được lưu"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Thi đã được cập nhật"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Thi đã bị xóa"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303 /Plugin/Admin/View/Addquestions/index.ctp:26 /Plugin/Admin/View/Exams/add.ctp:213;264 /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158 /Plugin/Admin/View/Questions/edit.ctp:173 /Plugin/Admin/View/Questions/index.ctp:29 /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "Cấp độ khó"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Tiêu đề Lượt khôn ngoan Câu hỏi"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Thi thành công bất hoạt"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Thi thành công kích hoạt"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Có được không có câu hỏi thêm!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Tên truy nhập của bạn được gửi đến id email đã đăng ký"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Nhóm Thêm Thành Công"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Nhóm đã được lưu"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Nhóm đã bị xóa"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Xóa đối tượng đầu tiên"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "Nội dung trợ giúp đã được lưu"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "Nội dung trợ giúp đã bị xóa"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Câu hỏi nhập thành công"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49 /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "Tập tin không tải lên"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55 /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Chỉ CSV file được hỗ trợ"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61 /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Vui lòng chọn Chủ đề"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Vui lòng chọn bất kỳ Nhóm"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Học sinh nhập thành công"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Vui lòng chọn Nhóm"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Sinh viên Email không tìm thấy"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Tin tức đã được lưu"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Tin đã bị xóa"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Paypal Setting thanh toán đã được lưu"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "thiết vấn đề"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Vui lòng chọn câu trả lời đúng"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Vui lòng chọn đúng hay sai"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Vui lòng điền vào chỗ trống"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Câu hỏi bổ sung vào ngân hàng thành công"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Câu hỏi đã được cập nhật"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Câu hỏi đã bị xóa"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231 /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "Xóa kỳ thi đầu tiên!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Câu hỏi khó Cấp"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Tốc độ thực thi"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Ứng viên Marks phân phối"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks phân phối"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27 /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Vui lòng chọn bất kỳ loại trong danh sách"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Hãy gõ bất kỳ email"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "Email đã được gửi"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Không có email gửi"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Xin vui lòng gõ bất kỳ tên"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "SMS đã được gửi đi"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Không sms gửi"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Chữ ký đã được lưu"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "Chữ ký đã bị xóa"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Trình bày đã được lưu"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Trình bày đã bị xóa"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "SMS mẫu đã được lưu"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "SMS mẫu đã bị xóa"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Sinh viên thêm thành công"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117 /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Vui lòng chọn ít nhất một nhóm"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Sinh viên đã được cập nhật"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Sinh viên đã bị xóa"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Wallet sinh viên đã được cập nhật"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Chủ đề gia tăng thành công"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Chủ đề đã tồn tại"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Chủ đề đã được cập nhật"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Chủ đề đã bị xóa"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Lời chứng thực đã được lưu"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Lời chứng thực đã được cập nhật"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Lời chứng thực đã bị xóa"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Người dùng bổ sung thành công"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Người dùng đã được cập nhật"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Người dùng đã bị xóa "
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "cập nhật cho phép thành công"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Bạn đã đăng nhập thành công"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Bạn đã được đăng xuất"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Cấp tài đã được lưu"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "người sử dụng mức đã bị xóa"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo đã được lưu"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo đã bị xóa"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10 /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Thêm câu hỏi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23 /Plugin/Admin/View/Exams/add.ctp:212;257 /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49 /Plugin/Admin/View/Questions/index.ctp:26 /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "Loại Câu Hỏi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29 /Plugin/Admin/View/Questions/index.ctp:32 /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:33 /Plugin/Admin/View/Sendemails/index.ctp:128 /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Thêm vào thi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Xóa Để thi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38 /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Trở thi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52 /Plugin/Admin/View/Contents/pages.ctp:31 /Plugin/Admin/View/Currencies/index.ctp:31 /Plugin/Admin/View/Diffs/index.ctp:30
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:32 /Plugin/Admin/View/Groups/index.ctp:31 /Plugin/Admin/View/Helpcontents/index.ctp:32 /Plugin/Admin/View/Menunames/index.ctp:30 /Plugin/Admin/View/News/index.ctp:32
+#: /Plugin/Admin/View/Qtypes/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:49 /Plugin/Admin/View/Results/index.ctp:122 /Plugin/Admin/View/Slides/index.ctp:31 /Plugin/Admin/View/Smstemplates/index.ctp:32
+#: /Plugin/Admin/View/Students/index.ctp:34 /Plugin/Admin/View/Students/trnhistory.ctp:18 /Plugin/Admin/View/Subjects/index.ctp:31 /Plugin/Admin/View/Testimonials/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:18 /Plugin/Admin/View/Users/index.ctp:32 /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54 /Plugin/Admin/View/Sendemails/index.ctp:84 /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10 /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "Kiểu"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "Thân thể của câu hỏi"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56 /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "Cấp độ"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57 /Plugin/Admin/View/Attemptedpapers/index.ctp:163 /Plugin/Admin/View/Dashboards/index.ctp:30 /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161 /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84 /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "NHÃN HIỆU"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58 /Plugin/Admin/View/Advertisements/index.ctp:35;47 /Plugin/Admin/View/Contents/pages.ctp:36;50 /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32 /Plugin/Admin/View/Emailtemplates/index.ctp:35;46 /Plugin/Admin/View/Groups/index.ctp:33;43 /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35 /Plugin/Admin/View/News/index.ctp:35;46 /Plugin/Admin/View/Qtypes/index.ctp:32 /Plugin/Admin/View/Questions/index.ctp:53;65 /Plugin/Admin/View/Results/index.ctp:44;130
+#: /Plugin/Admin/View/Slides/index.ctp:35;47 /Plugin/Admin/View/Smstemplates/index.ctp:36;48 /Plugin/Admin/View/Students/index.ctp:41;57 /Plugin/Admin/View/Students/wallet.ctp:41
+#: /Plugin/Admin/View/Subjects/index.ctp:35;47 /Plugin/Admin/View/Testimonials/index.ctp:37;54 /Plugin/Admin/View/Users/assignrights.ctp:19;28 /Plugin/Admin/View/Users/index.ctp:40;57
+#: /View/Helper/FunctionHelper.php:110 /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Hoạt động"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Thêm Quảng cáo"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8 /Plugin/Admin/View/Advertisements/edit.ctp:11;13 /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Tên quảng cáo"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14 /Plugin/Admin/View/Advertisements/edit.ctp:17;19 /Plugin/Admin/View/Advertisements/index.ctp:33 /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31 /Plugin/Admin/View/Menunames/index.ctp:34 /Plugin/Admin/View/Slides/add.ctp:14;16 /Plugin/Admin/View/Slides/edit.ctp:18;20 /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "Thứ tự"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20 /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "Đường dẫn"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24 /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "Loại URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "Nội bộ"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "Dự kiến,"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30 /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "Target URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "_self"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "Blank"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Tải lên"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43 /Plugin/Admin/View/Contents/add.ctp:71 /Plugin/Admin/View/Currencies/add.ctp:28 /Plugin/Admin/View/Emailtemplates/add.ctp:19 /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26 /Plugin/Admin/View/Groups/add.ctp:13 /Plugin/Admin/View/Helpcontents/add.ctp:20 /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16 /Plugin/Admin/View/Smstemplates/add.ctp:20 /Plugin/Admin/View/Students/add.ctp:63 /Plugin/Admin/View/Subjects/add.ctp:19 /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14 /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Lưu"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44 /Plugin/Admin/View/Advertisements/changephoto.ctp:21 /Plugin/Admin/View/Contents/add.ctp:72 /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:29 /Plugin/Admin/View/Emailtemplates/add.ctp:20 /Plugin/Admin/View/Emailtemplates/edit.ctp:45 /Plugin/Admin/View/Exams/add.ctp:222;274
+#: /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14 /Plugin/Admin/View/Groups/edit.ctp:29 /Plugin/Admin/View/Helpcontents/add.ctp:21 /Plugin/Admin/View/Helpcontents/edit.ctp:42
+#: /Plugin/Admin/View/Mails/compose.ctp:56 /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21 /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29
+#: /Plugin/Admin/View/Questions/add.ctp:164 /Plugin/Admin/View/Questions/edit.ctp:181 /Plugin/Admin/View/Slides/add.ctp:29 /Plugin/Admin/View/Slides/changephoto.ctp:21 /Plugin/Admin/View/Slides/edit.ctp:43
+#: /Plugin/Admin/View/Smstemplates/add.ctp:21 /Plugin/Admin/View/Smstemplates/edit.ctp:46 /Plugin/Admin/View/Students/add.ctp:64 /Plugin/Admin/View/Students/changepass.ctp:40
+#: /Plugin/Admin/View/Students/changephoto.ctp:22 /Plugin/Admin/View/Students/edit.ctp:88 /Plugin/Admin/View/Students/wallet.ctp:65 /Plugin/Admin/View/Subjects/add.ctp:20 /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29 /Plugin/Admin/View/Testimonials/changephoto.ctp:21 /Plugin/Admin/View/Testimonials/edit.ctp:47 /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79
+#: /Plugin/Admin/View/Users/leveladd.ctp:15 /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36 /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Đóng"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3 /Plugin/Admin/View/Slides/changephoto.ctp:3 /Plugin/Admin/View/Students/changephoto.ctp:4 /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3 /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "cập nhật hình ảnh"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7 /Plugin/Admin/View/Students/add.ctp:56 /Plugin/Admin/View/Students/changephoto.ctp:8 /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Tải ảnh lên"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19 /Plugin/Admin/View/Advertisements/edit.ctp:57 /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43 /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27 /Plugin/Admin/View/Helpcontents/edit.ctp:40 /Plugin/Admin/View/Menunames/edit.ctp:45
+#: /Plugin/Admin/View/News/edit.ctp:40 /Plugin/Admin/View/Qtypes/edit.ctp:27 /Plugin/Admin/View/Questions/edit.ctp:179 /Plugin/Admin/View/Slides/add.ctp:27 /Plugin/Admin/View/Slides/changephoto.ctp:19
+#: /Plugin/Admin/View/Slides/edit.ctp:41 /Plugin/Admin/View/Smstemplates/edit.ctp:44 /Plugin/Admin/View/Students/changepass.ctp:38 /Plugin/Admin/View/Students/changephoto.ctp:20
+#: /Plugin/Admin/View/Students/edit.ctp:86 /Plugin/Admin/View/Students/wallet.ctp:63 /Plugin/Admin/View/Subjects/edit.ctp:37 /Plugin/Admin/View/Testimonials/changephoto.ctp:19
+#: /Plugin/Admin/View/Testimonials/edit.ctp:45 /Plugin/Admin/View/Users/assignrightsedit.ctp:36 /Plugin/Admin/View/Users/change_pass.ctp:39 /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58
+#: /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Cập nhật"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20 /Plugin/Admin/View/Advertisements/edit.ctp:58 /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44 /Plugin/Admin/View/Exams/edit.ctp:154 /Plugin/Admin/View/Exams/maxquestion.ctp:27 /Plugin/Admin/View/Groups/edit.ctp:28 /Plugin/Admin/View/Helpcontents/edit.ctp:41
+#: /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41 /Plugin/Admin/View/Qtypes/edit.ctp:28 /Plugin/Admin/View/Questions/edit.ctp:180 /Plugin/Admin/View/Slides/add.ctp:28
+#: /Plugin/Admin/View/Slides/changephoto.ctp:20 /Plugin/Admin/View/Slides/edit.ctp:42 /Plugin/Admin/View/Smstemplates/edit.ctp:45 /Plugin/Admin/View/Students/changepass.ctp:39
+#: /Plugin/Admin/View/Students/changephoto.ctp:21 /Plugin/Admin/View/Students/edit.ctp:87 /Plugin/Admin/View/Students/wallet.ctp:64 /Plugin/Admin/View/Subjects/edit.ctp:38
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:20 /Plugin/Admin/View/Testimonials/edit.ctp:46 /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "Sửa Quảng cáo"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8 /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8 /Plugin/Admin/View/Emailtemplates/edit.ctp:8 /Plugin/Admin/View/Exams/edit.ctp:30
+#: /Plugin/Admin/View/Groups/edit.ctp:8 /Plugin/Admin/View/Helpcontents/edit.ctp:9 /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9 /Plugin/Admin/View/Qtypes/edit.ctp:8
+#: /Plugin/Admin/View/Slides/edit.ctp:9 /Plugin/Admin/View/Smstemplates/edit.ctp:9 /Plugin/Admin/View/Students/edit.ctp:13 /Plugin/Admin/View/Subjects/edit.ctp:8 /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "Biểu mẫu"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41 /Plugin/Admin/View/Advertisements/index.ctp:34 /Plugin/Admin/View/Emailtemplates/edit.ctp:23 /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24 /Plugin/Admin/View/Helpcontents/index.ctp:34 /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34 /Plugin/Admin/View/Slides/edit.ctp:24
+#: /Plugin/Admin/View/Slides/index.ctp:34 /Plugin/Admin/View/Smstemplates/edit.ctp:24 /Plugin/Admin/View/Smstemplates/index.ctp:35 /Plugin/Admin/View/Students/add.ctp:50 /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40 /Plugin/Admin/View/Testimonials/edit.ctp:28 /Plugin/Admin/View/Testimonials/index.ctp:35 /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "Trạng thái"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "Quảng cáo"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Thêm mới Quảng cáo"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52 /Plugin/Admin/View/Contents/pages.ctp:16;53 /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50 /Plugin/Admin/View/Groups/index.ctp:16;46 /Plugin/Admin/View/Helpcontents/index.ctp:16;49 /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47 /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:16;41 /Plugin/Admin/View/Questions/index.ctp:69
+#: /Plugin/Admin/View/Slides/index.ctp:16;52 /Plugin/Admin/View/Smstemplates/index.ctp:17;51 /Plugin/Admin/View/Students/index.ctp:16;62 /Plugin/Admin/View/Subjects/index.ctp:16;51
+#: /Plugin/Admin/View/Testimonials/index.ctp:16;58 /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53 /Plugin/Admin/View/Contents/pages.ctp:17;54 /Plugin/Admin/View/Currencies/index.ctp:16;50 /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47 /Plugin/Admin/View/Helpcontents/index.ctp:17;50 /Plugin/Admin/View/News/index.ctp:17;50 /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53 /Plugin/Admin/View/Smstemplates/index.ctp:18;52 /Plugin/Admin/View/Students/index.ctp:17;63 /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59 /Plugin/Admin/View/Users/assignrights.ctp:8;32 /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Xóa"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50 /Plugin/Admin/View/Emailtemplates/index.ctp:49 /Plugin/Admin/View/Questions/index.ctp:68 /Plugin/Admin/View/Slides/index.ctp:50
+#: /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "Quang cảnh"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51 /Plugin/Admin/View/Slides/index.ctp:51 /Plugin/Admin/View/Testimonials/index.ctp:57 /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "Thay đổi hình ảnh"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6 /Plugin/Admin/View/Slides/view.ctp:3 /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Xem Slides"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Giấy tờ toan"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34 /Plugin/Admin/View/Diffs/edit.ctp:11;13 /Plugin/Admin/View/Diffs/index.ctp:31 /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13 /Plugin/Admin/View/Emailtemplates/index.ctp:33 /Plugin/Admin/View/Emailtemplates/view.ctp:8 /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31 /Plugin/Admin/View/Smstemplates/add.ctp:7;9 /Plugin/Admin/View/Smstemplates/edit.ctp:12;14 /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18 /Plugin/Admin/View/Students/edit.ctp:31;33 /Plugin/Admin/View/Students/index.ctp:36 /Plugin/Admin/View/Students/wallet.ctp:17 /Plugin/Admin/View/Testimonials/add.ctp:9;11
+#: /Plugin/Admin/View/Testimonials/edit.ctp:16;18 /Plugin/Admin/View/Testimonials/index.ctp:33 /Plugin/Admin/View/Users/add.ctp:30;32 /Plugin/Admin/View/Users/edit.ctp:41;43 /Plugin/Admin/View/Users/index.ctp:35
+#: /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8 /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13 /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22
+#: /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Tên"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36 /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5 /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5 /Plugin/Admin/View/Students/add.ctp:6;8 /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35 /Plugin/Admin/View/Students/trnhistory.ctp:19 /Plugin/Admin/View/Students/wallet.ctp:11 /Plugin/Admin/View/Users/add.ctp:36;38 /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36 /Plugin/Admin/View/Users/my_profile.ctp:15 /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12 /View/Registers/index.ctp:10;12
+#: /View/Results/pdf/certificate.ctp:10 /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "E-mail"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40 /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "Tổng số Marks"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "Marks thu được"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "kết quả tổng kết"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "Hoàn Nó"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "THÔNG QUA"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "Không thành công"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "hoàn Bằng"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "Câu hỏi Không"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78 /Plugin/Admin/View/Questions/add.ctp:63;78 /Plugin/Admin/View/Questions/edit.ctp:74;88;89 /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84 /Plugin/Admin/View/Questions/add.ctp:64;82 /Plugin/Admin/View/Questions/edit.ctp:75;92;93 /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90 /Plugin/Admin/View/Questions/add.ctp:65;86 /Plugin/Admin/View/Questions/edit.ctp:76;96;97 /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96 /Plugin/Admin/View/Questions/add.ctp:66;90 /Plugin/Admin/View/Questions/edit.ctp:77;100;101 /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102 /Plugin/Admin/View/Questions/add.ctp:67;94 /Plugin/Admin/View/Questions/edit.ctp:78;104;105 /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108 /Plugin/Admin/View/Questions/add.ctp:68;98 /Plugin/Admin/View/Questions/edit.ctp:79;108;109 /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "Tùy chọn 2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158 /Plugin/Admin/View/Results/result.ctp:175 /Plugin/Admin/View/Results/stdexamresult.ctp:161 /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "đánh dấu trả lời"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159 /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Câu trả lời chính xác"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162 /Plugin/Admin/View/Results/result.ctp:25;103;179 /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165 /View/Results/attemptedpapers.ctp:18
+#: /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "Mất thời gian"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "Marks Thu"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Kiểm tra bằng"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "Hệ thống"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "Tùy chọn cấu hình"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8 /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Tên điểm"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12 /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "tên tổ chức"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18 /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Tên miền:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22 /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "tổ chức Email"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "Tiêu đề meta"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32 /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "Mô tả sản phẩm:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36 /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Múi giờ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85 /Plugin/Admin/View/Iequestions/index.ctp:25 /Plugin/Admin/View/Questions/add.ctp:134;158 /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116 /Plugin/Admin/View/Sendsms/index.ctp:93;117 /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "Vui lòng chọn"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40 /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "tiêu đề Liên hệ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "email Liên hệ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "Hiển thị hồ sơ cho mỗi trang"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Max ghi trên mỗi trang"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "Định dạng ngày"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Ngày, tháng, năm, giờ, Min, Sec, Meridian, ngày Seprator, Time Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Văn bản"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "text Direction"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Từ trái sang phải (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Right-to-trái (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Kích hoạt tính năng thông báo tin nhắn SMS"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Kích hoạt tính năng thông báo email"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "Mã xác nhận bằng tay"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Front End Đăng ký"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Front End Slides"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "Dịch"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117 /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101 /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "thi Paid"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "toán Biên tập viên"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "thi hết hạn"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "thi Phản hồi"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Đếm Tolrance"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "Giấy chứng nhận"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "Chứng thực"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "Quảng cáo"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "Số khách"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "Số sinh viên"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "Số thi"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174 /Plugin/Admin/View/Emailsettings/index.ctp:43 /Plugin/Admin/View/Payments/index.ctp:31 /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "Lưu cài đặt"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Thêm trang"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28 /Plugin/Admin/View/Contents/edit.ctp:32;34 /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "Tên liên kết"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32 /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "liên kết Đặt hàng"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36 /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "Page Type"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44 /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "URL bên ngoài"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46 /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "url Target"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55 /Plugin/Admin/View/Contents/pages.ctp:33 /Plugin/Admin/View/Menunames/edit.ctp:17;19 /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Tên trang"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59 /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "trang Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65 /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "Nội dung trang"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "Sửa trang"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "Trang"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Thêm trang mới"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "Xuất bản"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "chưa công bố"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Thêm tiền tệ"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11 /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "Tên ngoại tệ"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17 /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Tên ngắn"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Tải tệ (nhỏ hơn hoặc bằng 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Thêm New tệ"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "Trong thi Progress"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13 /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13 /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "thi sắp tới"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "thi hoàn thành"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18 /Plugin/Admin/View/Sendemails/index.ctp:86;90 /Plugin/Admin/View/Sendsms/index.ctp:93;97 /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "+ Sinh viên"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "Trong Progress & thi sắp tới"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Ngày"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28 /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8 /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "Tên thi"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122 /Plugin/Admin/View/Iequestions/index.ctp:17 /Plugin/Admin/View/Iestudents/index.ctp:17 /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99 /Plugin/Admin/View/Students/add.ctp:10 /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12 /Plugin/Admin/View/Users/edit.ctp:19
+#: /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "Nhóm"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31 /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "Khoảng cách các lần dùng thuốc"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Kết quả thi gần đây"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61 /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "Thi"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62 /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "Kết quả tổng thể"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63 /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "Thống kê sinh viên"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70 /Plugin/Admin/View/Exams/stats.ctp:16 /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "Đến"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71 /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "Chi tiết"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Top 10 sinh viên Nhóm khôn ngoan"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Sinh viên Thống kê Bảng"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "Tổng số sinh viên"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "Tổng số tích cực"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "Tổng chờ"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "Tổng treo"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Câu hỏi Ngân hàng đề thông thái"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Khó cấp các câu hỏi"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Đếm Câu hỏi Bảng"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "Tên ngân hàng,"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "Tổng số dễ dàng"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Tổng số bình thường"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "Tổng số khó khăn"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "Diffculty Cấp"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "Cài đặt E-Mail"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "Nhập email"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "localhost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Server Name / Host"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "Cổng"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33 /Plugin/Admin/View/Payments/index.ctp:6;8 /Plugin/Admin/View/Smssettings/index.ctp:17;19 /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Tên đăng nhập"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37 /Plugin/Admin/View/Forgots/reset.ctp:20 /Plugin/Admin/View/Payments/index.ctp:12;14 /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22 /Plugin/Admin/View/Students/changepass.ctp:20;22 /Plugin/Admin/View/Users/add.ctp:24;26 /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37 /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47 /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47 /View/Registers/index.ctp:24;26
+#: /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Thêm Template Email"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14 /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19 /Plugin/Admin/View/Emailtemplates/view.ctp:3 /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "Mẫu email"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Sửa Email Templates"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "email Templates"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Thêm Email Template mới"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12 /Plugin/Admin/View/Smstemplates/add.ctp:13;15 /Plugin/Admin/View/Smstemplates/edit.ctp:18;20 /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "Mẫu"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Chủ đề gia tăng thành công"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Thêm thi"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92 /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Tên của thi"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96 /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "Passing Tỷ"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102 /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "Hướng dẫn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Thi Thời gian (Min)."
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 cho thời gian không giới hạn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "Đếm Attempt"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 cho nỗ lực không giới hạn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60 /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20 /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67 /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22 /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76 /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Hiện tờ phiếu trả lời"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "Có"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Không"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80 /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "CHỌN nhóm"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "Nhóm sinh viên"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90 /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "Negative Marking"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "Câu hỏi ngẫu nhiên"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161 /Plugin/Admin/View/Exams/edit.ctp:106;108 /Plugin/Admin/View/Exams/view.ctp:40 /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "Số tiền"
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "Trình duyệt Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136 /Plugin/Admin/View/Students/add.ctp:46 /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "Hết hạn ngày"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138 /Plugin/Admin/View/Exams/maxquestion.ctp:16 /Plugin/Admin/View/Students/add.ctp:48 /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 cho Unlimited"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114 /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Kết quả Sau khi Hoàn thành"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "Chế độ"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "Prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124 /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "Kết quả tức thì"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128 /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "Lựa chọn shuffle"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Thêm đối tượng Để thi"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209 /Plugin/Admin/View/Subjects/add.ctp:12;14 /Plugin/Admin/View/Subjects/edit.ctp:21;23 /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Tên chủ đề"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247 /Plugin/Admin/View/Results/result.ctp:100 /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "Số câu hỏi"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Ques Cố Đếm"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251 /Plugin/Admin/View/Exams/maxquestion.ctp:9 /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Câu hỏi Cố Đếm"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Để trống để không hiển thị (0 là không giới hạn)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "Ctrl + click để thêm bội"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Thêm"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "Sửa thi"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "Thống kê thi"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Không Học Sinh Qua"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Tải về"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Không Học Sinh Không"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Số sinh viên vắng mặt"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "Các chi tiết thi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "Hoàn thiện kết quả"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "Giấy tờ đã cố gắng"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "đủ điều kiện Nhóm"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Đóng thi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "kích hoạt thi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Thi Closed Re-Activate thi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "Trình duyệt Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "Thời hạn sử dụng"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "Vô hạn"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "Ngày"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "chủ quan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Mục tiêumục"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Đúng & amp; Sai"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Điền vào chỗ trống"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "Tổng số câu hỏi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Câu hỏi Đếm Attempt"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "H"
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "Tổng số"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "Đ"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "Thứ Hai"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3
+#: /View/Results/index.ctp:26 /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "Số TT"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4 /Plugin/Admin/View/Results/index.ctp:37;96;123 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "2) Tên Học Sinh: _____________________cỡ áo T-shirt ______________"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "Tuyển sinh"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7 /Plugin/Admin/View/Students/add.ctp:30;32 /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9 /Plugin/Admin/View/Results/index.ctp:129 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "Tình trạng kết quả"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2 /Plugin/Admin/View/Forgots/username.ctp:13 /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Quên Mật Khẩu? "
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5 /Plugin/Admin/View/Forgots/username.ctp:5 /Plugin/Admin/View/Results/result.ctp:13 /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "ID email"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9 /Plugin/Admin/View/Forgots/presetcode.ctp:9 /Plugin/Admin/View/Forgots/reset.ctp:29 /Plugin/Admin/View/Forgots/username.ctp:9 /View/Emailverifications/index.ctp:17
+#: /View/Emailverifications/resend.ctp:17 /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17 /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39 /View/Installers/step1.ctp:82
+#: /View/Profiles/change_photo.ctp:33 /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Chấp nhận"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12 /Plugin/Admin/View/Forgots/presetcode.ctp:12 /Plugin/Admin/View/Forgots/reset.ctp:32 /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "Quên tên người dùng"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13 /Plugin/Admin/View/Forgots/presetcode.ctp:13 /Plugin/Admin/View/Forgots/reset.ctp:33 /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2 /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "Mã xác minh:"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Vui lòng nhập mã xác minh"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Đặt Lại Mật Khẩu"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24 /Plugin/Admin/View/Students/changepass.ctp:26;28 /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33 /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "Xác Nhận Mật Khẩu "
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Thêm Groups"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8 /Plugin/Admin/View/Groups/edit.ctp:11;13 /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "Tên nhóm"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "Sửa Groups"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:128 /Plugin/Admin/View/Questions/edit.ctp:142 /Plugin/Admin/View/Students/index.ctp:38 /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33 /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "Nhóm"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Thêm Nhóm mới"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Thêm Nội dung Trợ giúp"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9 /Plugin/Admin/View/Helpcontents/edit.ctp:12;14 /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15 /Plugin/Admin/View/Helpcontents/edit.ctp:18;20 /Plugin/Admin/View/Results/result.ctp:174 /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17 /Plugin/Admin/View/Testimonials/edit.ctp:22;24 /Plugin/Admin/View/Testimonials/index.ctp:34 /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "miêu tả"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Chỉnh sửa nội dung Trợ giúp"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "Nội dung Trợ giúp"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Thêm mới Nội dung Trợ giúp"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Import / Export Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Trở câu hỏi"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "Câu hỏi xuất khẩu"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11 /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Chọn tập tin"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "Câu hỏi nhập khẩu"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1 /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Import / Export Học sinh"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Trở Học sinh"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "Xuất học sinh"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "nhập học sinh"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "Tất cả các thông báo"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111 /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133 /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "Hồ sơ của tôi"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113 /Plugin/Admin/View/Students/changepass.ctp:16 /Plugin/Admin/View/Students/view.ctp:11 /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12 /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Đổi Mật Khẩu"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353 /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "Sử dụng"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190 /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Ngày & amp; Thời gian"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "soạn thư"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Tìm kiếm sinh viên Thư"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25 /Plugin/DebugKit/View/Elements/log_panel.ctp:27 /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55 /Plugin/Admin/View/Sendemails/index.ctp:127 /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Gửi"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "sáng tác"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "Hộp thư đến"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Gửi mail"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "Trash"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Nhiều hơn"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Đánh dấu là đã đọc"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Đánh dấu là chưa đọc"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Di chuyển đến Hộp thư đến"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "HƯỚNG ĐẾN TƯƠNG LAI"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "Tên đơn"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13 /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "Tên mô hình"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25 /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Thêm mới "
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14 /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Tiêu đề tin"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "Mô tả tin tức"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "Sửa Tin tức"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Tin tức"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Thêm mới Tin tức"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Paypal Tùy chọn thanh toán"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "chế độ sandbox"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26 /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "True"
+msgstr "Đúng"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43 /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Thêm câu hỏi"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73 /Plugin/Admin/View/Questions/edit.ctp:73;84;85 /Plugin/Admin/View/Questions/index.ctp:50 /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "Câu hỏi"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69 /Plugin/Admin/View/Questions/edit.ctp:80 /Plugin/Admin/View/Results/result.ctp:177 /Plugin/Admin/View/Results/stdexamresult.ctp:163 /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "Câu trả lời đúng"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Nhập câu hỏi của bạn ở đây"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107 /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "Đúng Sai"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "False"
+msgstr "Sai"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121 /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "Không gian trống"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Giải thích (Tùy chọn)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Cung cấp lời giải thích trong hỗ trợ của câu trả lời đúng"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140 /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Gợi ý (tùy chọn)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Gợi ý để giúp trả lời một cách chính xác"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153 /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "không có dấu trừ"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Sửa Loại Câu hỏi"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135 /Plugin/Admin/View/Questions/view.ctp:97 /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "Giải trình"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154 /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Nhắc"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "Câu hỏi"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Thêm câu hỏi"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Import / Export Câu hỏi"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "Trả lời"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "Chi tiết câu hỏi"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "thi khôn ngoan"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Vui lòng chọn thi"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "Tình trạng của quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Vui lòng chọn Status quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "Tải quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12 /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "Xếp hạng"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "Kiểm tra"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "Phần trăm"
+
+#: /Plugin/Admin/View/Results/index.ctp:43 /Plugin/Admin/View/Results/result.ctp:37 /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31 /View/Results/view.ctp:89
+msgid "Result"
+msgstr "Kết quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Xem kết quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Download / In kết quả"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "sinh viên khôn ngoan"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Tên hoặc Số nhập học"
+
+#: /Plugin/Admin/View/Results/index.ctp:98 /Plugin/Admin/View/Students/add.ctp:40;42 /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "Số nhập học"
+
+#: /Plugin/Admin/View/Results/index.ctp:115 /Plugin/Admin/View/Results/result.ctp:1;244 /Plugin/Admin/View/Students/trnhistory.ctp:5 /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "Trở lại"
+
+#: /Plugin/Admin/View/Results/result.ctp:7 /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Báo cáo assesment cho"
+
+#: /Plugin/Admin/View/Results/result.ctp:17 /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "ngày chụp"
+
+#: /Plugin/Admin/View/Results/result.ctp:29 /Plugin/Admin/View/Results/stdexamresult.ctp:24 /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "Tổng thời gian"
+
+#: /Plugin/Admin/View/Results/result.ctp:33 /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. Các nỗ lực tolrance duyệt"
+
+#: /Plugin/Admin/View/Results/result.ctp:48 /Plugin/Admin/View/Results/stdexamresult.ctp:43 /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "Tổng điểm"
+
+#: /Plugin/Admin/View/Results/result.ctp:61 /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Sinh viên Marks phân phối"
+
+#: /Plugin/Admin/View/Results/result.ctp:77 /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Thông tin phản hồi"
+
+#: /Plugin/Admin/View/Results/result.ctp:91 /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Marks Bảng"
+
+#: /Plugin/Admin/View/Results/result.ctp:98 /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "Tên phần"
+
+#: /Plugin/Admin/View/Results/result.ctp:99 /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "phần tỷ lệ"
+
+#: /Plugin/Admin/View/Results/result.ctp:101 /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "thực tế"
+
+#: /Plugin/Admin/View/Results/result.ctp:102 /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "Tỷ lệ phần trăm của bạn"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137 /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "mục Tóm tắt"
+
+#: /Plugin/Admin/View/Results/result.ctp:144 /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "Điểm tối đa"
+
+#: /Plugin/Admin/View/Results/result.ctp:148 /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "Kỹ năng phát triển"
+
+#: /Plugin/Admin/View/Results/result.ctp:152 /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "nhu cầu phát triển"
+
+#: /Plugin/Admin/View/Results/result.ctp:156 /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Thiếu kỹ năng"
+
+#: /Plugin/Admin/View/Results/result.ctp:167 /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ trả lời"
+
+#: /Plugin/Admin/View/Results/result.ctp:173 /Plugin/Admin/View/Results/stdexamresult.ctp:159 /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "SN"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "Huyền thoại"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "Gửi email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96 /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "Giáo viên"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "bất kỳ Email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "Mặc định tất cả các học sinh nếu bạn thêm một cách thủ sau đó tìm kiếm email của sinh viên"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Mặc định tất cả các giáo viên nếu bạn thêm bằng tay sau đó tìm kiếm email giáo viên"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Nhập bất kỳ dấu phẩy email seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "loại đối tượng"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Chọn Template Email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "Nếu bạn không muốn chọn mẫu email sau đó chỉ cần gõ tin nhắn email. Sau khi bạn tải biên tập sau đó bạn không thể chọn mẫu đi nút để thiết lập lại"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "Gửi tin nhắn"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "bất kỳ Sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "Mặc định tất cả các học sinh nếu bạn thêm bằng tay sau đó tìm kiếm sinh viên tên"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Mặc định tất cả các giáo viên nếu bạn thêm bằng tay sau đó tìm tên giáo viên"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "Bất kỳ số nào"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Nhập số bất kỳ dấu phẩy seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Chọn Sms Template"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "Mẫu sMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "Nếu bạn không muốn chọn mẫu sms sau đó chỉ cần gõ tin nhắn sms"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "Giấy chứng nhận Chữ ký"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Tải lên hình ảnh (* chiều cao ít hơn 75px)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "xóa Chữ ký"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Thêm slide"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10 /Plugin/Admin/View/Slides/edit.ctp:12;14 /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "trượt Tên"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20 /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Trình tải lên (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "Sửa Slides"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "Slides"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Thêm New slide"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "Cài đặt tin nhắn SMS"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "Liên kết API"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "ID Tên người gửi"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "nhóm Tên đăng nhập"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Tên trường được cung cấp bởi gateway sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "nhóm Mật khẩu"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "trường mật khẩu được cung cấp bởi cửa ngõ sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Nhóm di động Không"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Điện thoại di động Không có trường được cung cấp bởi gateway sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "tin nhắn nhóm"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "lĩnh vực tin cung cấp bởi cửa ngõ sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Id Tên người gửi nhóm"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "lĩnh vực Id Tên người gửi cung cấp bởi cửa ngõ sms"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Thêm SMS Template"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "Chỉnh sửa các mẫu tin nhắn SMS"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "SMS Templates"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Thêm mẫu mới SMS"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Thêm học sinh"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28 /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38 /Plugin/Admin/View/Students/edit.ctp:51;53 /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "người giám hộ Điện thoại"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "Sửa học sinh"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "Ngày gia hạn"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Thêm New Student"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "ví"
+
+#: /Plugin/Admin/View/Students/index.ctp:39 /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "nhập học ngày"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20 /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "Tín dụng"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21 /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "Nợ"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22 /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119 /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "Cân bằng"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23 /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "Ngày giờ"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24 /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "Thanh toán qua"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25 /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19 /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "Ghi chú"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Xem Thông tin Sinh viên"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "Họ và tên"
+
+#: /Plugin/Admin/View/Students/view.ctp:18 /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "đăng ký Email"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "Số thay thế"
+
+#: /Plugin/Admin/View/Students/view.ctp:34 /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "Tuyển sinh Không"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "Lân đăng nhập cuôi"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "Học sinh Wallet"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "Mẫu giao dịch"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23 /Plugin/Admin/View/Users/add.ctp:42;44 /Plugin/Admin/View/Users/edit.ctp:53;55 /Plugin/Admin/View/Users/index.ctp:37 /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "ĐTDĐ"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "Thêm"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "khấu trừ"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Thêm đối tượng"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "chỉnh sửa đối tượng"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "\"Thần Dân.\""
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Thêm mới Chủ đề"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "Câu hỏi Ngân hàng"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Thêm Chứng Thực"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Tải lên ảnh (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "Edit Testimonials"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "Chứng Thực"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Thêm Chứng thực"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "Ảnh"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Thêm người dùng"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "Ký Cấp"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20 /Plugin/Admin/View/Users/edit.ctp:29;31 /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "người dùng Cấp"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Thêm mới Level"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Trở Users"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "Tên Cấp"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "Set Permission"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11 /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Gán Mẫu Quyền"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Tên mô-đun"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22 /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "Mật khẩu cũ"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "Sửa Users"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Mẫu đăng ký người sử dụng"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "Người sử dụng"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Thêm người dùng mới"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Thêm Người dùng Cấp"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "Cấp tài"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Thưa người dùng, đăng nhập để truy cập vào khu vực admin!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Admin / giáo viên Tên đăng nhập"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Quên Tên tài khoản"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "Tổ chức Logo"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Upload Image (* chiều cao nhỏ hơn 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "xóa Logo"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Vui lòng cung cấp một loại biểu đồ cho %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Biểu đồ: \\ \" %s \" không thể được tìm thấy. Đảm bảo rằng Chart Tên là chuỗi tương tự được thông qua với $ this-> HighCharts-> render () theo quan điểm của bạn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "Các giao dịch Express Checkout đã hết hạn và giao dịch cần phải khởi động lại"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Bạn có thể đã thực hiện một cuộc gọi thứ hai để thanh toán tương tự hoặc bạn có thể sử dụng ID hoá đơn cho các giao dịch riêng biệt."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Vui lòng sử dụng một nguồn funcing khác nhau."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "Lỗi xảy ra, xin vui lòng thử lại giao dịch."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Giao dịch này không thể được hoàn thành. Đổi hướng đến cổng thanh toán"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Bạn đã không đồng ý với những thỏa thuận thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Các thỏa thuận thanh toán bị vô hiệu hóa hoặc không hoạt động."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "Các thẻ tín dụng sử dụng đã hết hạn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Các giao dịch bị từ chối vì phản ứng AVS trả lại giá trị của N, và tài khoản người bán là không thể chấp nhận giao dịch đó."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Các tài khoản cổng thanh toán bị hạn chế."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Bạn phải gửi địa chỉ IP của người mua với mỗi cuộc gọi API."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "Các thương gia được lựa chọn một giá trị cho trường PaymentAction không được hỗ trợ."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Các lĩnh vực thẻ tín dụng là trống."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "tổng số tiền số tiền và mục không phù hợp."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Thẻ tín dụng được ký hiện đang bị hạn chế bởi các cổng thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "Các thương gia bước vào một ID hóa đơn đã được kết hợp với một giao dịch bởi cùng một thương gia. Cố gắng với một ID hóa đơn mới"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Các giao dịch bị từ chối bởi bộ lọc nước của các thương gia quản lý."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Các giao dịch bị từ chối bởi bộ lọc số lượng tối đa của các thương gia quản lý."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Các giao dịch bị từ chối bởi các cổng thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Các giao dịch bị từ chối bởi các cổng thanh toán vì các hoạt động gian lận có thể."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Các giao dịch bị từ chối bởi các cổng thanh toán vì các hoạt động gian lận có thể vào địa chỉ IP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "Các tài khoản thương gia cố giao dịch không phải là tài khoản doanh nghiệp."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "Các tài khoản thương gia cố giao dịch là không thể xử lý các giao dịch thanh toán trực tiếp. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Truy cập để thanh toán trực tiếp đã bị vô hiệu hóa cho tài khoản của bạn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "Các tài khoản thương gia cố giao dịch không có một địa chỉ email xác nhận với các cổng thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "Người thương gia đã cố gắng một giao dịch mà số tiền vượt quá giới hạn trên đối với người bán đó."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Các giao dịch bị từ chối do bộ lọc nguy cơ thương gia cho AVS. Cụ thể, các thương gia đã thiết lập để giảm giao dịch khi AVS trở lại một không phù hợp (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Các giao dịch bị từ chối do bộ lọc nguy cơ thương gia cho AVS. Cụ thể, các thương gia đã thiết lập các bộ lọc để giảm giao dịch khi AVS trả về một trận đấu một phần."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Các giao dịch bị từ chối do bộ lọc nguy cơ thương gia cho AVS. Cụ thể, các thương gia đã thiết lập các bộ lọc để giảm giao dịch khi AVS là không được hỗ trợ."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "Các thương gia nhập một địa chỉ IP đó là trong một định dạng không hợp lệ. Các địa chỉ IP phải nằm trong một định dạng như 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "cấu hình của thương gia đòi hỏi một CVV để được nhập vào, nhưng không có CVV đã được cung cấp với các giao dịch này."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "Các thương gia cung cấp một địa chỉ hoặc là tại Hoa Kỳ hoặc Canada, nhưng nhà nước cung cấp không phải là một nhà nước hợp lệ ở mỗi nước."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Các giao dịch bị từ chối bởi các ngân hàng phát hành, không phải là cổng thanh toán. Các thương gia nên cố gắng một thẻ khác."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "Đất nước của thương nhân cư trú hiện không được hỗ trợ để cho phép các giao dịch thanh toán trực tiếp."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid ""
+"The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick "
+"succession."
+msgstr "Các giao dịch bị từ chối vì các cổng thanh toán hiện đang xử lý một giao dịch của người mua cùng với cùng một lượng. Có thể xảy ra khi một người mua nộp nhiều, giao dịch giống hệt nhau trong kế nhanh chóng."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "Các CVV cung cấp không hợp lệ. Các CVV dài từ 3-4 chữ số."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Vui lòng thử lại sau. Đảm bảo bạn đã vượt qua CVV và địa chỉ thông tin chính xác cho người mua. Nếu tạo ra một hồ sơ định kỳ, hãy thử lại bằng cách đi qua một lượng init 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Giao dịch không phù do 3-D giá trị xác thực an toàn còn thiếu hoặc không hợp lệ. Kiểm tra các lĩnh vực ECI, ECI3DS, CAVV, XID."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Các giao dịch bị từ chối bởi các cổng thanh toán vì những thất bại quá nhiều trong một thời gian ngắn cho thẻ tín dụng này."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Các giao dịch bị từ chối bởi cổng thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Các giao dịch bị từ chối vì các thương gia không có một thỏa thuận tổ chức thương mại có giá trị trên tập tin với cổng thanh toán."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Các giao dịch bị từ chối vì CVV nhập vào không phù hợp với các thẻ tín dụng."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Các giao dịch bị từ chối bởi các ngân hàng phát hành vì một thẻ tín dụng hết hạn. Các thương gia nên cố gắng một thẻ khác."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55 /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42 /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Vượt quá giới hạn cho phép đối với định hướng đi"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Bạn đã vượt quá giới hạn cho phép đối với hướng đi từ thử nghiệm của bạn"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "thử nghiệm của bạn đã hoàn thành. Bạn có thể đóng cửa sổ bây giờ"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "Hoàn thành lắp đặt"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! Các hệ thống được cài đặt thành công."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Tới Admin / Interface giáo viên"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "Người dùng"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Tới Front End Interface / Sinh viên"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Truy cập trang web của chúng tôi"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "cho tài liệu hướng dẫn và hỗ trợ"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "Thống kê thi của tôi"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Tổng số thi Given"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "Exams vắng mặt"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Điểm cao nhất trong"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "Mở"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "Thất bại trong"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "Tỷ lệ trung bình"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "Đánh giá của bạn"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Tháng Hiệu suất khôn ngoan"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Thi Hiệu suất khôn ngoan"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "Trên"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11 /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11 /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "todays thi"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "Trên"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Đây là kỳ thi (s) có thể được thực hiện ngay bây giờ"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Không tìm thấy ngày nay Exams"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Một cái gì đó đã sai"
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Hiển thị"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "Số lượng vị trí"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137 /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "Về trước"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39 /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Hiển thị {:start} để {:current} của {:count} mục"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "Email xác thực"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Xin vui lòng nhập mã xác nhận trong hộp văn bản"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Re-Gửi Email xác nhận"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Xin vui lòng nhập Id Email trong Text Box mà bạn nhập vào thời điểm đăng ký"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12 /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "thi được mua"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14 /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "thi đã hết hạn"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Đây là kỳ thi (s) mà đã hết"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36 /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Không tìm thấy thi"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Cảm ơn bạn đã sử dụng các bài kiểm tra"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. Các hướng dẫn kiểm tra là"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "Phần lớn rõ ràng"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "vừa rõ ràng"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Không rõ ràng"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. Ngôn ngữ của câu hỏi là"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. kinh nghiệm kiểm tra chung là"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "Tốt"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "Tốt hơn"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "Tốt"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Bất kỳ đề nghị phản hồi khác"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Hãy đóng tất cả các cửa sổ chat của bạn, bảo vệ màn hình, và chống virus chương trình trước khi bắt đầu thử nghiệm của bạn"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Xin đừng nhấn \\ \"F5 \" trong thử nghiệm của bạn. Điều này sẽ hoàn thành bài kiểm tra của bạn và bạn sẽ không thể mở lại các thử nghiệm"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Phản hồi của bạn sẽ được lưu lại. Nếu thử nghiệm của bạn bị ngắt kết nối vì lý do nào, câu trả lời của bạn cho đến thời điểm đó sẽ được lưu"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Hãy đóng tất cả các chương trình tải lên hoặc tải file ở chế độ nền Ví dụ: Dropbox, torrent, vv"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "chỉ lệnh."
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Tôi đã sẵn sàng để bắt đầu"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "Bắt đầu thi"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Thi này được trả. Số tiền sẽ được khấu trừ vào ví của bạn tự động. Sau khi bắt đầu kỳ thi giờ sẽ không dừng lại. Bạn có muốn trả tiền và bắt đầu?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Đây là kỳ thi (s) đã được mua"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "Marks đúng"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Lưu & Tiếp theo"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Chưa xem xét"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "Đánh giá"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "Đặt lại trả lời"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Hoàn thành"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Câu hỏi hiện tại"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "Trả lời"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "KHÔNG TRẢ LỜI"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "lái Xa"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "bạn đã hướng khỏi các cửa sổ kiểm tra. Điều này sẽ được báo cáo với quản lí"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Đừng lặp lại hành vi này"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "Nếu không, bạn có thể nhận được bị loại"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "Hoàn thành"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Bạn có muốn gửi và đóng"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Sau khi bạn gửi, bạn sẽ không thể xem lại"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Tóm tắt các nỗ lực của bạn trong này"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "như hiển thị dưới đây"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "Đã cố gắng"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Return To Câu hỏi đầu tiên"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Đây là kỳ thi (s) đang lên kế hoạch bạn trong tương lai gần"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "cố Bây giờ"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Hiệu suất của bạn so với nhóm của bạn"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "Không thể đọc được? Nạp lại"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Nhập mã bảo vệ ở trên"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Trả lời bài toán đơn giản"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "Những nỗ lực"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "còn lại"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Ngày hết hiệu lực"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "Ngày hết hạn"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Miễn phí"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "không Mua"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Xem chi tiết"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "tải biên tập"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9 /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "lắp đặt"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Bước 1 / 3"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Server Configuration & cài đặt Yêu cầu"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Yêu cầu thiết lập"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Cài đặt phần mềm này yêu cầu mở rộng phía máy chủ nhất định và khả năng"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "xin vui lòng kiểm tra dưới đây và so sánh với các máy chủ tượng hiện tại của bạn trên bên phải. Bạn có thể nhấp vào biểu tượng bên cạnh mỗi công nghệ để biết chi tiết."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Phần mở rộng & amp; Các ứng dụng"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP Server. Ví dụ: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "Yêu cầu"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 hoặc cao hơn"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "Database Engine MySQL (4 hoặc cao hơn)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "PDO mở rộng"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Extension"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "Bắt buộc"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "Tình trạng máy chủ"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "Máy chủ web"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL Version"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PDO Không có sẵn"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "PDO sẵn"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Availiable"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Directory & amp; file Permission"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Những thư mục của tập tin cần phải được"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "Ghi được:"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "cho các ứng dụng được cài đặt."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Thư mục hoặc tập tin"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "ứng dụng / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "app / config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "app / config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "HÃY BẮT ĐẦU!"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Bước 2/2"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "Hiệp định cài đặt"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Tôi chấp nhận để Tiến"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Bước 1 / 3"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Cài đặt kết nối cơ sở dữ liệu"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "Tên máy chủ"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "Thông thường Localhost"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "Tên cơ sở dữ liệu"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "Cơ sở dữ liệu tài"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Cơ sở dữ liệu Tên tài khoản"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "Cơ sở dữ liệu Mật khẩu"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "Cơ sở dữ liệu User Password"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "Loại cơ sở dữ liệu"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "Kiểm tra kết nối"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Bước 1 / 3"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Tên của Website của bạn"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "meta từ khóa"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Hữu ích cho SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Nội dung Meta cho SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Vui lòng chọn múi giờ"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Tên của tổ chức của bạn / Công ty"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Mặc Email quản trị"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Cài đặt dữ liệu mẫu Với Dummy Entries"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr " Cài đặt"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Chào mừng bạn đến với"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "Set Avatar"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Thoát"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "theo trên facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Tin tức mới nhất & Sự kiện"
+
+#: /View/Layouts/default.ctp:348 /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "Thời gian"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "Tải về PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Tỷ lệ trung bình (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "Với kỳ thi"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "xóa vĩnh viễn"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Di chuyển vào thùng rác"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "Chi tiết tin tức"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "Số lượt truy cập"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "Không Học Sinh"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "Không có các kỳ thi"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Thanh toán Từ Pay Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Trả Từ Pay Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9 /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Hồ sơ "
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10 /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Chỉnh Sửa Hồ Sơ"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "New Student Register"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Mã bảo mật"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "Câu trả lời"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "Kết quả của tôi"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "cố gắng ngày"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "SCORE CARD"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "BÁO CÁO ĐỀ"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "QUẢN LÝ THỜI GIAN"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "BÁO CÁO CÂU HỎI"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "Giải pháp"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "BÁO CÁO SO SÁNH"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Điểm Thẻ Đối"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Tổng số Học Sinh"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "Marks của tôi"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Tổng số nhãn hiệu của thử nghiệm"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "Trăm My"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Tổng số câu hỏi trong thử nghiệm"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Tổng số câu hỏi Attempt Test"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "Câu hỏi còn lại"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Left Câu hỏi Marks"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Tổng thời của Test"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "Thời gian của tôi"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "Rank của tôi"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Báo cáo hiệu suất Đối với"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Câu hỏi & Báo cáo khôn ngoan Marks Đối"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Chủ đề Báo cáo Đối với"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "Chính xác"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Câu hỏi Unattempted"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Báo cáo đồ họa Đối với"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Quản lý thời gian Đối với"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Câu hỏi Báo cáo Đối với"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "Tình trạng Câu hỏi"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "câu trả lời của bạn"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Số điểm của bạn"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "Thời gian của bạn"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "giải pháp Đối với"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "không Cố"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "thử"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "Sai"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "Câu trả lời của bạn"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "Giải pháp"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "Đánh dấu"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "So sánh Báo cáo Đối với"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Tổng số Ques."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "Marks tối đa"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Ques cố gắng."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Ques Unattempted."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Ques đúng."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Ques không chính xác."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "trăm"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "Trước"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Điều này là để xác nhận rằng"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "đã thành công hoàn thành"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "trong khóa học chương trình được cung cấp bởi"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "sinh viên đăng nhập"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Quên Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Người dùng mới? Tạo tài khoản"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Động cơ không tải"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf cơ \\ \" %s \" không tìm thấy"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "động cơ Pdf phải mở rộng \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Crypto là không tải"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf mật \\ \" %s \" không tìm thấy"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "động cơ Crypto phải mở rộng \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "thuộc tính điều khiển $ pdfConfig là không chính xác hoặc thiếu"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Kiểm tra: url"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Tổng số yêu cầu thực hiện:: yêu cầu"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Tổng thời gian trôi qua:: Thời gian (giây)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Các yêu cầu / Second:: RPS req / giây"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "thời gian yêu cầu trung bình:: Trung bình thời gian giây"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Độ lệch chuẩn của thời gian yêu cầu trung bình:: std-dev"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Longest / yêu cầu ngắn nhất:: dài nhất sec /: ngắn giây"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Cho phép bạn để có được một số điểm chuẩn thô statisticsabout một URL đầy đủ."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "Các URL để yêu cầu."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Số lần lặp lại để thực hiện."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "tổng thời gian tối đa cho tất cả các lần lặp lại, trong seconds.If một sự lặp lại đơn mất nhiều hơn thời gian chờ, chỉ có một yêu cầu sẽ được thực hiện"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Ví dụ sử dụng: `bánh chuẩn --n 10 --t 100 http: // localhost / testsite`. <Info> Lưu ý: </ info> điểm chuẩn này không bao gồm trình duyệt thời gian render."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "khởi kiện"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "hành động điều khiển"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "bắt đầu hành động điều khiển"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "nhà nước thanh công cụ xử lý"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "dữ liệu trên thanh công cụ xử lý"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Bộ điều khiển làm cho khởi đầu"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Không thể tải DebugToolbar bảng %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Xử lý Core (Xuất phát từ $ _SERVER [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Tiêu đề đã gửi trong %s trên dòng %s . Không thể gửi dữ liệu đăng nhập để FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "đếm không chính xác thông số cho FireCake :: fb ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Số lượng tối đa (99.999) của thư đó đến!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Không có tấm hoạt động. Bạn phải bật bảng để xem đầu ra của nó."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "App hằng"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP hằng"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP Môi trường"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "HiDef Môi trường"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "Lịch sử yêu cầu"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Không có yêu cầu trước đó đăng nhập."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "yêu cầu trước đó có sẵn"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Restore để yêu cầu hiện tại"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "Hồ sơ bao gồm"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "Ghi Log"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Không có mục đăng nhập yêu cầu điều này"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "Yêu cầu"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Không có dữ liệu bài."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Không có dữ liệu chuỗi truy vấn."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "Route hiện tại"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "Phiên làm việc"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "sql Logs"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Không có truy vấn bản ghi khi debug <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Không có truy vấn bản ghi."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Tổng thời: %s ms <br /> Tổng số truy vấn: %s truy vấn"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Truy vấn Giải thích:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Nhấn vào một \\ \"Giải thích \" liên kết ở trên, để xem lời giải thích truy vấn."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Không có kết nối cơ sở dữ liệu hoạt động"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Đỉnh Sử dụng bộ nhớ"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "sử dụng bộ nhớ"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "Timers"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "Tin nhắn"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Tổng số Thời gian yêu cầu:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Thời gian trong ms"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "Đồ thị(hình vẽ)"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Xem biến"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "Rendering Xem"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Rendering %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Xem làm cho hoàn chỉnh"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "giải thích"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Bắt đầu từ %s ms vào yêu cầu, dùng %s ms"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "Không có lỗi đánh dấu tìm thấy"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "có lẽ chậm"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "đường dẫn tuyệt đối hoặc tương đối so với APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "Đã xảy ra lỗi trong khi nhận được trạng thái tài khoản của bạn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Có lỗi trong khi kết nối với Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Có một vấn đề bắt đầu giao dịch, xin vui lòng thử lại."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Có một vấn đề nhận được thông tin chi tiết, vui lòng thử lại."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Có lỗi khi hoàn tất việc thanh toán"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Có một vấn đề xử lý giao dịch, xin vui lòng thử lại."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Có lỗi khi xử lý thanh toán thẻ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Có một vấn đề khi xử lý thẻ của bạn, xin vui lòng thử lại."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Có lỗi khi xử lý hoàn trả"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "Một vấn đề xảy ra trong quá trình hoàn trả tiền, xin vui lòng thử lại."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Có một vấn đề giao tiếp với các cổng thanh toán"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "Thiếu id khách hàng / bí mật"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Phải ghi rõ ngày hết hạn"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Phải bao gồm M và Y trong thời hạn sử dụng"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "thời hạn sử dụng không hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "Số thẻ không hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "số CVV2 không hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Loại thẻ không hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "Không thể phát hiện địa chỉ IP của khách hàng"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Không phải là một số thẻ tín dụng hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Quý vị phải ghi số an 3 chữ số"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Phải chỉ định \\ \"số tiền \" để sạc"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Bạn phải vượt qua một mảng trật tự hợp lệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Hợp lệ \\ \"trở lại \" và \\ \"hủy \" url phải được cung cấp"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Bạn phải cung cấp một mã tiền tệ"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "ID giao dịch PayPal gốc là cần thiết"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Phải chỉ định \\ \"số tiền \" để hoàn trả"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Bạn phải chỉ định một loại hoàn, chẳng hạn như đầy đủ hoặc một phần"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "Tập tin đã được tải xuống."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Không có %s tìm thấy cho rằng phạm vi ngày"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "mẫu dữ liệu của bạn được bảo quản bạn sẽ được chuyển hướng tới nó sau khi đăng nhập."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Thông báo lỗi từ %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Albania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Algeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "Andorra"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Angola"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "Antarctica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Antigua và Barbuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Argentina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "Armenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Aruba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "Ôt-xtrây-lia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Áo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Barbados"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Belarus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "Bỉ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "Belize"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Benin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Butan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia và Herzegovina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Botswana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "Đảo Bouvet"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Brazil"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "Lãnh thổ Ấn Độ Dương thuộc Anh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Bun-ga-ri"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Burundi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Cam-pu-chia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "Canada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Quần đảo Cayman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Cộng hoà Trung Phi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Chad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Chile"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "Trung Quốc"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Colombia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Comoros"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Congo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Congo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "Cook Islands"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Cote D'Ivoire"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Croatia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Cuba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Cộng hòa Séc"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "Cộng hòa Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Ai Cập"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Estonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falkland Islands (Malvinas)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Faroe Islands"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Fiji"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Phần Lan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "Pháp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "Guiana thuộc Pháp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Polynesia thuộc Pháp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "Vùng đất phía Nam và Châu Nam Cực thuộc Pháp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Gabon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Gambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Đức"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "Ghana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "Hy Lạp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Greenland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Grenada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Guam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Haiti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Đảo Heard và Quần đảo McDonald"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatican City State)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Honduras"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Hồng Kông"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Hungary"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Iceland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "Ấn Độ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "In-đô-nê-xia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Iran"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Iraq"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "Ai len"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Israel"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "Ý"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "Nhật Bản"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Jordan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Kenya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "CHDCND Triều Tiên"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Hàn Quốc"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Cộng hòa dân chủ nhân dân Lào"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "Latvia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Li băng"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Liberia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libyan Arab Jamahiriya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Macao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Macedonia, Cộng hòa Nam Tư cũ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Ma-lai-xia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Maldives"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Mali"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "Malta"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Quần đảo Marshall"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Martinique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Mexico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Cộng Hòa Moldova"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Monaco"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "Mông Cổ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Ma-rốc"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "My-an-ma"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Namibia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "Nauru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "Nepal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "Netherlands Antilles"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "Niu Di-lân"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "Niger"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "Đảo Norfolk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Quần đảo Bắc Mariana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "Na Uy"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Oman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Lãnh thổ Palestine"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Panama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Peru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Philipin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "Ba Lan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Qatar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "Sum họp"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Ru-ma-ni"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "Liên bang Nga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre và Miquelon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent và Grenadines"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "San Marino"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome & Principe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Ả Rập Xêút"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "Senegal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Serbia và Montenegro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Xinh-ga-po"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "Slovenian"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Quần Đảo Solomon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Somalia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "Nam Phi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Quần đảo Nam Georgia và Nam Sandwich"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Sudan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Suriname"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard và Jan Mayen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Thụy Điển"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Syria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Đài Loan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Tanzania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "Thái Lan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Đông Timor"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "Togo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad và Tobago"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Quần đảo Turks và Caicos"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "Uganda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "Các tiểu vương quốc Ả rập thống nhất (UAE)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Anh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "Việt Nam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Quần đảo Virgin, Anh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Quần đảo Virgin, hệ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Wallis và Futuna"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Yemen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Zambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Không hợp lệ đối # 1: %s không phải là một giá trị %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s cho Row %d không cứu."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Bạn cần phải xác định ít nhất một lĩnh vực được tắt bật."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Trường %s không có trong danh sách các trường tắt bật."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Trường %s không có hai trạng thái tắt bật được xác định."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "kỷ lục không hợp lệ"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235 /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Máy chủ lipsum.com trả về mã lỗi %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255 /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Phản hồi từ lipsum.com rỗng hoặc không thể được giải mã."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290 /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Kết nối đến máy chủ lipsum.com thất bại. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Xin vui lòng sửa các lỗi bên dưới."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21 /View/Errors/missing_controller.ctp:21 /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "Lỗi"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Địa chỉ yêu cầu %s was not found on this server."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Một lỗi đã xảy ra."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "cấu hình nguồn dữ liệu đã không được tìm thấy"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: phát triển nhanh chóng php framework"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "thiết lập gỡ lỗi không cho phép truy cập vào địa chỉ này."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Thêm mới thi"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Start & End ngày"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "Chứng nhận hoàn thành"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Nhấn vào đây để tải về định dạng file excel"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "Bạn có chắc chắn, bạn muốn đóng kỳ thi này?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "Bạn có chắc chắn, bạn muốn kích hoạt lại kỳ thi này?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: /Menu Name
+msgid "Results"
+msgstr "Kết quả"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "cấu hình"
+
+#: /Menu Name
+msgid "General"
+msgstr "Chung"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "Nội dung"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "Email và tin nhắn SMS"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Dịch vụ hỗ trợ khách hàng"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "Kiến thức cơ sở (đối với tài liệu)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Diễn đàn (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Live Chat (Đối với Sales & Thanh toán Chỉ)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Hỗ trợ (Đối với hỗ trợ kỹ thuật)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Truy cập trang web của chúng tôi"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "cho tài liệu nhiều hơn và chi tiết"

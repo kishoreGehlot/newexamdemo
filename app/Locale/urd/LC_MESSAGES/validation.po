@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-03-05 18:39+0530\n"
+"PO-Revision-Date: 2016-04-27 16:47+0530\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team:  <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Language: ur\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "اجازت صرف حروف اور اعداد"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "گروپ پہلے سے ہی موجود"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "صرف یو آر ایل"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "فائل چڑھانے کی ایک درست استعمال نہیں ہوئے"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "آپ JPG، GIF یا PNG فائل کی فراہمی ضروری ہے."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "غلط ہیڈر رابطہ کریں"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "صرف حروف"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "کرنسی کا نام پہلے سے موجود"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "آپ کو فراہم کرنا ضروری تصویر کی اونچائی 50px سے بھی کم ہے"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "آپ کی تصویر کی چوڑائی کی فراہمی ضروری 50px سے بھی کم ہے"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "صرف نمبرز کی اجازت"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "صرف تاریخ / وقت کی شکل"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "ایک درست ای میل درج کریں"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "براہ مہربانی منتخب کریں"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "غلط صارف نام"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "غلط پاسورڈ"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "غلط دستخط"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "صرف اعداد"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "آپ کی تصویر کی اونچائی کی فراہمی ضروری 220px سے کم ہے"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "یہ ای میل پہلے موجود ہی نہیں گیا ہے! نئی ایک کی کوشش کریں"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "پاس ورڈ درکار"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "پاس ورڈ کم از کم 4 کردار طویل"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "نام پہلے سے موجود"

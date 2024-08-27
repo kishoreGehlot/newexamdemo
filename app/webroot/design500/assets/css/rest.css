@@ -1,0 +1,66 @@
+.page-title-breadcrumb {
+    padding: 10px 20px;
+    background: rgba(255, 255, 255, 0.55);
+    -webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.05), 0 0px 0 rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 0px rgba(0, 0, 0, 0.05), 0 0px 0 rgba(0, 0, 0, 0.05);
+    height: 70px;
+}
+
+.page-title-breadcrumb .page-header {
+    margin: 0;
+    padding: 0;
+    border-bottom: 0;
+}
+
+.page-title-breadcrumb .page-header .page-title {
+    font-size: 25px;
+    font-weight: 300;
+    display: inline-block;
+    padding-top: 5px;
+}
+
+.page-title-breadcrumb .page-header .page-subtitle {
+    font-size: 14px;
+    font-weight: 300;
+    color: #bcbcbc;
+    display: inline-block;
+}
+
+.page-title-breadcrumb .breadcrumb {
+    float: right;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+    background: transparent;
+    padding-top: 17px;
+    margin-left: 10px;
+}
+
+.page-title-breadcrumb .breadcrumb li + li:before {
+    content: "";
+    padding: 0;
+}
+
+.page-title-breadcrumb .charts-inline {
+    padding-top: 4px;
+    list-style: none;
+}
+
+.page-title-breadcrumb .charts-inline .chart-title {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.page-title-breadcrumb .charts-inline .sparkbar {
+    font-size: 25px;
+    vertical-align: bottom;
+}
+
+.page-title-breadcrumb .charts-inline .sparkbar canvas {
+    vertical-align: baseline !important;
+}
+
+.page-title-breadcrumb .view-code-wrapper {
+    margin-top: 14px;
+}

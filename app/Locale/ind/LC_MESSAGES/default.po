@@ -1,0 +1,5498 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 14:04+0530\n"
+"PO-Revision-Date: 2016-04-27 13:13+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: id\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "Berkas Manajer"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Anda dapat menemukan hasil Anda di sini."
+
+#: /Controller/AjaxcontentsController.php:44 /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Terima kasih untuk diberikan ujian."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: /Controller/AppController.php:190 /Plugin/Admin/View/Configurations/index.ctp:121 /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "Papan Peringkat"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5 /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5 /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "Ujian saya"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "Hasil saya"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "Kinerja kelompok"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "Pembayaran"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20 /Plugin/Admin/View/Students/trnhistory.ctp:1 /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "sejarah transaksi"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19 /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "· Kotak pesan anda"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112 /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Bantua"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Beranda"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "Daftar"
+
+#: /Controller/AppController.php:200 /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Masuk"
+
+#: /Controller/ContentsController.php:7;13 /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497 /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60 /Controller/ResultsController.php:283;307 /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149 /Plugin/Admin/Controller/AttemptedpapersController.php:122;151 /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122 /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583 /Plugin/Admin/Controller/MailsController.php:148
+#: /Plugin/Admin/Controller/QuestionsController.php:244;262 /Plugin/Admin/Controller/ResultsController.php:77;155 /Plugin/Admin/Controller/SlidesController.php:126;132;145;151
+#: /Plugin/Admin/Controller/SmstemplatesController.php:42;76 /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315 /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "valid Posting"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Jan"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "Feb"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "Mar"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "Apr"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "Mei"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "Jun"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Jul"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Agt"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "Sep"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Okt"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "Nov"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Des"
+
+#: /Controller/DashboardsController.php:62;106 /Controller/GroupperformancesController.php:39 /Plugin/Admin/Controller/ResultsController.php:131 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21 /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30 /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "Persentase"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "Bulan"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "ujian"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "Email berhasil diverifikasi"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Kode verifikasi tidak benar"
+
+#: /Controller/EmailverificationsController.php:109 /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "Verifikasi Kode kirim ke inbox email Anda atau Spam"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "Id Email sudah diverifikasi"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "Id email tidak terdaftar dalam sistem"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Anda telah mencoba ujian maksimal."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Anda telah mencoba jumlah maksimum pertanyaan dalam hal ini"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Anda dapat menemukan hasil Anda di sini"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Jumlah cukup."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. instruksi tes yang "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. Bahasa pertanyaan adalah "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. Secara keseluruhan pengalaman tes itu "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Saran masukan lain: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Umpan balik telah berhasil dikirim!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Umpan balik sudah dikirimkan."
+
+#: /Controller/ForgotsController.php:17 /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "Email id tidak terdaftar dalam sistem"
+
+#: /Controller/ForgotsController.php:69 /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Link reset password Anda akan dikirim ke terdaftar email id Anda"
+
+#: /Controller/ForgotsController.php:91 /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "Kode salah"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88 /Plugin/Admin/Controller/ForgotsController.php:121 /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Sandi Berubah Berhasil"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "Kinerja saya"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "Kinerja Grup saya"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Aplikasi sudah terpasang. Menghapus aplikasi / tmp / installed.txt untuk menginstal ulang aplikasi"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "ditulisi"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Sayangnya! File Izin Kesalahan <br> Silahkan goto app / Config / database.php dalam mode ditulis."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "Sambungan berhasil didirikan dengan server."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Tidak dapat terhubung ke database. Silakan periksa pengaturan dalam app / Config / database.php dan coba lagi"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Sayangnya! Folder Izin Kesalahan <br> Silakan folder tmp dalam mode ditulis."
+
+#: /Controller/MailsController.php:83 /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Mail Anda telah dikirim"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "pesan diteruskan"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129 /Plugin/Admin/View/Dashboards/index.ctp:69 /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Dari"
+
+#: /Controller/MailsController.php:109 /Plugin/Admin/Controller/MailsController.php:130 /Plugin/Admin/View/Addquestions/index.ctp:20;53 /Plugin/Admin/View/Exams/add.ctp:239 /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23 /Plugin/Admin/View/Mails/compose.ctp:42;44 /Plugin/Admin/View/Questions/add.ctp:132 /Plugin/Admin/View/Questions/edit.ctp:146
+#: /Plugin/Admin/View/Questions/index.ctp:23;51 /Plugin/Admin/View/Questions/view.ctp:47 /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39 /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "Perihal"
+
+#: /Controller/MailsController.php:153 /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "surat telah dipindahkan ke Sampah"
+
+#: /Controller/MailsController.php:183 /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Mail Anda telah dihapus"
+
+#: /Controller/MailsController.php:209 /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "surat telah dipindahkan ke Kotak Masuk"
+
+#: /Controller/MailsController.php:236 /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "surat telah ditandai sebagai Baca"
+
+#: /Controller/MailsController.php:240 /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "surat telah ditandai sebagai belum dibaca"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal Pembayaran tidak diatur"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "Pembayaran Batal"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "dompet Pembayaran"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Coba lagi! tidak dapat terhubung ke paypal"
+
+#: /Controller/PaymentsController.php:79 /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "Jumlah tidak valid"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Pembayaran sudah dilakukan"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Pembayaran tidak dilakukan"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Pembayaran berhasil! Jumlah %s ditambahkan dalam dompet Anda "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Profil Updated Berhasil"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Foto Updated Berhasil"
+
+#: /Controller/ProfilesController.php:93 /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "kata sandi salah"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Silakan pilih setiap kelompok"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Kode Keamanan tidak valid"
+
+#: /Controller/ResultsController.php:133;178 /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "Skor"
+
+#: /Controller/ResultsController.php:142;188 /Plugin/Admin/Controller/ResultsController.php:239 /Plugin/Admin/View/Results/index.ctp:40;126 /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7 /View/Results/attemptedpapers.ctp:17
+#: /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Max Marks"
+
+#: /Controller/ResultsController.php:143;187 /Plugin/Admin/Controller/ResultsController.php:238 /Plugin/Admin/View/Results/index.ctp:41;127 /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8 /View/Results/attemptedpapers.ctp:15
+#: /View/Results/index.ctp:29 /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "Marks Mencetak"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Subjek Wise Waktu Diambil"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "Kinerja mahasiswa"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "Pertanyaan yang benar"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "Pertanyaan yang salah"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "Marks tepat"
+
+#: /Controller/ResultsController.php:195 /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19 /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "Marks negatif"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Persentase (%) di Ujian"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Persentase(%)"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "Pertama"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "Kedua"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "rd"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "no.78."
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Anda %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Topper %s"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422 /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "Administrator"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "Gerbang pembayaran"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "Ujian bayar"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Akun Anda telah kedaluwarsa. Silahkan hubungi administrator"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Anda telah login berhasil"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Email Anda tidak diverifikasi! Silahkan klik pada link yang dikirim ke email anda atau spam"
+
+#: /Controller/UsersController.php:58 /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "nama yang salah / password"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Anda telah keluar berhasil"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Anda %s Anggota! Silahkan hubungi administrator"
+
+#: /Controller/Component/CustomFunctionComponent.php:14 /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "Jam"
+
+#: /Controller/Component/CustomFunctionComponent.php:20 /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "menit"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28 /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "detik"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "131 Jumlah Keseluruhan"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Pertanyaan Anda telah ditambahkan untuk ujian"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Pertanyaan Anda telah dihapus untuk ujian"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "Tidak ada izin"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Iklan telah disimpan"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63 /Plugin/Admin/Controller/ContentsController.php:62;73 /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64 /Plugin/Admin/Controller/ExamsController.php:128;141 /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63 /Plugin/Admin/Controller/MenunamesController.php:32;43 /Plugin/Admin/Controller/NewsController.php:52;63
+#: /Plugin/Admin/Controller/QtypesController.php:32;43 /Plugin/Admin/Controller/QuestionsController.php:122;129 /Plugin/Admin/Controller/SlidesController.php:61;72
+#: /Plugin/Admin/Controller/SmstemplatesController.php:51;62 /Plugin/Admin/Controller/StudentsController.php:133;146;365 /Plugin/Admin/Controller/SubjectsController.php:106;121
+#: /Plugin/Admin/Controller/TestimonialsController.php:52;63 /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "posting yang tidak valid"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Iklan telah dihapus"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160 /Plugin/Admin/Controller/SlidesController.php:162 /Plugin/Admin/Controller/StudentsController.php:326
+#: /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Foto Berubah Berhasil"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85 /Plugin/Admin/View/Results/result.ctp:235 /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211 /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "tidak Mencoba"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "Marks Diperbarui"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "berhasil Selesaikan"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Ujian berhasil Tertutup"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Inggris"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "Prancis"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139 /Plugin/Admin/Controller/EmailsettingsController.php:24 /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Pengaturan Anda telah disimpan"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Halaman Ditambahkan Berhasil"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Halaman diperbarui Berhasil"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Halaman telah dihapus"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Halaman telah dipublikasikan"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Halaman telah Diterbitkan"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159 /Plugin/Admin/Controller/SignaturesController.php:43 /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "Ada yang salah?"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Mata uang telah disimpan"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Mata uang telah dihapus"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "Detail mahasiswa"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "Aktif"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103 /Plugin/Admin/View/Attemptedpapers/index.ctp:43 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "Menunggu keputusan"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "Menangguhkan"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115 /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "Lulus"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116 /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "Gagal"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117 /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "Tidak hadir"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135 /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "Peserta"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158 /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Melewati %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159 /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Rata-rata %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "pertanyaan Hitungan"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226 /Plugin/Admin/View/Dashboards/index.ctp:172 /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "total Pertanyaan"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Pertanyaan Bank Kesulitan Wise"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "gampang saja."
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "Sedang"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "Keras"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51 /Plugin/Admin/Controller/MenunamesController.php:51 /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "Nama telah diperbarui"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "Template email telah disimpan"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "Template email telah dihapus"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Tanggal Akhir tidak kurang dari Tanggal mulai"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160 /Plugin/Admin/Controller/QuestionsController.php:81;152 /Plugin/Admin/Controller/StudentsController.php:157 /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Silakan Pilih setiap kelompok"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Silakan Tambahkan Subjek Untuk Ujian"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Ujian telah disimpan. Tambahkan pertanyaan dalam ujian"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Ujian telah disimpan"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Ujian telah diperbarui"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Ujian telah dihapus"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303 /Plugin/Admin/View/Addquestions/index.ctp:26 /Plugin/Admin/View/Exams/add.ctp:213;264 /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158 /Plugin/Admin/View/Questions/edit.ctp:173 /Plugin/Admin/View/Questions/index.ctp:29 /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "Tingkat kesulitan"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Subjek Wise Pertanyaan Hitungan"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Ujian berhasil dilemahkan"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Ujian berhasil diaktifkan"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Ada ada pertanyaan ditambahkan!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Nama pengguna akan dikirim ke terdaftar email id Anda"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Kelompok Ditambahkan Berhasil"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Grup telah disimpan"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Grup telah dihapus"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Hapus subjek pertama"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "konten bantuan telah disimpan"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "konten bantuan telah dihapus"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Pertanyaan berhasil diimpor"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49 /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "File tidak upload"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55 /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Hanya CSV file yang didukung"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61 /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Silakan Pilih Jurusan"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Silakan Pilih Grup"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Siswa yang berhasil diimpor"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Silakan Pilih Grup"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Mahasiswa Email tidak ditemukan"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Berita telah disimpan"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Berita telah dihapus"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Paypal Pengaturan Pembayaran telah disimpan"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "pengaturan masalah"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Silakan Pilih jawaban yang benar"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Silakan pilih benar atau salah"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Silahkan mengisi ruang kosong"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Pertanyaan ditambahkan ke bank berhasil"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Pertanyaan telah diperbarui"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Pertanyaan telah dihapus"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231 /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "Hapus ujian pertama!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Pertanyaan Tingkat Kesulitan"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Kinerja"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Calon Marks Distribusi"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks Distribusi"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27 /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Silakan pilih jenis dalam daftar"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Ketik email apapun"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "Email telah dikirim"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Tidak ada email untuk mengirim"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Ketik nama apapun"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "Sms telah dikirim"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Tidak ada sms untuk mengirim"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Signature telah disimpan"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "Signature telah dihapus"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Slide telah disimpan"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Slide telah dihapus"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "SMS Template telah disimpan"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "SMS Template telah dihapus"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Mahasiswa menambahkan Berhasil"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117 /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Silakan Pilih minimal satu kelompok"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Mahasiswa telah diperbarui"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Mahasiswa telah dihapus"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Mahasiswa Wallet telah diperbarui"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Subjek Ditambahkan Berhasil"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Subjek sudah ada"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Subjek telah diperbarui"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Subjek telah dihapus"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Testimonial telah disimpan"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Testimonial telah diperbarui"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Testimonial telah dihapus"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Pengguna Ditambahkan Berhasil"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Pengguna telah diperbarui"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Pengguna telah dihapus"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "pembaruan izin berhasil"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Anda telah login Berhasil"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Anda telah keluar"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Tingkat Pengguna telah disimpan"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "Tingkat pengguna telah dihapus"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo telah disimpan"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo telah dihapus"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10 /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Tambahkan Pertanyaan"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23 /Plugin/Admin/View/Exams/add.ctp:212;257 /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49 /Plugin/Admin/View/Questions/index.ctp:26 /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "Jenis Pertanyaan"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29 /Plugin/Admin/View/Questions/index.ctp:32 /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Pencarian"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:33 /Plugin/Admin/View/Sendemails/index.ctp:128 /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Kembalikan"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Add To Ujian"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Hapus Untuk Ujian"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38 /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Kembali Untuk Ujian"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52 /Plugin/Admin/View/Contents/pages.ctp:31 /Plugin/Admin/View/Currencies/index.ctp:31 /Plugin/Admin/View/Diffs/index.ctp:30
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:32 /Plugin/Admin/View/Groups/index.ctp:31 /Plugin/Admin/View/Helpcontents/index.ctp:32 /Plugin/Admin/View/Menunames/index.ctp:30 /Plugin/Admin/View/News/index.ctp:32
+#: /Plugin/Admin/View/Qtypes/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:49 /Plugin/Admin/View/Results/index.ctp:122 /Plugin/Admin/View/Slides/index.ctp:31 /Plugin/Admin/View/Smstemplates/index.ctp:32
+#: /Plugin/Admin/View/Students/index.ctp:34 /Plugin/Admin/View/Students/trnhistory.ctp:18 /Plugin/Admin/View/Subjects/index.ctp:31 /Plugin/Admin/View/Testimonials/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:18 /Plugin/Admin/View/Users/index.ctp:32 /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54 /Plugin/Admin/View/Sendemails/index.ctp:84 /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10 /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "Jenis"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "Tubuh Pertanyaan"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56 /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "Tingkat"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57 /Plugin/Admin/View/Attemptedpapers/index.ctp:163 /Plugin/Admin/View/Dashboards/index.ctp:30 /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161 /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84 /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "Nilai"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58 /Plugin/Admin/View/Advertisements/index.ctp:35;47 /Plugin/Admin/View/Contents/pages.ctp:36;50 /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32 /Plugin/Admin/View/Emailtemplates/index.ctp:35;46 /Plugin/Admin/View/Groups/index.ctp:33;43 /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35 /Plugin/Admin/View/News/index.ctp:35;46 /Plugin/Admin/View/Qtypes/index.ctp:32 /Plugin/Admin/View/Questions/index.ctp:53;65 /Plugin/Admin/View/Results/index.ctp:44;130
+#: /Plugin/Admin/View/Slides/index.ctp:35;47 /Plugin/Admin/View/Smstemplates/index.ctp:36;48 /Plugin/Admin/View/Students/index.ctp:41;57 /Plugin/Admin/View/Students/wallet.ctp:41
+#: /Plugin/Admin/View/Subjects/index.ctp:35;47 /Plugin/Admin/View/Testimonials/index.ctp:37;54 /Plugin/Admin/View/Users/assignrights.ctp:19;28 /Plugin/Admin/View/Users/index.ctp:40;57
+#: /View/Helper/FunctionHelper.php:110 /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Tindakan"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Tambahkan Iklan"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8 /Plugin/Admin/View/Advertisements/edit.ctp:11;13 /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Iklan Nama"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14 /Plugin/Admin/View/Advertisements/edit.ctp:17;19 /Plugin/Admin/View/Advertisements/index.ctp:33 /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31 /Plugin/Admin/View/Menunames/index.ctp:34 /Plugin/Admin/View/Slides/add.ctp:14;16 /Plugin/Admin/View/Slides/edit.ctp:18;20 /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "Pemesanan"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20 /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24 /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "Jenis URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "Internal"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "Eksternal"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30 /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "URL Sasaran"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "_diri"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "_kosong"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Unggah Gambar"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43 /Plugin/Admin/View/Contents/add.ctp:71 /Plugin/Admin/View/Currencies/add.ctp:28 /Plugin/Admin/View/Emailtemplates/add.ctp:19 /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26 /Plugin/Admin/View/Groups/add.ctp:13 /Plugin/Admin/View/Helpcontents/add.ctp:20 /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16 /Plugin/Admin/View/Smstemplates/add.ctp:20 /Plugin/Admin/View/Students/add.ctp:63 /Plugin/Admin/View/Subjects/add.ctp:19 /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14 /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Simpan"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44 /Plugin/Admin/View/Advertisements/changephoto.ctp:21 /Plugin/Admin/View/Contents/add.ctp:72 /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:29 /Plugin/Admin/View/Emailtemplates/add.ctp:20 /Plugin/Admin/View/Emailtemplates/edit.ctp:45 /Plugin/Admin/View/Exams/add.ctp:222;274
+#: /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14 /Plugin/Admin/View/Groups/edit.ctp:29 /Plugin/Admin/View/Helpcontents/add.ctp:21 /Plugin/Admin/View/Helpcontents/edit.ctp:42
+#: /Plugin/Admin/View/Mails/compose.ctp:56 /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21 /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29
+#: /Plugin/Admin/View/Questions/add.ctp:164 /Plugin/Admin/View/Questions/edit.ctp:181 /Plugin/Admin/View/Slides/add.ctp:29 /Plugin/Admin/View/Slides/changephoto.ctp:21 /Plugin/Admin/View/Slides/edit.ctp:43
+#: /Plugin/Admin/View/Smstemplates/add.ctp:21 /Plugin/Admin/View/Smstemplates/edit.ctp:46 /Plugin/Admin/View/Students/add.ctp:64 /Plugin/Admin/View/Students/changepass.ctp:40
+#: /Plugin/Admin/View/Students/changephoto.ctp:22 /Plugin/Admin/View/Students/edit.ctp:88 /Plugin/Admin/View/Students/wallet.ctp:65 /Plugin/Admin/View/Subjects/add.ctp:20 /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29 /Plugin/Admin/View/Testimonials/changephoto.ctp:21 /Plugin/Admin/View/Testimonials/edit.ctp:47 /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79
+#: /Plugin/Admin/View/Users/leveladd.ctp:15 /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36 /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Dekat"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3 /Plugin/Admin/View/Slides/changephoto.ctp:3 /Plugin/Admin/View/Students/changephoto.ctp:4 /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3 /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "Foto pembaruan"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7 /Plugin/Admin/View/Students/add.ctp:56 /Plugin/Admin/View/Students/changephoto.ctp:8 /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Upload Foto"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19 /Plugin/Admin/View/Advertisements/edit.ctp:57 /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43 /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27 /Plugin/Admin/View/Helpcontents/edit.ctp:40 /Plugin/Admin/View/Menunames/edit.ctp:45
+#: /Plugin/Admin/View/News/edit.ctp:40 /Plugin/Admin/View/Qtypes/edit.ctp:27 /Plugin/Admin/View/Questions/edit.ctp:179 /Plugin/Admin/View/Slides/add.ctp:27 /Plugin/Admin/View/Slides/changephoto.ctp:19
+#: /Plugin/Admin/View/Slides/edit.ctp:41 /Plugin/Admin/View/Smstemplates/edit.ctp:44 /Plugin/Admin/View/Students/changepass.ctp:38 /Plugin/Admin/View/Students/changephoto.ctp:20
+#: /Plugin/Admin/View/Students/edit.ctp:86 /Plugin/Admin/View/Students/wallet.ctp:63 /Plugin/Admin/View/Subjects/edit.ctp:37 /Plugin/Admin/View/Testimonials/changephoto.ctp:19
+#: /Plugin/Admin/View/Testimonials/edit.ctp:45 /Plugin/Admin/View/Users/assignrightsedit.ctp:36 /Plugin/Admin/View/Users/change_pass.ctp:39 /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58
+#: /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Perbarui"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20 /Plugin/Admin/View/Advertisements/edit.ctp:58 /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44 /Plugin/Admin/View/Exams/edit.ctp:154 /Plugin/Admin/View/Exams/maxquestion.ctp:27 /Plugin/Admin/View/Groups/edit.ctp:28 /Plugin/Admin/View/Helpcontents/edit.ctp:41
+#: /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41 /Plugin/Admin/View/Qtypes/edit.ctp:28 /Plugin/Admin/View/Questions/edit.ctp:180 /Plugin/Admin/View/Slides/add.ctp:28
+#: /Plugin/Admin/View/Slides/changephoto.ctp:20 /Plugin/Admin/View/Slides/edit.ctp:42 /Plugin/Admin/View/Smstemplates/edit.ctp:45 /Plugin/Admin/View/Students/changepass.ctp:39
+#: /Plugin/Admin/View/Students/changephoto.ctp:21 /Plugin/Admin/View/Students/edit.ctp:87 /Plugin/Admin/View/Students/wallet.ctp:64 /Plugin/Admin/View/Subjects/edit.ctp:38
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:20 /Plugin/Admin/View/Testimonials/edit.ctp:46 /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "mengedit Iklan"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8 /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8 /Plugin/Admin/View/Emailtemplates/edit.ctp:8 /Plugin/Admin/View/Exams/edit.ctp:30
+#: /Plugin/Admin/View/Groups/edit.ctp:8 /Plugin/Admin/View/Helpcontents/edit.ctp:9 /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9 /Plugin/Admin/View/Qtypes/edit.ctp:8
+#: /Plugin/Admin/View/Slides/edit.ctp:9 /Plugin/Admin/View/Smstemplates/edit.ctp:9 /Plugin/Admin/View/Students/edit.ctp:13 /Plugin/Admin/View/Subjects/edit.ctp:8 /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "- form"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41 /Plugin/Admin/View/Advertisements/index.ctp:34 /Plugin/Admin/View/Emailtemplates/edit.ctp:23 /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24 /Plugin/Admin/View/Helpcontents/index.ctp:34 /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34 /Plugin/Admin/View/Slides/edit.ctp:24
+#: /Plugin/Admin/View/Slides/index.ctp:34 /Plugin/Admin/View/Smstemplates/edit.ctp:24 /Plugin/Admin/View/Smstemplates/index.ctp:35 /Plugin/Admin/View/Students/add.ctp:50 /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40 /Plugin/Admin/View/Testimonials/edit.ctp:28 /Plugin/Admin/View/Testimonials/index.ctp:35 /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "Status"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "iklan"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Tambahkan New Iklan"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52 /Plugin/Admin/View/Contents/pages.ctp:16;53 /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50 /Plugin/Admin/View/Groups/index.ctp:16;46 /Plugin/Admin/View/Helpcontents/index.ctp:16;49 /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47 /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:16;41 /Plugin/Admin/View/Questions/index.ctp:69
+#: /Plugin/Admin/View/Slides/index.ctp:16;52 /Plugin/Admin/View/Smstemplates/index.ctp:17;51 /Plugin/Admin/View/Students/index.ctp:16;62 /Plugin/Admin/View/Subjects/index.ctp:16;51
+#: /Plugin/Admin/View/Testimonials/index.ctp:16;58 /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Sunting"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53 /Plugin/Admin/View/Contents/pages.ctp:17;54 /Plugin/Admin/View/Currencies/index.ctp:16;50 /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47 /Plugin/Admin/View/Helpcontents/index.ctp:17;50 /Plugin/Admin/View/News/index.ctp:17;50 /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53 /Plugin/Admin/View/Smstemplates/index.ctp:18;52 /Plugin/Admin/View/Students/index.ctp:17;63 /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59 /Plugin/Admin/View/Users/assignrights.ctp:8;32 /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Hapus"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50 /Plugin/Admin/View/Emailtemplates/index.ctp:49 /Plugin/Admin/View/Questions/index.ctp:68 /Plugin/Admin/View/Slides/index.ctp:50
+#: /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "Tampilan"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51 /Plugin/Admin/View/Slides/index.ctp:51 /Plugin/Admin/View/Testimonials/index.ctp:57 /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "rubah foto"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6 /Plugin/Admin/View/Slides/view.ctp:3 /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Lihat Slide"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Makalah percobaan"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34 /Plugin/Admin/View/Diffs/edit.ctp:11;13 /Plugin/Admin/View/Diffs/index.ctp:31 /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13 /Plugin/Admin/View/Emailtemplates/index.ctp:33 /Plugin/Admin/View/Emailtemplates/view.ctp:8 /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31 /Plugin/Admin/View/Smstemplates/add.ctp:7;9 /Plugin/Admin/View/Smstemplates/edit.ctp:12;14 /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18 /Plugin/Admin/View/Students/edit.ctp:31;33 /Plugin/Admin/View/Students/index.ctp:36 /Plugin/Admin/View/Students/wallet.ctp:17 /Plugin/Admin/View/Testimonials/add.ctp:9;11
+#: /Plugin/Admin/View/Testimonials/edit.ctp:16;18 /Plugin/Admin/View/Testimonials/index.ctp:33 /Plugin/Admin/View/Users/add.ctp:30;32 /Plugin/Admin/View/Users/edit.ctp:41;43 /Plugin/Admin/View/Users/index.ctp:35
+#: /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8 /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13 /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22
+#: /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Nama"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36 /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5 /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5 /Plugin/Admin/View/Students/add.ctp:6;8 /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35 /Plugin/Admin/View/Students/trnhistory.ctp:19 /Plugin/Admin/View/Students/wallet.ctp:11 /Plugin/Admin/View/Users/add.ctp:36;38 /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36 /Plugin/Admin/View/Users/my_profile.ctp:15 /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12 /View/Registers/index.ctp:10;12
+#: /View/Results/pdf/certificate.ctp:10 /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "E-mail"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40 /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "Jumlah Nilai"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "Marks diperoleh"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "hasil Diselesaikan"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "finalisasi Ini"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "bERLALU"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "gagal"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "diselesaikan By"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "pertanyaan Tidak ada"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78 /Plugin/Admin/View/Questions/add.ctp:63;78 /Plugin/Admin/View/Questions/edit.ctp:74;88;89 /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84 /Plugin/Admin/View/Questions/add.ctp:64;82 /Plugin/Admin/View/Questions/edit.ctp:75;92;93 /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90 /Plugin/Admin/View/Questions/add.ctp:65;86 /Plugin/Admin/View/Questions/edit.ctp:76;96;97 /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96 /Plugin/Admin/View/Questions/add.ctp:66;90 /Plugin/Admin/View/Questions/edit.ctp:77;100;101 /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102 /Plugin/Admin/View/Questions/add.ctp:67;94 /Plugin/Admin/View/Questions/edit.ctp:78;104;105 /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108 /Plugin/Admin/View/Questions/add.ctp:68;98 /Plugin/Admin/View/Questions/edit.ctp:79;108;109 /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "sebuah pilihan."
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158 /Plugin/Admin/View/Results/result.ctp:175 /Plugin/Admin/View/Results/stdexamresult.ctp:161 /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "ditandai Jawaban"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159 /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Jawaban yang benar"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162 /Plugin/Admin/View/Results/result.ctp:25;103;179 /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165 /View/Results/attemptedpapers.ctp:18
+#: /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "waktu Diambil"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "Nilai Diperoleh"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Diperiksa oleh"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "Sistem"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "Pilihan konfigurasi"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8 /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Nama situs:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12 /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "Nama Organisasi"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18 /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Nama domain:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22 /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "organisasi Email"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "meta Judul"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32 /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "Deskripsi meta"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36 /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Zona Waktu: GMT +2; CET +1, dan EST (AS-Timur) +7"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85 /Plugin/Admin/View/Iequestions/index.ctp:25 /Plugin/Admin/View/Questions/add.ctp:134;158 /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116 /Plugin/Admin/View/Sendsms/index.ctp:93;117 /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "Silahkan pilih"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40 /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "433 Mata Uang"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "Header kontak"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "email kontak"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "catatan tampilan per halaman"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Max mencatat per halaman"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "Format tanggal"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Tanggal, Bulan, Tahun, Jam, Min, Sec, Meridian, tanggal seprator, Waktu seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Gambar"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Teks"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "Arah teks"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Kiri ke kanan (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Kanan-ke-kiri (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Bahasa"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Aktifkan SMS Notifikasi"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Aktifkan Email Pemberitahuan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "Verifikasi pengguna"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Pendaftaran Front End"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Front End Slide"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117 /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101 /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "dibayar Ujian"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "Editor matematika"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "ujian kadaluarsa"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "ujian Masukan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Tolrance Hitungan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "Sertifikat"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "surat keterangan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "iklan"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "Jumlah Pengunjung"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "Jumlah Mahasiswa"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "Jumlah Ujian"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174 /Plugin/Admin/View/Emailsettings/index.ctp:43 /Plugin/Admin/View/Payments/index.ctp:31 /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Tambahkan Pages"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28 /Plugin/Admin/View/Contents/edit.ctp:32;34 /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "Link Nama"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32 /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "Link Orde"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36 /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "halaman Type"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44 /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "Url eksternal"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46 /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "url Sasaran"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55 /Plugin/Admin/View/Contents/pages.ctp:33 /Plugin/Admin/View/Menunames/edit.ctp:17;19 /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "halaman Nama"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59 /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "halaman Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65 /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "Konten halaman"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "mengedit Pages"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "Halaman"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Tambahkan Halaman Baru"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "tidak diterbitkan"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Tambahkan Mata uang"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11 /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "mata Uang Nama"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17 /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Short name"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Upload Mata (Kurang atau sama dengan 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Add New Currency"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "Dalam Progress Ujian"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13 /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13 /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "Ujian yang akan datang"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "Ujian selesai"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18 /Plugin/Admin/View/Sendemails/index.ctp:86;90 /Plugin/Admin/View/Sendsms/index.ctp:93;97 /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "Peserta"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "Dalam Progress & Ujian Mendatang"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Tanggal"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28 /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8 /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "ujian Nama"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122 /Plugin/Admin/View/Iequestions/index.ctp:17 /Plugin/Admin/View/Iestudents/index.ctp:17 /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99 /Plugin/Admin/View/Students/add.ctp:10 /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12 /Plugin/Admin/View/Users/edit.ctp:19
+#: /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "Grup"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31 /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "Durasi"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Hasil Ujian Terbaru"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61 /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "Ujian"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62 /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "Hasil keseluruhan"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63 /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "Statistik siswa"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70 /Plugin/Admin/View/Exams/stats.ctp:16 /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "untuk"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71 /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "Rincian"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Top 10 Grup Pelajar Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Mahasiswa Statistik Tabel"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "Peserta TOTAL"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "total Aktif"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "total Tertunda"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "total Suspended"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Pertanyaan Bank Subjek Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Tingkat Kesulitan Pertanyaan"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Pertanyaan Hitungan Tabel"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "NAMA BANK :"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "total Mudah"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Jumlah normal"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "total Sulit"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "diffculty Tingkat"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "Pengaturan Email"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "Email"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "localhost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Server Nama / Host"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "Port"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33 /Plugin/Admin/View/Payments/index.ctp:6;8 /Plugin/Admin/View/Smssettings/index.ctp:17;19 /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Nama peserta"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37 /Plugin/Admin/View/Forgots/reset.ctp:20 /Plugin/Admin/View/Payments/index.ctp:12;14 /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22 /Plugin/Admin/View/Students/changepass.ctp:20;22 /Plugin/Admin/View/Users/add.ctp:24;26 /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37 /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47 /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47 /View/Registers/index.ctp:24;26
+#: /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "Kata sandi"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Tambahkan Template Email"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14 /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19 /Plugin/Admin/View/Emailtemplates/view.ctp:3 /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "Template email"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Template mengedit Email"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "Template email"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Tambahkan Template Email Baru"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12 /Plugin/Admin/View/Smstemplates/add.ctp:13;15 /Plugin/Admin/View/Smstemplates/edit.ctp:18;20 /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "Templat \\000"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Subjek Ditambahkan berhasil"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Tambahkan Ujian"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92 /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Nama Ujian"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96 /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "Persentase Kelulusan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102 /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "INSTRUKSI"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Ujian Durasi (Min.)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 untuk durasi terbatas"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "upaya Hitungan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 untuk upaya terbatas"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60 /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20 /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67 /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22 /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "Tanggal Berakhir"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76 /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Tampilkan Lembar Jawaban"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "Ya"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Tidak"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80 /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "Pilih Group"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "Kelompok mahasiswa"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90 /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "negatif Menandai"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "pertanyaan acak"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161 /Plugin/Admin/View/Exams/edit.ctp:106;108 /Plugin/Admin/View/Exams/view.ctp:40 /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "Amount: $1.000.000."
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "Browser Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136 /Plugin/Admin/View/Students/add.ctp:46 /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "berakhirnya Hari"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138 /Plugin/Admin/View/Exams/maxquestion.ctp:16 /Plugin/Admin/View/Students/add.ctp:48 /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 untuk tak terbatas"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114 /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Hasil Setelah Selesai"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "Mode"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124 /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "Hasil instan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128 /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "pilihan Shuffle"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Tambahkan Subyek Untuk Ujian"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209 /Plugin/Admin/View/Subjects/add.ctp:12;14 /Plugin/Admin/View/Subjects/edit.ctp:21;23 /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Nama subjek"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247 /Plugin/Admin/View/Results/result.ctp:100 /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "No Pertanyaan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Ques Mencoba Hitungan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251 /Plugin/Admin/View/Exams/maxquestion.ctp:9 /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Pertanyaan Mencoba Hitungan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Biarkan kosong untuk tidak menampilkan (0 untuk unlimited)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "ctrl + klik untuk menambahkan kelipatan"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Menambahkan"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "mengedit Ujian"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "Statistik ujian"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Tidak ada Mahasiswa Lulus"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Unduh"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Tidak ada Mahasiswa Gagal"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Tidak ada Mahasiswa Absen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "Detail ujian"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "Hasil finalisasi"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "Makalah berusaha"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "Kelompok yang memenuhi syarat"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Tutup Ujian"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "Aktifkan Ujian"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Ujian Tertutup Re-Aktifkan Ujian"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "Browser Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "kadaluwarsa"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "Tak terbatas"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "Hari"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "Subyektif"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Tujuan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Benar & amp; Salah"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Mengisi kekosongan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "total Pertanyaan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Pertanyaan Mencoba Hitungan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "Jm"
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "Total"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "E"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr ".M"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3
+#: /View/Results/index.ctp:26 /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "S.No."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4 /Plugin/Admin/View/Results/index.ctp:37;96;123 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "Nama Peserta"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "Pendaftaran"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7 /Plugin/Admin/View/Students/add.ctp:30;32 /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "Telepon"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9 /Plugin/Admin/View/Results/index.ctp:129 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "Status hasil"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2 /Plugin/Admin/View/Forgots/username.ctp:13 /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Lupa Kata Sandi"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5 /Plugin/Admin/View/Forgots/username.ctp:5 /Plugin/Admin/View/Results/result.ctp:13 /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "email ID"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9 /Plugin/Admin/View/Forgots/presetcode.ctp:9 /Plugin/Admin/View/Forgots/reset.ctp:29 /Plugin/Admin/View/Forgots/username.ctp:9 /View/Emailverifications/index.ctp:17
+#: /View/Emailverifications/resend.ctp:17 /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17 /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39 /View/Installers/step1.ctp:82
+#: /View/Profiles/change_photo.ctp:33 /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Kirim"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12 /Plugin/Admin/View/Forgots/presetcode.ctp:12 /Plugin/Admin/View/Forgots/reset.ctp:32 /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "Lupa nama pengguna"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13 /Plugin/Admin/View/Forgots/presetcode.ctp:13 /Plugin/Admin/View/Forgots/reset.ctp:33 /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Log in"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2 /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "Kode verifikasi"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Masukkan Kode verifikasi"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Setel ulang kata sandi"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24 /Plugin/Admin/View/Students/changepass.ctp:26;28 /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33 /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "Konfirmasi Kata Sandi"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Tambahkan Grup"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8 /Plugin/Admin/View/Groups/edit.ctp:11;13 /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "Nama Grup"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "mengedit Grup"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:128 /Plugin/Admin/View/Questions/edit.ctp:142 /Plugin/Admin/View/Students/index.ctp:38 /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33 /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "Grup : "
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "728 Tambah Grup Baru"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Tambahkan Bantuan Konten"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9 /Plugin/Admin/View/Helpcontents/edit.ctp:12;14 /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Judul"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15 /Plugin/Admin/View/Helpcontents/edit.ctp:18;20 /Plugin/Admin/View/Results/result.ctp:174 /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17 /Plugin/Admin/View/Testimonials/edit.ctp:22;24 /Plugin/Admin/View/Testimonials/index.ctp:34 /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "Rincian"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Mengedit Bantuan Konten"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "Bantuan Konten"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Tambahkan Baru Bantuan Konten"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Impor / Ekspor Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Kembali Untuk Pertanyaan"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "ekspor Pertanyaan"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11 /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Pilih file"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "impor Pertanyaan"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1 /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Siswa Impor / Ekspor"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Kembali Untuk Siswa"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "Siswa ekspor"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "impor Siswa"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "semua Pesan"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111 /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133 /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "Profil saya"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113 /Plugin/Admin/View/Students/changepass.ctp:16 /Plugin/Admin/View/Students/view.ctp:11 /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12 /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Ganti password"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Keluar"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353 /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "Dipersembahkan oleh"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190 /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Tanggal & amp; Waktu"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "Susun Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Cari Mahasiswa Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25 /Plugin/DebugKit/View/Elements/log_panel.ctp:27 /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Pesan"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55 /Plugin/Admin/View/Sendemails/index.ctp:127 /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Kirim"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "Tulis"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "Kotak Masuk"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Email terkirim"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "Tempat Sampah"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Lainnya"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Tandai sudah dibaca"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Tandai belum dibaca"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Pindah ke Inbox"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "Balasan"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "Meneruskan"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "menu Nama"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13 /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "Nama model"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25 /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "Icon"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Tambahkan Berita"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14 /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Berita Judul"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "news Description"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "mengedit Berita"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Berita"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Tambahkan Baru Berita"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Opsi Pembayaran Paypal"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Tanda Tangan"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "Mode Sandbox"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26 /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "True"
+msgstr "Benar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43 /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "TAMBAH PERTANYAAN"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73 /Plugin/Admin/View/Questions/edit.ctp:73;84;85 /Plugin/Admin/View/Questions/index.ctp:50 /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "Pertanyaan"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69 /Plugin/Admin/View/Questions/edit.ctp:80 /Plugin/Admin/View/Results/result.ctp:177 /Plugin/Admin/View/Results/stdexamresult.ctp:163 /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "Jawaban yang benar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Ketik pertanyaan Anda di sini"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107 /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "Benar Salah"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "False"
+msgstr "Salah"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121 /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "Ruang kosong"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Penjelasan (pilihan)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Memberikan penjelasan dalam mendukung jawaban yang benar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140 /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Petunjuk (opsional)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Petunjuk untuk membantu menjawab dengan benar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153 /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "tanpa tanda minus"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Mengedit Pertanyaan Type"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135 /Plugin/Admin/View/Questions/view.ctp:97 /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "Penjelasan"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154 /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Petunjuk"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "Pertanyaan"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Tambahkan Baru Pertanyaan"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Impor / Ekspor Pertanyaan"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "Jawab"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "Detail pertanyaan"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "ujian Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Silakan Pilih Ujian"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "Status Hasil"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Silakan Pilih Status Hasil"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "Download Hasil"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12 /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "Pangkat"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "tes"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "Persen"
+
+#: /Plugin/Admin/View/Results/index.ctp:43 /Plugin/Admin/View/Results/result.ctp:37 /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31 /View/Results/view.ctp:89
+msgid "Result"
+msgstr "Hasi"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Lihat Hasil"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Download / Print Hasil"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "Mahasiswa Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Nama atau Pendaftaran Nomor"
+
+#: /Plugin/Admin/View/Results/index.ctp:98 /Plugin/Admin/View/Students/add.ctp:40;42 /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "Nomor Pendaftaran"
+
+#: /Plugin/Admin/View/Results/index.ctp:115 /Plugin/Admin/View/Results/result.ctp:1;244 /Plugin/Admin/View/Students/trnhistory.ctp:5 /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "Bagian Belakang"
+
+#: /Plugin/Admin/View/Results/result.ctp:7 /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Laporan Assesment untuk"
+
+#: /Plugin/Admin/View/Results/result.ctp:17 /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "diambil Tanggal"
+
+#: /Plugin/Admin/View/Results/result.ctp:29 /Plugin/Admin/View/Results/stdexamresult.ctp:24 /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "total Waktu"
+
+#: /Plugin/Admin/View/Results/result.ctp:33 /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. Dari Browser tolrance upaya"
+
+#: /Plugin/Admin/View/Results/result.ctp:48 /Plugin/Admin/View/Results/stdexamresult.ctp:43 /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "Skor total"
+
+#: /Plugin/Admin/View/Results/result.ctp:61 /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Mahasiswa Marks Distribusi"
+
+#: /Plugin/Admin/View/Results/result.ctp:77 /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Saran"
+
+#: /Plugin/Admin/View/Results/result.ctp:91 /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Marks Lembar"
+
+#: /Plugin/Admin/View/Results/result.ctp:98 /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "bagian Nama"
+
+#: /Plugin/Admin/View/Results/result.ctp:99 /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "proporsi bagian"
+
+#: /Plugin/Admin/View/Results/result.ctp:101 /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "Aktual"
+
+#: /Plugin/Admin/View/Results/result.ctp:102 /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "Persentase Anda"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137 /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "bagian Ringkasan"
+
+#: /Plugin/Admin/View/Results/result.ctp:144 /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "Skor maksimum"
+
+#: /Plugin/Admin/View/Results/result.ctp:148 /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "Keterampilan maju"
+
+#: /Plugin/Admin/View/Results/result.ctp:152 /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "kebutuhan Pembangunan"
+
+#: /Plugin/Admin/View/Results/result.ctp:156 /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Kurangnya Keterampilan"
+
+#: /Plugin/Admin/View/Results/result.ctp:167 /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ menjawab"
+
+#: /Plugin/Admin/View/Results/result.ctp:173 /Plugin/Admin/View/Results/stdexamresult.ctp:159 /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "SN"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "Legenda:"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "Mengirim email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96 /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "Guru-guru"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "setiap Email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "Standar semua siswa jika Anda menambahkan secara manual kemudian cari email mahasiswa"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Standar semua guru jika Anda menambahkan secara manual kemudian cari email guru"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Ketik setiap koma email seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "subjek Jenis"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Pilih Template Email"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "Jika Anda tidak ingin memilih template email maka cukup ketik pesan email. Setelah Anda memuat editor maka Anda tidak dapat memilih template pergi ke tombol ulang"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "Kirim SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "Apa Sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "Standar semua siswa jika Anda menambahkan secara manual kemudian cari nama siswa"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Standar semua guru jika Anda menambahkan secara manual kemudian mencari nama guru"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "setiap Nomor"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Ketik sejumlah koma seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Pilih Sms Template"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "Template sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "Jika Anda tidak ingin memilih sms Template maka cukup ketik pesan sms"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "sertifikat Tanda Tangan"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Unggah Gambar (* tinggi kurang dari 75px)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "Hapus Signature"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Tambahkan Slides"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10 /Plugin/Admin/View/Slides/edit.ctp:12;14 /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Slide Nama"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20 /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Upload Slide (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "mengedit Slide"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "Slide"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Tambah Slide Baru"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "Pengaturan SMS"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "API Tautan"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "ID pengirim"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "menuju Nama"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Field username yang disediakan oleh sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "pos Sandi"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "bidang sandi yang disediakan oleh sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Menuju Ponsel Tidak"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Ponsel Tidak ada kolom yang disediakan oleh sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "menuju Pesan"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "kolom pesan yang diberikan oleh sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Menuju Id Pengirim"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "bidang Id pengirim disediakan oleh sms gateway"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Tambahkan Template SMS"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "template mengedit SMS"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "Template SMS"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Tambahkan Template Baru SMS"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Tambahkan Peserta"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28 /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "Alamat"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38 /Plugin/Admin/View/Students/edit.ctp:51;53 /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "wali Telepon"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "mengedit Siswa"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "Tanggal pembaruan"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Tambahkan Mahasiswa Baru"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "Dompet"
+
+#: /Plugin/Admin/View/Students/index.ctp:39 /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "Pendaftaran Tanggal"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20 /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "Piutang"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21 /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "Debet"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22 /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119 /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "Keseimbangan"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23 /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "Tanggal/jam"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24 /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "Pembayaran Melalui"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25 /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19 /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "Keterangan"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Informasi Mahasiswa View"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: /Plugin/Admin/View/Students/view.ctp:18 /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Nomor telepon"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "terdaftar Email"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "Jumlah alternatif"
+
+#: /Plugin/Admin/View/Students/view.ctp:34 /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "Pendaftaran ada"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "Login terakhir"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "Wallet siswa"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "Form transaksi"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23 /Plugin/Admin/View/Users/add.ctp:42;44 /Plugin/Admin/View/Users/edit.ctp:53;55 /Plugin/Admin/View/Users/index.ctp:37 /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "Seluler"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "9 Tambahkan"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "528 Peng"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Tambahkan Subyek"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "mengedit Subyek"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "subyek"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Tambahkan New Subjek"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "pertanyaan Bank"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Tambahkan Testimonial"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Upload Foto"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "mengedit Testimonial"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "Surat Pujian"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Tambahkan New Testimonial"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "FOTO"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Tambahkan Pengguna"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "4.2.2 User level (Tingkat Pengguna)"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20 /Plugin/Admin/View/Users/edit.ctp:29;31 /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "satria pasha"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "pengguna tingkat"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Tambahkan Tingkat Baru"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Kembali Untuk Pengguna"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "tingkat Nama"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "set Izin"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11 /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Menetapkan Hak Form"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Nama modul"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22 /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "Password lama"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "mengedit Pengguna"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Formulir Pendaftaran pengguna"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "Pengguna"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "1022 Tambah Pengguna Baru"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Tambahkan Tingkat Pengguna"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "tingkat Pengguna"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Sayang pengguna, log in untuk mengakses admin area!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Admin / Guru pengguna"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Lupa nama pengguna"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "Organisasi Logo"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Upload Gambar (* tinggi kurang dari 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "Hapus Logo"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Harap menyediakan jenis untuk grafik %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Grafik: \\ \" %s \" tidak dapat ditemukan. Pastikan Bagan Nama adalah string yang sama yang dilewatkan ke $ this-> HighCharts-> render () dalam pandangan Anda."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "Transaksi Ekspres Checkout telah berakhir dan transaksi perlu restart"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Anda mungkin telah membuat panggilan kedua untuk pembayaran yang sama atau Anda mungkin telah menggunakan ID faktur yang sama untuk transaksi terpisah."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Silahkan menggunakan sumber funcing yang berbeda."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "Terjadi kesalahan, coba lagi transaksi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Transaksi ini tidak dapat diselesaikan. Mengalihkan ke gateway pembayaran"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Anda belum menyetujui perjanjian penagihan."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Perjanjian penagihan dinonaktifkan atau tidak aktif."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "kartu kredit yang digunakan adalah kedaluwarsa."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Transaksi ditolak karena respon AVS kembali nilai N, dan merchant account tidak dapat menerima transaksi tersebut."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Account gateway pembayaran dibatasi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Anda harus mengirimkan alamat IP dari pembeli dengan masing-masing API panggilan."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "merchant yang dipilih nilai untuk bidang PaymentAction yang tidak didukung."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Bidang kartu kredit adalah kosong."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "Jumlah total dan barang dalam jumlah tidak cocok."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Kartu kredit yang dimasukkan dibatasi oleh gateway pembayaran."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "pedagang memasuki ID faktur yang sudah terkait dengan transaksi dengan merchant yang sama. Upaya dengan ID faktur baru"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Transaksi ditolak oleh filter negara yang dikelola oleh pedagang."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Transaksi ditolak oleh jumlah filter yang maksimal dikelola oleh pedagang."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Transaksi ditolak oleh gateway pembayaran."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Transaksi ditolak oleh gateway pembayaran karena kemungkinan aktivitas penipuan."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Transaksi ditolak oleh gateway pembayaran karena kemungkinan aktivitas penipuan pada alamat IP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "The merchant account mencoba transaksi tidak akun bisnis."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "The merchant account mencoba transaksi tidak dapat memproses transaksi langsung Pembayaran. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Akses ke Pembayaran Langsung dinonaktifkan untuk akun Anda."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "The merchant account mencoba transaksi tidak memiliki alamat email dikonfirmasi dengan gateway pembayaran."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "pedagang berusaha transaksi di mana jumlah yang melebihi batas atas untuk pedagang itu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Transaksi ditolak karena filter risiko pedagang untuk AVS. Secara khusus, pedagang telah menetapkan menurun transaksi ketika AVS kembali no match (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Transaksi ditolak karena filter risiko pedagang untuk AVS. Secara khusus, pedagang telah mengatur filter menurun transaksi ketika AVS mengembalikan pertandingan parsial."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Transaksi ditolak karena filter risiko pedagang untuk AVS. Secara khusus, pedagang telah mengatur filter menurun transaksi ketika AVS tidak didukung."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "pedagang memasukkan alamat IP yang dalam format yang tidak valid. Alamat IP harus dalam format seperti 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "Konfigurasi pedagang membutuhkan CVV untuk dimasukkan, tapi tidak ada CVV diberikan dengan transaksi ini."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "pedagang memberikan alamat baik di Amerika Serikat atau Kanada, tapi keadaan yang disediakan bukan negara yang valid di kedua negara."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Transaksi ditolak oleh bank penerbit, bukan gateway pembayaran. pedagang harus berusaha kartu lain."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "negara pedagang tinggal saat ini tidak didukung untuk memungkinkan transaksi Direct Payment."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid ""
+"The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick "
+"succession."
+msgstr "Transaksi ditolak karena gateway pembayaran saat memproses transaksi dengan pembeli yang sama untuk jumlah yang sama. Dapat terjadi bila pembeli mengajukan beberapa, transaksi yang identik secara berurutan."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "CVV yang disediakan adalah tidak valid. CVV adalah antara 3-4 digit."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Silakan coba lagi nanti. Pastikan Anda telah lulus CVV dan alamat yang benar info untuk pembeli. Jika membuat profil berulang, coba lagi dengan melewati sejumlah init 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Transaksi tidak sesuai karena 3-D nilai otentikasi aman yang hilang atau tidak valid. Periksa bidang ECI, ECI3DS, CAVV, XID."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Transaksi ditolak oleh gateway pembayaran karena kegagalan yang berlebihan selama periode waktu yang singkat untuk kartu kredit ini."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Transaksi ditolak oleh gateway pembayaran."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Transaksi ditolak karena pedagang tidak memiliki perjanjian entitas komersial berlaku pada file dengan gateway pembayaran."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Transaksi ditolak karena CVV yang dimasukkan tidak cocok dengan kartu kredit."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Transaksi ditolak oleh bank penerbit karena kartu kredit kedaluwarsa. pedagang harus berusaha kartu lain."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55 /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42 /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Melampaui batas yang diizinkan untuk Menjelajahi pergi"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Anda telah melebihi batas yang diizinkan untuk navigasi jauh dari pengujian Anda"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "pengujian Anda telah selesai. Anda dapat menutup jendela sekarang"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "Pemasangan selesai"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! Sistem tersebut berhasil diinstal."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Pergi ke Admin / Guru Antarmuka"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "Pengguna"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Pergi ke Front End / Mahasiswa Antarmuka"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Kunjungi situs web kami"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "untuk dokumentasi dan dukungan"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "Statistik Ujian saya"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Total Ujian Mengingat"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "Ujian absen"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Skor terbaik di"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "Di"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "gagal di"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "rata-rata Persentase"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "Rank"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Kinerja Bulan Wise"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Ujian Kinerja Wise"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "atas"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11 /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11 /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "todays Ujian"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "Teratas"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Ini adalah ujian (s) yang dapat diambil sekarang"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Tidak ada Ujian ditemukan untuk hari ini"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Ada sesuatu yang tidak beres."
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Tampilkan"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "Entries"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137 /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "Sebelumnya"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39 /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "Berikutnya"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Menampilkan {:start} ke {:current} dari {:count} entri"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "Verifikasi email"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Silahkan Masukkan Kode Verifikasi di Box Text"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Re-Kirim Email Verifikasi"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Silahkan Masukkan Id Email di Kotak Teks yang Anda masukkan pada saat pendaftaran"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12 /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "Ujian dibeli"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14 /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "Ujian kadaluarsa"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Ini adalah ujian (s) yang telah berakhir"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36 /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Tidak ada Ujian ditemukan"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Terima kasih telah menggunakan tes"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. instruksi tes yang"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "sebagian besar Batal"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "sedang Batal"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Tidak jelas"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. Bahasa pertanyaan adalah"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. Secara keseluruhan pengalaman tes itu"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "Baik"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "Lebih baik"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "Hormat kami,"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Setiap saran umpan balik lainnya"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Silakan tutup semua jendela chatting Anda, screen-saver, dan anti-virus program sebelum memulai tes Anda"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Jangan tekan \\ \"F5 \" selama tes Anda. Ini akan menyelesaikan tes Anda dan Anda tidak akan dapat membuka kembali tes"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Tanggapan Anda akan disimpan. Jika pengujian Anda terputus untuk alasan apapun, tanggapan Anda sampai titik yang akan disimpan"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Tutup semua program yang meng-upload atau men-download file di latar belakang Sebagai contoh: Dropbox, torrent, dll"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "petunjuk"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Saya siap untuk memulai"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "ujian Mulai"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Ujian ini dibayar. Jumlah harus dipotong di dompet Anda secara otomatis. Setelah memulai timer ujian tidak akan berhenti. Apakah Anda ingin membayar & memulai?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Ini adalah ujian (s) yang telah dibeli"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "Marks benar"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Simpan & Berikutnya"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Belum ditinjau"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "Ulasan"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "ulang Jawaban"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Selesai"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Pertanyaan saat ini"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "menjawab"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "Tidak Terjawab"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "navigasikan Jauh"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "Anda telah berlayar jauh dari jendela tes. Ini akan dilaporkan ke moderator"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Jangan ulangi perilaku ini"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "Jika tidak, Anda mungkin mendapatkan didiskualifikasi"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "Menyelesaikan"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Apakah Anda ingin mengirimkan dan menutup"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Setelah Anda mengirimkan, Anda tidak akan dapat meninjau"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Ringkasan dari upaya Anda dalam hal ini"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "seperti ditunjukkan di bawah"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "berusaha"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Kembali Untuk Pertama Pertanyaan"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Ini adalah ujian (s) yang direncanakan Anda dalam waktu dekat"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "mencoba Sekarang"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "kinerja Anda dibandingkan dengan kelompok Anda"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "tidak bisa baca? mengisi kembali"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Masukkan kode keamanan yang ditunjukkan di atas"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Jawaban matematika sederhana"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "10 upaya"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "sisa"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Tanggal kadaluarsa"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "Tanggal kadaluarsa"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Gratis"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "tidak Dibeli"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Melihat rincian"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "beban Editor"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9 /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "Instalasi"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Langkah 1 dari 4"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Konfigurasi Server & Pengaturan Persyaratan"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Persyaratan penyiapan"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Menginstal software ini memerlukan tertentu ekstensi sisi server dan kemampuan"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "silakan cek di bawah ini dan bandingkan dengan server yang patung Anda saat ini di sebelah kanan. Anda dapat mengklik ikon di samping setiap teknologi untuk rincian."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Ekstensi & amp; Aplikasi"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP Server. Sebagai contoh: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "Memerlukan"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 atau lebih besar"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "Database Engine MySQL (4 atau lebih)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "PDO Ekstensi"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Ekstensi"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "Wajib"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "Status Server"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "web Server"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP Versi"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL Versi"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PDO Tidak Tersedia"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "PDO Tersedia"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Availiable"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Direktori & amp; File Izin"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Folder tersebut File harus"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "ditulis"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "untuk aplikasi yang akan diinstal."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Folder atau File"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "app / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "app / Config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "app / Config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Menyegarkan"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "Ayo mulai"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Langkah 2 dari 4"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "Perjanjian instalasi"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Saya Setuju untuk Lanjutkan"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Langkah 3 dari 4"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Pengaturan Koneksi Database"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "Host Name"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "biasanya Localhost"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "Nama database"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "database Pengguna"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Database Nama Pengguna"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "database password"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "Database User Password"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "database Type"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "Tes koneksi"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Langkah 4 dari 4"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Nama Website Anda"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "meta Keyword"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Berguna untuk SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Meta Konten untuk SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Silakan Pilih Timezone"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Nama Organisasi Anda / Perusahaan"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Default Admin Email"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Instal Sample Data Dengan Dummy Entries"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "Instal"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Selamat Datang di"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "set Avatar"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Keluar"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Hak cipta"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "ikuti di facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Berita & Acara Terbaru"
+
+#: /View/Layouts/default.ctp:348 /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "Durasi"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "Download PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Rata-rata Persentase (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "ujian Mengingat"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "Hapus Selamanya"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Pindahkan ke Tempat Sampah"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "news Detail"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "Tidak ada Pengunjung"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "Jumlah Siswa"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "Tidak ada Ujian"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Pembayaran Dari Pay Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Bayar Dari Pay Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9 /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Profil"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10 /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Rubah Profil"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "Mahasiswa Baru Pendaftaran"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Kode keamanan"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "jawaban"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "Hasil saya"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "upaya Tanggal"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "SCORE CARD"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "LAPORAN SUBJECT"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "1. Manajemen waktu."
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "LAPORAN PERTANYAAN"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "Solusi"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "LAPORAN BANDINGKAN"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Skor Kartu Untuk"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Total Jumlah Mahasiswa"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "Tanda saya"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Total Marks Uji"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "Persentil saya"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Total Pertanyaan di Uji"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Jumlah Mencoba Pertanyaan di Uji"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "kiri Pertanyaan"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Kiri Pertanyaan Marks"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Total Waktu Uji"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "Waktuku"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "Ranking saya"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Laporan Kinerja Untuk"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Pertanyaan & Laporan Wise Marks Untuk"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Laporan subjek Untuk"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "Benar"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Pertanyaan Unattempted"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Laporan grafis Untuk"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Manajemen Waktu Untuk"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Pertanyaan Laporan Untuk"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "Status pertanyaan"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Jawabanmu."
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Nilai Anda"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "Waktumu"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "solusi Untuk"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "tidak Mencoba"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "Mencoba"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "Tidak benar"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "Jawaban anda"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "Solusi"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "penanda"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "Bandingkan Laporan Untuk"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Total Ques."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "Nilai maksimal"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Berusaha Ques."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Ques Unattempted."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Ques benar."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Ques salah."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "persentil"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Ini adalah untuk menyatakan bahwa"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "telah berhasil menyelesaikan"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "di program kursus yang ditawarkan oleh"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "Mahasiswa Login"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "Masuk"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Lupa Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Pengguna baru? Membuat akun"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Mesin tidak dimuat"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf mesin \\ \" %s \" tidak ditemukan"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "mesin pdf harus memperluas \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Crypto tidak dimuat"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf kripto \\ \" %s \" tidak ditemukan"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "mesin kripto harus memperluas \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "atribut kontroler $ pdfConfig tidak benar atau hilang"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Pengujian: url"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Total Permintaan dibuat:: permintaan"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Total Waktu berlalu:: durasi (detik)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Permintaan / Kedua:: rps req / sec"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "Rata-rata waktu permintaan:: rata-time detik"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Standar deviasi dari waktu permintaan rata-rata:: std-dev"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Terpanjang / permintaan terpendek:: sec terpanjang /: sec terpendek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Memungkinkan Anda untuk mendapatkan beberapa pembandingan kasar statisticsabout URL yang memenuhi syarat."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "URL untuk meminta."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Jumlah iterasi untuk melakukan."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "total waktu maksimum untuk semua iterasi, di detik.Jika iterasi tunggal memakan waktu lebih dari batas waktu, hanya satu permintaan akan dibuat"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Contoh Gunakan: `cake patokan --n 10 --t 100 http: // localhost / testsite`. <Info> Catatan: </ info> patokan ini tidak termasuk browser yang membuat kali."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "inisialisasi komponen"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "tindakan kontroler"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "tindakan kontroler awal"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "negara pengolahan toolbar"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "pengolahan data toolbar"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Kontroler membuat start"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Tidak dapat memuat DebugToolbar panel %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Inti Pengolahan (Berasal dari $ _SERVER [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Header sudah dikirim di %s on line %s . tidak dapat mengirim data log untuk FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "count salah parameter untuk FireCake :: fb ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Jumlah maksimum (99999) pesan mencapai!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Tidak ada panel aktif. Anda harus mengaktifkan panel untuk melihat output."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "App Konstanta"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP Konstanta"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP Lingkungan"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "HiDef Lingkungan"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "Permintaan Sejarah"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Tidak ada permintaan sebelumnya login."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "permintaan sebelumnya yang tersedia"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Kembalikan permintaan saat ini"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "termasuk File"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "Log"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Tidak ada entri log membuat permintaan ini"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "Request"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Tidak ada data posting."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Tidak ada data querystring."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "Route saat"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "sesi"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "SQL Log"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Tidak ada permintaan log ketika men-debug <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Tidak ada permintaan log."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Total Waktu: %s ms <br /> Jumlah Pertanyaan: %s query"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Permintaan Jelaskan:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Klik \\ \"Jelaskan \" link di atas, untuk melihat penjelasan query."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Tidak ada koneksi database aktif"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "Memori"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Memory puncak Gunakan"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "penggunaan memori"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "timer"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "SMS"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Total Request Time:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Waktu di ms"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "grafik"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Lihat Variabel"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "Rendering View"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Rendering %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Lihat render lengkap"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "jelaskan."
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Mulai %s ms ke permintaan, mengambil %s ms"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "Tidak ada kesalahan markup ditemukan"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "mungkin lambat"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "path absolut atau relatif terhadap APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "Terjadi kesalahan saat mendapatkan status akun Anda."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Ada kesalahan saat menghubungkan ke Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Ada masalah memulai transaksi, silahkan coba lagi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Ada masalah mendapatkan rincian Anda, coba lagi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Terjadi kesalahan menyelesaikan pembayaran"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Ada masalah saat memproses transaksi, silahkan coba lagi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Ada kesalahan saat memproses pembayaran kartu"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Ada masalah saat memproses kartu Anda, coba lagi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Terjadi kesalahan saat memproses pengembalian dana"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "Masalah terjadi selama proses pengembalian dana, silakan coba lagi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Ada masalah berkomunikasi dengan gateway pembayaran"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "klien id hilang / rahasia"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Harus menentukan tanggal kedaluwarsa"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Harus menyertakan M dan Y di tanggal kadaluwarsa"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "tanggal kadaluwarsa tidak valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "nomor kartu tidak valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "Nomor CVV2 tidak valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Jenis kartu tidak valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "tidak bisa mendeteksi alamat IP client"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Bukan nomor kartu kredit yang valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Anda harus menyertakan nomor jaminan 3 digit"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Harus menentukan \\ \"jumlah \" untuk mengisi"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Anda harus lulus array agar valid"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Hari \\ \"kembali \" dan \\ \"membatalkan \" url harus disediakan"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Anda harus memberikan kode mata uang"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "Asli PayPal ID Transaksi diperlukan"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Harus menentukan \\ \"jumlah \" untuk mengembalikan"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Anda harus menentukan jenis pengembalian dana, seperti penuh atau parsial"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "File tidak di-download."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Tidak ada %s ditemukan bahwa rentang tanggal"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "data formulir Anda yang diawetkan Anda akan diarahkan untuk itu setelah login."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Kesalahan pemberitahuan dari %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Albania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Aljeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "Samoa Amerika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "Andora"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Angola"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "Antartika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Antigua dan Barbuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Argentina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "Armenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Aruba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "Australia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Austria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Bahama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Barbados"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Belarusia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "Belgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "Belize"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Benin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia dan Herzegovina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Botswana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "Pulau Bouvet"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Brasilia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "Teritorial Inggris di Samudra Hindia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Burundi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Kambodia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "Kanada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Kepulauan Cayman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Republik Afrika Tengah"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Cad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Chili"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "Cina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "Pulau Christmas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Kepulauan Cocos (Keeling)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Komoro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Kongo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Kongo, Republik Demokratik"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "Kepulauan Cook"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Cote D'Ivoire"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Kroasia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Kuba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Syprus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Republik Cekoslovakia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Denmark"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Dominika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "Republik Dominika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Ekuador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Mesir"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Guinea Ekuatorial"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Estonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Kepulauan Falkland (Malvinas)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Kepulauan Faroe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Fiji"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Finlandia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "Perancis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "Guyana Prancis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Perancis Polinesia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "Teritorial Prancis di Selatan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Gabon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Gambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Jerman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "Ghana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "Yunani"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Greenland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Grenada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Guam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Haiti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Pulau Heard dan Kep. McDonald"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatican City State)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Honduras"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Hungaria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Islandia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "India"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Islamic Republic of"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Irak"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "Irlandia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Israel"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "Italia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "Jepang"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Yordan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Kenya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "Korea, Republik Rakyat Demokratik dari"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Republik Korea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "Kirgistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Republik Demokratik Rakyat Laos"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "Latvia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Liberia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libyan Arab Jamahiriya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Makao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Macedonia, Bekas Republik Yugoslavia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Maladewa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Mali"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "Malta"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Kepulauan Marshall"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Martinique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "Maurisius"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Meksiko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Mikronesia, Federasi Serikat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Moldova, Republic of"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Monako"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Maroko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Namibia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "Nauru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "Nepal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Belanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "Belanda Antilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "Kaledonia Baru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "Selandia Baru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "Niger"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "Pulau Norfolk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Kepulauan Mariana Utara"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "Norwegia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Oman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Wilayah Palestina, Diduduki"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Panama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Papua Nugini"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Peru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Filipina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "Polandia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Portugal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Puerto Riko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Qatar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "Reunion"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Rumania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "Federasi Rusia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Santa Kitts dan Nevis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Saint Lusia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre dan Miquelon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent dan Grenadine"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "San Marino"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome dan Principe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Arab Saudi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "Senegal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Serbia dan Montenegro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Singapura"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Slovaki"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Kepulauan Solomon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Somalia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "Afrika Selatan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Georgia Selatan dan Kep. Sandwich Selatan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "Spanyol"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Sudan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Suriname"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard dan Jan Mayen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Swedia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Swiss"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Republik Arab Syria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Taiwan, Provinsi China"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Republik Tanzania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "Thailand"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "Togo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad dan Tobago"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Turki"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Kepulauan Turks and Caicos"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "Uganda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "Uni Emirat Arab"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Inggris"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "Amerika Serikat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Kepulauan Virgin, Inggris"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Kepulauan Virgin (US)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Wallis dan Futuna"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Sahara Barat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Yaman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Zambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Valid argumen # 1: %s tidak valid %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s untuk Row %d gagal menyelamatkan."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Anda perlu mendefinisikan setidaknya satu bidang untuk menjadi toggleable."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Bidang %s tidak dalam daftar bidang toggleable."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Bidang %s tidak memiliki dua negara toggleable didefinisikan."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "record tidak valid"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235 /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Server lipsum.com mengembalikan kode kesalahan %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255 /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Respon dari lipsum.com kosong atau tidak bisa diterjemahkan."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290 /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Koneksi ke server lipsum.com gagal. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Silakan koreksi galat di bawah ini."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21 /View/Errors/missing_controller.ctp:21 /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "Kesalahan"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Meminta alamat %s tidak ditemukan di server ini."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Kesalahan internal telah terjadi."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "konfigurasi sumber data tidak ditemukan"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: kerangka pembangunan php cepat"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "pengaturan Debug tidak memungkinkan akses ke url ini."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Tambahkan Ujian New"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "570 Tidak Aktif"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Mulai & Akhir Tanggal"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "Sertifikasi Penyelesaian"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Klik di sini untuk men-download format file excel"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "Apakah Anda yakin, Anda ingin menutup ujian ini?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "Apakah Anda yakin, Anda ingin mengaktifkan kembali ujian ini?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "478 Tutup"
+
+#: /Menu Name
+msgid "Results"
+msgstr "Hasil"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "konfigurasi"
+
+#: /Menu Name
+msgid "General"
+msgstr "Umum"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "Daftar Isi"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "Email & SMS"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Layanan Dukungan Pelanggan"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "Basis pengetahuan (Dokumentasi)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Forum (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Live Chat (Untuk Sales & Billing Only)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Dukungan (Untuk Dukungan Teknis)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Kunjungi situs web kami"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "untuk lebih dokumentasi & Detail"

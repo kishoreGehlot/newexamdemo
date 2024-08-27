@@ -1,0 +1,5516 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 15:30+0530\n"
+"PO-Revision-Date: 2016-04-27 14:44+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: nb\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "Filbehandler"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Du kan finne resultatet her."
+
+#: /Controller/AjaxcontentsController.php:44 /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Takk for gitt eksamen."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Oversikt"
+
+#: /Controller/AppController.php:190 /Plugin/Admin/View/Configurations/index.ctp:121 /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "Leader Board"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5 /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5 /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "Mine eksamener"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "min Resultat"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "Grupperesultat"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "Betaling"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20 /Plugin/Admin/View/Students/trnhistory.ctp:1 /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "transaksjons~~POS=TRUNC"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19 /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "Postkasse"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112 /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Hjelp"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Hjem"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "Registrer"
+
+#: /Controller/AppController.php:200 /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Logg inn"
+
+#: /Controller/ContentsController.php:7;13 /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497 /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60 /Controller/ResultsController.php:283;307 /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149 /Plugin/Admin/Controller/AttemptedpapersController.php:122;151 /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122 /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583
+#: /Plugin/Admin/Controller/MailsController.php:148 /Plugin/Admin/Controller/QuestionsController.php:244;262 /Plugin/Admin/Controller/ResultsController.php:77;155
+#: /Plugin/Admin/Controller/SlidesController.php:126;132;145;151 /Plugin/Admin/Controller/SmstemplatesController.php:42;76 /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315
+#: /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "Ugyldig Post"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Jan 26 2009"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "Feb"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "2010 Mar 27."
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "Apr"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "Mai"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "Jun"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Jul"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Aug"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "Sep"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Okt"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "Nov"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Des"
+
+#: /Controller/DashboardsController.php:62;106 /Controller/GroupperformancesController.php:39 /Plugin/Admin/Controller/ResultsController.php:131 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21 /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30 /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "Prosentdel"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "Måned"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "eksamener"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "E-post verifisert"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Ugyldig bekreftelseskode"
+
+#: /Controller/EmailverificationsController.php:109 /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "En bekreftelseskode sende til innboksen din eller spam"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "E-post Id allerede bekreftet"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "E-post Id ikke registrert i systemet"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Du har forsøkt maksimal eksamen."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Du har forsøkt maksimalt antall spørsmål i dette emnet"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Du kan finne din resultatet her"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Utilstrekkelig mengde."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. Test Instruksjonene var "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. Språk på spørsmålet var "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. Samlet test erfaring var "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Enhver annen tilbakemelding forslag: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Tilbakemeldingene har sendtt!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Tilbakemelding allerede sendt."
+
+#: /Controller/ForgotsController.php:17 /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "E-ID er ikke registrert i systemet"
+
+#: /Controller/ForgotsController.php:69 /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Din passordkobling blir sendt til din registrerte e-id"
+
+#: /Controller/ForgotsController.php:91 /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "feil kode"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88 /Plugin/Admin/Controller/ForgotsController.php:121 /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Passord er endret"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "min Ytelse"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "Min gruppe ytelse"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Søknad allerede installert. Fjern app / tmp / installed.txt å installere programmet"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "skrivbar"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Dessverre! File Tillatelse Feil <BR> goto app / Config / database.php er i skrivbar modus."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "En forbindelse ble opprettet med serveren."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Kunne ikke koble til databasen. Vennligst sjekk innstillingene i app / Config / database.php og prøv igjen"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Dessverre! Folder Tillatelse Feil <BR> tmp mappen er i skrivbar modus."
+
+#: /Controller/MailsController.php:83 /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Din e-post har blitt sendt"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "Videresendt melding"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129 /Plugin/Admin/View/Dashboards/index.ctp:69 /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Fra"
+
+#: /Controller/MailsController.php:109 /Plugin/Admin/Controller/MailsController.php:130 /Plugin/Admin/View/Addquestions/index.ctp:20;53 /Plugin/Admin/View/Exams/add.ctp:239
+#: /Plugin/Admin/View/Exams/view.ctp:76;144 /Plugin/Admin/View/Iequestions/index.ctp:23 /Plugin/Admin/View/Mails/compose.ctp:42;44 /Plugin/Admin/View/Questions/add.ctp:132
+#: /Plugin/Admin/View/Questions/edit.ctp:146 /Plugin/Admin/View/Questions/index.ctp:23;51 /Plugin/Admin/View/Questions/view.ctp:47 /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39
+#: /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "Subject"
+
+#: /Controller/MailsController.php:153 /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "E-posten har blitt flyttet til papirkurven"
+
+#: /Controller/MailsController.php:183 /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Din e-post er slettet"
+
+#: /Controller/MailsController.php:209 /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "E-posten har blitt flyttet til innboksen"
+
+#: /Controller/MailsController.php:236 /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "E-posten er merket som lest"
+
+#: /Controller/MailsController.php:240 /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "E-posten er merket som ulest"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal Betaling ikke satt"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "betaling Avbryt"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "lommebok betaling"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Prøv igjen! Kan ikke koble til paypal"
+
+#: /Controller/PaymentsController.php:79 /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "Ugyldig Beløp"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Betaling allerede gjort"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Betaling ikke gjort"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Betaling med hell! Beløp %s lagt i lommeboken "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Profil oppdatert"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Photo oppdatert"
+
+#: /Controller/ProfilesController.php:93 /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "ugyldig passord"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Velg en gruppe"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Ugyldig sikkerhetskode"
+
+#: /Controller/ResultsController.php:133;178 /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "Poengsum"
+
+#: /Controller/ResultsController.php:142;188 /Plugin/Admin/Controller/ResultsController.php:239 /Plugin/Admin/View/Results/index.ctp:40;126 /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7 /View/Results/attemptedpapers.ctp:17
+#: /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Max Marks"
+
+#: /Controller/ResultsController.php:143;187 /Plugin/Admin/Controller/ResultsController.php:238 /Plugin/Admin/View/Results/index.ctp:41;127 /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8 /View/Results/attemptedpapers.ctp:15
+#: /View/Results/index.ctp:29 /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "Marks Scoret"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Subject Wise Tid Tatt"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "student Ytelse"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "riktig Spørsmål"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "feil Spørsmål"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "høyre Marks"
+
+#: /Controller/ResultsController.php:195 /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19 /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "negative Marks"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Prosentandel (%) i eksamen"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Prosentdel(%)"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "st"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "IR"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "rd"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "28:2, 2 Tim. 02:04."
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Du %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Topper %s"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422 /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "Administrator"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "betaling Gateway"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "Pay eksamen"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Kontoen din er utløpt. Ta kontakt med administrator"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Du har blitt logget inn hell"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Din e-post ikke bekreftet! Vennligst klikk på linken sendt til innboksen din eller spam"
+
+#: /Controller/UsersController.php:58 /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "Feil brukernavn / passord"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Du har blitt logget ut med hell"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Du er %s medlem! Ta kontakt med administrator"
+
+#: /Controller/Component/CustomFunctionComponent.php:14 /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "Timer"
+
+#: /Controller/Component/CustomFunctionComponent.php:20 /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "5 min"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28 /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "Sek"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "grand Total"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Spørsmålet ditt er lagt opp til eksamen"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Spørsmålet ditt er slettet for eksamen"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "Ingen tillatelse"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Reklame er lagret"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63 /Plugin/Admin/Controller/ContentsController.php:62;73 /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64 /Plugin/Admin/Controller/ExamsController.php:128;141 /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63 /Plugin/Admin/Controller/MenunamesController.php:32;43 /Plugin/Admin/Controller/NewsController.php:52;63
+#: /Plugin/Admin/Controller/QtypesController.php:32;43 /Plugin/Admin/Controller/QuestionsController.php:122;129 /Plugin/Admin/Controller/SlidesController.php:61;72
+#: /Plugin/Admin/Controller/SmstemplatesController.php:51;62 /Plugin/Admin/Controller/StudentsController.php:133;146;365 /Plugin/Admin/Controller/SubjectsController.php:106;121
+#: /Plugin/Admin/Controller/TestimonialsController.php:52;63 /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "Ugyldig post"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Reklame er slettet"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160 /Plugin/Admin/Controller/SlidesController.php:162 /Plugin/Admin/Controller/StudentsController.php:326
+#: /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Photo Endret Vellykket"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85 /Plugin/Admin/View/Results/result.ctp:235 /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211
+#: /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "Ikke prøvd"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "Marks Oppdatert"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "vellykket Ferdig"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Vellykket Lukket eksamen"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Norsk"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "fransk"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139 /Plugin/Admin/Controller/EmailsettingsController.php:24 /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Dine innstillinger har blitt lagret"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Page lagt til"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Sider oppdatert"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Siden har blitt slettet"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Page har vært upublisert"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Page har blitt publisert"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159 /Plugin/Admin/Controller/SignaturesController.php:43 /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "Noe som ikke fungerer?"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Valuta har blitt lagret"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Valuta har blitt slettet"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "student Detaljer"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "Aktiv"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103 /Plugin/Admin/View/Attemptedpapers/index.ctp:43 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "Venter på godkjenning"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26
+#: /Plugin/Admin/View/Slides/edit.ctp:26 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "Henge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115 /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "Pass"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116 /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "Mislyktes"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117 /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "fraværende"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135 /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "Student"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158 /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Passerer %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159 /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Gjennomsnittlig %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "spørsmål Count"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226 /Plugin/Admin/View/Dashboards/index.ctp:172 /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "Total Spørsmål"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Spørsmål Bank Vanskelighetsgrad Wise"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "Lett"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "medium"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "Hard"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51 /Plugin/Admin/Controller/MenunamesController.php:51 /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "Navn har blitt oppdatert"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "E-post malen er lagret"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "E-post malen er slettet"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Sluttdato er ikke mindre enn Startdato"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160 /Plugin/Admin/Controller/QuestionsController.php:81;152 /Plugin/Admin/Controller/StudentsController.php:157
+#: /Plugin/Admin/Controller/SubjectsController.php:133 /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Vennligst velg en gruppe"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Vennligst Legg Subject Til eksamen"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Eksamen er lagret. Legg spørsmålene i eksamen"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Eksamen er lagret"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Eksamen er oppdatert"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Eksamen er slettet"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303 /Plugin/Admin/View/Addquestions/index.ctp:26 /Plugin/Admin/View/Exams/add.ctp:213;264 /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158 /Plugin/Admin/View/Questions/edit.ctp:173 /Plugin/Admin/View/Questions/index.ctp:29 /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "Vanskelighetsgrad"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Subject Wise Spørsmål Count"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Eksamen vellykket inaktivert"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Eksamen vellykket aktivert"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Det er ingen tvil lagt til!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Brukernavnet blir sendt til din registrerte e-id"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Gruppe lagt til"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Gruppen har blitt lagret"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Gruppen har blitt slettet"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Slett emnet først"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "Hjelp innholdet er lagret"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "Hjelp innholdet er slettet"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Spørsmål importert"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49 /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "Filen er ikke lastet opp"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55 /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Bare CSV-fil støttes"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61 /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Vennligst velg emne"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Vennligst velg et konsern"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Studenter importert"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Vennligst velg gruppen"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Student E-post ikke funnet"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Nyheter er lagret"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Nyheter er slettet"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Paypal betalingsinnstillingen er lagret"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "Innstilling Problem"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Vennligst velg riktig svar"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Vennligst velg sant eller usant"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Fyll tomrom"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Spørsmål lagt til banken lykkes"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Spørsmålet har blitt oppdatert"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Spørsmålet har blitt slettet"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231 /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "Slett eksamen først!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Spørsmål Vanskelighetsgrad"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Opptreden"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Kandidat Marks Distribusjon"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks Distribusjon"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27 /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Velg en hvilken som helst type i listen"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Vennligst skriv hvilken som helst e"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "E-post har blitt sendt"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Ingen e-post til å sende"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Vennligst skriv inn et navn"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "SMS har blitt sendt"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Ingen sms til å sende"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Signatur er lagret"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "Signatur er slettet"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Slide er lagret"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Slide er slettet"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "SMS malen er lagret"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "SMS malen er slettet"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Student lagt Vellykket"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117 /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Vennligst velg minst én gruppe"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Student er oppdatert"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Student er slettet"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Student lommebok er oppdatert"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Subject lagt til"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Subject allerede eksisterer"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Faget er oppdatert"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Faget er slettet"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Testimonial er lagret"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Testimonial er oppdatert"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Testimonial er slettet"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Bruker lagt til"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Bruker har blitt oppdatert"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Bruker har blitt slettet"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "Tillatelse oppdateringen"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Du har blitt logget inn Vellykket"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Du har blitt logget ut"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Nivå Bruker har blitt lagret"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "Nivå brukeren er slettet"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo er lagret"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo er slettet"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10 /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Legg spørsmål"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23 /Plugin/Admin/View/Exams/add.ctp:212;257 /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3
+#: /Plugin/Admin/View/Qtypes/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:49 /Plugin/Admin/View/Questions/index.ctp:26 /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "spørsmål Type"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29 /Plugin/Admin/View/Questions/index.ctp:32 /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Søk"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:33 /Plugin/Admin/View/Sendemails/index.ctp:128 /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Tilbakestill"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Legg til eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Slett Til eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38 /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Tilbake til eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52 /Plugin/Admin/View/Contents/pages.ctp:31 /Plugin/Admin/View/Currencies/index.ctp:31 /Plugin/Admin/View/Diffs/index.ctp:30
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:32 /Plugin/Admin/View/Groups/index.ctp:31 /Plugin/Admin/View/Helpcontents/index.ctp:32 /Plugin/Admin/View/Menunames/index.ctp:30
+#: /Plugin/Admin/View/News/index.ctp:32 /Plugin/Admin/View/Qtypes/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:49 /Plugin/Admin/View/Results/index.ctp:122
+#: /Plugin/Admin/View/Slides/index.ctp:31 /Plugin/Admin/View/Smstemplates/index.ctp:32 /Plugin/Admin/View/Students/index.ctp:34 /Plugin/Admin/View/Students/trnhistory.ctp:18
+#: /Plugin/Admin/View/Subjects/index.ctp:31 /Plugin/Admin/View/Testimonials/index.ctp:32 /Plugin/Admin/View/Users/assignrightsedit.ctp:18 /Plugin/Admin/View/Users/index.ctp:32
+#: /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54 /Plugin/Admin/View/Sendemails/index.ctp:84 /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10 /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "Type"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "Body of Spørsmål"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56 /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "Grad"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57 /Plugin/Admin/View/Attemptedpapers/index.ctp:163 /Plugin/Admin/View/Dashboards/index.ctp:30 /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161 /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84 /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "Marks"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58 /Plugin/Admin/View/Advertisements/index.ctp:35;47 /Plugin/Admin/View/Contents/pages.ctp:36;50 /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32 /Plugin/Admin/View/Emailtemplates/index.ctp:35;46 /Plugin/Admin/View/Groups/index.ctp:33;43 /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35 /Plugin/Admin/View/News/index.ctp:35;46 /Plugin/Admin/View/Qtypes/index.ctp:32 /Plugin/Admin/View/Questions/index.ctp:53;65
+#: /Plugin/Admin/View/Results/index.ctp:44;130 /Plugin/Admin/View/Slides/index.ctp:35;47 /Plugin/Admin/View/Smstemplates/index.ctp:36;48 /Plugin/Admin/View/Students/index.ctp:41;57
+#: /Plugin/Admin/View/Students/wallet.ctp:41 /Plugin/Admin/View/Subjects/index.ctp:35;47 /Plugin/Admin/View/Testimonials/index.ctp:37;54 /Plugin/Admin/View/Users/assignrights.ctp:19;28
+#: /Plugin/Admin/View/Users/index.ctp:40;57 /View/Helper/FunctionHelper.php:110 /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Handling"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Legg Annonse"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8 /Plugin/Admin/View/Advertisements/edit.ctp:11;13 /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Annonse Name"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14 /Plugin/Admin/View/Advertisements/edit.ctp:17;19 /Plugin/Admin/View/Advertisements/index.ctp:33 /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31 /Plugin/Admin/View/Menunames/index.ctp:34 /Plugin/Admin/View/Slides/add.ctp:14;16 /Plugin/Admin/View/Slides/edit.ctp:18;20
+#: /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "Bestilling"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20 /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24 /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "URL Type"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "Innvendig"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "Utvendig"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30 /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "URL Target"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "**Selv**"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "blank"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Last opp bilde (350 * 260)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43 /Plugin/Admin/View/Contents/add.ctp:71 /Plugin/Admin/View/Currencies/add.ctp:28 /Plugin/Admin/View/Emailtemplates/add.ctp:19
+#: /Plugin/Admin/View/Exams/add.ctp:221 /Plugin/Admin/View/Exams/maxquestion.ctp:26 /Plugin/Admin/View/Groups/add.ctp:13 /Plugin/Admin/View/Helpcontents/add.ctp:20 /Plugin/Admin/View/News/add.ctp:20
+#: /Plugin/Admin/View/Questions/add.ctp:163 /Plugin/Admin/View/Signatures/index.ctp:16 /Plugin/Admin/View/Smstemplates/add.ctp:20 /Plugin/Admin/View/Students/add.ctp:63
+#: /Plugin/Admin/View/Subjects/add.ctp:19 /Plugin/Admin/View/Testimonials/add.ctp:28 /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14
+#: /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Lagre"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44 /Plugin/Admin/View/Advertisements/changephoto.ctp:21 /Plugin/Admin/View/Contents/add.ctp:72 /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:29 /Plugin/Admin/View/Emailtemplates/add.ctp:20 /Plugin/Admin/View/Emailtemplates/edit.ctp:45
+#: /Plugin/Admin/View/Exams/add.ctp:222;274 /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14 /Plugin/Admin/View/Groups/edit.ctp:29
+#: /Plugin/Admin/View/Helpcontents/add.ctp:21 /Plugin/Admin/View/Helpcontents/edit.ctp:42 /Plugin/Admin/View/Mails/compose.ctp:56 /Plugin/Admin/View/Menunames/edit.ctp:47
+#: /Plugin/Admin/View/News/add.ctp:21 /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29 /Plugin/Admin/View/Questions/add.ctp:164 /Plugin/Admin/View/Questions/edit.ctp:181
+#: /Plugin/Admin/View/Slides/add.ctp:29 /Plugin/Admin/View/Slides/changephoto.ctp:21 /Plugin/Admin/View/Slides/edit.ctp:43 /Plugin/Admin/View/Smstemplates/add.ctp:21
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:46 /Plugin/Admin/View/Students/add.ctp:64 /Plugin/Admin/View/Students/changepass.ctp:40 /Plugin/Admin/View/Students/changephoto.ctp:22
+#: /Plugin/Admin/View/Students/edit.ctp:88 /Plugin/Admin/View/Students/wallet.ctp:65 /Plugin/Admin/View/Subjects/add.ctp:20 /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29 /Plugin/Admin/View/Testimonials/changephoto.ctp:21 /Plugin/Admin/View/Testimonials/edit.ctp:47 /Plugin/Admin/View/Users/add.ctp:50
+#: /Plugin/Admin/View/Users/edit.ctp:79 /Plugin/Admin/View/Users/leveladd.ctp:15 /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36 /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Lukk"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3 /Plugin/Admin/View/Slides/changephoto.ctp:3 /Plugin/Admin/View/Students/changephoto.ctp:4 /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3 /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "Bilde Update"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7 /Plugin/Admin/View/Students/add.ctp:56 /Plugin/Admin/View/Students/changephoto.ctp:8 /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Last opp bilde"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19 /Plugin/Admin/View/Advertisements/edit.ctp:57 /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43 /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27 /Plugin/Admin/View/Helpcontents/edit.ctp:40
+#: /Plugin/Admin/View/Menunames/edit.ctp:45 /Plugin/Admin/View/News/edit.ctp:40 /Plugin/Admin/View/Qtypes/edit.ctp:27 /Plugin/Admin/View/Questions/edit.ctp:179 /Plugin/Admin/View/Slides/add.ctp:27
+#: /Plugin/Admin/View/Slides/changephoto.ctp:19 /Plugin/Admin/View/Slides/edit.ctp:41 /Plugin/Admin/View/Smstemplates/edit.ctp:44 /Plugin/Admin/View/Students/changepass.ctp:38
+#: /Plugin/Admin/View/Students/changephoto.ctp:20 /Plugin/Admin/View/Students/edit.ctp:86 /Plugin/Admin/View/Students/wallet.ctp:63 /Plugin/Admin/View/Subjects/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:19 /Plugin/Admin/View/Testimonials/edit.ctp:45 /Plugin/Admin/View/Users/assignrightsedit.ctp:36 /Plugin/Admin/View/Users/change_pass.ctp:39
+#: /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58 /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Oppdater"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20 /Plugin/Admin/View/Advertisements/edit.ctp:58 /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44 /Plugin/Admin/View/Exams/edit.ctp:154 /Plugin/Admin/View/Exams/maxquestion.ctp:27 /Plugin/Admin/View/Groups/edit.ctp:28
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:41 /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41 /Plugin/Admin/View/Qtypes/edit.ctp:28
+#: /Plugin/Admin/View/Questions/edit.ctp:180 /Plugin/Admin/View/Slides/add.ctp:28 /Plugin/Admin/View/Slides/changephoto.ctp:20 /Plugin/Admin/View/Slides/edit.ctp:42
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:45 /Plugin/Admin/View/Students/changepass.ctp:39 /Plugin/Admin/View/Students/changephoto.ctp:21 /Plugin/Admin/View/Students/edit.ctp:87
+#: /Plugin/Admin/View/Students/wallet.ctp:64 /Plugin/Admin/View/Subjects/edit.ctp:38 /Plugin/Admin/View/Testimonials/changephoto.ctp:20 /Plugin/Admin/View/Testimonials/edit.ctp:46
+#: /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "edit Annonser"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8 /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8 /Plugin/Admin/View/Emailtemplates/edit.ctp:8
+#: /Plugin/Admin/View/Exams/edit.ctp:30 /Plugin/Admin/View/Groups/edit.ctp:8 /Plugin/Admin/View/Helpcontents/edit.ctp:9 /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9
+#: /Plugin/Admin/View/Qtypes/edit.ctp:8 /Plugin/Admin/View/Slides/edit.ctp:9 /Plugin/Admin/View/Smstemplates/edit.ctp:9 /Plugin/Admin/View/Students/edit.ctp:13 /Plugin/Admin/View/Subjects/edit.ctp:8
+#: /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "skjema"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41 /Plugin/Admin/View/Advertisements/index.ctp:34 /Plugin/Admin/View/Emailtemplates/edit.ctp:23 /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24 /Plugin/Admin/View/Helpcontents/index.ctp:34 /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34
+#: /Plugin/Admin/View/Slides/edit.ctp:24 /Plugin/Admin/View/Slides/index.ctp:34 /Plugin/Admin/View/Smstemplates/edit.ctp:24 /Plugin/Admin/View/Smstemplates/index.ctp:35
+#: /Plugin/Admin/View/Students/add.ctp:50 /Plugin/Admin/View/Students/edit.ctp:35 /Plugin/Admin/View/Students/index.ctp:40 /Plugin/Admin/View/Testimonials/edit.ctp:28
+#: /Plugin/Admin/View/Testimonials/index.ctp:35 /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "Status"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "Annonser"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Legg til ny Annonse"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52 /Plugin/Admin/View/Contents/pages.ctp:16;53 /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50 /Plugin/Admin/View/Groups/index.ctp:16;46 /Plugin/Admin/View/Helpcontents/index.ctp:16;49 /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47 /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:16;41
+#: /Plugin/Admin/View/Questions/index.ctp:69 /Plugin/Admin/View/Slides/index.ctp:16;52 /Plugin/Admin/View/Smstemplates/index.ctp:17;51 /Plugin/Admin/View/Students/index.ctp:16;62
+#: /Plugin/Admin/View/Subjects/index.ctp:16;51 /Plugin/Admin/View/Testimonials/index.ctp:16;58 /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Rediger"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53 /Plugin/Admin/View/Contents/pages.ctp:17;54 /Plugin/Admin/View/Currencies/index.ctp:16;50 /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47 /Plugin/Admin/View/Helpcontents/index.ctp:17;50 /Plugin/Admin/View/News/index.ctp:17;50 /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53 /Plugin/Admin/View/Smstemplates/index.ctp:18;52 /Plugin/Admin/View/Students/index.ctp:17;63 /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59 /Plugin/Admin/View/Users/assignrights.ctp:8;32 /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Slett"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50 /Plugin/Admin/View/Emailtemplates/index.ctp:49 /Plugin/Admin/View/Questions/index.ctp:68 /Plugin/Admin/View/Slides/index.ctp:50
+#: /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "Vis"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51 /Plugin/Admin/View/Slides/index.ctp:51 /Plugin/Admin/View/Testimonials/index.ctp:57 /View/Profiles/change_pass.ctp:24
+#: /View/Profiles/change_photo.ctp:11;19 /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "Endre Foto"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6 /Plugin/Admin/View/Slides/view.ctp:3 /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Vis lysbilder"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Forsøk Papers av"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34 /Plugin/Admin/View/Diffs/edit.ctp:11;13 /Plugin/Admin/View/Diffs/index.ctp:31 /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13 /Plugin/Admin/View/Emailtemplates/index.ctp:33 /Plugin/Admin/View/Emailtemplates/view.ctp:8 /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31 /Plugin/Admin/View/Smstemplates/add.ctp:7;9 /Plugin/Admin/View/Smstemplates/edit.ctp:12;14 /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18 /Plugin/Admin/View/Students/edit.ctp:31;33 /Plugin/Admin/View/Students/index.ctp:36 /Plugin/Admin/View/Students/wallet.ctp:17
+#: /Plugin/Admin/View/Testimonials/add.ctp:9;11 /Plugin/Admin/View/Testimonials/edit.ctp:16;18 /Plugin/Admin/View/Testimonials/index.ctp:33 /Plugin/Admin/View/Users/add.ctp:30;32
+#: /Plugin/Admin/View/Users/edit.ctp:41;43 /Plugin/Admin/View/Users/index.ctp:35 /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8 /View/Helper/FunctionHelper.php:104
+#: /View/Leaderboards/index.ctp:13 /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22 /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Navn"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36 /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5
+#: /Plugin/Admin/View/Results/index.ctp:38;97;124 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5 /Plugin/Admin/View/Students/add.ctp:6;8
+#: /Plugin/Admin/View/Students/edit.ctp:17;19 /Plugin/Admin/View/Students/index.ctp:35 /Plugin/Admin/View/Students/trnhistory.ctp:19 /Plugin/Admin/View/Students/wallet.ctp:11
+#: /Plugin/Admin/View/Users/add.ctp:36;38 /Plugin/Admin/View/Users/edit.ctp:47;49 /Plugin/Admin/View/Users/index.ctp:36 /Plugin/Admin/View/Users/my_profile.ctp:15
+#: /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12 /View/Registers/index.ctp:10;12 /View/Results/pdf/certificate.ctp:10 /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "E-post"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40 /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "Totalt Marks"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "innhentet Marks"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "resultat Endelige"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "Ferdig Det"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "PASSERT"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "Feilet"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "ferdigstilt av"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "spørsmål Nei"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78 /Plugin/Admin/View/Questions/add.ctp:63;78 /Plugin/Admin/View/Questions/edit.ctp:74;88;89 /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84 /Plugin/Admin/View/Questions/add.ctp:64;82 /Plugin/Admin/View/Questions/edit.ctp:75;92;93 /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90 /Plugin/Admin/View/Questions/add.ctp:65;86 /Plugin/Admin/View/Questions/edit.ctp:76;96;97 /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96 /Plugin/Admin/View/Questions/add.ctp:66;90 /Plugin/Admin/View/Questions/edit.ctp:77;100;101 /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102 /Plugin/Admin/View/Questions/add.ctp:67;94 /Plugin/Admin/View/Questions/edit.ctp:78;104;105 /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108 /Plugin/Admin/View/Questions/add.ctp:68;98 /Plugin/Admin/View/Questions/edit.ctp:79;108;109 /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "OPSJON"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158 /Plugin/Admin/View/Results/result.ctp:175 /Plugin/Admin/View/Results/stdexamresult.ctp:161 /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "merket Svar"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159 /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Korrekt svar"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162 /Plugin/Admin/View/Results/result.ctp:25;103;179 /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165 /View/Results/attemptedpapers.ctp:18
+#: /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "tid Tatt"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "Merker Oppnådd"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Sjekket av"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "System"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "konfigurasjons~~POS=TRUNC"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8 /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Site navn:"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12 /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "Organization Name"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18 /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Domenenavn"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22 /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "organisasjon E-post"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "Meta Tittel"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32 /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "Meta beskrivelse"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36 /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Tidssone"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85 /Plugin/Admin/View/Iequestions/index.ctp:25 /Plugin/Admin/View/Questions/add.ctp:134;158 /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116 /Plugin/Admin/View/Sendsms/index.ctp:93;117 /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "Vennligst velg"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40 /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "Valuta"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "header Kontakt"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "E-post Kontakt"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "Visnings poster per side"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Max registrerer per side"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "Datoformat"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Dato, måned, år, time, Min, Sec, Meridian, dato Seprator, Tid Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Bilde"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Tekst"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "tekst~~POS=TRUNC"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Venstre mot høyre (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Høyre-til-venstre (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Språk"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Aktiver SMS-varsling"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Aktiver e-postvarsling"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "manuell Verification"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Front End Registrering"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Front End Slides"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "Oversettelse"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117 /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101 /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "betalt eksamen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "Math Editor"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "Eksamen Utløps"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "Eksamen Tilbakemelding"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Tolrance Count"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "Sertifikat"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "Annonse"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "Antall besøkende"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "Antall Student"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "Antall eksamen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174 /Plugin/Admin/View/Emailsettings/index.ctp:43 /Plugin/Admin/View/Payments/index.ctp:31 /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "Lagre innstillinger"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Legg Sider"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28 /Plugin/Admin/View/Contents/edit.ctp:32;34 /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "Link Name"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32 /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "Link Bestill"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36 /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "Sidetype"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44 /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "ekstern Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46 /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "url Target"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55 /Plugin/Admin/View/Contents/pages.ctp:33 /Plugin/Admin/View/Menunames/edit.ctp:17;19 /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Page Name"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59 /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "Page Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65 /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "Sideinnhold"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "Rediger Sider"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "Sider"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Legg til ny side"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "publisert"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "upublisert"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Legg til valuta"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11 /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "valuta~~POS=TRUNC Name"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17 /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Kort navn"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Last opp Valuta (Mindre eller lik 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Legg til ny valuta"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "In Progress eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13 /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13 /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "kommende eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "fullført eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18 /Plugin/Admin/View/Sendemails/index.ctp:86;90 /Plugin/Admin/View/Sendsms/index.ctp:93;97 /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "studenter"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "In Progress & Kommende eksamener"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Dato"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28 /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8 /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "Eksamen Navn"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122 /Plugin/Admin/View/Iequestions/index.ctp:17 /Plugin/Admin/View/Iestudents/index.ctp:17 /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99 /Plugin/Admin/View/Students/add.ctp:10 /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12
+#: /Plugin/Admin/View/Users/edit.ctp:19 /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "Gruppe"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31 /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "Varighet"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Siste Eksamensresultater"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61 /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "Eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62 /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "Samlet resultat"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63 /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "student Stats"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70 /Plugin/Admin/View/Exams/stats.ctp:16 /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "Til"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71 /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "Detaljer"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Topp 10 Student Gruppe Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Student statistikk Tabell"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "Total studenter"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "Total Aktiv"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "Total Venter"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "Suspendert Total"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Topp 10 Spørsmål Bank emne Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Topp 10 Vanskelighetsgrad av spørsmål"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Spørsmål Count Table"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "Bank navn"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "Total Easy"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Total Normal"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "Total Vanskelig"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "diffculty nivå"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "Epost innstillinger"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "E-post type"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "Localhost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Servernavn / Host"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "Havn"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33 /Plugin/Admin/View/Payments/index.ctp:6;8 /Plugin/Admin/View/Smssettings/index.ctp:17;19 /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Brukernavn"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37 /Plugin/Admin/View/Forgots/reset.ctp:20 /Plugin/Admin/View/Payments/index.ctp:12;14 /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22 /Plugin/Admin/View/Students/changepass.ctp:20;22 /Plugin/Admin/View/Users/add.ctp:24;26 /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37 /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47 /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47
+#: /View/Registers/index.ctp:24;26 /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "Passord"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Legg til e-Mal"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14 /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19 /Plugin/Admin/View/Emailtemplates/view.ctp:3 /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "E-post mal"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Rediger e-postmaler"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "Epost maler"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Legg til ny e-post mal"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12 /Plugin/Admin/View/Smstemplates/add.ctp:13;15 /Plugin/Admin/View/Smstemplates/edit.ctp:18;20 /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "Mal"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Subject lagt til"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Legg eksamen"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92 /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Navn på eksamen"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96 /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "Passing Prosent"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102 /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "Instruksjon"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Eksamen Varighet (Min.)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 for ubegrenset varighet"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "forsøk Count"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 for ubegrenset forsøk"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60 /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20 /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "Startdato"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67 /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22 /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "Sluttdato"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76 /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Vis Løsninger"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "Ja"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Ikke"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80 /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "Velg gruppe"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "student Gruppe"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90 /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "negativ Merking"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "Random Spørsmål"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161 /Plugin/Admin/View/Exams/edit.ctp:106;108 /Plugin/Admin/View/Exams/view.ctp:40 /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "Belop"
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "browser Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136 /Plugin/Admin/View/Students/add.ctp:46 /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "Holdbarhets Days"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138 /Plugin/Admin/View/Exams/maxquestion.ctp:16 /Plugin/Admin/View/Students/add.ctp:48
+#: /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 for ubegrenset"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114 /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Resultat Etter Finish"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "Modus"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124 /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "Instant Resultat"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128 /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "alternativ Shuffle"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Legg fag for å eksamener"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209 /Plugin/Admin/View/Subjects/add.ctp:12;14 /Plugin/Admin/View/Subjects/edit.ctp:21;23 /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Subject Name"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247 /Plugin/Admin/View/Results/result.ctp:100 /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "Antall spørsmål"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Ques Forsøk Count"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251 /Plugin/Admin/View/Exams/maxquestion.ctp:9 /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Spørsmål Forsøk Count"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "La stå tomt for ikke viser (0 for ubegrenset)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "ctrl + klikk for å legge multipler"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Legg"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "Rediger eksamen"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "eksamens~~POS=TRUNC"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Ingen av Student Bestått"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Last ned"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Ingen av Student Failed"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Ingen av Student Fraværende"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "eksamen detaljer"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "Ferdig Resultat"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "Forsøk Papers"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "kvalifisert Gruppe"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Lukk eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "Aktiver eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Eksamen Lukket reaktivere eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "browser Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "utløps~~POS=TRUNC"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "Ubegrenset"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "Dager"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "Subjektiv"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Formål"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Ekte & amp; Falsk"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Fyll ut de blanke feltene"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "Totalt spørsmål"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Spørsmål Forsøk Count"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "H."
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "Totalt"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "Ø"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "M-447 148!"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3 /View/Results/index.ctp:26 /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "S.No."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4 /Plugin/Admin/View/Results/index.ctp:37;96;123
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "Student navn"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "Registrering"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7 /Plugin/Admin/View/Students/add.ctp:30;32 /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "Telefon"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9 /Plugin/Admin/View/Results/index.ctp:129 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "resultat Status"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2 /Plugin/Admin/View/Forgots/username.ctp:13 /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Glemt passord"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5 /Plugin/Admin/View/Forgots/username.ctp:5 /Plugin/Admin/View/Results/result.ctp:13 /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "Epost id"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9 /Plugin/Admin/View/Forgots/presetcode.ctp:9 /Plugin/Admin/View/Forgots/reset.ctp:29 /Plugin/Admin/View/Forgots/username.ctp:9
+#: /View/Emailverifications/index.ctp:17 /View/Emailverifications/resend.ctp:17 /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17 /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39
+#: /View/Installers/step1.ctp:82 /View/Profiles/change_photo.ctp:33 /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Send inn"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12 /Plugin/Admin/View/Forgots/presetcode.ctp:12 /Plugin/Admin/View/Forgots/reset.ctp:32 /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "Glemt brukernavn"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13 /Plugin/Admin/View/Forgots/presetcode.ctp:13 /Plugin/Admin/View/Forgots/reset.ctp:33 /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Logg inn"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2 /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "Bekreftelseskode"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Fyll bekreftelseskode"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Tilbakestill passord"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24 /Plugin/Admin/View/Students/changepass.ctp:26;28 /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33
+#: /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "bekreft passord"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Legg grupper"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8 /Plugin/Admin/View/Groups/edit.ctp:11;13 /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "Gruppenavn"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "Rediger grupper"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:128 /Plugin/Admin/View/Questions/edit.ctp:142 /Plugin/Admin/View/Students/index.ctp:38
+#: /Plugin/Admin/View/Students/view.ctp:42 /Plugin/Admin/View/Subjects/index.ctp:33 /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "Grupper"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Legg til ny gruppe"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Legg hjelpeinnhold"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9 /Plugin/Admin/View/Helpcontents/edit.ctp:12;14 /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Tittel"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15 /Plugin/Admin/View/Helpcontents/edit.ctp:18;20 /Plugin/Admin/View/Results/result.ctp:174 /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17 /Plugin/Admin/View/Testimonials/edit.ctp:22;24 /Plugin/Admin/View/Testimonials/index.ctp:34 /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Rediger hjelpeinnhold"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "Hjelp innhold"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Legg til ny hjelpeinnhold"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Import / Export Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Tilbake til Spørsmål"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "eksport~~POS=TRUNC spørsmål"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11 /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Velg fil"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "Import spørsmål"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1 /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Import / Eksport Studenter"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Tilbake til studenter"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "eksport~~POS=TRUNC Studenter"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "Import Studenter"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "alle meldinger"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111 /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133 /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "Min profil"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113 /Plugin/Admin/View/Students/changepass.ctp:16 /Plugin/Admin/View/Students/view.ctp:11 /Plugin/Admin/View/Users/change_pass.ctp:15
+#: /View/Layouts/default.ctp:141 /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12 /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Bytt Passord"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Logg ut"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353 /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "Drevet av"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190 /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Date & amp; Tid"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "Skriv e-post"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Søk Student Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25 /Plugin/DebugKit/View/Elements/log_panel.ctp:27 /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Melding"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55 /Plugin/Admin/View/Sendemails/index.ctp:127 /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Send"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "komponer"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "Innboks"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Sendt epost"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "Søppel"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Mer"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Marker som lest"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Merk som ulest"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Flytt til innboksen"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "Svar"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "Fremover"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "menynavn"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13 /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "Modell navn"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25 /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "Ikon"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Legg News"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14 /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Nyheter Tittel"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "Nyheter Beskrivelse"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "Rediger Nyheter"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Nyheter"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Legg til ny News"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Paypal betalingsmåte"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Underskrift:"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26 /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "True"
+msgstr "Sant"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43 /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Legg Spørsmål"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73 /Plugin/Admin/View/Questions/edit.ctp:73;84;85 /Plugin/Admin/View/Questions/index.ctp:50 /Plugin/Admin/View/Questions/view.ctp:53
+#: /View/Exams/start.ctp:19 /View/Results/view.ctp:323
+msgid "Question"
+msgstr "Spørsmål"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69 /Plugin/Admin/View/Questions/edit.ctp:80 /Plugin/Admin/View/Results/result.ctp:177 /Plugin/Admin/View/Results/stdexamresult.ctp:163
+#: /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "Riktig svar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Skriv inn ditt spørsmål her"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "Svar: 1"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "ANSWER2"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "Answer3"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "Answer4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "Answer5"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "Answer6"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107 /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "True / False"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "False"
+msgstr "Ikke Sant"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121 /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "blank Space"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Forklaring (valgfritt)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Gi forklaring til støtte for riktig svar"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140 /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Hint (valgfritt)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Tips for å få svar på riktig måte"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153 /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "uten minustegn"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Rediger Spørsmål Type"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135 /Plugin/Admin/View/Questions/view.ctp:97 /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "Forklaring"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154 /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Tipps:"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "spørsmål"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Legg til nytt spørsmål"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Import / Export Spørsmål"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "Svar"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "Detaljer"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "Eksamen Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Vennligst velg eksamen"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "Status for Resultat"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Vennligst velg Resultat Status"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "Last ned Resultat"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12 /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "Rang"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "Test"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "hundre prosent."
+
+#: /Plugin/Admin/View/Results/index.ctp:43 /Plugin/Admin/View/Results/result.ctp:37 /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31 /View/Results/view.ctp:89
+msgid "Result"
+msgstr "Resultat"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Vis resultat"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Last ned / Skriv ut Resultat"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "student Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Navn eller Påmelding Antall"
+
+#: /Plugin/Admin/View/Results/index.ctp:98 /Plugin/Admin/View/Students/add.ctp:40;42 /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "Påmelding Number"
+
+#: /Plugin/Admin/View/Results/index.ctp:115 /Plugin/Admin/View/Results/result.ctp:1;244 /Plugin/Admin/View/Students/trnhistory.ctp:5 /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "Tilbake"
+
+#: /Plugin/Admin/View/Results/result.ctp:7 /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Assesment Rapport for"
+
+#: /Plugin/Admin/View/Results/result.ctp:17 /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "tatt Dato"
+
+#: /Plugin/Admin/View/Results/result.ctp:29 /Plugin/Admin/View/Results/stdexamresult.ctp:24 /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "Total tid"
+
+#: /Plugin/Admin/View/Results/result.ctp:33 /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nr. Av Browser tolrance forsøk"
+
+#: /Plugin/Admin/View/Results/result.ctp:48 /Plugin/Admin/View/Results/stdexamresult.ctp:43 /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "Total poengsum"
+
+#: /Plugin/Admin/View/Results/result.ctp:61 /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Student Marks Distribusjon"
+
+#: /Plugin/Admin/View/Results/result.ctp:77 /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Tilbakemelding"
+
+#: /Plugin/Admin/View/Results/result.ctp:91 /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Marks Sheet"
+
+#: /Plugin/Admin/View/Results/result.ctp:98 /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "seksjon Name"
+
+#: /Plugin/Admin/View/Results/result.ctp:99 /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "seksjon andel"
+
+#: /Plugin/Admin/View/Results/result.ctp:101 /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "Faktisk"
+
+#: /Plugin/Admin/View/Results/result.ctp:102 /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "din Prosent"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137 /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "seksjon oppsummering"
+
+#: /Plugin/Admin/View/Results/result.ctp:144 /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "maksimal score"
+
+#: /Plugin/Admin/View/Results/result.ctp:148 /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "utviklet Skill"
+
+#: /Plugin/Admin/View/Results/result.ctp:152 /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "trenger Development"
+
+#: /Plugin/Admin/View/Results/result.ctp:156 /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Mangel på dyktighet"
+
+#: /Plugin/Admin/View/Results/result.ctp:167 /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ svarte"
+
+#: /Plugin/Admin/View/Results/result.ctp:173 /Plugin/Admin/View/Results/stdexamresult.ctp:159 /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "SN"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "Legende"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "Sende e-poster"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96 /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "lærere"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "enhver E-post"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "Standard alle studenter hvis du manuelt legge deretter søke student e-post"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Standard alle lærere hvis du legger til manuelt søk deretter lærer epost"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Skriv hvilken som helst e komma seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "Type emne"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Velg E-post mal"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "Hvis du ikke ønsker å velge e-post malen da bare skrive e-postmeldingen. Når du laster editor kan du ikke velge mal gå til reset-knapp"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "Send SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "enhver Sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "Standard alt student hvis du manuelt legge deretter søke studenter navn"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Standard alle lærere hvis du legger til manuelt søk deretter lærer navn"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "enhver nummer"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Skriv inn et tall komma seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Velg Sms mal"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "sms Mal"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "Hvis du ikke ønsker å velge sms mal skriver du bare sms-melding"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "sertifikat Signatur"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Last opp bilde (* høyde mindre enn 75px)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "Slett Signatur"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Legg Slides"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10 /Plugin/Admin/View/Slides/edit.ctp:12;14 /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Bildenavn"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20 /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Last opp Slide (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "Rediger Slides"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "Glidere"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Legg til ny Glid"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "SMS-innstillinger"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "API Link"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "avsenders ID"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "Overskrift Brukernavn"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Brukernavn-feltet levert av sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "Overskrift Passord"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "Passord-feltet levert av sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Overskrift Mobile No"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Mobile Ingen felt levert av sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "Overskrift Message"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "Meldingsfeltet levert av sms gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Overskrift Sender ID"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "Sender ID-feltet levert av sms gateway"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Legg SMS Mal"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "Edit SMS maler"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "SMS Maler"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Legg til ny SMS mal"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Legg Studenter"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28 /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "Adresse"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38 /Plugin/Admin/View/Students/edit.ctp:51;53 /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "Guardian Phone"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "Rediger Studenter"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "fornyelse Dato"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Legg til ny Student"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "Lommebok"
+
+#: /Plugin/Admin/View/Students/index.ctp:39 /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "opptak Dato"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20 /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "Kreditt"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21 /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "debet"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22 /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119 /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "Import av kundesaldo"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23 /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "Dato tid"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24 /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "betaling Gjennom"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25 /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19 /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "Merknader"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Vis Studentinformasjon"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "Fullt Navn"
+
+#: /Plugin/Admin/View/Students/view.ctp:18 /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Bruker Telefonnummer"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "Registrert E-post"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "Alternativ nummer"
+
+#: /Plugin/Admin/View/Students/view.ctp:34 /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "Påmelding Ingen"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "Siste innlogging"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "studenter lommebok"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "transaksjons~~POS=TRUNC Form"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23 /Plugin/Admin/View/Users/add.ctp:42;44 /Plugin/Admin/View/Users/edit.ctp:53;55 /Plugin/Admin/View/Users/index.ctp:37
+#: /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "Mobil"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "Legg"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "trekke"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Legg Temaer"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "Rediger Temaer"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "kandidater."
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Legg nytt emne"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "spørsmål Bank"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Legg Uttalelser"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Last opp bilde (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "Rediger Uttalelser"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "Uttalelser"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Legg til ny referanse"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "Bilde"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Legg til brukere"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "brukernivå"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20 /Plugin/Admin/View/Users/edit.ctp:29;31 /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "Brukernavn"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "nivå brukere"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Legg nytt nivå"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Tilbake til brukere"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "Nivånavn"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "Set Tillatelse"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11 /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Gi Form Rettigheter"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Module Navn"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22 /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "gammelt passord"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "Rediger brukere"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Bruker Registreringsskjema"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "Brukere"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Legg til ny bruker"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Legg nivå brukere"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "nivå Bruker"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Kjære bruker, logg inn for å få tilgang til admin-området!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Admin / Lærer Brukernavn"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Glemt brukernavn"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "organisasjon Logo"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Last opp bilde (* høyde mindre enn 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "Slett Logo"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Vennligst gi en type for diagrammet %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Figur: \\ \" %s \" ble ikke funnet. Sørg for at Chart navn er den samme strengen som sendes til $ dette-> HighCharts-> render () i visningen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "The Express Checkout transaksjonen er utløpt og transaksjonen må startes på nytt"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Du har kanskje gjort et nytt anrop for samme betaling, eller du kan ha brukt samme faktura ID for separate transaksjoner."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Bruk en annen funcing kilde."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "Det oppstod en feil, vennligst prøv transaksjonen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Denne transaksjonen kunne ikke fullføres. Omdirigere til betaling gateway"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Du har ikke blitt enige om å faktureringsavtalen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Fakturerings Avtalen er deaktivert eller inaktiv."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "Kredittkortet som ble brukt er utløpt."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Transaksjonen ble nektet fordi AVS respons tilbake verdien av N, og kjøpmann konto er ikke i stand til å akseptere slike transaksjoner."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Betalingen gateway konto er begrenset."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Du må sende inn en IP-adresse til kjøperen med hver API-kall."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "Kjøpmannen valgt en verdi for PaymentAction felt som ikke er støttet."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Kredittkort feltet var tomt."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "Den totale mengden og varemengder ikke overens."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Kredittkort oppgitt er for tiden begrenset av betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "Kjøpmannen kom inn en faktura ID som allerede er knyttet til en transaksjon av samme selgeren. Forsøk med en ny faktura ID"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Transaksjonen ble avvist av landet filter forvaltes av selgeren."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Transaksjonen ble avvist av den maksimale mengden filter forvaltes av selgeren."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Transaksjonen ble avvist av betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Transaksjonen ble avvist av betaling gateway på grunn av mulig svindelforsøk."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Transaksjonen ble avvist av betaling gateway på grunn av mulig svindelforsøk på IP-adressen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "Den kjøpmann konto forsøker transaksjonen ikke er en bedriftskonto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "Den kjøpmann konto forsøker transaksjonen ikke er i stand til å behandle direkte betaling transaksjoner. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Tilgang til Direkte betaling ble deaktivert for kontoen din."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "Den kjøpmann konto forsøker transaksjonen ikke har en bekreftet e-postadresse med betalingen gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "Kjøpmannen forsøkte en transaksjon hvor beløpet oversteg den øvre grensen for denne selgeren."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Transaksjonen ble avvist på grunn av en kjøpmann risiko filter for AVS. Nærmere bestemt har kjøpmannen satt til å avvise transaksjonen når AVS kom tilbake uten kamp (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Transaksjonen ble avvist på grunn av en kjøpmann risiko filter for AVS. Nærmere bestemt har kjøpmannen satt filteret for å avvise transaksjoner når AVS returnerer en delvis kamp."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Transaksjonen ble avvist på grunn av en kjøpmann risiko filter for AVS. Nærmere bestemt har kjøpmannen satt filteret for å avvise transaksjoner når AVS støttes ikke."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "Kjøpmannen kom inn en IP-adresse som var i et ugyldig format. IP-adressen må være i et format som 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "Selgeren konfigurasjonen krever en CVV oppgis, men ingen CVV ble levert med denne transaksjonen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "Kjøpmannen gitt en adresse enten i USA eller Canada, men staten gitt er ikke en gyldig tilstand i begge land."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Transaksjonen ble avvist av den utstedende bank, ikke betalingen gateway. Selgeren skal forsøke et annet kort."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "Kjøpmannen hjemland støttes foreløpig ikke å tillate direkte betaling transaksjoner."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid ""
+"The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical "
+"transactions in quick succession."
+msgstr "Transaksjonen ble avvist fordi betalingen gateway behandler nå en transaksjon av samme kjøperen for samme beløp. Kan oppstå når en kjøper sender flere, like transaksjoner i rask rekkefølge."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "CVV er ugyldig. CVV er mellom 3-4 sifre."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Prøv igjen senere. Kontroller at du har gått riktig CVV og adresse info for kjøperen. Hvis du oppretter en tilbakevendende profil, prøv igjen ved å sende en init mengde 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Transaksjonen er ikke kompatibel grunn av manglende eller ugyldige 3-D Secure godkjennings verdier. Sjekk ECI, ECI3DS, CAVV, XIDen felt."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Transaksjonen ble avvist av betaling gateway på grunn av overdreven nederlag over en kort periode for dette kredittkortet."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Transaksjonen ble avvist av betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Transaksjonen ble avvist fordi selgeren ikke har en gyldig kommersiell enhet avtale om filen med betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Transaksjonen ble avvist fordi den angitte CVV ikke samsvarer med kredittkort."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Transaksjonen ble avvist av den utstedende bank på grunn av et utgått kredittkort. Selgeren skal forsøke et annet kort."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55 /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42 /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Skredet tillatte grensen for Navigere bort"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Du har overskredet den tillatte grensen for å navigere bort fra test"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "Din testen er ferdig. Du kan lukke vinduet nå"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "installasjon fullført"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! Systemet er installert."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Gå til Admin / Lærer Interface"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "Bruker"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Gå til Front End / Student Interface"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Besøk vår hjemmeside"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "for dokumentasjon og støtte"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "Mine eksamen Stats"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Total eksamen Gitt"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "fraværende eksamener"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Best Score i"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "På"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "mislyktes i"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "Gjennomsnittlig prosent"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "din Rank"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Måned Wise Ytelse"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Eksamen Wise Ytelse"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "topp"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11 /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11 /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "Dagens eksamen"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "På topp"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Dette er eksamen (er) som kan tas akkurat nå"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Ingen eksamener funnet for i dag"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Noe gikk galt."
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Vis"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "innganger"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137 /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "Forrige."
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39 /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "Neste"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Viser {:start} til {:current} av {:count} oppføringer"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "epostbekreftelse"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Fyll bekreftelseskode i tekstboksen"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Re-Send E-postbekreftelse"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Fyll inn e-ID i tekstboksen som du skriver på tidspunktet for registreringen"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12 /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "Kjøpte eksamen"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14 /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "utløpt eksamen"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Dette er eksamen (er) som er utløpt"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36 /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Ingen eksamener funnet"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Takk for at du bruker test"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. Test Instruksjonene var"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "Hovedsakelig Clear"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "medium Clear"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Ikke tydelig"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. Språk på spørsmålet var"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. Samlet test erfaring var"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "God"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "Bedre"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "Beste"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Enhver annen tilbakemelding forslag"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Vennligst lukk alle dine chattevinduer, skjerm-saver, og anti-virus programmer før du starter testen"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Vennligst ikke trykk på \\ \"F5 \" under testen. Dette vil fullføre testen, og du vil ikke være i stand til å re-åpne test"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Svarene dine vil bli lagret. Hvis testen er frakoplet eller annen grunn, vil dine svar frem til det punktet bli frelst"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Lukk alle programmer som laster opp eller ned filer i bakgrunnen For eksempel: Dropbox, torrent, etc"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "Instruksjoner"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Jeg er klar til å begynne"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "Eksamen på start"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Denne eksamen er betalt. Beløpet skal trekkes på lommeboken din automatisk. Etter å ha startet eksamen timeren vil ikke stoppe. Ønsker du å betale og begynne?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Dette er eksamen (er) som har blitt kjøpt"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "Riktig Marks"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Lagre og Neste"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Unreview"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "gjennomgang"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "reset Svar"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Fullført"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Nåværende Spørsmål"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "svarte"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "ikke besvart"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "navigert Away"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "du hadde navigert bort fra testvinduet. Dette vil bli rapportert til moderator"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Ikke gjenta denne atferden"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "Ellers kan du bli diskvalifisert"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Fortsette"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "Ferdig"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Ønsker du å sende inn og lukke"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Når du sender inn, vil du ikke være i stand til å gjennomgå"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Oppsummering av dine forsøk i denne"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "som vist nedenfor"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "Forsøkte"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Gå tilbake til første spørsmål"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Dette er eksamen (e) som er planlagt deg i nær fremtid"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "forsøk nå"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Din ytelse sammenlignet med gruppen"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "Kan ikke lese? Last"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Skriv inn sikkerhetskoden du ser ovenfor"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Svar enkel matematikk"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "forsøk"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "Gjenværende værende~~POS=HEADCOMP"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Utløpsdato"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "Utgått på dato"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Gratis"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "ikke Kjøpt"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Vis Detaljer"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "Load Editor"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9 /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "Installasjon"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Trinn 1 av 4"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Server Configuration & Setup Krav"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Setup Krav"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Installere denne programvaren krever visse server side forlengelse og evne"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "sjekk under og sammenligne med server nåværende statuer til høyre. Du kan klikke på ikonet ved siden av hver teknologi for detaljer."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Extensions & amp; applikasjoner"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP Server. For eksempel: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "Krev"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 eller høyere"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "Database Engine MySQL (4 eller høyere)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "PUD Extension"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Extension"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "Påbudt"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "Server Status"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "Internett server"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP versjon"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL versjon"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PUD utilgjengelig"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "PUD Tilgjengelig"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD noe ledig"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Directory & amp; File Tillatelse"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Disse mapper av filer må være"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "skrivbar"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "for programmet som skal installeres."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Mapper eller filer"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "app / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "app / Config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "app / Config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Oppfrisknings"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "La oss begynne"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Trinn 2 av 4"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "installasjon avtalen"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Jeg godtar å Fortsett"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Trinn 3 av 4"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Database Tilkoblingsinnstillinger"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "Vertsnavn"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "vanligvis Localhost"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "database Name"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "database User"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Database Brukernavn"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "database Password"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "Database User Password"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "database Type"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "test tilkobling"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Trinn 4 av 4"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Navn på ditt nettsted"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "Meta Keyword"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Nyttig for SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Meta innhold for SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Vennligst velg tidssone"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Navnet på din organisasjon / firma"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Standard Admin E-post"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Installer eksempeldata med smokk Entries"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "Installer"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Velkommen til"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "Set Avatar"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Logg Av"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Opphavsrett"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "Følg på facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Nyheter og arrangementer"
+
+#: /View/Layouts/default.ctp:348 /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "Tid"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "Last ned PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Gjennomsnittlig prosent (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "Eksamen Gitt"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "Slett for alltid"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Flytt til søppel"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "Nyheter detaljer"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "Ingen av besøkende"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "Ingen av Studenter"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "Ingen av eksamener"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Betaling Fra Pay Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Pay Fra Pay Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9 /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Profil"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10 /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Edit Profil"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "New Student Register"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Sikkerhetskode"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "svar"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "Mine resultater"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "forsøk Dato"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "SCORE CARD"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "UNDER RAPPORT"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "TIDSFORDRIV"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "SPØRSMÅL RAPPORT"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "LØSNING"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "Sammenlign rapport"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Resultat-kort for"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Totalt Antall Student"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "Mine Marks"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Totalt Marks av Test"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "min Percentile"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Total Spørsmål i test"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Total Forsøk spørsmål i test"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "venstre Spørsmål"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Venstre Spørsmål Marks"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Total tid av Test"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "Min tid"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "min Rank"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Resultatrapport for"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Spørsmål & Marks Wise rapport for"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Subject rapport for"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "korrigere"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Unattempted spørsmål"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Grafisk rapport for"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Time Management For"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Spørsmål rapport for"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "spørsmål Status"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Ditt svar"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Din poengsum"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "Din tid"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "løsning For"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "ikke Forsøk"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "Forsøk"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "Uriktig"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "dine svar"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "Løsning"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Fjern bokmerket"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "Sammenligne rapport for"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Totalt Ques."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "Maksimum Marks"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Forsøk Ques."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Unattempted Ques."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Riktig Ques."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Feil Ques."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "persentil"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "Forrige"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Dette er for å bekrefte at"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "har med hell gjennomført"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "i kursprogram som tilbys av"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "student Pålogging"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "Logg inn"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Glemt Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Ny bruker? Opprett konto"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Motoren er ikke lastet"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf motor \\ \" %s \" ikke funnet"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "Pdf-motorer må utvide \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Crypto er ikke lastet"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf krypto \\ \" %s \" ikke funnet"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "Crypto Motoren må utvide \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "Controller attributt $ pdfConfig er ikke riktig eller mangler"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Testing: url"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Totalt Forespørsler:: forespørsler"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Total tid medgått:: varighet (sekunder)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Forespørsler / Second:: rps req / sek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "Gjennomsnittlig forespørsel tid:: gjennomsnittlig tid sekunder"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Standardavvik av gjennomsnittlig forespørsel tid:: std-dev"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Lengste / korteste forespørsel:: lengste sec /: kortest sek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Lar deg hente noen grove benchmarking statisticsabout en fullstendig nettadresse."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "Webadressen å be."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Antall iterasjoner for å utføre."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "Maksimal total tid for alle gjentakelser, i seconds.If en enkelt iterasjon tar mer enn timeout, vil bare en forespørsel gjøres"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Eksempel Bruk: `kake benchmark-N 10 --T 100 http: // localhost / testsite`. <Info> Merk: </ info> denne benchmark inkluderer ikke leseren gjengi ganger."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "Component initialisering"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "Controller handling"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "Controller handling start"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "Processing verktøylinjen state"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "Behandling verktøylinjen data"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Controller gjengi start"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Kunne ikke laste DebugToolbar panel %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Kjerne Processing (Avledet fra $ _SERVER [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Overskrifter allerede sendt inn %s på linje %s . Kan ikke sende loggdata til FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "Feil parameter teller for FireCake :: fb ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Maksimalt antall (99 999) av meldinger nådd!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Det er ingen aktive paneler. Du må aktivere et panel for å se sin produksjon."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "App konstanter"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP konstanter"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP Miljø"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "HIDEF Miljø"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "forespørsel om History"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Ingen tidligere forespørsler logget."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "tidligere forespørsler tilgjengelige"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Gjenopprett til gjeldende forespørsel"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "inkludert filer"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "logger"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Det var ingen loggoppføringer laget denne forespørselen"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "Forespørsel"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Ingen innlegg data."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Ingen mottatte forespørsels data."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "Gjeldende rute"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "Session"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "sql Logger"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Ingen søkeloggene når feilretting <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Ingen søkeloggene."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Total tid: %s ms <br /> Totalt spørringer: %s spørringer"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Query Forklar:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Klikk på en \\ \"Forklar \" linken ovenfor, for å se spørringen forklaring."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Ingen aktive database tilkoblinger"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "Hukommelse"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Peak Minnebruk"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "bruk Memory"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "Timers"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "%s (ms)"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Total Request Tidspunkt:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Tid i ms"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "Diagram"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Se variabler"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "Gjengivelse Vis"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Gjengivelse %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Vis gjengi komplett"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "forklare"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Starter %s ms til forespørselen, tar %s ms"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "Ingen kodefeil funnet"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "kanskje treg"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "Absolutt sti eller i forhold til APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "Det oppstod en feil ved henting av status for kontoen din."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Det oppstod en feil under tilkobling til Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Det var et problem å initiere transaksjonen, prøv igjen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Det var et problem å få dine detaljer, vennligst prøv igjen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Det var en feil å fullføre betalingen"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Det var et problem å behandle transaksjonen, prøv igjen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Det oppstod en feil under betalingskortet"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Det var et problem under behandling av kortet ditt, kan du prøve på nytt."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Det var en feil under behandling av refusjons"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "Det oppstod et problem under refusjonsprosessen, prøv igjen."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Det var et problem i kommunikasjonen med betalingen gateway"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "Mangler klient id / hemmelig"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Må spesifisere en utløpsdato"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Må inneholde en M og Y i utløpsdato"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "Ugyldig utløpsdato"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "ugyldig kortnummer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "Ugyldig CVV2 nummer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Ugyldig korttype"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "Kunne ikke oppdage klient IP-adresse"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Ikke et gyldig kredittkortnummer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Du må ta den 3-sifrede sikkerhets nummer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Må spesifisere en \\ \"mengde \" for å lade"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Du må passere en gyldig ordre matrise"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Gyldig \\ \"tilbake \" og \\ \"avbryt \" webadresser må oppgis"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Du må gi en valutakode"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "Original PayPal Transaksjons ID kreves"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Må spesifisere en \\ \"mengde \" å refundere"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Du må angi en tilbakebetaling type, for eksempel hel eller delvis"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "Filen ble ikke lastet ned."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Ingen %s funnet for at datointervall"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "Skjemaet data blir bevart du vil bli omdirigert til den etter innlogging."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Feil melding fra %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Albania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Algerie"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "Amerikansk Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "Andorra"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Angola"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "[16] ^ Antarctica."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Antigua og Barbuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Argentina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "Armenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Aruba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "(Australia)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Østerrike"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Aserbajdsjan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Barbados"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Hviterussland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "Belgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "Belize"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Benin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia og Herzegovina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Botswana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "Bouvetøya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Brasil"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Burundi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Kambodsja"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Kamerun."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "Canada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Kapp Verde"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Caymanøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Den sentralafrikanske republikk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Tsjad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Chile,"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "kina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "jule~~POS=TRUNC Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Colombia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Komorene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Kongo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Kongo, Den demokratiske republikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "Cookøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Cote D'Ivoire"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Kroatia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Cuba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Kypros"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Tsjekkia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Danmark"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "den dominikanske republikk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Egypt"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Ekvatorial-Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Estland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falklandsøyene (Malvinas)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Færøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Fiji"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Finland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "frankrike"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "Fransk Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Fransk Polynesia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "De franske sørterritorier"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Gabon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Gambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Tyskland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "Ghana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "hellas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Grønland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Grenada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Guam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Haiti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Hørt Island og McDonald-øyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatikanstaten)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Honduras"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "India"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "(Indonesia)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Islamic Republic of"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Irak"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "Irland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Israel."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "italia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "(Japan)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Jordan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Kenya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "Korea, Den demokratiske folkerepublikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Korea, Republikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Lao Folkets demokratiske republikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "Latvia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Liberia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Macao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Makedonia, Den tidligere jugoslaviske republikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Maldivene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Mali"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "Malta"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Marshalløyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Martinique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Mexico!"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Mikronesiaføderasjonen av"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Moldova, Republikken"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Monaco"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Marokko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Namibia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "Nauru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "Nepal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "De nederlandske Antillene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "Ny Caledonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "Niger"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Nord-Marianene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "norge"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Oman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Palestina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Panama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Papua Ny-Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Peru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Filippinene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "Polen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Portugal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Qatar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "Gjenforening"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Romania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "Russland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts og Nevis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre og Miquelon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent og Grenadinene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Samoa."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "San Marino"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "São Tomé og Príncipe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "Senegal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Serbia og Montenegro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Seychellene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Singapore"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Salomonøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Somalia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "Sør-Afrika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Sør-Georgia og Sør-Sandwichøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "spania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Sudan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Surinam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard og Jan Mayen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Sverige"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Sveits"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Syria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Taiwan, Province i Kina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "Tadsjikistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Tanzania, Den Forente Republikk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "Thailand"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Øst-Timor"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "Å gå"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad og Tobago"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Tyrkia**"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Turks og Caicosøyene"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "Uganda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "De forente arabiske emirater"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Storbritannia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "Forente Stater"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Virgin Islands, British"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Virgin Islands, US"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Wallis og Futuna"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Vest-Sahara"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Jemen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Zambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Ugyldig argument # 1: %s er ikke en gyldig %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s for Row %d ikke klarte å redde."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Du må definere minst ett felt å være toggleable."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Feltet %s er ikke i listen over toggleable felt."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Feltet %s har ikke to toggleable tilstander definert."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "Ugyldig rekord"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235 /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Server lipsum.com returnerer feilkode %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255 /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Svar fra lipsum.com er tom eller ikke kan dekodes."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290 /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Tilkobling til serveren lipsum.com mislyktes. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Vennligst rett feilene under."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21 /View/Errors/missing_controller.ctp:21 /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "Feil"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Den forespurte adressen %s ble ikke funnet på denne serveren."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "En intern feil har oppstått."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "datakilde konfigurasjon ble ikke funnet"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: den raske utviklingen php rammeverk"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug innstillingen gir ikke tilgang til denne url."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Legg til ny eksamen"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Start-og sluttdato"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "Sertifisering av Completion"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Klikk her for å laste ned excel-format"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "Er du sikker på at du ønsker å lukke denne eksamen?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "Er du sikker på at du ønsker å aktivere denne eksamen?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "Avsluttet"
+
+#: /Menu Name
+msgid "Results"
+msgstr "Resultater"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "konfigurasjoner"
+
+#: /Menu Name
+msgid "General"
+msgstr "Generelt"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "innhold"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "E-post og SMS"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Customer Support Service"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "Knowledge Base (for dokumentasjon)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Forum (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Live Chat (For Salg & Billing Only)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Support (For teknisk støtte)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Besøk vår hjemmeside"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "for mer dokumentasjon og opplysninger"

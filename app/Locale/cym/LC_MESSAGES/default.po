@@ -1,0 +1,5484 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 16:01+0530\n"
+"PO-Revision-Date: 2016-04-26 18:50+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: cy\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "Rheolwr ffeil"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Gallwch ddod o hyd i'ch canlyniad yma."
+
+#: /Controller/AjaxcontentsController.php:44 /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Diolch am gofio yr arholiad."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Dashf"
+
+#: /Controller/AppController.php:190 /Plugin/Admin/View/Configurations/index.ctp:121 /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "Bwrdd Arweinydd"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5 /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5 /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "fy Arholiadau"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "fy Canlyniad"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "Perfformiad y grŵp"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "Taliad"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20 /Plugin/Admin/View/Students/trnhistory.ctp:1 /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "Hanes trafodiad"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19 /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "Blwch Post"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112 /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Help"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Cartref"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "Cofrestrwch"
+
+#: /Controller/AppController.php:200 /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Mewngofnodi"
+
+#: /Controller/ContentsController.php:7;13 /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497 /Controller/MailsController.php:89;94;119;160;190;215;247 /Controller/NewsController.php:7;13
+#: /Controller/ProfilesController.php:37;60 /Controller/ResultsController.php:283;307 /Plugin/Admin/Controller/AddquestionsController.php:15;22 /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:122;151 /Plugin/Admin/Controller/ContentsController.php:126;132 /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122
+#: /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583 /Plugin/Admin/Controller/MailsController.php:148 /Plugin/Admin/Controller/QuestionsController.php:244;262
+#: /Plugin/Admin/Controller/ResultsController.php:77;155 /Plugin/Admin/Controller/SlidesController.php:126;132;145;151 /Plugin/Admin/Controller/SmstemplatesController.php:42;76
+#: /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315 /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "Post annilys"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Jan"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "7-25 Chwefror"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "22-28 Mawrth"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "Ebrill"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "Mai 2011"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "13 - 22 Mehefin"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Gorffennaf"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Awst"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "Medi"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Hydref"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "Tachwedd"
+
+#: /Controller/DashboardsController.php:61 /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Rhagfyr"
+
+#: /Controller/DashboardsController.php:62;106 /Controller/GroupperformancesController.php:39 /Plugin/Admin/Controller/ResultsController.php:131 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21 /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30 /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "canran"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "Mis"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "arholiadau"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "gwirio e-bost yn llwyddiannus"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Cod Dilysu Annilys"
+
+#: /Controller/EmailverificationsController.php:109 /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "Mae Cod gwirio anfon i'ch mewnflwch e-bost neu Sbam"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "E-bost Id gwirio eisoes"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "E-bost Id heb ei gofrestru yn y system"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Yr ydych wedi ceisio arholiad mwyaf posibl."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Yr ydych wedi rhoi cynnig ar nifer fwyaf o gwestiynau yn y pwnc hwn"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Gallwch ddod o hyd i'ch canlyniad yma"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Swm annigonol."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. Mae'r cyfarwyddiadau profion yn "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. Iaith y cwestiwn oedd "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. Profiad prawf cyffredinol oedd "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Unrhyw awgrym adborth arall: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Mae adborth wedi cyflwyno yn llwyddiannus!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Adborth a gyflwynwyd eisoes."
+
+#: /Controller/ForgotsController.php:17 /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "Nid yw e-bost id wedi'i gofrestru yn y system"
+
+#: /Controller/ForgotsController.php:69 /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Eich cyswllt ailosod cyfrinair yn cael ei anfon at eich e-bost id cofrestredig"
+
+#: /Controller/ForgotsController.php:91 /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "cod anghywir"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88 /Plugin/Admin/Controller/ForgotsController.php:121 /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Cyfrinair Wedi newid yn llwyddiannus"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "fy Perfformiad"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "perfformiad Fy Group"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Cais gosod yn barod. Tynnu app / tmp / installed.txt i ailosod y cais"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "Unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "ysgrifenadwy"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Yn anffodus! Ffeil Gwall Caniatâd <br> Os gwelwch yn dda app goto / Config / database.php yn y modd ysgrifenadwy."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "Mae cysylltiad ei sefydlu yn llwyddiannus gyda'r gweinydd."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Methu cysylltu â chronfa ddata. Gwiriwch y gosodiadau yn app / Config / database.php a cheisiwch eto"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Yn anffodus! Ffolder Caniatâd Gwall <br> Os gwelwch yn dda ffolder tmp yn y modd ysgrifenadwy."
+
+#: /Controller/MailsController.php:83 /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Mae eich Mail wedi cael ei anfon"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "neges a anfonwyd ymlaen"
+
+#: /Controller/MailsController.php:108 /Plugin/Admin/Controller/MailsController.php:129 /Plugin/Admin/View/Dashboards/index.ctp:69 /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Ffynhonell"
+
+#: /Controller/MailsController.php:109 /Plugin/Admin/Controller/MailsController.php:130 /Plugin/Admin/View/Addquestions/index.ctp:20;53 /Plugin/Admin/View/Exams/add.ctp:239 /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23 /Plugin/Admin/View/Mails/compose.ctp:42;44 /Plugin/Admin/View/Questions/add.ctp:132 /Plugin/Admin/View/Questions/edit.ctp:146 /Plugin/Admin/View/Questions/index.ctp:23;51
+#: /Plugin/Admin/View/Questions/view.ctp:47 /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39 /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "pwnc"
+
+#: /Controller/MailsController.php:153 /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "Mae'r post wedi cael ei symud i'r Bin Sbwriel"
+
+#: /Controller/MailsController.php:183 /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Mae eich Mail wedi cael ei ddileu"
+
+#: /Controller/MailsController.php:209 /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "Mae'r post wedi cael ei symud i'r Blwch Derbyn"
+
+#: /Controller/MailsController.php:236 /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "Mae'r post wedi cael ei farcio fel Read"
+
+#: /Controller/MailsController.php:240 /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "Mae'r post wedi cael ei farcio fel Heb ei Ddarllen"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "Paypal Taliad heb ei osod"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "talu Diddymu"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "Talu waled"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Ceisio eto! Methu cysylltu â paypal"
+
+#: /Controller/PaymentsController.php:79 /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "Swm annilys"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Taliad a wnaed eisoes"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Talu heb ei wneud"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Talu yn llwyddiannus! Swm %s hychwanegu yn eich waled "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Proffil Diweddarwyd yn llwyddiannus"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Diweddarwyd Photo Llwyddiannus"
+
+#: /Controller/ProfilesController.php:93 /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "annilys Cyfrinair"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Dewiswch unrhyw grŵp"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Côd Diogelwch Annilys"
+
+#: /Controller/ResultsController.php:133;178 /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "sgôr"
+
+#: /Controller/ResultsController.php:142;188 /Plugin/Admin/Controller/ResultsController.php:239 /Plugin/Admin/View/Results/index.ctp:40;126 /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7 /View/Results/attemptedpapers.ctp:17 /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Max Marks"
+
+#: /Controller/ResultsController.php:143;187 /Plugin/Admin/Controller/ResultsController.php:238 /Plugin/Admin/View/Results/index.ctp:41;127 /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8 /View/Results/attemptedpapers.ctp:15 /View/Results/index.ctp:29
+#: /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "marciau Sgoriodd"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Pwnc Wise Amser a Gymerwyd"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "Perfformiad Myfyrwyr"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "Cwestiwn cywir"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "Cwestiwn anghywir"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "Marciau Right"
+
+#: /Controller/ResultsController.php:195 /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19 /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "Marciau negyddol"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Canran (%) mewn Arholiad"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Canran (%)"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "st"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "nd"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "ydd"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "th"
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Rydych %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Topper %s"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422 /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "Gweinyddwraig"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "Porth talu"
+
+#: /Controller/TransactionhistorysController.php:21 /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "Arholiad cyflog"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Mae eich cyfrif wedi darfod. Cysylltwch â gweinyddwr"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Rydych wedi cael eich mewngofnodi yn llwyddiannus"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Eich e-bost nid yw gwirio! Os gwelwch yn dda cliciwch ar y ddolen a anfonir i'ch mewnflwch e-bost neu spam"
+
+#: /Controller/UsersController.php:58 /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "enw defnyddiwr Anghywir / cyfrinair"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Rydych wedi cael eich allgofnodi llwyddiannus"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Rydych yn %s Aelod! Cysylltwch â gweinyddwr"
+
+#: /Controller/Component/CustomFunctionComponent.php:14 /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "Oriau"
+
+#: /Controller/Component/CustomFunctionComponent.php:20 /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "69 munud"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28 /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "sec"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "Cyfanswm terfynol"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Mae eich cwestiwn wedi cael ei ychwanegu ar gyfer arholiad"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Mae eich cwestiwn wedi cael ei ddileu ar gyfer arholiad"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "Dim Caniatâd"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Hysbyseb wedi ei gadw"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63 /Plugin/Admin/Controller/ContentsController.php:62;73 /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64 /Plugin/Admin/Controller/ExamsController.php:128;141 /Plugin/Admin/Controller/GroupsController.php:55;66 /Plugin/Admin/Controller/HelpcontentsController.php:52;63
+#: /Plugin/Admin/Controller/MenunamesController.php:32;43 /Plugin/Admin/Controller/NewsController.php:52;63 /Plugin/Admin/Controller/QtypesController.php:32;43 /Plugin/Admin/Controller/QuestionsController.php:122;129
+#: /Plugin/Admin/Controller/SlidesController.php:61;72 /Plugin/Admin/Controller/SmstemplatesController.php:51;62 /Plugin/Admin/Controller/StudentsController.php:133;146;365
+#: /Plugin/Admin/Controller/SubjectsController.php:106;121 /Plugin/Admin/Controller/TestimonialsController.php:52;63 /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "swydd annilys"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Hysbyseb wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160 /Plugin/Admin/Controller/SlidesController.php:162 /Plugin/Admin/Controller/StudentsController.php:326 /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Wedi newid Photo Llwyddiannus"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85 /Plugin/Admin/View/Results/result.ctp:235 /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211 /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "Heb ei Ymgais"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "marciau Diweddarwyd"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "llwyddiannus cwblhau"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Arholiad Llwyddiannus Ar gau"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Saesneg"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "Ffrangeg"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139 /Plugin/Admin/Controller/EmailsettingsController.php:24 /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Mae eich Gosod wedi cael ei hachub"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Tudalen Ychwanegwyd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Tudalennau Diweddarwyd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Dilëwyd y dudalen"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Page wedi bod heb ei gyhoeddi"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Page wedi cael ei Cyhoeddwyd"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159 /Plugin/Admin/Controller/SignaturesController.php:43 /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "rhywbeth o'i le"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Arian wedi ei gadw"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Arian wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "Manylion Myfyrwyr"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "Active"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103 /Plugin/Admin/View/Attemptedpapers/index.ctp:43 /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "Tra'n aros"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104 /Plugin/Admin/View/Advertisements/edit.ctp:43 /Plugin/Admin/View/Helpcontents/edit.ctp:26 /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52 /Plugin/Admin/View/Students/edit.ctp:37 /Plugin/Admin/View/Testimonials/edit.ctp:30 /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "Seibio"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115 /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "Pasio"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116 /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "methu"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117 /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "absennol"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135 /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "Myfyriwr"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158 /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Pasio %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159 /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Cyfartaledd %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "Cyfrif cwestiwn"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226 /Plugin/Admin/View/Dashboards/index.ctp:172 /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "Cyfanswm Cwestiwn"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Banc Cwestiynau Trafferth Wise"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "hawdd"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "canolig"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "caled"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51 /Plugin/Admin/Controller/MenunamesController.php:51 /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "Enw wedi'i ddiweddaru"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "templed e-bost wedi ei gadw"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "templed e-bost wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Dyddiad Gorffen yn llai na Dyddiad dechrau"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160 /Plugin/Admin/Controller/QuestionsController.php:81;152 /Plugin/Admin/Controller/StudentsController.php:157 /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Dewiswch unrhyw grŵp"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Os gwelwch yn dda Ychwanegwch Pwnc I'r Arholiad"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Arholiad wedi ei gadw. Ychwanegu cwestiynau mewn arholiad"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Arholiad wedi ei gadw"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Arholiad wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Arholiad wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303 /Plugin/Admin/View/Addquestions/index.ctp:26 /Plugin/Admin/View/Exams/add.ctp:213;264 /Plugin/Admin/View/Exams/view.ctp:81;146 /Plugin/Admin/View/Questions/add.ctp:158
+#: /Plugin/Admin/View/Questions/edit.ctp:173 /Plugin/Admin/View/Questions/index.ctp:29 /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "anhawster Lefel"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Pwnc Cyfrif Wise Cwestiwn"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Arholiad anweithredol sucessfully"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Arholiad activated sucessfully"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Nid oes unrhyw gwestiwn hychwanegu!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Mae eich enw defnyddiwr yn cael ei anfon at eich e-bost id cofrestredig"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Grŵp Ychwanegwyd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Grŵp wedi cael eu hachub"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Grŵp wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "Dileu pwnc cyntaf"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "content Help wedi ei gadw"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "content Help wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Cwestiynau mewnforio'n llwyddiannus"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49 /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "Ffeil Nid llwytho i fyny"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55 /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Dim ond CSV Ffeil gefnogir"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61 /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Dewiswch Pwnc"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Dewiswch unrhyw Grŵp"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Myfyrwyr mewnforio'n llwyddiannus"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Os gwelwch yn dda Grŵp Dewiswch"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Myfyrwyr E-bost heb ei darganfod"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Newyddion wedi ei gadw"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Newyddion wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "Gosod Talu Paypal wedi cael ei hachub"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "gosod Problem"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Dewiswch yr ateb cywir"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Dewiswch cywir neu anghywir"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Llenwch gofod gwag"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Cwestiwn ychwanegu at fanc yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Cwestiwn wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Cwestiwn wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231 /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "Dileu arholiad yn gyntaf!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Cwestiwn Anhawster Lefel"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "Perfformiadau"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Ymgeisydd Marks Dosbarthu"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Marks Dosbarthu"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27 /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Dewiswch unrhyw fath yn y rhestr"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Teipiwch unrhyw e-bost"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "E-bost wedi ei anfon"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Dim e-bost i anfon"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Teipiwch unrhyw enw"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "Sms wedi cael ei anfon"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Dim sms i anfon"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Llofnod wedi ei gadw"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "Llofnod wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Slide wedi ei gadw"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Slide wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "templed SMS wedi ei gadw"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "templed SMS wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Ychwanegodd myfyriwr yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117 /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Dewiswch atleast un grŵp"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Myfyriwr wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Myfyriwr wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Waled myfyriwr wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Pwnc Ychwanegwyd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Pwnc eisoes yn bodoli"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Pwnc wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Pwnc wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Tysteb wedi ei gadw"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Tysteb wedi cael ei ddiweddaru"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Tysteb wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Defnyddiwr Ychwanegwyd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Defnyddiwr wedi'i ddiweddaru"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Defnyddiwr wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "Diweddariad Caniatâd yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Rydych wedi cael eich mewngofnodi yn llwyddiannus"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Rydych wedi cael eich logio allan"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Defnyddiwr Lefel wedi ei gadw"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "defnyddiwr Lefel wedi cael ei ddileu"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo wedi ei gadw"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo wedi cael ei ddileu"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10 /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Ychwanegu Cwestiynau"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23 /Plugin/Admin/View/Exams/add.ctp:212;257 /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49 /Plugin/Admin/View/Questions/index.ctp:26 /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "Math o gwestiwn"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29 /Plugin/Admin/View/Questions/index.ctp:32 /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Chwilio"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30 /Plugin/Admin/View/Questions/index.ctp:33 /Plugin/Admin/View/Sendemails/index.ctp:128 /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Ailosod"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Ychwanegu I'r Arholiad"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Dileu I'r Arholiad"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38 /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Back To Arholiad"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52 /Plugin/Admin/View/Contents/pages.ctp:31 /Plugin/Admin/View/Currencies/index.ctp:31 /Plugin/Admin/View/Diffs/index.ctp:30 /Plugin/Admin/View/Emailtemplates/index.ctp:32
+#: /Plugin/Admin/View/Groups/index.ctp:31 /Plugin/Admin/View/Helpcontents/index.ctp:32 /Plugin/Admin/View/Menunames/index.ctp:30 /Plugin/Admin/View/News/index.ctp:32 /Plugin/Admin/View/Qtypes/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:49 /Plugin/Admin/View/Results/index.ctp:122 /Plugin/Admin/View/Slides/index.ctp:31 /Plugin/Admin/View/Smstemplates/index.ctp:32 /Plugin/Admin/View/Students/index.ctp:34
+#: /Plugin/Admin/View/Students/trnhistory.ctp:18 /Plugin/Admin/View/Subjects/index.ctp:31 /Plugin/Admin/View/Testimonials/index.ctp:32 /Plugin/Admin/View/Users/assignrightsedit.ctp:18 /Plugin/Admin/View/Users/index.ctp:32
+#: /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54 /Plugin/Admin/View/Sendemails/index.ctp:84 /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10 /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "math"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "Corff o Gwestiwn"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56 /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "LEVEL"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57 /Plugin/Admin/View/Attemptedpapers/index.ctp:163 /Plugin/Admin/View/Dashboards/index.ctp:30 /Plugin/Admin/View/Questions/add.ctp:147 /Plugin/Admin/View/Questions/edit.ctp:161
+#: /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84 /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "Mae Bara Mark"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58 /Plugin/Admin/View/Advertisements/index.ctp:35;47 /Plugin/Admin/View/Contents/pages.ctp:36;50 /Plugin/Admin/View/Currencies/index.ctp:35;47 /Plugin/Admin/View/Diffs/index.ctp:32
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:35;46 /Plugin/Admin/View/Groups/index.ctp:33;43 /Plugin/Admin/View/Helpcontents/index.ctp:35;46 /Plugin/Admin/View/Menunames/index.ctp:35 /Plugin/Admin/View/News/index.ctp:35;46
+#: /Plugin/Admin/View/Qtypes/index.ctp:32 /Plugin/Admin/View/Questions/index.ctp:53;65 /Plugin/Admin/View/Results/index.ctp:44;130 /Plugin/Admin/View/Slides/index.ctp:35;47 /Plugin/Admin/View/Smstemplates/index.ctp:36;48
+#: /Plugin/Admin/View/Students/index.ctp:41;57 /Plugin/Admin/View/Students/wallet.ctp:41 /Plugin/Admin/View/Subjects/index.ctp:35;47 /Plugin/Admin/View/Testimonials/index.ctp:37;54
+#: /Plugin/Admin/View/Users/assignrights.ctp:19;28 /Plugin/Admin/View/Users/index.ctp:40;57 /View/Helper/FunctionHelper.php:110 /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Camau Gweithredu"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Ychwanegu Hysbyseb"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8 /Plugin/Admin/View/Advertisements/edit.ctp:11;13 /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "Enw hysbyseb"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14 /Plugin/Admin/View/Advertisements/edit.ctp:17;19 /Plugin/Admin/View/Advertisements/index.ctp:33 /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31 /Plugin/Admin/View/Menunames/index.ctp:34 /Plugin/Admin/View/Slides/add.ctp:14;16 /Plugin/Admin/View/Slides/edit.ctp:18;20 /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "archebu"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20 /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24 /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "Math URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "mewnol"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26 /Plugin/Admin/View/Advertisements/edit.ctp:31 /Plugin/Admin/View/Contents/add.ctp:38 /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "allanol"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30 /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "URL Targed"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "_self"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32 /Plugin/Admin/View/Advertisements/edit.ctp:37 /Plugin/Admin/View/Contents/add.ctp:48 /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "_blank"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Llwytho i fyny Image (350 * 260)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43 /Plugin/Admin/View/Contents/add.ctp:71 /Plugin/Admin/View/Currencies/add.ctp:28 /Plugin/Admin/View/Emailtemplates/add.ctp:19 /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26 /Plugin/Admin/View/Groups/add.ctp:13 /Plugin/Admin/View/Helpcontents/add.ctp:20 /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16 /Plugin/Admin/View/Smstemplates/add.ctp:20 /Plugin/Admin/View/Students/add.ctp:63 /Plugin/Admin/View/Subjects/add.ctp:19 /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14 /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Save"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44 /Plugin/Admin/View/Advertisements/changephoto.ctp:21 /Plugin/Admin/View/Contents/add.ctp:72 /Plugin/Admin/View/Contents/edit.ctp:89 /Plugin/Admin/View/Currencies/add.ctp:29
+#: /Plugin/Admin/View/Diffs/edit.ctp:29 /Plugin/Admin/View/Emailtemplates/add.ctp:20 /Plugin/Admin/View/Emailtemplates/edit.ctp:45 /Plugin/Admin/View/Exams/add.ctp:222;274 /Plugin/Admin/View/Exams/edit.ctp:155
+#: /Plugin/Admin/View/Groups/add.ctp:14 /Plugin/Admin/View/Groups/edit.ctp:29 /Plugin/Admin/View/Helpcontents/add.ctp:21 /Plugin/Admin/View/Helpcontents/edit.ctp:42 /Plugin/Admin/View/Mails/compose.ctp:56
+#: /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21 /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29 /Plugin/Admin/View/Questions/add.ctp:164
+#: /Plugin/Admin/View/Questions/edit.ctp:181 /Plugin/Admin/View/Slides/add.ctp:29 /Plugin/Admin/View/Slides/changephoto.ctp:21 /Plugin/Admin/View/Slides/edit.ctp:43 /Plugin/Admin/View/Smstemplates/add.ctp:21
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:46 /Plugin/Admin/View/Students/add.ctp:64 /Plugin/Admin/View/Students/changepass.ctp:40 /Plugin/Admin/View/Students/changephoto.ctp:22 /Plugin/Admin/View/Students/edit.ctp:88
+#: /Plugin/Admin/View/Students/wallet.ctp:65 /Plugin/Admin/View/Subjects/add.ctp:20 /Plugin/Admin/View/Subjects/edit.ctp:39 /Plugin/Admin/View/Testimonials/add.ctp:29 /Plugin/Admin/View/Testimonials/changephoto.ctp:21
+#: /Plugin/Admin/View/Testimonials/edit.ctp:47 /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79 /Plugin/Admin/View/Users/leveladd.ctp:15 /View/Ajaxcontents/examclose.ctp:18;19
+#: /View/Exams/feedbacks.ctp:36 /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Cau"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3 /Plugin/Admin/View/Slides/changephoto.ctp:3 /Plugin/Admin/View/Students/changephoto.ctp:4 /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3 /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "Diweddariad Photo"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7 /Plugin/Admin/View/Students/add.ctp:56 /Plugin/Admin/View/Students/changephoto.ctp:8 /Plugin/Admin/View/Testimonials/changephoto.ctp:7 /View/Profiles/change_photo.ctp:26
+#: /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Llwytho Llun"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19 /Plugin/Admin/View/Advertisements/edit.ctp:57 /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27 /Plugin/Admin/View/Emailtemplates/edit.ctp:43
+#: /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27 /Plugin/Admin/View/Helpcontents/edit.ctp:40 /Plugin/Admin/View/Menunames/edit.ctp:45 /Plugin/Admin/View/News/edit.ctp:40
+#: /Plugin/Admin/View/Qtypes/edit.ctp:27 /Plugin/Admin/View/Questions/edit.ctp:179 /Plugin/Admin/View/Slides/add.ctp:27 /Plugin/Admin/View/Slides/changephoto.ctp:19 /Plugin/Admin/View/Slides/edit.ctp:41
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:44 /Plugin/Admin/View/Students/changepass.ctp:38 /Plugin/Admin/View/Students/changephoto.ctp:20 /Plugin/Admin/View/Students/edit.ctp:86 /Plugin/Admin/View/Students/wallet.ctp:63
+#: /Plugin/Admin/View/Subjects/edit.ctp:37 /Plugin/Admin/View/Testimonials/changephoto.ctp:19 /Plugin/Admin/View/Testimonials/edit.ctp:45 /Plugin/Admin/View/Users/assignrightsedit.ctp:36
+#: /Plugin/Admin/View/Users/change_pass.ctp:39 /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58 /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Diweddariad"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20 /Plugin/Admin/View/Advertisements/edit.ctp:58 /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28 /Plugin/Admin/View/Emailtemplates/edit.ctp:44
+#: /Plugin/Admin/View/Exams/edit.ctp:154 /Plugin/Admin/View/Exams/maxquestion.ctp:27 /Plugin/Admin/View/Groups/edit.ctp:28 /Plugin/Admin/View/Helpcontents/edit.ctp:41 /Plugin/Admin/View/Menunames/edit.ctp:46
+#: /Plugin/Admin/View/News/edit.ctp:41 /Plugin/Admin/View/Qtypes/edit.ctp:28 /Plugin/Admin/View/Questions/edit.ctp:180 /Plugin/Admin/View/Slides/add.ctp:28 /Plugin/Admin/View/Slides/changephoto.ctp:20
+#: /Plugin/Admin/View/Slides/edit.ctp:42 /Plugin/Admin/View/Smstemplates/edit.ctp:45 /Plugin/Admin/View/Students/changepass.ctp:39 /Plugin/Admin/View/Students/changephoto.ctp:21 /Plugin/Admin/View/Students/edit.ctp:87
+#: /Plugin/Admin/View/Students/wallet.ctp:64 /Plugin/Admin/View/Subjects/edit.ctp:38 /Plugin/Admin/View/Testimonials/changephoto.ctp:20 /Plugin/Admin/View/Testimonials/edit.ctp:46 /Plugin/Admin/View/Users/edit.ctp:78
+#: /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Diddymu"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "golygu Hysbysebion"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8 /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8 /Plugin/Admin/View/Emailtemplates/edit.ctp:8 /Plugin/Admin/View/Exams/edit.ctp:30
+#: /Plugin/Admin/View/Groups/edit.ctp:8 /Plugin/Admin/View/Helpcontents/edit.ctp:9 /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9 /Plugin/Admin/View/Qtypes/edit.ctp:8
+#: /Plugin/Admin/View/Slides/edit.ctp:9 /Plugin/Admin/View/Smstemplates/edit.ctp:9 /Plugin/Admin/View/Students/edit.ctp:13 /Plugin/Admin/View/Subjects/edit.ctp:8 /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "ffurf"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41 /Plugin/Admin/View/Advertisements/index.ctp:34 /Plugin/Admin/View/Emailtemplates/edit.ctp:23 /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24 /Plugin/Admin/View/Helpcontents/index.ctp:34 /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34 /Plugin/Admin/View/Slides/edit.ctp:24
+#: /Plugin/Admin/View/Slides/index.ctp:34 /Plugin/Admin/View/Smstemplates/edit.ctp:24 /Plugin/Admin/View/Smstemplates/index.ctp:35 /Plugin/Admin/View/Students/add.ctp:50 /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40 /Plugin/Admin/View/Testimonials/edit.ctp:28 /Plugin/Admin/View/Testimonials/index.ctp:35 /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "statws"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "hysbysebion"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Ychwanegu Hysbyseb Newydd"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52 /Plugin/Admin/View/Contents/pages.ctp:16;53 /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41 /Plugin/Admin/View/Emailtemplates/index.ctp:17;50
+#: /Plugin/Admin/View/Groups/index.ctp:16;46 /Plugin/Admin/View/Helpcontents/index.ctp:16;49 /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:16;47 /Plugin/Admin/View/News/index.ctp:16;49
+#: /Plugin/Admin/View/Qtypes/edit.ctp:3 /Plugin/Admin/View/Qtypes/index.ctp:16;41 /Plugin/Admin/View/Questions/index.ctp:69 /Plugin/Admin/View/Slides/index.ctp:16;52 /Plugin/Admin/View/Smstemplates/index.ctp:17;51
+#: /Plugin/Admin/View/Students/index.ctp:16;62 /Plugin/Admin/View/Subjects/index.ctp:16;51 /Plugin/Admin/View/Testimonials/index.ctp:16;58 /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Golygu"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53 /Plugin/Admin/View/Contents/pages.ctp:17;54 /Plugin/Admin/View/Currencies/index.ctp:16;50 /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47 /Plugin/Admin/View/Helpcontents/index.ctp:17;50 /Plugin/Admin/View/News/index.ctp:17;50 /Plugin/Admin/View/Questions/index.ctp:16;70 /Plugin/Admin/View/Slides/index.ctp:17;53
+#: /Plugin/Admin/View/Smstemplates/index.ctp:18;52 /Plugin/Admin/View/Students/index.ctp:17;63 /Plugin/Admin/View/Subjects/index.ctp:17;52 /Plugin/Admin/View/Testimonials/index.ctp:17;59
+#: /Plugin/Admin/View/Users/assignrights.ctp:8;32 /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Dileu"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50 /Plugin/Admin/View/Emailtemplates/index.ctp:49 /Plugin/Admin/View/Questions/index.ctp:68 /Plugin/Admin/View/Slides/index.ctp:50 /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "wel"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51 /Plugin/Admin/View/Slides/index.ctp:51 /Plugin/Admin/View/Testimonials/index.ctp:57 /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "Newid Photo"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6 /Plugin/Admin/View/Slides/view.ctp:3 /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Gweld Sleidiau"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Papurau Ymgais o"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34 /Plugin/Admin/View/Diffs/edit.ctp:11;13 /Plugin/Admin/View/Diffs/index.ctp:31 /Plugin/Admin/View/Emailtemplates/add.ctp:6;8 /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:33 /Plugin/Admin/View/Emailtemplates/view.ctp:8 /Plugin/Admin/View/Qtypes/edit.ctp:11;13 /Plugin/Admin/View/Qtypes/index.ctp:31 /Plugin/Admin/View/Smstemplates/add.ctp:7;9
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:12;14 /Plugin/Admin/View/Smstemplates/index.ctp:33 /Plugin/Admin/View/Students/add.ctp:16;18 /Plugin/Admin/View/Students/edit.ctp:31;33 /Plugin/Admin/View/Students/index.ctp:36
+#: /Plugin/Admin/View/Students/wallet.ctp:17 /Plugin/Admin/View/Testimonials/add.ctp:9;11 /Plugin/Admin/View/Testimonials/edit.ctp:16;18 /Plugin/Admin/View/Testimonials/index.ctp:33 /Plugin/Admin/View/Users/add.ctp:30;32
+#: /Plugin/Admin/View/Users/edit.ctp:41;43 /Plugin/Admin/View/Users/index.ctp:35 /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8 /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13
+#: /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22 /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Enw"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36 /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5 /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5 /Plugin/Admin/View/Students/add.ctp:6;8 /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35 /Plugin/Admin/View/Students/trnhistory.ctp:19 /Plugin/Admin/View/Students/wallet.ctp:11 /Plugin/Admin/View/Users/add.ctp:36;38 /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36 /Plugin/Admin/View/Users/my_profile.ctp:15 /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12 /View/Registers/index.ctp:10;12 /View/Results/pdf/certificate.ctp:10
+#: /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "E-bost "
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40 /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "Marciau Cyfanswm"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "Marciau a Enillwyd"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "canlyniad terfynol"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "cwblhau Mae'n"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "PASIWYD"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19 /Plugin/Admin/View/Results/index.ctp:20;57;143 /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41 /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "METHWYD"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "derfynol Gan"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "cwestiwn Dim"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78 /Plugin/Admin/View/Questions/add.ctp:63;78 /Plugin/Admin/View/Questions/edit.ctp:74;88;89 /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "Opsiwn 1"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84 /Plugin/Admin/View/Questions/add.ctp:64;82 /Plugin/Admin/View/Questions/edit.ctp:75;92;93 /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "Opsiwn2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90 /Plugin/Admin/View/Questions/add.ctp:65;86 /Plugin/Admin/View/Questions/edit.ctp:76;96;97 /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "Dewis 3"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96 /Plugin/Admin/View/Questions/add.ctp:66;90 /Plugin/Admin/View/Questions/edit.ctp:77;100;101 /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "Dewis 4"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102 /Plugin/Admin/View/Questions/add.ctp:67;94 /Plugin/Admin/View/Questions/edit.ctp:78;104;105 /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "Option5"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108 /Plugin/Admin/View/Questions/add.ctp:68;98 /Plugin/Admin/View/Questions/edit.ctp:79;108;109 /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "Option6"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158 /Plugin/Admin/View/Results/result.ctp:175 /Plugin/Admin/View/Results/stdexamresult.ctp:161 /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "Ateb amlwg"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159 /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Ateb cywir"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162 /Plugin/Admin/View/Results/result.ctp:25;103;179 /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165 /View/Results/attemptedpapers.ctp:18 /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "amser a Gymerwyd"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "marciau a Enillwyd"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Gwiriwyd gan"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "system"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "Dewisiadau ffurfweddiad"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8 /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Enw'r safle"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12 /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "sefydliad Enw"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18 /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Enw parth"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22 /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "sefydliad E-bost"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "Teitl meta"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32 /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "Disgrifiad meta"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36 /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Parth amser"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85 /Plugin/Admin/View/Iequestions/index.ctp:25 /Plugin/Admin/View/Questions/add.ctp:134;158 /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116 /Plugin/Admin/View/Sendsms/index.ctp:93;117 /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "dewiswch"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40 /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "arian cyfred"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "pennawd Cyswllt"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "E-BOST/CYSWLLT"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "cofnodion Arddangos ar bob tudalen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Max yn cofnodi bob tudalen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "dyddiad Ffurf"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Dyddiad, Mis, Blwyddyn, Awr, Min, Sec, Meridian, Dyddiad Seprator, Amser Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Delwedd"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "Testun"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "Cyfeiriad Testun"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Chwith i'r dde (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Hawl i Chwith (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "iaith"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Galluogi Hysbysiad SMS"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Galluogi E-bost Hysbysiad"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "Gwirio Llawlyfr"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Cofrestru Front End"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Blaen End Sleidiau"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "Cyfieithu 10"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117 /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101 /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "Arholiad dalwyd"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "Math Golygydd"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "Yn dod i ben arholiad"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "Adborth arholiad"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Cyfrif Tolrance"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "Tystysgrif"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "Geirda"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "hysbyseb"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "Nifer o Ymwelwyr"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "Nifer y Myfyrwyr"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "Nifer y Arholiad"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174 /Plugin/Admin/View/Emailsettings/index.ctp:43 /Plugin/Admin/View/Payments/index.ctp:31 /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "Cadw Gosodiadau"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Ychwanegu Tudalennau"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28 /Plugin/Admin/View/Contents/edit.ctp:32;34 /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "Cyswllt Enw"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32 /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "Gorchymyn Link"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36 /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "Page Math"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44 /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "Url allanol"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46 /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "url targed"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55 /Plugin/Admin/View/Contents/pages.ctp:33 /Plugin/Admin/View/Menunames/edit.ctp:17;19 /Plugin/Admin/View/Menunames/index.ctp:32 /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Page Enw"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59 /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "tudalen Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65 /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "Gynnwys y dudalen"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "golygu Tudalennau"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "tudalennau 8-15"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Ychwanegu New Tudalen"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "cyhoeddwyd"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47 /Plugin/Admin/View/Emailtemplates/edit.ctp:26 /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "heb ei gyhoeddi"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Ychwanegu Arian"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11 /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "arian cyfred Enw"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17 /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "Enw byr"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Llwytho i fyny Arian cyfred (Llai neu'n hafal i 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Ychwanegu New Arian"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "Mewn Arholiad Cynnydd"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13 /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13 /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "Arholiad i Ddod"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "Arholiad cwblhawyd"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18 /Plugin/Admin/View/Sendemails/index.ctp:86;90 /Plugin/Admin/View/Sendsms/index.ctp:93;97 /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "£5 i fyfyrwyr"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "Yn Cynnydd & Arholiadau Ddod"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Dyddiad"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28 /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8 /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "arholiad Enw"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122 /Plugin/Admin/View/Iequestions/index.ctp:17 /Plugin/Admin/View/Iestudents/index.ctp:17 /Plugin/Admin/View/Questions/index.ctp:52 /Plugin/Admin/View/Results/index.ctp:8;78;99
+#: /Plugin/Admin/View/Students/add.ctp:10 /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12 /Plugin/Admin/View/Users/edit.ctp:19 /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "grŵp"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31 /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "Hyd:"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Canlyniadau Arholiadau Diweddar"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61 /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "arholiad"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62 /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "Canlyniad cyffredinol"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63 /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "Ystadegau Myfyrwyr"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70 /Plugin/Admin/View/Exams/stats.ctp:16 /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "£1.50 i £300"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71 /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "MANYLION:"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Top 10 Group Wise Myfyrwyr"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Ystadegau Myfyrwyr Tabl"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "Cyfanswm y myfyrwyr"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "Cyfanswm Active"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "Cyfanswm Pending"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "Cyfanswm Ataliedig"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Banc Cwestiynau Pwnc Wise"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Anhawster Lefel y Gwestiynau"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Cyfrif cwestiwn Tabl"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "Enw banc"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "Cyfanswm Hawdd"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Cyfanswm Normal"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "Cyfanswm Anodd"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "Diffculty Lefel"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "Gosodiadau E-bost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "Math Ebost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "localhost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Gweinydd Enw / Gwesteiwr"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "Port"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33 /Plugin/Admin/View/Payments/index.ctp:6;8 /Plugin/Admin/View/Smssettings/index.ctp:17;19 /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Enw Defnyddiwr"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37 /Plugin/Admin/View/Forgots/reset.ctp:20 /Plugin/Admin/View/Payments/index.ctp:12;14 /Plugin/Admin/View/Smssettings/index.ctp:21;23 /Plugin/Admin/View/Students/add.ctp:20;22
+#: /Plugin/Admin/View/Students/changepass.ctp:20;22 /Plugin/Admin/View/Users/add.ctp:24;26 /Plugin/Admin/View/Users/change_pass.ctp:26;28 /Plugin/Admin/View/Users/edit.ctp:35;37 /Plugin/Admin/View/Users/login_form.ctp:9
+#: /View/Completes/index.ctp:41;47 /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47 /View/Registers/index.ctp:24;26 /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "cyfrinair"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Ychwanegu Ebost Templed"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14 /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19 /Plugin/Admin/View/Emailtemplates/view.ctp:3 /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "E-bost Templed"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Templedi Golygu Ebost"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "Templedi E-bost"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Ychwanegu Email Template Newydd"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12 /Plugin/Admin/View/Smstemplates/add.ctp:13;15 /Plugin/Admin/View/Smstemplates/edit.ctp:18;20 /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "Templed"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Pwnc Ychwanegwyd yn llwyddiannus"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Ychwanegu Arholiad"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92 /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Enw'r Arholiad"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96 /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "pasio Canran"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102 /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "cyfarwyddyd"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Arholiad Hyd (Min.)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 am gyfnod diderfyn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "Cyfrif Ceisio"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 ar gyfer ymgais diderfyn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60 /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20 /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "Dyddiad cychwyn"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67 /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22 /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "Dyddiad Gorffen"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76 /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Dangos Dalen Ateb"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "Oes"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195 /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130 /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Nac oes"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80 /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "Dewiswch Grŵp"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "Grŵp Myfyrwyr"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90 /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "negyddol Marcio"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "Cwestiwn ar hap"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161 /Plugin/Admin/View/Exams/edit.ctp:106;108 /Plugin/Admin/View/Exams/view.ctp:40 /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "S"
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "Tolrance porwr"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136 /Plugin/Admin/View/Students/add.ctp:46 /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "Diwrnodau Yn dod i ben"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138 /Plugin/Admin/View/Exams/maxquestion.ctp:16 /Plugin/Admin/View/Students/add.ctp:48 /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 ar gyfer Unlimited"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114 /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Canlyniad Wedi Gorffen"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "modd"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "Prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124 /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "Canlyniad Instant"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128 /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "opsiwn Shuffle"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Ychwanegu Pynciau I'r Arholiadau"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209 /Plugin/Admin/View/Subjects/add.ctp:12;14 /Plugin/Admin/View/Subjects/edit.ctp:21;23 /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Enw pwnc"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247 /Plugin/Admin/View/Results/result.ctp:100 /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "Nifer o Gwestiynau"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Ques Ceisio Cyfrif"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251 /Plugin/Admin/View/Exams/maxquestion.ctp:9 /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Cwestiynau Ceisio Cyfrif"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Gadewch yn wag am beidio â dangos (0 i anghyfyngedig)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "ctrl + cliciwch i ychwanegu lluosrifau"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Ychwanegu"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "golygu Arholiad"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "Ystadegau arholiad"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Dim Myfyrwyr Pasiwyd"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Lawrlwytho"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Dim Myfyrwyr wedi Methu"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Dim o Absennol Myfyrwyr"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "Manylion arholiad"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "cwblhau Canlyniad"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "Papurau ymgais"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "Grŵp cymwys"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Arholiad Close"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "gweithredoli Arholiad"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Arholiad Ar gau Ail-Activate Arholiad"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "Tolrence porwr"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "Yn dod i ben"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "Diderfyn"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "Diwrnodau"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "goddrychol"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Amcan"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Gwir & amp; Anghywir"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Llenwch y bylchau"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "Cwestiynau y myfyrwyr"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Cyfrif Ceisio cwestiwn"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "H"
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "CYFANSWM £6,575"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "H"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "M"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3
+#: /View/Results/index.ctp:26 /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "S.No."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4 /Plugin/Admin/View/Results/index.ctp:37;96;123 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "Enw'r myfyriwr"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "Cofrestru"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7 /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7 /Plugin/Admin/View/Students/add.ctp:30;32 /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "Rhif Ffôn"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9 /Plugin/Admin/View/Results/index.ctp:129 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "Statws canlyniad"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2 /Plugin/Admin/View/Forgots/username.ctp:13 /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5 /Plugin/Admin/View/Forgots/username.ctp:5 /Plugin/Admin/View/Results/result.ctp:13 /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "ID Ebost"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9 /Plugin/Admin/View/Forgots/presetcode.ctp:9 /Plugin/Admin/View/Forgots/reset.ctp:29 /Plugin/Admin/View/Forgots/username.ctp:9 /View/Emailverifications/index.ctp:17
+#: /View/Emailverifications/resend.ctp:17 /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17 /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39 /View/Installers/step1.ctp:82 /View/Profiles/change_photo.ctp:33
+#: /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Anfon"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12 /Plugin/Admin/View/Forgots/presetcode.ctp:12 /Plugin/Admin/View/Forgots/reset.ctp:32 /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "Wedi anghofio Enw Defnyddiwr"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13 /Plugin/Admin/View/Forgots/presetcode.ctp:13 /Plugin/Admin/View/Forgots/reset.ctp:33 /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Mewngofnodi"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2 /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "Cod dilysu"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Rhowch Cod gwirio"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Ailosod cyfrinai"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24 /Plugin/Admin/View/Students/changepass.ctp:26;28 /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33 /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "cadarnhau Cyfrinair"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Ychwanegu Grwpiau"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8 /Plugin/Admin/View/Groups/edit.ctp:11;13 /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "Enw'r Grw ^ p"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "Grwpiau golygu"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10 /Plugin/Admin/View/Questions/add.ctp:128 /Plugin/Admin/View/Questions/edit.ctp:142 /Plugin/Admin/View/Students/index.ctp:38 /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33 /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "grwpiau"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Ychwanegu Grwp Newydd"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Ychwanegu Help Cynnwys"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9 /Plugin/Admin/View/Helpcontents/edit.ctp:12;14 /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Teitl:"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15 /Plugin/Admin/View/Helpcontents/edit.ctp:18;20 /Plugin/Admin/View/Results/result.ctp:174 /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17 /Plugin/Admin/View/Testimonials/edit.ctp:22;24 /Plugin/Admin/View/Testimonials/index.ctp:34 /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "Disgrifiad"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Cynnwys Help Golygu"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "Cynnwys help"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Ychwanegu New Help Cynnwys"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Mewnforio / Allforio Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Back To Cwestiynau"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "allforio Cwestiynau"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11 /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Dewis Ffeil"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "Cwestiynau mewnforio"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1 /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Mewnforio / Allforio Myfyrwyr"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Back To Myfyrwyr"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "allforio Myfyrwyr"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "mewnforio Myfyrwyr"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "pob Negeseuon"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111 /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133 /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6 /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "fy Mhroffil"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113 /Plugin/Admin/View/Students/changepass.ctp:16 /Plugin/Admin/View/Students/view.ctp:11 /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12 /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Newid Cyfrinair"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Allgofnodi"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353 /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "Wedi ei bweru gan"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190 /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Dyddiad ac amp; amser"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "cyfansoddi Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Chwilio Mail Myfyrwyr"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25 /Plugin/DebugKit/View/Elements/log_panel.ctp:27 /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Neges"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55 /Plugin/Admin/View/Sendemails/index.ctp:127 /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "Anfon"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "cyfansoddi"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "mewnflwch"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Mail anfonwyd"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "sbwriel"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Mwy"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Mark fel Read"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Mark Unread"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Symud i'r Mewnflwch"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "ateb"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "ymlaen"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3 /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "Enwau Dewislen"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13 /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "model Enw"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25 /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "icon"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Ychwanegu Newyddion"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14 /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Newyddion Teitl"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "Newyddion Disgrifiad"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "golygu Newyddion"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Newyddion"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Ychwanegu Newyddion Newydd"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "Paypal Opsiwn Talu"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Llofnod"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "Modd Pwll tywod"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26 /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "True"
+msgstr "GwirCywir"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43 /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Ychwanegu Cwestiwn"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73 /Plugin/Admin/View/Questions/edit.ctp:73;84;85 /Plugin/Admin/View/Questions/index.ctp:50 /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "Cwestiwn"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69 /Plugin/Admin/View/Questions/edit.ctp:80 /Plugin/Admin/View/Results/result.ctp:177 /Plugin/Admin/View/Results/stdexamresult.ctp:163 /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "Atebion cywir"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Teipiwch eich cwestiwn yma"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "Answer1"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "Answer2"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "Answer3"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "Answer4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "Answer5"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101 /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "Answer6"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107 /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "Gwir/Gau"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111 /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110 /View/Results/view.ctp:367
+msgid "False"
+msgstr "Anghywir"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121 /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "Gofod Blank"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Eglurhad (Dewisol)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Rhoi esboniad i gefnogi ateb cywir"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140 /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Awgrym (dewisol)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Awgrym i helpu i ateb yn gywir"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153 /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "heb arwydd minws"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Golygu Cwestiwn Math"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135 /Plugin/Admin/View/Questions/view.ctp:97 /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "esboniad"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154 /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Cyngor"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "Cwestiynau"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Ychwanegu Cwestiwn Newydd"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Mewnforio / Allforio Cwestiwn"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "ateb"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "Manylion cwestiwn"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "arholiad Wise"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Dewiswch Arholiad"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "Statws o Ganlyniad"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Dewiswch Statws Canlyniad"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "Download Canlyniad"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12 /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "Rank"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "Prawf"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128 /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9 /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "Canran"
+
+#: /Plugin/Admin/View/Results/index.ctp:43 /Plugin/Admin/View/Results/result.ctp:37 /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31 /View/Results/view.ctp:89
+msgid "Result"
+msgstr "canlyniad"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Gweld Canlyniad"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Lawrlwytho / Canlyniad Argraffu"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "Wise Myfyrwyr"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Enw neu Cofrestru Rhif"
+
+#: /Plugin/Admin/View/Results/index.ctp:98 /Plugin/Admin/View/Students/add.ctp:40;42 /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "Rhif Ymrestru"
+
+#: /Plugin/Admin/View/Results/index.ctp:115 /Plugin/Admin/View/Results/result.ctp:1;244 /Plugin/Admin/View/Students/trnhistory.ctp:5 /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "Y Cefn"
+
+#: /Plugin/Admin/View/Results/result.ctp:7 /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Adroddiad Asesu ar gyfer"
+
+#: /Plugin/Admin/View/Results/result.ctp:17 /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "cymryd Dyddiad"
+
+#: /Plugin/Admin/View/Results/result.ctp:29 /Plugin/Admin/View/Results/stdexamresult.ctp:24 /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "Cyfanswm Amser"
+
+#: /Plugin/Admin/View/Results/result.ctp:33 /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. O Browser ymgais tolrance"
+
+#: /Plugin/Admin/View/Results/result.ctp:48 /Plugin/Admin/View/Results/stdexamresult.ctp:43 /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "Cyfanswm Sgôr"
+
+#: /Plugin/Admin/View/Results/result.ctp:61 /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Marciau Myfyrwyr Dosbarthu"
+
+#: /Plugin/Admin/View/Results/result.ctp:77 /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "Adborth"
+
+#: /Plugin/Admin/View/Results/result.ctp:91 /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "Taflen Marks"
+
+#: /Plugin/Admin/View/Results/result.ctp:98 /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "adran Enw"
+
+#: /Plugin/Admin/View/Results/result.ctp:99 /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "adran cyfran"
+
+#: /Plugin/Admin/View/Results/result.ctp:101 /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "gwirioneddol"
+
+#: /Plugin/Admin/View/Results/result.ctp:102 /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "eich Canran"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137 /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "adran Crynodeb"
+
+#: /Plugin/Admin/View/Results/result.ctp:144 /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "Sgôr uchafswm"
+
+#: /Plugin/Admin/View/Results/result.ctp:148 /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "Sgil datblygedig"
+
+#: /Plugin/Admin/View/Results/result.ctp:152 /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "Datblygu anghenion"
+
+#: /Plugin/Admin/View/Results/result.ctp:156 /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Diffyg Skill"
+
+#: /Plugin/Admin/View/Results/result.ctp:167 /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "atebodd MCQ"
+
+#: /Plugin/Admin/View/Results/result.ctp:173 /Plugin/Admin/View/Results/stdexamresult.ctp:159 /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "SN"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "Legend"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "anfon E-byst"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96 /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "Athrawon"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "unrhyw E-bost"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "Default holl fyfyrwyr os ydych yn ychwanegu â llaw, yna chwilio e-bost myfyriwr"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Default holl athrawon os ydych yn ychwanegu â llaw, yna chwilio e-bost athro"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Teipiwch unrhyw atalnod e-bost seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "math pwnc"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Dewiswch Templed E-bost"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "Os nad ydych am i ddewis templed e-bost, yna teipiwch neges e-bost. Ar ôl i chi lwytho golygydd yna ni allwch ddewis templed ewch i ailosod y botwm"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "anfon SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "unrhyw SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "Default pob myfyriwr os ydych yn ychwanegu â llaw yna chwiliwch fyfyrwyr enw"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Default holl athrawon os ydych yn ychwanegu â llaw yna chwiliwch enw athro"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "unrhyw Rhif"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Teipiwch unrhyw nifer atalnod seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Dewiswch Templed SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "Templed sms"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "Os nad ydych am i ddewis templed sms, yna teipiwch neges sms"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "Llofnod Tystysgrif"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Llwytho i fyny Image (* uchder llai na 75px)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "Dileu Llofnod"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Ychwanegu Sleidiau"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10 /Plugin/Admin/View/Slides/edit.ctp:12;14 /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Slide Enw"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20 /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Llwytho i fyny Slide (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "golygu Sleidiau"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "sleidiau"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Ychwanegu Slide Newydd"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "Gosodiadau SMS"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "API Link"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "ID anfonwr"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "pennawd Enw Defnyddiwr"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "maes enw defnyddiwr a ddarperir gan borth sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "pennawd Cyfrinair"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "maes cyfrinair a ddarperir gan borth sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Pennawd Rhif Symudol"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Symudol Dim cae a ddarperir gan borth sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "pennawd Neges"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "maes Neges ddarperir gan borth sms"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Pennawd Id Anfonwr"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "maes Id anfonwr a ddarperir gan borth sms"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Ychwanegu Templed SMS"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "templedi Golygu SMS"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "Templedi SMS"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Ychwanegu Templed New SMS"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Ychwanegu Myfyrwyr"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28 /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "Cyfeiriad"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38 /Plugin/Admin/View/Students/edit.ctp:51;53 /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "Guardian Ffôn"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "golygu Myfyrwyr"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "adnewyddu Dyddiad"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Ychwanegu Myfyrwyr Newydd"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "waled"
+
+#: /Plugin/Admin/View/Students/index.ctp:39 /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "Dyddiad Derbyn"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20 /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "credyd"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21 /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "debyd"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22 /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119 /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "Balans"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23 /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "Dyddiad ac Amser"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24 /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "talu Trwy"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25 /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19 /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "sylwadau"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Gweld Gwybodaeth am Fyfyrwyr"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "Enw llawn"
+
+#: /Plugin/Admin/View/Students/view.ctp:18 /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Rhif ffôn:"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "E-bost cofrestredig"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "Nifer yn ail"
+
+#: /Plugin/Admin/View/Students/view.ctp:34 /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "Cofrestru Dim"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "Mewngofnodi diwethaf"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "Myfyrwyr Waled"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "Ffurflen trafodiad"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23 /Plugin/Admin/View/Users/add.ctp:42;44 /Plugin/Admin/View/Users/edit.ctp:53;55 /Plugin/Admin/View/Users/index.ctp:37 /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "FFÔN SYMUDOL"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "ADD"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "Didynner"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Ychwanegu Pynciau"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "golygu Pynciau"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "pynciau"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Ychwanegu New Pwnc"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "Banc Cwestiynau"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Ychwanegu Tystebau"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Llwytho Photo (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "golygu Tystebau"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "tystebau"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Ychwanegu Geirda Newydd"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "LLUNIAU"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Ychwanegu Defnyddwyr"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "Lefel defnyddiwr"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20 /Plugin/Admin/View/Users/edit.ctp:29;31 /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "Enw Defnyddiwr"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "defnyddwyr lefel"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Ychwanegu Lefel Newydd"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Back To Ddefnyddwyr"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "lefel Enw"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "Caniatâd set"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11 /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Neilltuo Ffurflen Hawliau"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Enw modiwl"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22 /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "Hen gyfrinair:"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "golygu Defnyddwyr"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Ffurflen Gofrestru Defnyddiwr"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "defnyddwyr"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Ychwanegu Defnyddiwr Newydd"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Ychwanegu Defnyddwyr Lefel"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "Defnyddiwr lefel"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Annwyl defnyddiwr, mewngofnodwch i gael mynediad at yr ardal weinyddol!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Gweinyddol / Enw Defnyddiwr Athrawon"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Wedi anghofio Enw Defnyddiwr"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "Sefydliad Logo"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Llwytho i fyny Image (* uchder llai na 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "Dileu Logo"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Rhowch fath ar gyfer siart %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Siart: \\ \" %s na ellid \" dod o hyd. Sicrhau bod Enw Siart yr un fath llinyn sy'n cael ei drosglwyddo i $ hyn-> HighCharts-> rendr () yn eich barn chi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "Mae'r trafodiad Express Checkout wedi dod i ben ac mae angen ei ailgychwyn y trafodiad"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Efallai eich bod wedi gwneud ail alwad ar gyfer yr un daliad neu efallai y byddwch wedi defnyddio'r un ID anfoneb ar gyfer trafodion ar wahân."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Defnyddiwch ffynhonnell funcing gwahanol."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "Digwyddodd gwall, os gwelwch yn dda ailgeisio y trafodiad."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Ni allai hyn trafodiad gael ei gwblhau. Ailgyfeirio at porth talu"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Nid ydych wedi cytuno i gytundeb bilio."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Mae'r cytundeb bilio yn anabl neu'n anweithgar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "Mae'r cerdyn credyd a ddefnyddir yn dod i ben."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Mae'r trafodiad Gwrthodwyd oherwydd bod yr ymateb AVS dychwelodd gwerth N, ac nid yw'r cyfrif masnachwr yn gallu derbyn trafodion o'r fath."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Mae'r cyfrif porth talu yn gyfyngedig."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Rhaid i chi gyflwyno gyfeiriad IP y prynwr gyda phob galwad API."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "Mae'r masnachwr dewis gwerth maes PaymentAction nad yw'n cael ei gefnogi."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Mae'r cae cerdyn credyd yn wag."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "Nid yw cyfanswm y swm a'r eitem symiau yn cyd-fynd."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Mae'r cerdyn credyd gofnodi ei gyfyngu ar hyn o bryd gan y porth talu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "Mae'r masnachwr aeth ID anfoneb sydd eisoes yn gysylltiedig â trafodiad gan yr un masnachwr. Rhoi cynnig gyda ID anfoneb newydd"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Mae'r trafodiad ei wrthod gan yr hidlydd gwlad a reolir gan y masnachwr."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Mae'r trafodiad yn gostwng y swm uchaf hidlo a reolir gan y masnachwr."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Mae'r trafodiad ei wrthod gan y porth talu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Mae'r trafodiad yn gostwng porth talu oherwydd y gweithgarwch twyllodrus posibl."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Mae'r trafodiad yn gostwng porth talu oherwydd weithgaredd twyllodrus posibl ar y cyfeiriad IP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "Nid yw'r cyfrif masnachwr cynnig ar y trafodiad yn cyfrif busnes."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "Nid yw'r cyfrif masnachwr cynnig ar y trafodiad yn gallu prosesu trafodion Taliad Uniongyrchol. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Mynediad at y Taliad Uniongyrchol yn anabl ar gyfer eich cyfrif."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "Nid oes gan y cyfrif masnachwr cynnig ar y trafodiad, cyfeiriad e-bost cadarnhau gyda'r porth talu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "Mae'r masnachwr ceisiodd trafodiad os yw'r swm yn fwy na'r terfyn uchaf ar gyfer y masnachwr."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Mae'r trafodiad ei wrthod oherwydd hidlydd risg masnachwr i AVS. Yn benodol, mae'r masnachwr wedi gosod i ostwng trafodiad pan fydd y AVS dychwelyd dim gêm (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Mae'r trafodiad ei wrthod oherwydd hidlydd risg masnachwr i AVS. Yn benodol, mae'r masnachwr wedi gosod yr hidlydd i wrthod trafodion pan fydd y AVS yn dychwelyd gêm rhannol."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Mae'r trafodiad ei wrthod oherwydd hidlydd risg masnachwr i AVS. Yn benodol, mae'r masnachwr wedi gosod yr hidlydd i wrthod trafodion pan mae'r AVS yn heb gefnogaeth."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "aeth y masnachwr cyfeiriad IP a oedd mewn fformat annilys. Rhaid i'r cyfeiriad IP fod mewn fformat megis 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "cyfluniad y masnachwr yn gofyn am CVV i gael ei gofnodi, ond ni CVV Rhoddwyd trafodiad hwn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "Darparodd y masnachwr cyfeiriad naill ai yn yr Unol Daleithiau neu Ganada, ond nid y wladwriaeth a ddarperir yn gyflwr dilys yn y naill wlad."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Mae'r trafodiad ei wrthod gan y banc gyhoeddi, nid oedd y porth talu. Dylai'r masnachwr geisio gerdyn arall."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "Nid yw gwlad y masnachwr yn byw yn cael ei gefnogi ar hyn o bryd i ganiatáu trafodion Taliad Uniongyrchol."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid ""
+"The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick succession."
+msgstr "gwrthododd y trafodyn am fod y porth talu ar hyn o bryd prosesu trafodiad gan yr un prynwr ar gyfer yr un swm. A all digwydd pan fydd prynwr yn cyflwyno trafodion lluosog, union yr un fath yn gyflym."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "Mae'r CVV a ddarperir yn annilys. Mae'r CVV yw rhwng 3-4 ddigid hir."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Os gwelwch yn dda ceisiwch eto yn nes ymlaen. Sicrhewch eich bod wedi llwyddo yn y CVV a chyfeiriad gwybodaeth gywir ar gyfer y prynwr. Os creu proffil cylchol, os gwelwch yn dda ceisiwch eto drwy basio swm init o 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Nid yw trafodiad yn cydymffurfio oherwydd 3-D gwerthoedd dilysu Secure goll neu'n annilys. Gwiriwch caeau ECI, ECI3DS, CAVV, XID."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Mae'r trafodiad ei wrthod gan y taliad porth oherwydd methiannau gormodol dros gyfnod byr o amser ar gyfer cerdyn credyd hwn."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Mae'r trafodiad yn gostwng porth talu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Mae'r trafodiad ei wrthod am nad oes gan y masnachwr gytundeb endid masnachol dilys ar ffeil gyda'r porth talu."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Mae'r trafodiad ei wrthod gan nad yw'r CVV gofnodi yn cyfateb i'r cerdyn credyd."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Mae'r trafodiad ei wrthod gan y banc gyhoeddi oherwydd cerdyn credyd wedi dod i ben. Dylai'r masnachwr geisio gerdyn arall."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55 /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42 /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Rhagorwyd terfyn a ganiateir ar gyfer Symud o gwmpas i ffwrdd"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Yr ydych wedi rhagori ar y terfyn a ganiateir ar gyfer llywio i ffwrdd oddi wrth eich prawf"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "Eich prawf wedi gorffen. Gallwch gau y ffenestr yn awr"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "Cwblhau gosod"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! Mae'r System osod yn llwyddiannus."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Ewch i Gweinyddol / Rhyngwyneb Athrawon"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "defnyddiwr"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Ewch i Front End / Rhyngwyneb Myfyrwyr"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Ewch i'n gwefan"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168 /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114 /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "ar gyfer dogfennaeth a chefnogaeth"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "Fy Ystadegau Arholiad"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Cyfanswm Arholiad O ystyried"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "Arholiadau absennol"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Sgôr gorau yn"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "ar"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "methu yn"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "cyfartaledd Canran"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "eich Rank"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Mis Perfformiad Wise"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Arholiad Perfformiad Wise"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "Top 10"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11 /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11 /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "heddiw Arholiad"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "Top"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Mae'r rhain yn yr arholiad (au) y gellir eu cymryd ar hyn o bryd"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Dim Arholiadau ar gael ar gyfer heddiw"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Mae rhywbeth wedi mynd o'i le!"
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Dangos"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "cofnodion"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137 /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "blaenorol"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39 /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "Nesaf"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Yn dangos {:start} i {:current} o {:count} ceisiadau"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "Gwirio E-bost"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Os gwelwch yn dda Rhowch Cod Dilysu yn y Text Box"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Ail-Anfon Gwirio E-bost"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Os gwelwch yn dda Rhowch E-bost Id yn y Bocs Text yr ydych yn mynd i mewn ar yr adeg cofrestru"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12 /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "Arholiad a brynwyd"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14 /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "Arholiad wedi dod i ben"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Mae'r rhain yn yr arholiad (au) sydd wedi cael ei dod i ben"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36 /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Ni chafwyd Arholiadau"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Diolch i chi am ddefnyddio'r prawf"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. Mae'r cyfarwyddiadau profion yn"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "Yn bennaf clir"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "canolig Clear"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Ddim yn glir"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. Iaith y cwestiwn oedd"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. Profiad prawf cyffredinol oedd"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "da"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "gwell"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "gorau"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Unrhyw awgrym adborth arall"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Caewch eich holl ffenestri sgwrsio, sgrîn-arbedwr, a gwrth-firws rhaglenni cyn cychwyn eich prawf"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Peidiwch â phwyso \\ \"F5 \" yn ystod eich prawf. Bydd hyn yn gorffen eich prawf ac ni fyddwch yn gallu ail-agor y prawf"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Bydd eich ymatebion yn cael eu cadw. Os yw eich prawf yn cael ei ddatgysylltu am unrhyw reswm, bydd eich ymatebion hyd at y pwynt hwnnw yn cael eu cadw"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Caewch bob rhaglen sy'n llwytho neu i lawrlwytho ffeiliau yn y cefndir Er enghraifft: Dropbox, torrent, ac ati"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "cyfarwyddiadau"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Yr wyf yn barod i ddechrau"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "Dechrau arholiad"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Mae'r Arholiad cael ei dalu. Dylai swm yn cael ei dynnu ar eich waled yn awtomatig. Ar ôl cychwyn yr amserydd arholiad ni fydd yn dod i ben. Ydych chi eisiau talu & ddechrau?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Mae'r rhain yn yr arholiad (au) sydd wedi cael ei brynu"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "Marciau cywir"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Cadw & Nesaf"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Unreview"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "Adolygu 7"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "Ateb Ailosod"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Gorffen"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Cwestiwn cyfredol"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "atebwyd"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "Heb Ateb"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "llywio Away"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "chi wedi llywio i ffwrdd oddi wrth y ffenestr prawf. Bydd hyn yn cael ei adrodd i safonwr"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Peidiwch ag ailadrodd yr ymddygiad hwn"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "Fel arall, efallai y byddwch yn cael eich gwahardd"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Parhau"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "cwblhau"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "A ydych yn dymuno cyflwyno a chau'r"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Ar ôl i chi gyflwyno, ni fyddwch yn gallu adolygu'r"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Crynodeb o'ch ymdrechion yn hyn o"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "fel sioe isod"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "ymgais"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Dychwelyd I Gwestiwn Cyntaf"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Mae'r rhain yn yr arholiad (au) sy'n cael eu chi wedi cynllunio yn y dyfodol agos"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "ceisio Now"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Eich perfformiad o'i gymharu â eich grŵp"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "Methu darllen? ail-lwytho"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Rhowch côd diogelwch a ddangosir uchod"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Ateb cwestiwn syml"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "ymdrechion"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "Sy'n weddill"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Dyddiad Dod i ben"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "wedi dod i ben Dyddiad"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Rhad ac am ddim"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "Heb ei Prynwyd"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Gweld Manylion"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "Golygydd llwyth"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9 /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "gosod"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Cam 1 o 4"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Ffurfweddiad Gweinydd & Setup Gofynion"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Gofynion setup"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "Gosod meddalwedd hwn yn gofyn am rai estyniad ochr y gweinydd a gallu"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "gwiriwch isod a chymharu gyda'ch gweinydd cerfluniau presennol ar y dde. Gallwch glicio ar yr eicon nesaf at bob technoleg i gael manylion."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Estyniadau a amp; ceisiadau"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "Gweinydd HTTP. Er enghraifft: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "Ei gwneud yn ofynnol"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 neu uwch"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "MySQL Beiriant Cronfa Ddata (4 neu fwy)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "PDO Estyniad"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Estyniad"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "gorfodol"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "Statws gweinydd"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "Gweinydd gwe"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "Fersiwn PHP"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "Fersiwn MYSQL"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "PDO Ddim ar gael"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "PDO Ar gael"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Availiable"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Directory & amp; Caniatâd ffeil"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Mae angen i'r Ffolderi o Ffeiliau i fod yn"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "ysgrifenadwy"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "ar gyfer gwneud cais i gael eu gosod."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Ffolderi neu Ffeiliau"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "app / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "app / Config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "app / Config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Refresh"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "Gadewch i ni Dechrau"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Cam 2 o 4"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "Cytundeb gosod"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Rwy'n Derbyn i Symud Ymlaen"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Cam 3 o 4"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Gosodiadau Cysylltiad Cronfa Ddata"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "gwesteiwr Enw"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "Fel arfer localhost"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "Cronfa Ddata Enw"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "Defnyddiwr Cronfa Ddata"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Cronfa Ddata Enw Defnyddiwr"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "Cronfa Ddata Cyfrinair"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "Cronfa Ddata Defnyddiwr Cyfrinair"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "Math o Gronfa Ddata"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "Cysylltiad prawf"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Cam 4 o 4"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Enw'r Eich Gwefan"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "meta Allweddair"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Defnyddiol ar gyfer SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Cynnwys Meta ar gyfer SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Dewiswch Cylchfa amser"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Enw eich sefydliad / Cwmni"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Default Admin E-bost"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Gosod Data Sampl Gyda Entries Dummy"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "Gosod"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Croeso i"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "set Avatar"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Allgofnodi"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Hawlfraint"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "dilyn ar facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Newyddion a Digwyddiadau Diweddaraf"
+
+#: /View/Layouts/default.ctp:348 /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "Time"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "LAWRLWYTHO PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Cyfartaledd Canran (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "arholiad O ystyried"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "Dileu Am byth"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Symud i Sbwriel"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "Manylion Newyddion"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "Dim o Ymwelwyr"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "Dim Myfyrwyr"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "Dim o Arholiadau"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Talu O Talu Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Talu O Talu Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9 /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Proffeil"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10 /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Golygu Proffil"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "Cofrestr Myfyrwyr Newydd"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Côd diogelwch"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "atebion"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "fy Canlyniadau"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "Rhoi cynnig Dyddiad"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "CERDYN SGÔR"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "ADRODDIAD PWNC"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "RHEOLI AMSER"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "ADRODDIAD CWESTIWN"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "ATEB"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "ADRODDIAD YN CYMHARU"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Sgôr Cerdyn Am"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Cyfanswm Nifer yr Myfyriwr"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "fy Marks"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Cyfanswm marciau Prawf"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "fy Canradd"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Cyfanswm Cwestiwn mewn Prawf"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Cyfanswm Ymgais Cwestiwn ym Mhrawf"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "chwith Cwestiwn"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Chwith Cwestiwn Marciau"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Cyfanswm Amser Prawf"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "ystod y cyfnod hwnnw ...."
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "fy Rank"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Adroddiad Perfformiad I"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Cwestiwn ac Marciau Adroddiad Wise Ar gyfer"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Adroddiad Pwnc Ar gyfer"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "cywir"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Cwestiynau Unattempted"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Adroddiad graffigol Ar gyfer"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Ar gyfer Rheoli Amser"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Adroddiad Cwestiwn Ar gyfer"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "Statws cwestiwn"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Eich Ateb"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "eich Sgôr"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "eich Amser"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "Ateb Am"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "Ddim Ceisio"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "Rhoi cynnig"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "anghywir"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "eich Atebion"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "Ateb"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "Llyfrnodi"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "Cymharu Adroddiad Am"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Ques cyfanswm."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "Marciau uchaf"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Ques Ymgais."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Ques Unattempted."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Ques Cywir."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Ques anghywir."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "canradd"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "Blaenorol"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Hyn sydd i dystio bod"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "wedi cwblhau llwyddiannus y"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "maes rhaglen a gynigir gan"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "Mewngofnodi i Fyfyrwyr"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "Mewngofnodi"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Wedi anghofio Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Defnyddiwr Newydd? Creu cyfrif"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Nid yw injan yn lwytho"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf peiriant \\ \" %s \" heb ei ganfod"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "Mae'n rhaid i beiriannau Pdf ymestyn \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Nid Cêl yn lwytho"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf celu \\ \" %s \" heb ei ganfod"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "Mae'n rhaid i injan Crypto ymestyn \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "Nid yw priodoledd Rheolwr $ pdfConfig yn gywir neu ar goll"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Profi: url"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Ceisiadau Cyfanswm wnaed:: ceisiadau"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Cyfanswm yr Amser a aeth heibio:: hyd (eiliadau)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Ceisiadau / Ail:: RPS Req / sec"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "cais ar gyfartaledd amser:: eiliad ar gyfartaledd-amser"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Gwyriad safonol o amser cais gyfartaledd:: STD-dev"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Hiraf / cais byrraf:: sec hiraf /: sec byrraf"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Yn eich galluogi i gael statisticsabout rhywfaint meincnodi garw URL chymwysterau llawn."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "Mae'r URL i wneud cais."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Nifer y iteriadau i berfformio."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "cyfanswm Uchafswm amser i bob iteriadau, mewn seconds.If un ailadroddiad sengl yn cymryd mwy na'r timeout, dim ond un cais yn cael ei wneud"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Enghraifft Defnydd: `meincnod cacen --n 10 --t 100 http: // localhost / testsite`. <Info> Sylwer: </ info> Nid meincnod hwn yn cynnwys porwr amseroedd rendr."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "initialization cydran"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "camau Rheolwr"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "dechrau camau Rheolwr"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "bar offer Prosesu wladwriaeth"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "data bar offer prosesu"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Rheolwr rendr cychwyn"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Methu llwytho DebugToolbar panel %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Prosesu Craidd (Yn deillio o $ _SERVER [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Penawdau eisoes anfon %s ar linell %s . Methu anfon data log i FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "cyfrif Anghywir paramedr ar gyfer FireCake :: fb ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Uchafswm nifer (99,999) o negeseuon gyrraedd!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Nid oes unrhyw baneli gweithredol. Mae'n rhaid i chi alluogi panel i weld ei allbwn."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "app Cysonion"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "Cysonion CakePHP"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP Amgylchedd"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "Hidef Amgylchedd"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "cais Hanes"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Ni chafwyd unrhyw geisiadau blaenorol wedi mewngofnodi."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "ceisiadau blaenorol ar gael"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Adfer i gais cyfredol"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "Ffeiliau Wedi'u cynnwys"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "logiau"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Nid oedd unrhyw gofnodion log wneir cais hwn"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "cais"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Dim data post."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Dim data querystring."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "Llwybr presennol"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "sesiwn"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "Logiau sql"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Dim logiau ymholiad pan debug <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Dim logiau ymholiad."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Cyfanswm Amser: %s ms <br /> Cyfanswm Ymholiadau: %s ymholiadau"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Ymholiad Eglurwch:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Cliciwch i \\ \"Esboniwch \" ddolen uchod, i weld yr esboniad ymholiad."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Dim cysylltiadau cronfa ddata weithredol"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "cof"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Peak Defnydd Cof"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "defnydd cof"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "Amseryddion"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "%s (ms)"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Cyfanswm Amser Cais:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Amser mewn ms"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "graff"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Gweld Newidynnau"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "rendro View"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Rendro %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Gweld rendr wedi'i gwblhau"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "Esboniwch"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Dechrau %s ms i mewn i'r cais, gan gymryd %s ms"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "dod o hyd i unrhyw wallau markup"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "efallai araf"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "llwybr llwyr neu berthynas APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "Digwyddodd gwall wrth gael y statws eich cyfrif."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Roedd gwall wrth gysylltu i Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Roedd problem cychwyn y trafodiad, os gwelwch yn dda ceisiwch eto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Roedd problem cael eich manylion, os gwelwch yn dda ceisiwch eto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Bu gwall cwblhau'r taliad"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Roedd problem prosesu y trafodiad, os gwelwch yn dda ceisiwch eto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Bu gwall brosesu'r taliad cerdyn"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Roedd problem prosesu eich cerdyn, os gwelwch yn dda ceisiwch eto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Bu gwall brosesu'r yr ad-daliad"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "Problem digwydd yn ystod y broses ad-daliad, os gwelwch yn dda ceisiwch eto."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Roedd problem gyfathrebu â'r porth talu"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "Missing id cleient / gyfrinach"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Rhaid penodi dyddiad dod i ben"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Rhaid iddo gynnwys M ac Y yn dyddiad dod i ben"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "dyddiad dod i ben Annilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "rhif cerdyn annilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "Rhif CVV2 Annilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Math o gerdyn Annilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "Methu canfod cyfeiriad IP cleient"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Ddim yn rhif cerdyn credyd dilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Rhaid i chi gynnwys y 3 digid rhif diogelwch"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Rhaid penodi un \\ \"swm \" i godi tâl"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Mae'n rhaid i chi basio arae orchymyn dilys"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Dilys \\ \"dychwelyd \" a \\ \"Diddymu \" urls rhaid darparu"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Rhaid i chi ddarparu cod cyfred"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "Mae angen ID Trafodyn PayPal Gwreiddiol"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Rhaid penodi un \\ \"swm \" i ad-dalu"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Rhaid i chi benodi math ad-daliad, megis Llawn neu Rannol"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "Nid yw ffeil yn llwytho i lawr."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Dim %s ar gael ar gyfer yr ystod dyddiad"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "Eich ffurflen data yn cael ei gadw, byddwch yn cael eich ailgyfeirio i ar ôl mewngofnodi."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Hysbysiad Gwall o %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Albania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Algeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "andorra"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Angola"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "anguilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "Antarctica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Antigua a Barbuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Yr Ariannin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "armenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Aruba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "Awstralia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Awstria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Barbados"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Belarws"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "Gwlad Belg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "Belize"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Benin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "bermuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Bolifia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia a Herzegovina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Botswana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "Island Bouvet"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Brasil"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "Tiriogaeth Brydeinig Cefnfor India"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "brunei Darussalam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Bwlgaria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Burundi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Camerŵn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "canada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Ynysoedd y Cayman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Gweriniaeth Canolbarth Affrica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Chad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Chile,"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "Tsieina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "Ynys y Nadolig"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Ynysoedd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Colombia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Comoros"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Congo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Congo, Gweriniaeth Ddemocrataidd y"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "Ynysoedd Cook"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Cote D'Ivoire"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Croatia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Cuba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Gweriniaeth Tsiec"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Denmarc"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "Gweriniaeth Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Yr Aifft"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Gini Gyhydeddol"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Estonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Ynysoedd y Falklands (Malvinas)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Ynysoedd Faroe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Fiji"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Y Ffindir"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "france"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "french Guiana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Polynesia Ffrengig"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "Ffrangeg Tiriogaethau Deheuol"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Gabon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Gambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Yr Almaen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "ghana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "Gwlad Groeg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Ynys Las"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Grenada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Guam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Guinea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Haiti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Ynys Heard ac Ynysoedd McDonald"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Gweriniaeth Dinas y Fatican)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Honduras"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Hwngari"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Gwlad yr Iâ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "India"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Gweriniaeth Islamaidd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Irac"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "iwerddon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Israel"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "Yr Eidal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "Japan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Jordan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Kenya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "Gweriniaeth Korea, Pobl Ddemocrataidd o"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Korea, Gweriniaeth"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Lao Gweriniaeth Pobl Ddemocrataidd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "Latfia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Libanus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Liberia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libya Arabaidd Jamahiriya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "lithuania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Lwcsembwrg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Macao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Macedonia, y Cyn Weriniaeth Iwgoslafaidd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Maldives"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Mali"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "malta"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Ynysoedd Marshall"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Martinique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "mauritius"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Mecsico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia, Taleithiau Ffederal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Moldova, Gweriniaeth"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Monaco"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "mongolia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Moroco"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Namibia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "Nauru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "nepal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Yr Iseldiroedd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "Antilles yr Iseldiroedd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "Caledonia newydd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "Seland Newydd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "nicaragua"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "niger"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "nigeria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "Ynys Norfolk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Ynysoedd Gogledd Mariana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "Norwy"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Oman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "pakistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Tiriogaeth Palesteina, Occupied"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Panama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Papwa Gini Newydd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Peru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Philippines"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "gwlad pwyl"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Portiwgal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Qatar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "aduniad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Romania"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "Ffederasiwn Rwsia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts a Nevis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre a Miquelon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent a'r Grenadines"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "San Marino"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome a Principe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "sénégal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Serbia a Montenegro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Singapore"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Slofacia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "slofenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Ynysoedd Solomon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Somalia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "De Affrica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "De Georgia ac Ynysoedd Sandwich y De"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "Sbaen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Sudan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Swrinam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard a Jan Mayen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Sweden"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Y Swistir"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Gweriniaeth Arabaidd Syria"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Taiwan, Talaith o Tsieina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Tanzania, Gweriniaeth Unedig o"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "thailand"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "I fynd"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad a Tobago"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Twrci"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Ynysoedd Turks a Caicos"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Twfalw"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "uganda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Wcráin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "Emiradau Arabaidd Unedig"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Cymru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "Unol Daleithiau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "venezuela"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Ynysoedd Virgin, Prydeinig"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Ynysoedd y Wyryf, ni"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Wallis a Futuna"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Yemen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Zambia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Annilys ddadl # 1: %s Nid yw ddilys %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s ar gyfer Rhes %d Methodd i arbed."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Mae angen i chi ddiffinio o leiaf un maes fod yn toggleable."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Mae'r cae %s Nid yw yn y rhestr o gaeau toggleable."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Mae'r cae %s Nid oes gan ddwy wladwriaeth toggleable diffiniedig."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "cofnod annilys"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235 /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Gweinydd lipsum.com dychwelyd cod gwall %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255 /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Ymateb gan lipsum.com yn wag neu na ellid ei ddatgodio."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290 /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Cysylltiad i lipsum.com gweinydd methu. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Cywirwch y wallau isod."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21 /View/Errors/missing_controller.ctp:21 /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "gwall"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Gall y cyfeiriad gofyn am %s ni chanfuwyd ar y gweinydd hwn."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Gwall mewnol wedi digwydd."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "Nid yw cyfluniad datasource chanfuwyd"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: y fframwaith php datblygiad cyflym"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "Nid yw gosod Debug yn caniatáu mynediad i'r url hwn."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Ychwanegu Arholiad Newydd"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "anweithgar"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Dyddiad Dechrau a Diwedd"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "Ardystio Cwblhau"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Cliciwch yma i lawrlwytho fformat ffeil excel"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "A ydych yn sicr, eich bod am gau yr arholiad hwn?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "A ydych yn sicr, eich bod eisiau ail-activate yr arholiad hwn?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "Ar gau"
+
+#: /Menu Name
+msgid "Results"
+msgstr "canlyniadau"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "gyfluniadau"
+
+#: /Menu Name
+msgid "General"
+msgstr "Cyffredinol"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "Cynnwys"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "E-bost & SMS"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Gwasanaeth Cefnogaeth i Gwsmeriaid"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "Sylfaen Wybodaeth (ar gyfer Dogfennaeth)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Fforwm (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Live Sgwrs (Ar gyfer Gwerthu a Bilio yn Unig)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Cymorth (Ar gyfer Cymorth Technegol)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Ewch Ein Gwefan"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "am fwy o ddogfennaeth a Manylion"

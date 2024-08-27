@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:35+0530\n"
+"PO-Revision-Date: 2016-04-27 16:58+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: th\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "ตัวอักษรและตัวเลขได้รับอนุญาต"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "กลุ่มที่มีอยู่แล้ว"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "Url เท่านั้น"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "ไฟล์ไม่ได้มีนามสกุลที่ถูกต้อง"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "คุณต้องใส่ JPG, GIF หรือ PNG"
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "ติดต่อส่วนหัวไม่ถูกต้อง"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "เพียงตัวอักษร"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "ชื่อสกุลเงินที่มีอยู่แล้ว"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "คุณต้องใส่ความสูงของภาพน้อยกว่า 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "คุณต้องใส่กว้างของภาพน้อยกว่า 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "ตัวเลขเท่านั้นที่ได้รับอนุญาต"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "เพียง แต่รูปแบบวัน / เวลา"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "ป้อนอีเมลที่ถูกต้อง"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "โปรดเลือก"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "ชื่อผู้ใช้ที่ไม่ถูกต้อง"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "ลายเซ็นไม่ถูกต้อง"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "ตัวเลขเท่านั้น"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "คุณต้องใส่ความสูงของภาพน้อยกว่า 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "ส่งอีเมลข้อมูลนี้ได้รับอยู่แล้ว! ลองใหม่"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "ต้องใช้รหัสผ่าน"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "รหัสผ่านอย่างน้อย 4 ตัวอักษรยาว"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "ชื่อที่มีอยู่แล้ว"

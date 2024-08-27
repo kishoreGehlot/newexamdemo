@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 17:48+0530\n"
+"PO-Revision-Date: 2016-04-27 17:47+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: cs\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Pouze písmena a čísla povolené"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Skupina již existují"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "pouze web"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Soubor nemá platný příponu"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Je nutné dodat JPG, GIF nebo PNG."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Neplatná hlavička Kontakt"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "pouze abecedy"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Jméno měny již existují"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Je nutné dodat výška obrázku je menší než 50 px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Je nutné zadat šířku obrázku je menší než 50 px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Pouze čísla povoleno"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Formát pouze datum / čas"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Zadejte platný e-mail"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Prosím vyberte"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Neplatné uživatelské jméno"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "neplatné heslo"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Neplatný podpis"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "pouze čísla"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Je nutné dodat výšky obrazu je menší než 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Tato adresa je již existuje! vyzkoušet novou"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "vyžadováno heslo"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Minimální hesla 4 znaků dlouhé"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Jméno již existují"

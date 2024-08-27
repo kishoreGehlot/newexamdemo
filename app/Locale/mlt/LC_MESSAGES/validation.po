@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:19+0530\n"
+"PO-Revision-Date: 2016-04-27 17:24+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: mt\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "ittri u n-numri huma biss permessi"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Grupp diġà jeżistu"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "Url biss"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Fajl ma jkollux estensjoni valida"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Int trid tforni JPG, GIF jew PNG File."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Invalid Header Kuntatt"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "biss alfabeti"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Munita Isem diġà jeżistu"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Int trid tforni għoli immaġini huwa inqas minn 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Int trid tforni wisa immaġini huwa inqas minn 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "numri Biss permess"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Data Biss / format ħin"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Daħħal l-email validu"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Jekk jogħġbok agħżel"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Username Invalid"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Password Invalid"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Firma Invalid"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "numri biss"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Int trid tforni għoli immaġini huwa inqas minn 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Din il Email diġà ġie jeżistu! ipprova waħda ġdida"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "password meħtieġa"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Password minimu 4 karattru twil"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Isem diġà jeżistu"

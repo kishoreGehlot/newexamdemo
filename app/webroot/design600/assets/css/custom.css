@@ -1,0 +1,25 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {	
+}
+
+a {
+}
+
+.sidebar-menu.collapsed .logo-env .logo{height: 40px;}
+.sidebar-menu .logo-env .logo{height: 77px;}
+.sidebar-menu .logo-env{
+    background-color: #fff;
+    }
+.sidebar-menu .logo-env {
+    padding: 0px 10px;
+}
+.sidebar-menu .logo-env .logo {padding-top: 10px;}
+.login-container{width: 400px;}
+@media only screen and (min-width: 220px) and (max-width: 400px) {.login-container{width: 280px;}}
+.login-page{padding-top: 100px;}
+@media only screen and (min-width: 220px) and (max-width: 400px) {.login-page{padding-top: 50px;}}

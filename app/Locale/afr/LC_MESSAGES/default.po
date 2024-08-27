@@ -1,0 +1,6200 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-20 14:24+0530\n"
+"PO-Revision-Date: 2016-04-26 17:59+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: af\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "File Manager"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "Jy kan jou resultaat hier vind."
+
+#: /Controller/AjaxcontentsController.php:44
+#: /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "Dankie vir die lig van die eksamen."
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: /Controller/AppController.php:190
+#: /Plugin/Admin/View/Configurations/index.ctp:121
+#: /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "leier Raad"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5
+#: /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5
+#: /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "my Eksamens"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "my Resultaat"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "groep Performance"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "betaling"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20
+#: /Plugin/Admin/View/Students/trnhistory.ctp:1
+#: /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "transaksie geskiedenis"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19
+#: /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "posbus"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112
+#: /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "Hulp"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "Tuis"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "registreer"
+
+#: /Controller/AppController.php:200
+#: /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "Teken in"
+
+#: /Controller/ContentsController.php:7;13
+#: /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497
+#: /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60
+#: /Controller/ResultsController.php:283;307
+#: /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:122;151
+#: /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122
+#: /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583
+#: /Plugin/Admin/Controller/MailsController.php:148
+#: /Plugin/Admin/Controller/QuestionsController.php:244;262
+#: /Plugin/Admin/Controller/ResultsController.php:77;155
+#: /Plugin/Admin/Controller/SlidesController.php:126;132;145;151
+#: /Plugin/Admin/Controller/SmstemplatesController.php:42;76
+#: /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315
+#: /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "Ongeldige Post"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "Jan"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "Februarie"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "Maart"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "April"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "May"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "Junie"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "Julie"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "Augustus"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "September"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "Oktober"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "November"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "Desember"
+
+#: /Controller/DashboardsController.php:62;106
+#: /Controller/GroupperformancesController.php:39
+#: /Plugin/Admin/Controller/ResultsController.php:131
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30
+#: /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "persentasie"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "maand"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "eksamens"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "E-pos suksesvol geverifieer"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "Ongeldige Bevestigingskode"
+
+#: /Controller/EmailverificationsController.php:109
+#: /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "A verifikasiekode stuur na jou e-pos inboks of Spam"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "E-pos id reeds geverifieer"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "E-pos id nie geregistreer stelsel"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "Jy het die maksimum eksamen probeer."
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "Jy het die maksimum aantal vrae probeer in hierdie vak"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "Jy kan jou resultaat hier"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "Onvoldoende hoeveelheid."
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. Die toets instruksies was "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. taal van die vraag was "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. Algehele toets ervaring was "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "Enige ander terugvoer voorstel: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "Terugvoer is suksesvol ingedien!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "Terugvoer reeds ingedien."
+
+#: /Controller/ForgotsController.php:17
+#: /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "E-pos ID is nie geregistreer in die stelsel"
+
+#: /Controller/ForgotsController.php:69
+#: /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "Jou wagwoordterugstellingskakel is gestuur na jou geregistreerde e-pos id"
+
+#: /Controller/ForgotsController.php:91
+#: /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "verkeerde kode"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88
+#: /Plugin/Admin/Controller/ForgotsController.php:121
+#: /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "Wagwoord suksesvol verander"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "my Performance"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "My Groep prestasie"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "Aansoek reeds geïnstalleer. Verwyder app / tmp / installed.txt om die aansoek te installeer"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "Unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "skryfbaar"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "Ongelukkig! Fout met lêer toegang <br> Asseblief goto app / Config / database.php is in skryfbare af."
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "'N verbinding is suksesvol gevestig met die bediener."
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "Kan geen verbinding met die databasis. Gaan asseblief die stellings in artikels / Config / database.php en probeer weer"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "Ongelukkig! Gids Toestemming Fout <br> Asseblief tmp gids is in skryfbare af."
+
+#: /Controller/MailsController.php:83
+#: /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "Jou E-pos is gestuur"
+
+#: /Controller/MailsController.php:108
+#: /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "gestuur boodskap"
+
+#: /Controller/MailsController.php:108
+#: /Plugin/Admin/Controller/MailsController.php:129
+#: /Plugin/Admin/View/Dashboards/index.ctp:69
+#: /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "Van"
+
+#: /Controller/MailsController.php:109
+#: /Plugin/Admin/Controller/MailsController.php:130
+#: /Plugin/Admin/View/Addquestions/index.ctp:20;53
+#: /Plugin/Admin/View/Exams/add.ctp:239
+#: /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23
+#: /Plugin/Admin/View/Mails/compose.ctp:42;44
+#: /Plugin/Admin/View/Questions/add.ctp:132
+#: /Plugin/Admin/View/Questions/edit.ctp:146
+#: /Plugin/Admin/View/Questions/index.ctp:23;51
+#: /Plugin/Admin/View/Questions/view.ctp:47
+#: /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39
+#: /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: /Controller/MailsController.php:153
+#: /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "Die pos is verskuif na die asblik"
+
+#: /Controller/MailsController.php:183
+#: /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "Jou pos is verwyder"
+
+#: /Controller/MailsController.php:209
+#: /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "Die pos is verskuif na die Inboks"
+
+#: /Controller/MailsController.php:236
+#: /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "Die pos is gemerk as gelees"
+
+#: /Controller/MailsController.php:240
+#: /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "Die pos is gemerk as ongelees"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "PayPal-betaling nie ingestel"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "betaling Kanselleer"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "beursie betaling"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "Probeer weer! Kan geen verbinding met PayPal"
+
+#: /Controller/PaymentsController.php:79
+#: /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "Ongeldige Bedrag"
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "Betaling reeds gedoen"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "Betaling nie gedoen"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "Betaling suksesvol! Bedrag %s bygevoeg in jou beursie "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "Profiel suksesvol opgedateer"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "Foto suksesvol opgedateer"
+
+#: /Controller/ProfilesController.php:93
+#: /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "Ongeldige Wagwoord"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "Kies enige groep"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "Ongeldige Sekuriteit Kode"
+
+#: /Controller/ResultsController.php:133;178
+#: /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "telling"
+
+#: /Controller/ResultsController.php:142;188
+#: /Plugin/Admin/Controller/ResultsController.php:239
+#: /Plugin/Admin/View/Results/index.ctp:40;126
+#: /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7
+#: /View/Results/attemptedpapers.ctp:17 /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "Max Punte"
+
+#: /Controller/ResultsController.php:143;187
+#: /Plugin/Admin/Controller/ResultsController.php:238
+#: /Plugin/Admin/View/Results/index.ctp:41;127
+#: /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8
+#: /View/Results/attemptedpapers.ctp:15 /View/Results/index.ctp:29
+#: /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "punte puntetelling"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "Onderhewig Wyse Tyd geneem"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "studente se prestasie"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "korrekte Vraag"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "verkeerde Vraag"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "reg Punte"
+
+#: /Controller/ResultsController.php:195
+#: /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "negatiewe Punte"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "Persentasie (%) in Eksamen"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "Persentasie (%)"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "ST"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "de"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "ST"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "ste"
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "Jy %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "Klapper %s"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+#: /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "administrateur"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "betaling Gateway"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "Pay Eksamen"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "Jou rekening het verval. Kontak asseblief administrateur"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "Jy is aangemeld suksesvol"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "Jou e-pos nie geverifieer! Klik asseblief op die skakel gestuur na jou e-pos inboks of spam"
+
+#: /Controller/UsersController.php:58
+#: /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "Verkeerde gebruikernaam / wagwoord"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "Jy is uitgeteken suksesvol"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "Jy is %s Lid! Kontak asseblief administrateur"
+
+#: /Controller/Component/CustomFunctionComponent.php:14
+#: /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "6 Ure"
+
+#: /Controller/Component/CustomFunctionComponent.php:20
+#: /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "min"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28
+#: /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "Art"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "Groot totaal"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "Jou vraag is bygevoeg vir eksamen"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "Jou vraag is geskrap vir eksamen"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "geen toestemming"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "Advertensie is gestoor"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63
+#: /Plugin/Admin/Controller/ContentsController.php:62;73
+#: /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64
+#: /Plugin/Admin/Controller/ExamsController.php:128;141
+#: /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63
+#: /Plugin/Admin/Controller/MenunamesController.php:32;43
+#: /Plugin/Admin/Controller/NewsController.php:52;63
+#: /Plugin/Admin/Controller/QtypesController.php:32;43
+#: /Plugin/Admin/Controller/QuestionsController.php:122;129
+#: /Plugin/Admin/Controller/SlidesController.php:61;72
+#: /Plugin/Admin/Controller/SmstemplatesController.php:51;62
+#: /Plugin/Admin/Controller/StudentsController.php:133;146;365
+#: /Plugin/Admin/Controller/SubjectsController.php:106;121
+#: /Plugin/Admin/Controller/TestimonialsController.php:52;63
+#: /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "Ongeldige post"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "Advertensie kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160
+#: /Plugin/Admin/Controller/SlidesController.php:162
+#: /Plugin/Admin/Controller/StudentsController.php:326
+#: /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "Foto suksesvol verander"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85
+#: /Plugin/Admin/View/Results/result.ctp:235
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211
+#: /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "geen poging aangewend"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "punte Opdateer"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "suksesvol Finaliseer"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "Suksesvol gesluit Eksamen"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "Afrikaans"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "Franse"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139
+#: /Plugin/Admin/Controller/EmailsettingsController.php:24
+#: /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "Jou opstel is gestoor"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "Page bygevoeg"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "Bladsye suksesvol opgedateer"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "Artikel kon geskrap gewees"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "Page het gedepubliseer"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "Page gepubliseer"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159
+#: /Plugin/Admin/Controller/SignaturesController.php:43
+#: /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "Iets verkeerd"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "Geldeenheid is gestoor"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "Geldeenheid kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "student Besonderhede"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102
+#: /Plugin/Admin/View/Advertisements/edit.ctp:43
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:26
+#: /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "Aktief"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:43
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "hangende"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104
+#: /Plugin/Admin/View/Advertisements/edit.ctp:43
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:26
+#: /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "Skort op"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115
+#: /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "Pass"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116
+#: /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "misluk"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117
+#: /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "afwesig"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135
+#: /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "student"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158
+#: /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "Verbygaande %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159
+#: /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "Gemiddeld %a ge"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "vraag Telling"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226
+#: /Plugin/Admin/View/Dashboards/index.ctp:172
+#: /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "Totaal Vraag"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "Vraag Bank Probleme Wyse"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "- Maklik"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "medium"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "Moeilik"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51
+#: /Plugin/Admin/Controller/MenunamesController.php:51
+#: /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "Naam is opgedateer"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "E-pos sjabloon is gestoor"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "E-pos sjabloon kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "Einddatum is nie minder nie as Begin datum"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160
+#: /Plugin/Admin/Controller/QuestionsController.php:81;152
+#: /Plugin/Admin/Controller/StudentsController.php:157
+#: /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "Kies enige groep"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "Voeg asseblief onderhewig aan Eksamen"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "Eksamen is gestoor. vrae in eksamen Voeg"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "Eksamen is gestoor"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "Eksamen is opgedateer"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "Eksamen kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303
+#: /Plugin/Admin/View/Addquestions/index.ctp:26
+#: /Plugin/Admin/View/Exams/add.ctp:213;264
+#: /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158
+#: /Plugin/Admin/View/Questions/edit.ctp:173
+#: /Plugin/Admin/View/Questions/index.ctp:29
+#: /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "moeilikheidsgraad"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "Onderhewig Wyse Vraag Telling"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "Eksamen suksesvol geïnaktiveer"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "Eksamen suksesvol geaktiveer"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "Daar is geen twyfel bygevoeg!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "Jou gebruikersnaam is gestuur na jou geregistreerde e-pos id"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "Groep bygevoeg"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "Groep is gestoor"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "Groep kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "onderhewig verwyder eerste"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "Hulp inhoud is gestoor"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "Hulp inhoud kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "Vrae suksesvol ingevoer"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49
+#: /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "Lêer nie gelaai"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55
+#: /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "Slegs ondersteun CSV"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61
+#: /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "Kies Onderhewig"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "Kies enige groep"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "Studente suksesvol ingevoer"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "Kies Groep"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "Student E-pos nie gevind"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "Nuus is gestoor"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "Nuus kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "PayPal-betaling Kader is gestoor"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "Die opstel Probleem"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "Kies die korrekte antwoord"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "Kies waar of onwaar"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "Vul leë ruimte"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "Vraag bygevoeg bank suksesvol"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "Vraag is opgedateer"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "Vraag is geskrap"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231
+#: /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "eksamen verwyder eerste!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "Vraag Probleme Vlak"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "prestasie"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "Kandidaat Punte Distribution"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "Max Punte Distribution"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27
+#: /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "Kies 'n tipe in die lys"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "Tik asseblief enige e-pos"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "E-pos is gestuur"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "Geen e-pos te stuur"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "Tik asseblief 'n naam"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "SMS gestuur"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "Geen SMS te stuur"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "Handtekening is gestoor"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "Handtekening kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "Skyfie is gestoor"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "Skyfie kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "SMS sjabloon is gestoor"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "SMS sjabloon kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "Student suksesvol bygevoeg"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117
+#: /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "Kies ten minste een groep"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "Student is opgedateer"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "Studente kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "Student Wallet is opgedateer"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "Onderhewig suksesvol bygevoeg"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "Onderwerp reeds bestaan"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "Onderhewig is opgedateer"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "Onderhewig is geskrap"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "Getuigskrif is gestoor"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "Getuigskrif is opgedateer"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "Getuigskrif kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "Gebruikers bygevoeg"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "Gebruikers is opgedateer"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "Gebruikers kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "Toestemming update suksesvol"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "Jy is aangeteken in die suksesvolle"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "Jy is uitgeteken"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "Vlak gebruiker is gestoor"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "Vlak gebruiker kon geskrap gewees het"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "Logo geregistreer"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "Logo kon geskrap gewees het"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10
+#: /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "Vrae Voeg"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23
+#: /Plugin/Admin/View/Exams/add.ctp:212;257
+#: /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3
+#: /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49
+#: /Plugin/Admin/View/Questions/index.ctp:26
+#: /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "vraag Tipe"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29
+#: /Plugin/Admin/View/Questions/index.ctp:32
+#: /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "Soek"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:33
+#: /Plugin/Admin/View/Sendemails/index.ctp:128
+#: /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "Herstel"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "Voeg by Eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "Verwyder Om Eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "Terug na Eksamen"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52
+#: /Plugin/Admin/View/Contents/pages.ctp:31
+#: /Plugin/Admin/View/Currencies/index.ctp:31
+#: /Plugin/Admin/View/Diffs/index.ctp:30
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:32
+#: /Plugin/Admin/View/Groups/index.ctp:31
+#: /Plugin/Admin/View/Helpcontents/index.ctp:32
+#: /Plugin/Admin/View/Menunames/index.ctp:30
+#: /Plugin/Admin/View/News/index.ctp:32 /Plugin/Admin/View/Qtypes/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:49
+#: /Plugin/Admin/View/Results/index.ctp:122
+#: /Plugin/Admin/View/Slides/index.ctp:31
+#: /Plugin/Admin/View/Smstemplates/index.ctp:32
+#: /Plugin/Admin/View/Students/index.ctp:34
+#: /Plugin/Admin/View/Students/trnhistory.ctp:18
+#: /Plugin/Admin/View/Subjects/index.ctp:31
+#: /Plugin/Admin/View/Testimonials/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:18
+#: /Plugin/Admin/View/Users/index.ctp:32 /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54
+#: /Plugin/Admin/View/Sendemails/index.ctp:84
+#: /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10
+#: /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "Tipe"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "Liggaam van Vraag"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56
+#: /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "vlak"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:163
+#: /Plugin/Admin/View/Dashboards/index.ctp:30
+#: /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161
+#: /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84
+#: /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "punte"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58
+#: /Plugin/Admin/View/Advertisements/index.ctp:35;47
+#: /Plugin/Admin/View/Contents/pages.ctp:36;50
+#: /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:35;46
+#: /Plugin/Admin/View/Groups/index.ctp:33;43
+#: /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35
+#: /Plugin/Admin/View/News/index.ctp:35;46
+#: /Plugin/Admin/View/Qtypes/index.ctp:32
+#: /Plugin/Admin/View/Questions/index.ctp:53;65
+#: /Plugin/Admin/View/Results/index.ctp:44;130
+#: /Plugin/Admin/View/Slides/index.ctp:35;47
+#: /Plugin/Admin/View/Smstemplates/index.ctp:36;48
+#: /Plugin/Admin/View/Students/index.ctp:41;57
+#: /Plugin/Admin/View/Students/wallet.ctp:41
+#: /Plugin/Admin/View/Subjects/index.ctp:35;47
+#: /Plugin/Admin/View/Testimonials/index.ctp:37;54
+#: /Plugin/Admin/View/Users/assignrights.ctp:19;28
+#: /Plugin/Admin/View/Users/index.ctp:40;57 /View/Helper/FunctionHelper.php:110
+#: /View/Results/index.ctp:32
+msgid "Action"
+msgstr "Aksie"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "Voeg Advertensie"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8
+#: /Plugin/Admin/View/Advertisements/edit.ctp:11;13
+#: /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "advertensie Naam"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14
+#: /Plugin/Admin/View/Advertisements/edit.ctp:17;19
+#: /Plugin/Admin/View/Advertisements/index.ctp:33
+#: /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31
+#: /Plugin/Admin/View/Menunames/index.ctp:34
+#: /Plugin/Admin/View/Slides/add.ctp:14;16
+#: /Plugin/Admin/View/Slides/edit.ctp:18;20
+#: /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "bestel"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20
+#: /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "URL"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24
+#: /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "URL Tipe"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26
+#: /Plugin/Admin/View/Advertisements/edit.ctp:31
+#: /Plugin/Admin/View/Contents/add.ctp:38
+#: /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "interne"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26
+#: /Plugin/Admin/View/Advertisements/edit.ctp:31
+#: /Plugin/Admin/View/Contents/add.ctp:38
+#: /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "eksterne"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30
+#: /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "URL Target"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32
+#: /Plugin/Admin/View/Advertisements/edit.ctp:37
+#: /Plugin/Admin/View/Contents/add.ctp:48
+#: /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "_self"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32
+#: /Plugin/Admin/View/Advertisements/edit.ctp:37
+#: /Plugin/Admin/View/Contents/add.ctp:48
+#: /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "_blank"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "Laai Image (350 * 260)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43
+#: /Plugin/Admin/View/Contents/add.ctp:71
+#: /Plugin/Admin/View/Currencies/add.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:19
+#: /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26
+#: /Plugin/Admin/View/Groups/add.ctp:13
+#: /Plugin/Admin/View/Helpcontents/add.ctp:20
+#: /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16
+#: /Plugin/Admin/View/Smstemplates/add.ctp:20
+#: /Plugin/Admin/View/Students/add.ctp:63
+#: /Plugin/Admin/View/Subjects/add.ctp:19
+#: /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14
+#: /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "Stoor"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:21
+#: /Plugin/Admin/View/Contents/add.ctp:72
+#: /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29
+#: /Plugin/Admin/View/Diffs/edit.ctp:29
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:20
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:45
+#: /Plugin/Admin/View/Exams/add.ctp:222;274
+#: /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14
+#: /Plugin/Admin/View/Groups/edit.ctp:29
+#: /Plugin/Admin/View/Helpcontents/add.ctp:21
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:42
+#: /Plugin/Admin/View/Mails/compose.ctp:56
+#: /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21
+#: /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29
+#: /Plugin/Admin/View/Questions/add.ctp:164
+#: /Plugin/Admin/View/Questions/edit.ctp:181
+#: /Plugin/Admin/View/Slides/add.ctp:29
+#: /Plugin/Admin/View/Slides/changephoto.ctp:21
+#: /Plugin/Admin/View/Slides/edit.ctp:43
+#: /Plugin/Admin/View/Smstemplates/add.ctp:21
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:46
+#: /Plugin/Admin/View/Students/add.ctp:64
+#: /Plugin/Admin/View/Students/changepass.ctp:40
+#: /Plugin/Admin/View/Students/changephoto.ctp:22
+#: /Plugin/Admin/View/Students/edit.ctp:88
+#: /Plugin/Admin/View/Students/wallet.ctp:65
+#: /Plugin/Admin/View/Subjects/add.ctp:20
+#: /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:21
+#: /Plugin/Admin/View/Testimonials/edit.ctp:47
+#: /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79
+#: /Plugin/Admin/View/Users/leveladd.ctp:15
+#: /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36
+#: /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "Sluit"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3
+#: /Plugin/Admin/View/Slides/changephoto.ctp:3
+#: /Plugin/Admin/View/Students/changephoto.ctp:4
+#: /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3
+#: /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "Werk Photo"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7
+#: /Plugin/Admin/View/Students/add.ctp:56
+#: /Plugin/Admin/View/Students/changephoto.ctp:8
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "Laai foto"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19
+#: /Plugin/Admin/View/Advertisements/edit.ctp:57
+#: /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43
+#: /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:40
+#: /Plugin/Admin/View/Menunames/edit.ctp:45 /Plugin/Admin/View/News/edit.ctp:40
+#: /Plugin/Admin/View/Qtypes/edit.ctp:27
+#: /Plugin/Admin/View/Questions/edit.ctp:179
+#: /Plugin/Admin/View/Slides/add.ctp:27
+#: /Plugin/Admin/View/Slides/changephoto.ctp:19
+#: /Plugin/Admin/View/Slides/edit.ctp:41
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:44
+#: /Plugin/Admin/View/Students/changepass.ctp:38
+#: /Plugin/Admin/View/Students/changephoto.ctp:20
+#: /Plugin/Admin/View/Students/edit.ctp:86
+#: /Plugin/Admin/View/Students/wallet.ctp:63
+#: /Plugin/Admin/View/Subjects/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:19
+#: /Plugin/Admin/View/Testimonials/edit.ctp:45
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:36
+#: /Plugin/Admin/View/Users/change_pass.ctp:39
+#: /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58
+#: /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "Opdateer"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20
+#: /Plugin/Admin/View/Advertisements/edit.ctp:58
+#: /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44
+#: /Plugin/Admin/View/Exams/edit.ctp:154
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:27
+#: /Plugin/Admin/View/Groups/edit.ctp:28
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:41
+#: /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41
+#: /Plugin/Admin/View/Qtypes/edit.ctp:28
+#: /Plugin/Admin/View/Questions/edit.ctp:180
+#: /Plugin/Admin/View/Slides/add.ctp:28
+#: /Plugin/Admin/View/Slides/changephoto.ctp:20
+#: /Plugin/Admin/View/Slides/edit.ctp:42
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:45
+#: /Plugin/Admin/View/Students/changepass.ctp:39
+#: /Plugin/Admin/View/Students/changephoto.ctp:21
+#: /Plugin/Admin/View/Students/edit.ctp:87
+#: /Plugin/Admin/View/Students/wallet.ctp:64
+#: /Plugin/Admin/View/Subjects/edit.ctp:38
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:20
+#: /Plugin/Admin/View/Testimonials/edit.ctp:46
+#: /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "Advertensies wysig"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8
+#: /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:8
+#: /Plugin/Admin/View/Exams/edit.ctp:30 /Plugin/Admin/View/Groups/edit.ctp:8
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:9
+#: /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9
+#: /Plugin/Admin/View/Qtypes/edit.ctp:8 /Plugin/Admin/View/Slides/edit.ctp:9
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:9
+#: /Plugin/Admin/View/Students/edit.ctp:13
+#: /Plugin/Admin/View/Subjects/edit.ctp:8
+#: /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "vorm"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41
+#: /Plugin/Admin/View/Advertisements/index.ctp:34
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:23
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24
+#: /Plugin/Admin/View/Helpcontents/index.ctp:34
+#: /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34
+#: /Plugin/Admin/View/Slides/edit.ctp:24 /Plugin/Admin/View/Slides/index.ctp:34
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:24
+#: /Plugin/Admin/View/Smstemplates/index.ctp:35
+#: /Plugin/Admin/View/Students/add.ctp:50
+#: /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40
+#: /Plugin/Admin/View/Testimonials/edit.ctp:28
+#: /Plugin/Admin/View/Testimonials/index.ctp:35
+#: /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "status"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "advertensies"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "Nuwe Advertensie"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52
+#: /Plugin/Admin/View/Contents/pages.ctp:16;53
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50
+#: /Plugin/Admin/View/Groups/index.ctp:16;46
+#: /Plugin/Admin/View/Helpcontents/index.ctp:16;49
+#: /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47
+#: /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3
+#: /Plugin/Admin/View/Qtypes/index.ctp:16;41
+#: /Plugin/Admin/View/Questions/index.ctp:69
+#: /Plugin/Admin/View/Slides/index.ctp:16;52
+#: /Plugin/Admin/View/Smstemplates/index.ctp:17;51
+#: /Plugin/Admin/View/Students/index.ctp:16;62
+#: /Plugin/Admin/View/Subjects/index.ctp:16;51
+#: /Plugin/Admin/View/Testimonials/index.ctp:16;58
+#: /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "Wysig"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53
+#: /Plugin/Admin/View/Contents/pages.ctp:17;54
+#: /Plugin/Admin/View/Currencies/index.ctp:16;50
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47
+#: /Plugin/Admin/View/Helpcontents/index.ctp:17;50
+#: /Plugin/Admin/View/News/index.ctp:17;50
+#: /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53
+#: /Plugin/Admin/View/Smstemplates/index.ctp:18;52
+#: /Plugin/Admin/View/Students/index.ctp:17;63
+#: /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59
+#: /Plugin/Admin/View/Users/assignrights.ctp:8;32
+#: /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "Verwyder"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:49
+#: /Plugin/Admin/View/Questions/index.ctp:68
+#: /Plugin/Admin/View/Slides/index.ctp:50
+#: /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "Beskou"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51
+#: /Plugin/Admin/View/Slides/index.ctp:51
+#: /Plugin/Admin/View/Testimonials/index.ctp:57
+#: /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "verandering Photo"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6
+#: /Plugin/Admin/View/Slides/view.ctp:3
+#: /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "Kyk Skyfies"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "Poging tot Papers van"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34
+#: /Plugin/Admin/View/Diffs/edit.ctp:11;13
+#: /Plugin/Admin/View/Diffs/index.ctp:31
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:33
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:8
+#: /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31
+#: /Plugin/Admin/View/Smstemplates/add.ctp:7;9
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:12;14
+#: /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18
+#: /Plugin/Admin/View/Students/edit.ctp:31;33
+#: /Plugin/Admin/View/Students/index.ctp:36
+#: /Plugin/Admin/View/Students/wallet.ctp:17
+#: /Plugin/Admin/View/Testimonials/add.ctp:9;11
+#: /Plugin/Admin/View/Testimonials/edit.ctp:16;18
+#: /Plugin/Admin/View/Testimonials/index.ctp:33
+#: /Plugin/Admin/View/Users/add.ctp:30;32
+#: /Plugin/Admin/View/Users/edit.ctp:41;43
+#: /Plugin/Admin/View/Users/index.ctp:35
+#: /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8
+#: /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13
+#: /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22
+#: /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "Naam"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5
+#: /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5
+#: /Plugin/Admin/View/Students/add.ctp:6;8
+#: /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35
+#: /Plugin/Admin/View/Students/trnhistory.ctp:19
+#: /Plugin/Admin/View/Students/wallet.ctp:11
+#: /Plugin/Admin/View/Users/add.ctp:36;38
+#: /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36
+#: /Plugin/Admin/View/Users/my_profile.ctp:15
+#: /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12
+#: /View/Registers/index.ctp:10;12 /View/Results/pdf/certificate.ctp:10
+#: /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "e-pos"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40
+#: /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "Puntetotaal"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "verkry Punte"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "gevolg Harde"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "finaliseer Dit"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19
+#: /Plugin/Admin/View/Results/index.ctp:20;57;143
+#: /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "GESLAAG"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19
+#: /Plugin/Admin/View/Results/index.ctp:20;57;143
+#: /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "MISLUK"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "gefinaliseer Deur"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "vraag No"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78
+#: /Plugin/Admin/View/Questions/add.ctp:63;78
+#: /Plugin/Admin/View/Questions/edit.ctp:74;88;89
+#: /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "Opsie 1"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84
+#: /Plugin/Admin/View/Questions/add.ctp:64;82
+#: /Plugin/Admin/View/Questions/edit.ctp:75;92;93
+#: /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "OPTION2"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90
+#: /Plugin/Admin/View/Questions/add.ctp:65;86
+#: /Plugin/Admin/View/Questions/edit.ctp:76;96;97
+#: /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "Option3"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96
+#: /Plugin/Admin/View/Questions/add.ctp:66;90
+#: /Plugin/Admin/View/Questions/edit.ctp:77;100;101
+#: /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "Option4"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102
+#: /Plugin/Admin/View/Questions/add.ctp:67;94
+#: /Plugin/Admin/View/Questions/edit.ctp:78;104;105
+#: /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "Option5"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108
+#: /Plugin/Admin/View/Questions/add.ctp:68;98
+#: /Plugin/Admin/View/Questions/edit.ctp:79;108;109
+#: /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "Option6"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158
+#: /Plugin/Admin/View/Results/result.ctp:175
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:161
+#: /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "merkbare Antwoord"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159
+#: /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "Korrekte antwoord"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162
+#: /Plugin/Admin/View/Results/result.ctp:25;103;179
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165
+#: /View/Results/attemptedpapers.ctp:18 /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "tyd wat dit neem"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "punte behaal"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "Nagegaan deur"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "stelsel"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "konfigurasie-opsies"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8
+#: /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "Site Name"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12
+#: /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "Organisasie Naam"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18
+#: /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "Domein naam"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22
+#: /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "organisasie E-pos"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "meta titel"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32
+#: /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "meta Description"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36
+#: /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "Tydsone"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85
+#: /Plugin/Admin/View/Iequestions/index.ctp:25
+#: /Plugin/Admin/View/Questions/add.ctp:134;158
+#: /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;117
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "-- Kies asseblief --"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40
+#: /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "Geldeenheid"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "Selected Kontak"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "e-pos Kontak"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "Wys rekords per bladsy"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "Max rekords per bladsy"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "datum formaat"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "Datum, maand, jaar, Uur, Min, Art, Meridian, datum Seprator, Tyd Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "Image"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "teks"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "teksrigting"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "Links na regs (LTR)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "Regs na links (RTL)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "Taal"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "Aktiveer SMS-boodskap"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "Aktiveer E Kennisgewing"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "handleiding verifikasie"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "Frontend Registrasie"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "Frontend Skyfies"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "vertaling"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117
+#: /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101
+#: /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "betaal Eksamen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "Math Redakteur"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "eksamen Verstryking"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "eksamen Terugvoer"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Tolrance Telling"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "sertifikaat"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "getuigskrif"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "advertensie"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "Aantal Besoekers"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "Aantal Student"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "Aantal Eksamen"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174
+#: /Plugin/Admin/View/Emailsettings/index.ctp:43
+#: /Plugin/Admin/View/Payments/index.ctp:31
+#: /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "instellings op te slaan"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "Voeg Bladsye"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28
+#: /Plugin/Admin/View/Contents/edit.ctp:32;34
+#: /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "skakel Naam"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32
+#: /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "Link Bestel"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36
+#: /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "Page Tipe"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44
+#: /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "eksterne Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46
+#: /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "Url Target"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55
+#: /Plugin/Admin/View/Contents/pages.ctp:33
+#: /Plugin/Admin/View/Menunames/edit.ctp:17;19
+#: /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "Page Naam"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59
+#: /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "Page Url"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65
+#: /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "Page Content"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "wysig Bladsye"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "bladsye"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "Nuwe Page"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:26
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "gepubliseer"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:26
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "ongepubliseerde"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "Geld Voeg"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11
+#: /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "geldeenheid Naam"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17
+#: /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "kort Naam"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "Laai geldeenheid (Minder of gelykstaande aan 50 * 50)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "Nuwe Geld"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "In Progress Eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13
+#: /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13
+#: /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "komende Eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "voltooi Eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;90
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;97
+#: /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "Studente"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "In Progress & Komende Eksamens"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "Datum"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28
+#: /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8
+#: /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "eksamen Naam"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122
+#: /Plugin/Admin/View/Iequestions/index.ctp:17
+#: /Plugin/Admin/View/Iestudents/index.ctp:17
+#: /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99
+#: /Plugin/Admin/View/Students/add.ctp:10
+#: /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12
+#: /Plugin/Admin/View/Users/edit.ctp:19 /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "groep"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31
+#: /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "duur"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "Onlangse Eksamenuitslae"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61
+#: /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "eksamen"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62
+#: /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "algehele resultaat"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63
+#: /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "student Statistiek"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70
+#: /Plugin/Admin/View/Exams/stats.ctp:16
+#: /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "Na"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71
+#: /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "besonderhede"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "Top 10 Student Groep Wyse"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "Student Statistiek Table"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "Totale studente"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "Totaal aktiewe"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "Totaal Hangende"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "Totaal afgestel"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "Top 10 Vraag Bank Onderwerp Wyse"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "Top 10 Probleme vlak van vrae"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "Vraag Telling Table"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "Bank Naam"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "Totaal Maklik"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "Totaal Normale"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "Totaal Moeilike"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "die moeilikheid Vlak"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "E-pos instellings"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "e Tipe"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "localhost"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "Bediener Naam / Host"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "Port"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33
+#: /Plugin/Admin/View/Payments/index.ctp:6;8
+#: /Plugin/Admin/View/Smssettings/index.ctp:17;19
+#: /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "Bynaam"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37
+#: /Plugin/Admin/View/Forgots/reset.ctp:20
+#: /Plugin/Admin/View/Payments/index.ctp:12;14
+#: /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22
+#: /Plugin/Admin/View/Students/changepass.ctp:20;22
+#: /Plugin/Admin/View/Users/add.ctp:24;26
+#: /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37
+#: /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47
+#: /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47
+#: /View/Registers/index.ctp:24;26 /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "wagwoord"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "Voeg E-pos sjabloon"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:3
+#: /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "e-pos sjabloon"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "Wysig E-pos Templates"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "e-pos templates"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "Nuwe E-pos sjabloon"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12
+#: /Plugin/Admin/View/Smstemplates/add.ctp:13;15
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:18;20
+#: /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "sjabloon"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "Onderhewig suksesvol bygevoeg"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "Eksamen Voeg"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92
+#: /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "Naam van Eksamen"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96
+#: /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "verbygaande Persentasie"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102
+#: /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "opdrag"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "Eksamen Duur (Min.)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "0 vir 'n onbeperkte duur"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "poging Telling"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "0 vir 'n onbeperkte poging"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60
+#: /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20
+#: /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "begin Datum"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67
+#: /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22
+#: /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "einddatum"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76
+#: /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "Wys Antwoordblad"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195
+#: /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130
+#: /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "jo"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195
+#: /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130
+#: /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "Nee"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80
+#: /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "Kies Groep"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "Studente Groep"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90
+#: /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "negatiewe nasien"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "ewekansige Vraag"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161
+#: /Plugin/Admin/View/Exams/edit.ctp:106;108
+#: /Plugin/Admin/View/Exams/view.ctp:40
+#: /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "Bedrag"
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "leser Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136
+#: /Plugin/Admin/View/Students/add.ctp:46
+#: /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "verstryking Dae"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:16
+#: /Plugin/Admin/View/Students/add.ctp:48
+#: /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "0 vir Unlimited"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114
+#: /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "Resultaat na Afwerking"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "Wyse"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "Prepration"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124
+#: /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "Instant Resultaat"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128
+#: /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "opsie Shuffle"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "Vakke Eksamens Voeg"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209
+#: /Plugin/Admin/View/Subjects/add.ctp:12;14
+#: /Plugin/Admin/View/Subjects/edit.ctp:21;23
+#: /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "Dansstudies"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247
+#: /Plugin/Admin/View/Results/result.ctp:100
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "Aantal Vrae"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "Vraag gevra Poging Telling"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:9
+#: /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "Vrae Poging Telling"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "Los skoon en kliek nie vertoon (0 vir 'n onbeperkte)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "Ctrl + kliek om veelvoude voeg"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "Voeg by"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "Eksamen wysig"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "eksamen Statistiek"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "Geen van Student Geslaag"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "Aflaai"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "Geen van student nie"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "Geen van Student Afwesig"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "eksamen Besonderhede"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "finaliseer Resultaat"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "poging tot Papers"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "in aanmerking kom Groep"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "Close Eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "aktiveer Eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "Eksamen Geslote heraktiveer eksamen"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "leser Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "Verval"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65
+#: /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "dae"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "subjektiewe"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "Doel"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "Ware & amp; onwaar"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "Vul die spasies in"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "Totaal Vrae"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "Vraag Poging Telling"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "24h"
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "Totaal"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "E"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "M"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3 /View/Results/index.ctp:26
+#: /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "S.No."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4
+#: /Plugin/Admin/View/Results/index.ctp:37;96;123
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "student Naam"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "Inskrywing"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7
+#: /Plugin/Admin/View/Students/add.ctp:30;32
+#: /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "phone"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9
+#: /Plugin/Admin/View/Results/index.ctp:129
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "gevolg Status"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2
+#: /Plugin/Admin/View/Forgots/username.ctp:13
+#: /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "Wagwoord vergeet"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5
+#: /Plugin/Admin/View/Forgots/username.ctp:5
+#: /Plugin/Admin/View/Results/result.ctp:13
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "e-pos ID"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:9
+#: /Plugin/Admin/View/Forgots/reset.ctp:29
+#: /Plugin/Admin/View/Forgots/username.ctp:9
+#: /View/Emailverifications/index.ctp:17 /View/Emailverifications/resend.ctp:17
+#: /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17
+#: /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39
+#: /View/Installers/step1.ctp:82 /View/Profiles/change_photo.ctp:33
+#: /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "Indien"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:12
+#: /Plugin/Admin/View/Forgots/reset.ctp:32
+#: /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "vergeet Gebruikersnaam"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:13
+#: /Plugin/Admin/View/Forgots/reset.ctp:33
+#: /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "Teken in"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2
+#: /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "verifikasiekode"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "Voer verifikasiekode"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "Herstel wagwoord"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24
+#: /Plugin/Admin/View/Students/changepass.ctp:26;28
+#: /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33
+#: /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "Bevestig Wagwoord"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "Voeg Groepe"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8
+#: /Plugin/Admin/View/Groups/edit.ctp:11;13
+#: /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "groep Naam"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "wysig Groepe"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:128
+#: /Plugin/Admin/View/Questions/edit.ctp:142
+#: /Plugin/Admin/View/Students/index.ctp:38
+#: /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33
+#: /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "Groepe"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "Nuwe groep byvoeg"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "Voeg Hulp inhoud"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:12;14
+#: /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "Titel"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:18;20
+#: /Plugin/Admin/View/Results/result.ctp:174
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17
+#: /Plugin/Admin/View/Testimonials/edit.ctp:22;24
+#: /Plugin/Admin/View/Testimonials/index.ctp:34
+#: /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "BESKRYWING:"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "Wysig Hulp inhoud"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "hulp inhoud"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "Nuwe Hulp inhoud"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "Invoer / Uitvoer Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "Terug na Vrae"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "uitvoer Vrae"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11
+#: /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "Kies Lêer"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "invoer Vrae"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1
+#: /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "Invoer / Uitvoer Studente"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "Terug na Studente"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "uitvoer Studente"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "invoer Studente"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "alle boodskappe"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111
+#: /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133
+#: /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "My profiel"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113
+#: /Plugin/Admin/View/Students/changepass.ctp:16
+#: /Plugin/Admin/View/Students/view.ctp:11
+#: /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12
+#: /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "Verander wagwoord"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "Teken uit"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353
+#: /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "Aangedryf deur"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190
+#: /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "Datum & amp; tyd"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "Nuwe boodskap"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "Soek Student Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "Boodskap"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55
+#: /Plugin/Admin/View/Sendemails/index.ctp:127
+#: /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "stuur"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "komponeer"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "Boks"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "Gestuurde boodskappe"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "asblik"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "Meer ..."
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "Merk as gelees"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "Merk as ongelees"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "Skuif na Inboks"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "antwoord"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "vorentoe"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "Menu Name"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13
+#: /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "model Naam"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25
+#: /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "ikoon"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "Voeg Nuus"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14
+#: /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "Nuus titel"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "Nuus beskrywing"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "Nuus wysig"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "Nuus"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "Nuwe Nuus"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "PayPal-betaling opsie"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "Handtekening"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "Sandbox af"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26
+#: /Plugin/Admin/View/Questions/add.ctp:111
+#: /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110
+#: /View/Results/view.ctp:367
+msgid "True"
+msgstr "True"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43
+#: /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "Voeg Vraag"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73
+#: /Plugin/Admin/View/Questions/edit.ctp:73;84;85
+#: /Plugin/Admin/View/Questions/index.ctp:50
+#: /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "VRAAG 1"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69
+#: /Plugin/Admin/View/Questions/edit.ctp:80
+#: /Plugin/Admin/View/Results/result.ctp:177
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:163
+#: /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "korrekte antwoorde"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "Tik jou vraag hier"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "ANSWER1"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "ANSWER2"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "Answer3"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "Answer4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "Answer5"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "Answer6"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107
+#: /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "Waar vals"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111
+#: /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110
+#: /View/Results/view.ctp:367
+msgid "False"
+msgstr "False"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121
+#: /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "leë ruimte"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "Verduideliking (opsioneel)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "Verskaf verduideliking ter ondersteuning van korrekte antwoord"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+#: /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "Wenk (opsioneel)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "Wenk om te help korrek beantwoord"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153
+#: /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "sonder minusteken"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "Wysig Vraag Tipe"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135
+#: /Plugin/Admin/View/Questions/view.ctp:97
+#: /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "verduideliking"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154
+#: /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "Wenk"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "Vrae"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "Nuwe Vraag"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "Invoer / Uitvoer Vraag"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "antwoord"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "vraag Besonderhede"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "eksamen wyse"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "Kies Eksamen"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "Status van Resultaat"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "Kies Resultaat Status"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "aflaai Resultaat"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12
+#: /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "rang"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "toets"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "persent"
+
+#: /Plugin/Admin/View/Results/index.ctp:43
+#: /Plugin/Admin/View/Results/result.ctp:37
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31
+#: /View/Results/view.ctp:89
+msgid "Result"
+msgstr "gevolg"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "Kyk Resultaat"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "Aflaai / druk resultaat"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "student wyse"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "Noem of Inskrywing nommer"
+
+#: /Plugin/Admin/View/Results/index.ctp:98
+#: /Plugin/Admin/View/Students/add.ctp:40;42
+#: /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "Inskrywing nommer"
+
+#: /Plugin/Admin/View/Results/index.ctp:115
+#: /Plugin/Admin/View/Results/result.ctp:1;244
+#: /Plugin/Admin/View/Students/trnhistory.ctp:5
+#: /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "terug"
+
+#: /Plugin/Admin/View/Results/result.ctp:7
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "Assesment Verslag vir"
+
+#: /Plugin/Admin/View/Results/result.ctp:17
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "geneem Datum"
+
+#: /Plugin/Admin/View/Results/result.ctp:29
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:24
+#: /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "Totale Tyd"
+
+#: /Plugin/Admin/View/Results/result.ctp:33
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "Nos. Leser tolrance poging"
+
+#: /Plugin/Admin/View/Results/result.ctp:48
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:43
+#: /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "totale telling"
+
+#: /Plugin/Admin/View/Results/result.ctp:61
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "Student Punte Distribution"
+
+#: /Plugin/Admin/View/Results/result.ctp:77
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "terugvoer"
+
+#: /Plugin/Admin/View/Results/result.ctp:91
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "punte Plaat"
+
+#: /Plugin/Admin/View/Results/result.ctp:98
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "artikel Naam"
+
+#: /Plugin/Admin/View/Results/result.ctp:99
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "artikel verhouding"
+
+#: /Plugin/Admin/View/Results/result.ctp:101
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "werklike"
+
+#: /Plugin/Admin/View/Results/result.ctp:102
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "jou Persentasie"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "artikel Opsomming"
+
+#: /Plugin/Admin/View/Results/result.ctp:144
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "maksimum telling"
+
+#: /Plugin/Admin/View/Results/result.ctp:148
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "ontwikkelde vaardigheid"
+
+#: /Plugin/Admin/View/Results/result.ctp:152
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "ontwikkelingsbehoeftes"
+
+#: /Plugin/Admin/View/Results/result.ctp:156
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "Gebrek aan vaardigheid"
+
+#: /Plugin/Admin/View/Results/result.ctp:167
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MKV beantwoord"
+
+#: /Plugin/Admin/View/Results/result.ctp:173
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:159
+#: /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "SN"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "legende"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "stuur e-pos"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "onderwysers"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "Enige e-pos"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "Default alle studente as jy voeg die hand dan soek student e-pos"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "Default alle onderwysers as jy voeg die hand dan soek onderwyser e-pos"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "Tik enige e-pos komma seprated"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "tipe onderwerp"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "Kies E-pos sjabloon"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "As jy nie wil hê om e-pos sjabloon kies dan tik e-pos. Sodra jy redakteur laai dan kan jy nie kies sjabloon gaan knoppie om te herstel"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "stuur SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "enige SMS"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "Default alle studente as jy voeg die hand dan soek studente naam"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "Default alle onderwysers as jy voeg die hand dan soek onderwyser naam"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "Enige nommer"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "Tik 'n aantal komma seprated"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "Kies Sms Sjabloon"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "SMS Sjabloon"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "As jy nie wil hê om SMS sjabloon kies dan tik SMS-boodskap"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "sertifikaat Handtekening"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "Laai Image (* hoogte minder as 75px)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "verwyder Handtekening"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "Voeg Skyfies"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10
+#: /Plugin/Admin/View/Slides/edit.ctp:12;14
+#: /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "Skyfie Naam"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20
+#: /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "Laai Skyfie (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "wysig Skyfies"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "skyfies"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "Nuwe Skyfie"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "SMS-instellings"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "API Link"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "sender ID"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "Op pad Gebruikersnaam"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "Gebruikersnaam veld wat deur SMS gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "Op pad wagwoord"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "Wagwoord veld wat deur SMS gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "Op pad Mobile Geen"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "Mobile Geen veld wat deur SMS gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "Op pad Boodskap"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "Boodskap veld wat deur SMS gateway"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "Op pad sender-ID"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "Sender-ID veld wat deur SMS gateway"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "Voeg SMS Sjabloon"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "SMS wysig templates"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "SMS Templates"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "Nuwe SMS Sjabloon"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "Studente Voeg"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28
+#: /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "adres"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38
+#: /Plugin/Admin/View/Students/edit.ctp:51;53
+#: /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "Guardian Phone"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "Studente wysig"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "hernuwingsdatum"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "Nuwe Student"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "beursie"
+
+#: /Plugin/Admin/View/Students/index.ctp:39
+#: /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "Toegang Datum"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20
+#: /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "krediet"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21
+#: /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "debiet"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22
+#: /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119
+#: /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "balans"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23
+#: /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "Datum Tyd"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24
+#: /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "betaling deur"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25
+#: /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19
+#: /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "opmerkings"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "Kyk Student Inligting"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "FULLNAME"
+
+#: /Plugin/Admin/View/Students/view.ctp:18
+#: /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "Telefoon nommer"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "geregistreerde pos"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "Alternatiewe nommer"
+
+#: /Plugin/Admin/View/Students/view.ctp:34
+#: /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "Inskrywing Geen"
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "laaste Aanmelding"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "studente Wallet"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "transaksie Form"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23
+#: /Plugin/Admin/View/Users/add.ctp:42;44
+#: /Plugin/Admin/View/Users/edit.ctp:53;55
+#: /Plugin/Admin/View/Users/index.ctp:37
+#: /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "Mobile"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "Voeg"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "aftrek"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "Onderwerpe Voeg"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "Onderwerpe wysig"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "onderwerpe"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "Voeg nuwe vak"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "vraag Bank"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "Getuigskrifte Voeg"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "Laai foto (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "wysig Getuigskrifte"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "getuigskrifte"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "Nuwe getuigskrif"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "foto"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "Gebruikers Voeg"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "gebruikers Vlak"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20
+#: /Plugin/Admin/View/Users/edit.ctp:29;31
+#: /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "vlak gebruikers"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "Nuwe Vlak"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "Terug na Gebruikers"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "vlak Naam"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "stel Toestemming"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11
+#: /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "Ken Form Regte"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "Modulenaam"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22
+#: /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "Ou wagwoord"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "Gebruikers wysig"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "Gebruikers Registrasievorm"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "gebruikers"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "Voeg by nuwe gebruiker"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "Voeg Vlak Gebruikers"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "vlak gebruiker"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "Geagte gebruiker, teken in om toegang te verkry tot die admin gebied!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "Admin / Onderwyser Gebruikersnaam"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "Vergeet Gebruikersnaam"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "Organisasie Logo"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "Laai Image (* hoogte minder as 220px)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "verwyder Logo"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "Verskaf asseblief 'n tipe vir grafiek %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "Grafiek: \\ \" %s \" kon nie gevind word nie. Maak seker dat Chart Naam is dieselfde string wat in jou oog op $ this-> HighCharts-> lewer () is verby."
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "Die Express Checkout transaksie verstryk en die transaksie moet weer begin"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "Jy kan 'n tweede oproep gemaak het vir dieselfde betaling of jy kan gebruik dieselfde faktuur ID vir aparte transaksies."
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "Gebruik asseblief 'n ander funcing bron."
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "'N Fout het voorgekom, probeer asseblief weer die transaksie."
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "Hierdie transaksie kon nie voltooi word. Redirecting om betaling gateway"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "Jy het nie ingestem het om die faktuur ooreenkoms."
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "Die faktuur ooreenkoms is afgeskakel of dormant."
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "Die kredietkaart gebruik is verstreke."
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "Die transaksie is geweier omdat die AVS reaksie ter waarde van N teruggekeer, en die handelaar rekening is nie in staat om sulke transaksies te aanvaar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "Die betaling gateway rekening is beperk."
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "Jy moet 'n IP-adres van die koper in te dien met elke API oproep."
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "Die handelaar gekies om 'n waarde vir die PaymentAction veld wat nie ondersteun word."
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "Die kredietkaart veld was leeg."
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "Die totale bedrag en item bedrae stem nie ooreen nie."
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "Die kredietkaart aangegaan is tans beperk deur die betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "Die handelaar aangegaan 'n faktuur ID wat reeds in verband met 'n transaksie deur dieselfde handelaar. Poging met 'n nuwe faktuur ID"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "Die transaksie is afgeneem deur die land filter deur die handelaar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "Die transaksie is afgekeur deur die maksimum bedrag filter deur die handelaar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "Die transaksie is afgekeur deur die betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "Die transaksie is afgeneem deur betaling gateway as gevolg van moontlike bedrog."
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "Die transaksie is afgeneem deur betaling gateway as gevolg van moontlike bedrog op die IP-adres."
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "Die handelaar rekening probeer die transaksie is nie 'n besigheid rekening."
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "Die handelaar rekening probeer die transaksie is nie in staat om Direkte inbetaling transaksies te verwerk. "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "Toegang tot Direkte betaling vir jou rekening gedeaktiveer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "Die handelaar rekening probeer die transaksie nie 'n bevestigde e-posadres met die betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "Die handelaar probeer 'n transaksie waar die bedrag oorskry die boonste limiet vir daardie handelaar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "Die transaksie is afgeneem as gevolg van 'n handelaar risiko filter vir AVS. Spesifiek, het die handelaar te stel om transaksie te weier wanneer die AVS teruggekeer n nie opgewasse (AVS = N)."
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "Die transaksie is afgeneem as gevolg van 'n handelaar risiko filter vir AVS. Spesifiek, het die handelaar die filter stel om transaksies daal wanneer die AVS n gedeeltelike wedstryd terugkeer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "Die transaksie is afgeneem as gevolg van 'n handelaar risiko filter vir AVS. Spesifiek, het die handelaar die filter stel om transaksies daal wanneer die AVS is nie ondersteun word."
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "Die handelaar aangegaan 'n IP-adres wat in 'n ongeldige formaat. Die IP-adres moet in 'n formaat soos 123.456.123.456."
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "opset die handelaar se vereis 'n CVV om daaroor gevoer word nie, maar daar is geen CVV voorsien met hierdie transaksie."
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "Die handelaar verskaf 'n adres of in die Verenigde State of Kanada, maar die staat verskaf is nie 'n geldige staat in óf land."
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "Die transaksie is afgekeur deur die bank, nie die betaling gateway. Die handelaar moet 'n ander kaart te probeer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "land van verblyf die handelaar se is tans nie ondersteun om Direkte inbetaling transaksies toelaat."
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid "The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick succession."
+msgstr "Die transaksie is geweier omdat die betaling gateway tans verwerking van 'n transaksie met dieselfde koper vir dieselfde bedrag. Kan voorkom wanneer 'n koper voorlê verskeie, identies transaksies kort na mekaar."
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "Die CVV verskaf is ongeldig. Die CVV is tussen 3-4 syfers lank."
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "Probeer asseblief weer later. Maak seker dat jy die korrekte CVV en adres inligting vir die koper oorgaan. As die skep van 'n herhalende profiel, probeer asseblief weer deur 'n init bedrag van 0."
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "Transaksie is nie in ooreenstemming te danke aan vermiste of ongeldig 3-D veilige verifikasie waardes. Gaan ECI, ECI3DS, CAVV, XID velde."
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "Die transaksie is deur die betaling gateway as gevolg van oormatige mislukkings oor 'n kort tydperk van die tyd vir hierdie kredietkaart afgekeur."
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "Die transaksie is afgeneem deur betaling gateway."
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "Die transaksie is geweier omdat die handelaar 'n geldige kommersiële entiteit ooreenkoms oor lêer met die betaling gateway het nie."
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "Die transaksie is geweier omdat die CVV ingevoer nie ooreenstem met die kredietkaart."
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "Die transaksie is afgekeur deur die bank as gevolg van 'n verval kredietkaart. Die handelaar moet 'n ander kaart te probeer."
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55
+#: /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42
+#: /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "utils"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "Oorskry toelaatbare limiet vir Navigasie weg"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "Jy het die toelaatbare limiet oorskry vir weg opgevolg van jou toets"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "Jou toets klaar. Jy kan die venster nou toemaak"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "installasie te voltooi"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! Die stelsel is suksesvol geïnstalleer."
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "Gaan na Admin / Onderwyser Interface"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "gebruikers"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "Gaan na frontend / Student Interface"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168
+#: /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114
+#: /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "Besoek ons ​​webwerf"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168
+#: /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114
+#: /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "vir dokumentasie en ondersteuning"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "My Eksamen Statistiek"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "Totaal Eksamen Gegewe"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "afwesig Eksamens"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "Die beste telling in"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "Aan"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "misluk in"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "gemiddelde persentasie"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "jou posisie"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "Maand Wyse Performance"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "Eksamen Wyse Performance"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "Hoogste"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11
+#: /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11
+#: /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "vandag se eksamen"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "Hoogste"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "Dit is die eksamen (s) wat nou geneem kan word"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "Geen Eksamens gevind vir vandag"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "Iets het verkeerd geloop"
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "Wys"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "inskrywings"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137
+#: /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "Vorige"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39
+#: /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "volgende"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "Resultate {:start} tot {:current} van {:count} inskrywings"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "e-pos verifiëring"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "Voer Bevestigingskode in die tekskassie"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "Re-Stuur E-pos verifiëring"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "Voer e-pos id in die teks boks wat jy intik ten tyde van die registrasie"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12
+#: /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "Gekoop Eksamen"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14
+#: /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "verstreke Eksamen"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "Dit is die eksamen (s) wat reeds verstryk"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36
+#: /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "Geen Eksamens gevind"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "Dankie vir die gebruik van die toets"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. Die toets instruksies was"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "grootliks Duidelike"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "medium Duidelike"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "Nie duidelik nie"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. taal van die vraag was"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. Algehele toets ervaring was"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "goeie"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "beter"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "beste"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "Enige ander terugvoer voorstel"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "Maak asseblief alle van jou chat vensters, screensaver, en anti-virus programme voor die aanvang van die toets"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "Moet asseblief nie druk \\ \"F5 \" tydens jou toets. Dit sal jou toets voltooi en jy sal nie in staat wees om weer oop te maak die toets"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "Jou antwoorde sal gered word. As jou toets is ontkoppel vir een of ander rede, sal jou antwoorde tot op daardie punt, sal gered word"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "Maak asseblief alle programme wat oplaai of aflaai van lêers in die agtergrond Byvoorbeeld: Dropbox, torrent, ens"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "Instruksies"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "Ek is gereed om te begin"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "eksamen Begin"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "Hierdie eksamen is betaal. Bedrag moet afgetrek op jou beursie outomaties. Na die aanvang van die eksamen timer sal nie ophou nie. Wil jy om te betaal en begin?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "Dit is die eksamen (s) wat reeds gekoop"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "korrekte Punte"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "Save & Volgende"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "Deresenseer"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "Resensie"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "Herstel Antwoord"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "Voltooi"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "Huidige Vraag"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "geantwoord."
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "nie"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "navigator Away"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "jy het weg van die toets venster navigator. Dit sal gerapporteer word aan die moderator"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "Moenie hierdie gedrag nie herhaal"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "Andersins kan jy kry gediskwalifiseer"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "Aanhou"
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "finaliseer"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "Wil jy dien en sluit die"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "Sodra jy dien, sal jy nie in staat wees om die hersiening"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "Opsomming van jou pogings in hierdie"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "soos hieronder toon"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "poging"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "Gaan terug na die eerste vraag"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "Dit is die eksamen (s) wat jy beplan om in die nabye toekoms"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "probeer nou"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "Jou prestasie in vergelyking met jou groep"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "Kan nie lees? Reload"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "Tik sekuriteitskode hierbo getoon"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "Beantwoord eenvoudige wiskunde"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "Pogings"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "oorblywende"
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "Verval datum"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "verstreke Datum"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "Vry"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "nie gekoop"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "Sien besonderhede"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "vrag Redakteur"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9
+#: /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "installasie"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "Stap 1 van 4"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "Bediener verstellings & Setup Vereistes"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "Setup Vereistes"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "hierdie sagteware installering vereis sekere bediener kant uitbreiding en vermoë"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "asseblief hieronder na te gaan en te vergelyk met jou bediener huidige standbeelde aan die regterkant. Jy kan kliek op die ikoon langs elke tegnologie vir meer inligting."
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "Uitbreidings & amp; aansoeke"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP Server. Byvoorbeeld: Apache"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "vereis"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "PHP 5.2.8 of groter"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "Database Engine MySQL (4 of meer)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "BOB Uitbreiding"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "GD Uitbreiding"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "Verpligtend"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "bediener Status"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "web Server"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP weergawe"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MYSQL weergawe"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "BOB nie beskikbaar"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "BOB beskikbaar"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "GD Availiable"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "GD Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "Directory & amp; lêer Toestemming"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "Hierdie dopgehou van lêers moet wees"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "skryfbare"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "vir aansoek om geïnstalleer."
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "Dopgehou of lêers"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "artikels / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "artikels / Config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "artikels / Config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "Herlaai"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "Kom ons begin"
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "Stap 2 van 4"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "ooreenkoms installasie"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "Ek aanvaar om voort"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "Stap 3 van 4"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "Databasis konneksie instellings"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "host Naam"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "gewoonlik Local Host"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "databasis Naam"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "databasis Gebruiker"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "Databasis Gebruikersnaam"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "databasis wagwoord"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "Databasis Gebruiker Wagwoord"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "databasis Tipe"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "Test Connection"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "Stap 4 van 4"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "Naam van jou webwerf"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "meta Sleutelwoord"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "Nuttig vir SEO"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "Meta inhoud vir SEO"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "Kies Tydsone"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "Naam van jou organisasie / maatskappy"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "Standaard Admin e-pos"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "Installeer Voorbeeld Data Met Dummy Inskrywings"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "installeer"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr "Welkom by"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "stel die regte pad"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "Teken uit"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "Kopiereg"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "volg op Facebook"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "Jongste Nuus & gebeure"
+
+#: /View/Layouts/default.ctp:348
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "tyd"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "Download PDF"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "Gemiddelde persentasie (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "eksamen Gegewe"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "verwyder permanent"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "Skuif na asblik"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "Nuus Detail"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "Geen van Besoekers"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "Geen van Studente"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "Geen van Eksamens"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "Betaling Van Pay Pal"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "Skenk Van Pay Pal"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9
+#: /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "Profiel"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10
+#: /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "Wysig profiel"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "Nuwe student"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "Sekuriteitskode"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "Antwoorde"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "my Resultate"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "poging Datum"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "Max.Marks"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "telkaart"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "vak-verslag"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "TYDBESTUUR"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "VRAAG VERSLAG"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "OPLOSSING"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "VERGELYK VERSLAG"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "Telkaart Vir"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "Totaal Aantal Student"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "my Punte"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "Totale punte van toets"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "my Percentile"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "Totaal Vraag in toets"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "Totaal Poging vraag toets"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "links Vraag"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "Links Vraag Punte"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "Totale Tyd van toets"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "my Tyd"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "my posisie"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "Prestasieverslag Vir"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "Vraag & Punte Wyse aanmeld vir"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "Onderhewig aanmeld vir"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "korrekte"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "onbeproefd Vrae"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "Grafiese aanmeld vir"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "Time Management Vir"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "Vraag aanmeld vir"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "Q.No."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "vraag Status"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "Jou antwoord"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "Jou telling"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "jou Tyd"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "oplossing vir"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "nie probeer"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "poging"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "verkeerde"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "jou antwoorde"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "oplossing"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "Vergelyk aanmeld vir"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "Totale vraag gevra."
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "maksimum Punte"
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "Poging tot vraag gevra."
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Onbeproefd vraag gevra."
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "Korrekte vraag gevra."
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "Verkeerde vraag gevra."
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "persentiel"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "vorige"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "Hierby word gesertifiseer dat"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "het suksesvol voltooi die"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "in kursusprogram aangebied deur"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "student Teken"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "Meld aan"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "vergeet Passwocrd"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "Nuwe gebruiker? Skep rekening"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "Enjin is nie gelaai"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "Pdf enjin \\ \" %s \" nie gevind"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "Pdf enjins moet verleng \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "Crypto is nie gelaai"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "Pdf crypto \\ \" %s \" nie gevind"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "Crypto enjin moet verleng \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "Kontroleerder kenmerk $ pdfConfig is nie korrek of ontbreek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> Toets: url"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "Totaal Versoeke gemaak:: versoeke"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "Totale Tyd verloop:: duur (sekondes)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "Versoeke / Tweede:: RPS req / sek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "Gemiddeld versoek tyd: Gemiddeld-time sekondes"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "Standaardafwyking van die gemiddelde aanvraag tyd:: st-dev"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "Langste / kortste versoek:: langste sek /: kortste sek"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "Stel jou in staat om te kry 'n paar rowwe benchmarking statisticsabout n volledige URL."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "Die URL te vra."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "Aantal iterasies uit te voer."
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "Maksimum totale tyd vir alle iterasies, in seconds.If 'n enkele iterasie neem meer as die time-out, sal net een versoek gemaak word"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "Voorbeeld Gebruik: `koek maatstaf --n 10 --t 100 http: // localhost / testsite`. <Info> Nota: </ info> hierdie maatstaf sluit nie die leser te lewer tye."
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "komponent inisialisering"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "kontroleerder aksie"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "Kontroleerder aksie begin"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "nutsbalk Processing staat"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "nutsbalk Processing data"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "Kontroleur lewer begin"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "Kan DebugToolbar paneel nie laai %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "Core Processing (Afgelei van $ _SERVER [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "Headers al gestuur in %s op lyn %s . Kan nie log data te stuur na FirePHP."
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "Verkeerde aantal parameters vir FireCake :: FB ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "Maksimum aantal (99999) van boodskappe bereik!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "Daar is geen aktiewe panele. Jy moet 'n paneel in staat stel om sy produksie te sien."
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "app Konstantes"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP Konstantes"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "PHP"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "Hidef Omgewing"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "versoek Geskiedenis"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "Geen vorige versoeke aangeteken."
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "vorige versoeke beskikbaar"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "Herstel na die huidige aanvraag"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "ingesluit lêers"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "Logs"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "Daar was geen teken inskrywings het hierdie versoek"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "versoek"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "Geen post data."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "Geen soektog string data."
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "huidige roete"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "sessie"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "SQL Logs"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "Geen navraag logs wanneer ontfout <2."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "Geen navraag logs."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "Totale Tyd: %s ms <br /> Totaal Navrae: %s navrae"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "Navraag verduidelik:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "Klik op 'n \\ \"Verduidelik \" skakel hierbo om die navraag verduideliking sien."
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "Geen aktiewe databasis verbindings"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "Geheue"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "Peak Memory Gebruik"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "Memory gebruik"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "Timers"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "%s (me)"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "Totaal Versoek Tyd:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "Tyd in MS"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "grafiek"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "Kyk Veranderlikes"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "Die lewering van View"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "Die lewering van %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "Kyk lewer volledige"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "verduidelik"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "Begin %s ms in die versoek, met %s ms"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "Geen opmaak foute gevind"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "Miskien stadig"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "Absolute pad of met betrekking tot APP."
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "'N Fout het voorgekom terwyl jy die status van jou rekening."
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "Daar was 'n fout tydens koppeling aan Paypal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "Daar was 'n probleem te inisieer die transaksie, probeer asseblief weer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "Daar was 'n probleem om jou besonderhede, probeer asseblief weer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "Daar was 'n fout voltooiing van die betaling"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "Daar was 'n fout tydens die verwerking van die transaksie, probeer asseblief weer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "Daar was 'n fout tydens die verwerking van die kaart betaling"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "Daar was 'n fout tydens die verwerking van jou kaart, probeer asseblief weer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "Daar was 'n fout tydens die verwerking van die terugbetaling"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "'N Probleem het voorgekom tydens die terugbetaling proses, probeer asseblief weer."
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "Daar was 'n probleem te kommunikeer met die betaling gateway"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "Ontbreek kliënt ID / geheime"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "Moet 'n vervaldatum spesifiseer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "Moet 'n M en Y in vervaldatum"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "Ongeldige vervaldatum"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "Ongeldige kredietkaart nommer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "Ongeldige CVV2 aantal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "Ongeldige kaart tipe"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "Kan kliënt IP-adres nie op te spoor"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "Nie 'n geldige kredietkaart nommer"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "Jy moet die 3 syfer sekerheid nommer insluit"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "Moet spesifiseer 'n \\ \"bedrag \" op te laai"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "Jy moet 'n geldige bevel verskeidenheid slaag"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "Geldig \\ \"terugkeer \" en \\ \"Kanselleer \" URL'e moet voorsien word"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "Jy moet 'n geldeenheid kode verskaf"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "Oorspronklike PayPal transaksie ID vereis"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "Moet spesifiseer 'n \\ \"bedrag \" om terug te betaal"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "Jy moet 'n terugbetaling tipe spesifiseer, soos volle of gedeeltelike"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "Lêer is nie afgelaai."
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "Geen %s gevind vir daardie datum bereik"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "Jou vorm data behoue ​​jy sal gestuur word na dit na aanteken."
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "Fout boodskap van %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "Albanië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "Algerië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "Amerikaanse Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "Andorra"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "Angola"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "Antarktika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "Antigua en Barbuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "Armenië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "Aruba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "Australië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "Oostenryk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "Bangladesj"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "Barbados"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "Wit-Rusland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "België"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "Belize"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "Benin"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "Bhoetan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnië en Herzegovina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "Botswana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "Brasilië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "Britse Indiese Oseaan Gebied"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "Bulgarye"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "Burundi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "Kambodja"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "Kameroen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "Kanada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "Kaap Verde"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "Kaaimanseilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "Sentraal-Afrikaanse Republiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "Chad"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "Chili"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "Sjina"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "Colombia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "Comore"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "Kongo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "Kongo, die Demokratiese Republiek van die"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "Cook Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "Ivoorkus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "Kroasië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "Kuba"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "Ciprus"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "Tsjeggiese Republiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "Denemarke"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "Djiboeti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "Dominica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "Dominikaanse Republiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "Egipte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "Ekwatoriaal-Guinee"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "Estland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "Ethiopië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falkland Eilande (Malvinas)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "Faroëreilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "Fidji"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "Finland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "Frankryk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "Franse Guiana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "Frans-Polinesië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "Franse Suidelike Gebiede"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "Gaboen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "Gambië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "Duitsland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "Ghana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "Griekeland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "Groenland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "Grenada"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "Guam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "Guinee"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "Guinee-Bissau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "Guyana"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "Haiti"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Gehoor Island en McDonald Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatican City State)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "Honduras"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "Hongarye"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "Ysland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "Indië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Islamic Republic of"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "Irak"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "Ierland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "Israel"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "Italië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "Japan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "Jordan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "Kenia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "Korea, Demokratiese Volksrepubliek van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "Korea, Republiek van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "Lao People's Demokratiese Republiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "Letland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "Liberië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libiese Arabiese Jamahiriya"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "Litaue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "Macao"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Macedonië, die voormalige Slawiese Republiek van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "Malawi"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "Maleisië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "Maldives"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "Mali"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "Malta"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "Marshall-eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "Martinique"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "Mauritanië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "Mikronesië, Federale State van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "Moldawië, Republiek van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "Monaco"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "Mongolië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "Marokko"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "Mosambiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "Namibië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "Nauru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "Nepal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "Nederlandse Antille"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "Nieu-Seeland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "niger"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "Nigerië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "Niue"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "Noord Mariana Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "Noorweë"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "Oman"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "Palau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "Palestynse gebiede beset"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "Panama"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "Papoea-Nieu-Guinee"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "Peru"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "Filippyne"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "Pole"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "Portugal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "Katar"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "Reunion"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "Roemenië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "Russiese Federasie"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts en Nevis"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint-Pierre en Miquelon"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "St Vincent en die Grenadine"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "Samoa"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "San Marino"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé en Principe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "Senegal"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "Serwië en Montenegro"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "Seychelle"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "Singapoer"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "Slowakye"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "Slowenië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "Solomon Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "Somalië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "Suid-Afrika"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Suid-Georgië en die Suid-Sandwich Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "Spanje"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "Soedan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "Suriname"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard en Jan Mayen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "Swede"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "Switserland"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "Siriese Arabiese Republiek"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "Taiwan, Provinsie van China"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "Tanzanië, Verenigde Republiek van"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "Thailand"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "Oos-Timor"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "Togo"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad en Tobago"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "Tunisië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "Turkye"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "Turks en Caicos Eilande"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "Uganda"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabiese Emirate"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "Verenigde Koninkryk"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "Verenigde State"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "Oesbekistan"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "Viëtnam"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "Virgin Islands, British"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "Virgin Islands, Us"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "Wallis en Futuna"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "Wes-Sahara"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "Jemen"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "Zambië"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Ongeldige argument # 1: %s is nie 'n geldige %s identifyer."
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s vir Ry %d versuim het om te red."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "Jy moet ten minste een veld te definieer toggleable te wees."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "Die veld %s is nie in die lys van toggleable velde."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "Die veld %s het nie twee toggleable state gedefinieer."
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "Ongeldige rekord"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "Bediener lipsum.com fout kode terugkeer %s ."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "Reaksie van lipsum.com is leeg of kon nie ontsyfer."
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "Verbinding met bediener lipsum.com misluk. %s ."
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "Korrigeer asseblief hieronder die foute."
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21
+#: /View/Errors/missing_controller.ctp:21
+#: /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "Fout!"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "Die versoek adres %s is nie gevind nie op hierdie bediener."
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "'N Interne fout."
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "data bron opset is nie gevind nie"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: die vinnige ontwikkeling PHP raamwerk"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug instelling het nie toegang tot hierdie url toelaat."
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "Nuwe Eksamen"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "Stil"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "Begin & End Datum"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "Sertifisering van voltooiing"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "Klik hier om af te laai Excel lêer formaat"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "Is jy seker jy wil hierdie eksamen te sluit?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "Is jy seker jy wil hê na re-aktiveer hierdie eksamen?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "gesluit"
+
+#: /Menu Name
+msgid "Results"
+msgstr "my Resultate"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "Configurations"
+
+#: /Menu Name
+msgid "General"
+msgstr "General"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "lêer"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "E-pos"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "Customer Support Service"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "Knowledge Base (vir Dokumentasie)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "Forum:"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "Koopkontrak"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "Ondersteuning (vir tegniese ondersteuning)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "Besoek ons ​​webwerf"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "vir meer dokumentasie & Besonderhede"

@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 17:50+0530\n"
+"PO-Revision-Date: 2016-04-27 17:22+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: nl\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Alleen letters en cijfers toegestaan"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Groep al bestaan"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "alleen Url"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Bestand heeft geen geldige extensie"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "U moet een JPG, GIF of PNG-bestand te leveren."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Ongeldige Header Contact"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "alleen alfabetten"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Munt Naam al bestaan"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "U moet leveren beeld hoogte minder dan 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "U moet image breedte leveren minder dan 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Alleen cijfers toegestaan"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Alleen Datum / tijd-formaat"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Voer een geldig e-mail"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Selecteeren"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Ongeldige gebruikersnaam"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Ongeldig wachtwoord"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "ongeldige Signature"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "alleen cijfers"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "U moet beeldhoogte leveren minder dan 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Deze E-mail is al bestaan! probeer nieuwe"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "wachtwoord benodigd"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Password minimaal 4 tekens lang"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Naam al bestaan"

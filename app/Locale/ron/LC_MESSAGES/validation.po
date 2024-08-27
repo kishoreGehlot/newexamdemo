@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:25+0530\n"
+"PO-Revision-Date: 2016-04-27 17:20+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: ro\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Numai litere și numere permise"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Grup există deja"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "numai Url"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Fișier nu are o extensie validă"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Trebuie să furnizați un fișier JPG, GIF sau PNG."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Antet de contact nevalid"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "doar alfabete"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Moneda Numele există deja"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Trebuie să vă furnizeze înălțimea imaginii este mai mică decât 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Trebuie să vă furnizeze lățimea imaginii este mai mică decât 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Numai numere permise"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Numai Format dată / oră"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Introduceți un e-mail validă"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "-- Vă rugăm selectați --"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Nume de utilizator invalid"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Parolă incorectă."
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Semnătură nevalidă"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "numai numere"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Trebuie să vă furnizeze înălțimea imaginii este mai mică decât 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Acest e-mail a fost deja există! încercați una nouă"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "parolă necesară"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "minim 4 caractere lung a parolei"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Numele există deja"

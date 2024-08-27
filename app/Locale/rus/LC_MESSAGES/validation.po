@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:26+0530\n"
+"PO-Revision-Date: 2016-04-27 17:18+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: ru\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Только латинские буквы и цифры позволили"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Группа уже существуют"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "только Url"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Файл не имеет допустимое расширение"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Вы должны ввести JPG, GIF или PNG файла."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Неправильный заголовок Связаться"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "только алфавитов"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Название валюты уже существует"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Вы должны поставить высота изображения меньше 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Необходимо указать ширину изображения меньше 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Только номера разрешено"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Только формат даты / времени"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Введите действительный адрес электронной почты"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Выберите"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Неверное имя пользователя"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Неправильный пароль."
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Неправильная подпись"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "только номера"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Вы должны указать высоту изображения меньше, чем 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Этот E-mail уже существует! попробовать новый"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "Требуется пароль"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Пароль не менее 4 символов длиной"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Имя уже существует"

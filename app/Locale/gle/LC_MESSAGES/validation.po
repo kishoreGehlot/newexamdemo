@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:09+0530\n"
+"PO-Revision-Date: 2016-04-27 18:05+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: ga\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "litreacha amháin agus uimhreacha a cheadaítear"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Grúpa ann cheana"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "Níl ach URL"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Níl an comhad a bhfuil síneadh bailí"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Caithfidh tú a JPG, GIF nó PNG File."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Neamhbhailí Ceanntásc Teagmháil"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "amháin Aibítir"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Airgeadra Ainm ann cheana"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Caithfidh tú é ar airde íomhá níos lú ná 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Caithfidh tú leithead íomhá níos lú ná 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "uimhreacha amháin a cheadaítear"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Níl ach Dáta / formáid am"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Iontráil ríomhphoist bailí"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Roghnaigh"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Ainm Úsáideora neamhbhailí"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "Pasfhocal neamhbhailí"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "neamhbhailí Síniú"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "uimhreacha amháin"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Caithfidh tú airde íomhá níos lú ná 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Tá an Ríomhphost cheana féin ann! iarracht ceann nua"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "focal faire de dhíth"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Pasfhocal íosta 4 charachtar fada"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Ainm ann cheana"

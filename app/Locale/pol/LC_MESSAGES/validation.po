@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:21+0530\n"
+"PO-Revision-Date: 2016-04-27 17:21+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: pl\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "Tylko litery i cyfry dozwolony"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "Grupa istnieje"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "tylko Url"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "Plik nie posiada ważnego rozszerzenie"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "Musisz podać JPG, GIF lub PNG."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "Nieprawidłowy nagłówek Kontakt"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "Tylko alfabetów"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "Nazwa waluty już istnieją"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "Musisz podać wysokość obrazu jest mniejsza niż 50px"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "Musisz podać szerokość obrazu jest mniejsza niż 50px"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "Tylko numery dozwolone"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "Tylko data / format czasu"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "Podaj adres email"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "Wybierz"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "Zła nazwa użytkownika"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "nieprawidłowe hasło"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "Nieprawidłowy podpis"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "Tylko numery"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "Musisz podać wysokość obrazu jest mniejszy niż 220px"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "Ten e-mail został już istnieje! spróbować nowego"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "wymagane hasło"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "Minimalna Hasło 4 znaków długości"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "Nazwa już istnieją"

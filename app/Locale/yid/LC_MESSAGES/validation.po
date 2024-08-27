@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-26 18:48+0530\n"
+"PO-Revision-Date: 2016-04-27 16:30+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+"Last-Translator: \n"
+"Language: yi\n"
+
+# App/Admin/Model/group.php:7
+msgid "Only letters and numbers allowed"
+msgstr "בלויז אותיות און נומערן ערלויבט"
+
+# App/Admin/Model/group.php:8
+msgid "Group  already exist"
+msgstr "גרופּע שוין עקסיסטירן"
+
+# App/Admin/Model/Advertisement.php:22
+msgid "Only Url"
+msgstr "בלויז URL"
+
+# App/Admin/Model/Advertisement.php:23
+msgid "File does not have a valid extension"
+msgstr "טעקע טוט ניט האָבן אַ גילטיק פאַרלענגערונג"
+
+# App/Admin/Model/Advertisement.php:24
+msgid "You must supply a JPG, GIF  or PNG File."
+msgstr "איר מוזן צושטעלן אַ דזשפּג, גיף אָדער פּנג טעקע."
+
+# App/Admin/Model/Confrigration.php:24
+msgid "Invalid Header Contact"
+msgstr "אינוואליד כעדער קאָנטאַקט"
+
+# App/Admin/Model/Content.php:6
+msgid "Only Alphabets"
+msgstr "בלויז אַלפאַבעץ"
+
+# App/Admin/Model/Content.php:12
+msgid "Currency Name already exist"
+msgstr "קראַנטקייַט נאמען שוין עקסיסטירן"
+
+# App/Admin/Model/Currency.php:15
+msgid "You must supply image height is less than 50px"
+msgstr "איר מוזן צושטעלן בילד הייך איז ווייניקער ווי 50פּקס"
+
+# App/Admin/Model/Currency.php:16
+msgid "You must supply image width is less than 50px"
+msgstr "איר מוזן צושטעלן בילד ברייט איז ווייניקער ווי 50פּקס"
+
+# App/Admin/Model/Exam.php:8
+msgid "Only numbers allowed"
+msgstr "בלויז נומערן ערלויבט"
+
+# App/Admin/Model/Exam.php:12
+msgid "Only Date/time format"
+msgstr "בלויז דאַטע / צייַט פֿאָרמאַט"
+
+# App/Admin/Model/forgot.php:6
+msgid "Enter a valid email"
+msgstr "אַרייַן אַ גילטיק email"
+
+# App/Admin/Model/Iequestion.php:10
+msgid "Please select"
+msgstr "ביטע סעלעקטירן"
+
+# App/Admin/Model/payment.php:8
+msgid "Invalid Username"
+msgstr "אינוואליד נאמען"
+
+# App/Admin/Model/payment.php:9
+msgid "Invalid Password"
+msgstr "אינוואליד פּאַראָל"
+
+# App/Admin/Model/payment.php:10
+msgid "Invalid Signature"
+msgstr "אינוואליד סיגנאַטורע"
+
+# App/Admin/Model/question.php:10
+msgid "Only numbers"
+msgstr "בלויז נומערן"
+
+# App/Admin/Model/signature.php:17
+msgid "You must supply image height is less than 220px"
+msgstr "איר מוזן צושטעלן בילד הייך איז ווייניקער ווי 220פּקס"
+
+# App/Admin/Model/student.php:18
+msgid "This Email has already been exist! try new one"
+msgstr "דעם בליצפּאָסט האט שוין עקסיסטירן! פּרובירן נייַ איינער"
+
+# App/Admin/Model/student.php:20
+msgid "Password required"
+msgstr "שפּריכוואָרט required"
+
+# App/Admin/Model/student.php:21
+msgid "Password minimum 4 character long"
+msgstr "שפּריכוואָרט מינימום 4 כאַראַקטער לאַנג"
+
+# App/Admin/Model/Diff.php:10
+msgid "Name already exist"
+msgstr "נאמען שוין עקסיסטירן"

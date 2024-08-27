@@ -1,0 +1,6201 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-04-21 12:14+0530\n"
+"PO-Revision-Date: 2016-04-27 13:07+0530\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: hi\n"
+
+#: /Config/elfinder.php:4
+msgid "File Manager"
+msgstr "फ़ाइल मैनेजर"
+
+#: /Controller/AjaxcontentsController.php:38
+msgid "You can find your result here."
+msgstr "आप अपने परिणाम यहां प्राप्त कर सकते हैं।"
+
+#: /Controller/AjaxcontentsController.php:44
+#: /Controller/ExamsController.php:319
+msgid "Thanks for given the exam."
+msgstr "के लिए धन्यवाद परीक्षा दी।"
+
+#: /Controller/AppController.php:189 /View/Layouts/default.ctp:109
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: /Controller/AppController.php:190
+#: /Plugin/Admin/View/Configurations/index.ctp:121
+#: /View/Leaderboards/index.ctp:4 /View/Pages/home.ctp:54
+msgid "Leader Board"
+msgstr "लीडरबोर्ड:"
+
+#: /Controller/AppController.php:191 /View/Exams/expired.ctp:5
+#: /View/Exams/index.ctp:5 /View/Exams/purchased.ctp:5
+#: /View/Exams/upcoming.ctp:5
+msgid "My Exams"
+msgstr "मेरी परीक्षा"
+
+#: /Controller/AppController.php:192
+msgid "My Result"
+msgstr "मेरे परिणाम"
+
+#: /Controller/AppController.php:193
+msgid "Group Performance"
+msgstr "समूह प्रदर्शन"
+
+#: /Controller/AppController.php:194
+msgid "Payment"
+msgstr "भुगतान"
+
+#: /Controller/AppController.php:195 /Plugin/Admin/View/Students/index.ctp:20
+#: /Plugin/Admin/View/Students/trnhistory.ctp:1
+#: /View/Transactionhistorys/index.ctp:13
+msgid "Transaction History"
+msgstr "ट्रांजेक्शन इतिहास"
+
+#: /Controller/AppController.php:196 /Plugin/Admin/View/Mails/index.ctp:19
+#: /View/Mails/index.ctp:20
+msgid "Mailbox"
+msgstr "बक्सा"
+
+#: /Controller/AppController.php:197 /Plugin/Admin/View/Layouts/default.ctp:112
+#: /View/Helps/index.ctp:4
+msgid "Help"
+msgstr "मदद"
+
+#: /Controller/AppController.php:198
+msgid "Home"
+msgstr "होम"
+
+#: /Controller/AppController.php:199
+msgid "Register"
+msgstr "पंजीकृत करें"
+
+#: /Controller/AppController.php:200
+#: /Plugin/Admin/View/Users/login_form.ctp:2;13
+msgid "Log In"
+msgstr "लॉगिन"
+
+#: /Controller/ContentsController.php:7;13
+#: /Controller/ExamsController.php:43;49;55;97;103;124;290;332;394;401;468;474;480;490;497
+#: /Controller/MailsController.php:89;94;119;160;190;215;247
+#: /Controller/NewsController.php:7;13 /Controller/ProfilesController.php:37;60
+#: /Controller/ResultsController.php:283;307
+#: /Plugin/Admin/Controller/AddquestionsController.php:15;22
+#: /Plugin/Admin/Controller/AdvertisementsController.php:118;124;143;149
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:122;151
+#: /Plugin/Admin/Controller/ContentsController.php:126;132
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:44;82;122
+#: /Plugin/Admin/Controller/ExamsController.php:231;242;385;444;455;523;534;552;563;583
+#: /Plugin/Admin/Controller/MailsController.php:148
+#: /Plugin/Admin/Controller/QuestionsController.php:244;262
+#: /Plugin/Admin/Controller/ResultsController.php:77;155
+#: /Plugin/Admin/Controller/SlidesController.php:126;132;145;151
+#: /Plugin/Admin/Controller/SmstemplatesController.php:42;76
+#: /Plugin/Admin/Controller/StudentsController.php:235;246;267;273;309;315
+#: /Plugin/Admin/Controller/TestimonialsController.php:119;125;144;150
+msgid "Invalid Post"
+msgstr "अमान्य पोस्ट"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jan"
+msgstr "जनवरी"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Feb"
+msgstr "फ़रवरी"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Mar"
+msgstr "मार्च"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Apr"
+msgstr "अप्रैल"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "May"
+msgstr "मई"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jun"
+msgstr "जून"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Jul"
+msgstr "जुलाई"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Aug"
+msgstr "अगस्त"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Sep"
+msgstr "सितम्बर"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Oct"
+msgstr "अक्टूबर"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Nov"
+msgstr "नवम्बर"
+
+#: /Controller/DashboardsController.php:61
+#: /Plugin/Admin/Controller/ResultsController.php:130
+msgid "Dec"
+msgstr "दिसम्बर"
+
+#: /Controller/DashboardsController.php:62;106
+#: /Controller/GroupperformancesController.php:39
+#: /Plugin/Admin/Controller/ResultsController.php:131
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:8
+#: /Plugin/Admin/View/Results/result.ctp:21
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:16 /View/Results/index.ctp:30
+#: /View/Results/view.ctp:148;466;529
+msgid "Percentage"
+msgstr "प्रतिशत"
+
+#: /Controller/DashboardsController.php:71
+msgid "Month"
+msgstr "माह"
+
+#: /Controller/DashboardsController.php:115
+msgid "Exams"
+msgstr "परीक्षा"
+
+#: /Controller/EmailverificationsController.php:42
+msgid "Email verified successfully"
+msgstr "ईमेल सफलतापूर्वक सत्यापित"
+
+#: /Controller/EmailverificationsController.php:49
+msgid "Invalid Verification Code"
+msgstr "अवैध सत्यापन कोड"
+
+#: /Controller/EmailverificationsController.php:109
+#: /Controller/RegistersController.php:111
+msgid "A verification Code send to your Email inbox or Spam"
+msgstr "सत्यापन कोड आपके ईमेल इनबॉक्स या स्पैम भेजने के लिए"
+
+#: /Controller/EmailverificationsController.php:115
+msgid "Email Id already verified"
+msgstr "ईमेल आईडी को पहले से ही सत्यापित"
+
+#: /Controller/EmailverificationsController.php:122
+msgid "Email Id not registered in system"
+msgstr "ईमेल आईडी सिस्टम में पंजीकृत नहीं"
+
+#: /Controller/ExamsController.php:147
+msgid "You have attempted maximum exam."
+msgstr "आप अधिकतम परीक्षा का प्रयास किया है।"
+
+#: /Controller/ExamsController.php:265
+msgid "You have attempted maximum number of questions in this subject"
+msgstr "आप इस विषय में प्रश्नों की अधिकतम संख्या का प्रयास किया है"
+
+#: /Controller/ExamsController.php:314
+msgid "You can find your result here"
+msgstr "आप अपने परिणाम पा सकते हैं यहां"
+
+#: /Controller/ExamsController.php:439
+msgid "Insufficient Amount."
+msgstr "अपर्याप्त राशि।"
+
+#: /Controller/ExamsController.php:508
+msgid "1. The test instructions were "
+msgstr "1. टेस्ट निर्देश थे "
+
+#: /Controller/ExamsController.php:509
+msgid "2. Language of question was "
+msgstr "2. सवाल की भाषा थी "
+
+#: /Controller/ExamsController.php:510
+msgid "3. Overall test experience was "
+msgstr "3. समग्र परीक्षण अनुभव था "
+
+#: /Controller/ExamsController.php:511
+msgid "Any other feedback suggestion: "
+msgstr "किसी अन्य प्रतिक्रिया सुझाव: "
+
+#: /Controller/ExamsController.php:514
+msgid "Feedback has submitted successfully!"
+msgstr "प्रतिक्रिया सफलतापूर्वक प्रस्तुत कर दी है!"
+
+#: /Controller/ExamsController.php:519
+msgid "Feedback already submitted."
+msgstr "प्रतिक्रिया पहले ही प्रस्तुत की।"
+
+#: /Controller/ForgotsController.php:17
+#: /Plugin/Admin/Controller/ForgotsController.php:17;145
+msgid "Email id is not registered in system"
+msgstr "ईमेल आईडी सिस्टम में पंजीकृत नहीं है"
+
+#: /Controller/ForgotsController.php:69
+#: /Plugin/Admin/Controller/ForgotsController.php:69
+msgid "Your password reset link is sent to your registered email id"
+msgstr "आपका पासवर्ड रीसेट लिंक अपने पंजीकृत ईमेल आईडी पर भेज दिया जाता है"
+
+#: /Controller/ForgotsController.php:91
+#: /Plugin/Admin/Controller/ForgotsController.php:91
+msgid "Incorrect code"
+msgstr "गलत कोड"
+
+#: /Controller/ForgotsController.php:115 /Controller/ProfilesController.php:88
+#: /Plugin/Admin/Controller/ForgotsController.php:121
+#: /Plugin/Admin/Controller/StudentsController.php:284
+#: /Plugin/Admin/Controller/UsersController.php:345
+msgid "Password Changed Successfully"
+msgstr "पासवर्ड सफलतापूर्वक बदला गया।"
+
+#: /Controller/GroupperformancesController.php:49
+msgid "My Performance"
+msgstr "मेरा प्रदर्शन"
+
+#: /Controller/GroupperformancesController.php:50
+msgid "My Group performance"
+msgstr "मेरे समूह प्रदर्शन"
+
+#: /Controller/InstallersController.php:11
+msgid "Application already installed. Remove app/tmp/installed.txt to reinstall the application"
+msgstr "आवेदन पहले से ही स्थापित किया। अनुप्रयोग को पुनर्स्थापित करने के लिए एप्लिकेशन / tmp / installed.txt हटाये"
+
+#: /Controller/InstallersController.php:29;35;41
+msgid "Unwriteable"
+msgstr "Unwriteable"
+
+#: /Controller/InstallersController.php:31;37;43
+msgid "Writeable"
+msgstr "लेखनीय"
+
+#: /Controller/InstallersController.php:63
+msgid "Unfortunately! File Permission Error<br>Please goto app/Config/database.php is in writable mode."
+msgstr "दुर्भाग्य! फ़ाइल अनुमति त्रुटि कृपया <br> गोटो एप्लिकेशन / config / database.php लिखने योग्य मोड में है।"
+
+#: /Controller/InstallersController.php:104
+msgid "A connection was successfully established with the server."
+msgstr "एक कनेक्शन सफलतापूर्वक सर्वर के साथ स्थापित किया गया था।"
+
+#: /Controller/InstallersController.php:259
+msgid "Could not connect to database. Please check the settings in app/Config/database.php and try again"
+msgstr "डेटाबेस से कनेक्ट नहीं कर सका। एप्लिकेशन / config / database.php में सेटिंग जाँचें और फिर से कोशिश करें"
+
+#: /Controller/InstallersController.php:280;289
+msgid "Unfortunately! Folder Permission Error<br>Please tmp folder is in writable mode."
+msgstr "दुर्भाग्य! फ़ोल्डर अनुमति त्रुटि tmp फ़ोल्डर कृपया <br> लिखने योग्य मोड में है।"
+
+#: /Controller/MailsController.php:83
+#: /Plugin/Admin/Controller/MailsController.php:104
+msgid "Your Mail has been sent"
+msgstr "आपकी मेल भेज दी गई है"
+
+#: /Controller/MailsController.php:108
+#: /Plugin/Admin/Controller/MailsController.php:129
+msgid "Forwarded message"
+msgstr "अग्रेषित संदेश"
+
+#: /Controller/MailsController.php:108
+#: /Plugin/Admin/Controller/MailsController.php:129
+#: /Plugin/Admin/View/Dashboards/index.ctp:69
+#: /Plugin/Admin/View/Exams/stats.ctp:15
+msgid "From"
+msgstr "इससे"
+
+#: /Controller/MailsController.php:109
+#: /Plugin/Admin/Controller/MailsController.php:130
+#: /Plugin/Admin/View/Addquestions/index.ctp:20;53
+#: /Plugin/Admin/View/Exams/add.ctp:239
+#: /Plugin/Admin/View/Exams/view.ctp:76;144
+#: /Plugin/Admin/View/Iequestions/index.ctp:23
+#: /Plugin/Admin/View/Mails/compose.ctp:42;44
+#: /Plugin/Admin/View/Questions/add.ctp:132
+#: /Plugin/Admin/View/Questions/edit.ctp:146
+#: /Plugin/Admin/View/Questions/index.ctp:23;51
+#: /Plugin/Admin/View/Questions/view.ctp:47
+#: /Plugin/Admin/View/Sendemails/index.ctp:108 /View/Exams/view.ctp:39
+#: /View/Mails/compose.ctp:17;19
+msgid "Subject"
+msgstr "विषय"
+
+#: /Controller/MailsController.php:153
+#: /Plugin/Admin/Controller/MailsController.php:185
+msgid "The mail has been moved to the Trash"
+msgstr "मेल रद्दी में ले जाया गया है"
+
+#: /Controller/MailsController.php:183
+#: /Plugin/Admin/Controller/MailsController.php:212
+msgid "Your Mail has been deleted"
+msgstr "आपके मेल हटा दिया गया है"
+
+#: /Controller/MailsController.php:209
+#: /Plugin/Admin/Controller/MailsController.php:235
+msgid "The mail has been moved to the Inbox"
+msgstr "मेल इनबॉक्स में ले जाया गया है"
+
+#: /Controller/MailsController.php:236
+#: /Plugin/Admin/Controller/MailsController.php:259
+msgid "The mail has been marked as Read"
+msgstr "मेल को पढ़ने के रूप में चिह्नित किया गया है"
+
+#: /Controller/MailsController.php:240
+#: /Plugin/Admin/Controller/MailsController.php:263
+msgid "The mail has been marked as Unread"
+msgstr "मेल अपठित के रूप में चिह्नित किया गया है"
+
+#: /Controller/PaymentsController.php:16
+msgid "Paypal Payment not set"
+msgstr "पेपैल भुगतान सेट नहीं"
+
+#: /Controller/PaymentsController.php:34
+msgid "Payment Cancel"
+msgstr "भुगतान को रद्द"
+
+#: /Controller/PaymentsController.php:52;105
+msgid "Wallet Payment"
+msgstr "वॉलेट भुगतान"
+
+#: /Controller/PaymentsController.php:74
+msgid "Try again! Can not connect to paypal"
+msgstr "पुनः प्रयास करें! करने के लिए पेपैल कनेक्ट नहीं कर सकता"
+
+#: /Controller/PaymentsController.php:79
+#: /Plugin/Admin/Controller/StudentsController.php:381
+msgid "Invalid Amount"
+msgstr "अवैध राशि  "
+
+#: /Controller/PaymentsController.php:131
+msgid "Payment already done"
+msgstr "भुगतान पहले ही किया"
+
+#: /Controller/PaymentsController.php:147
+msgid "Payment not done"
+msgstr "भुगतान नहीं किया"
+
+#: /Controller/PaymentsController.php:127
+msgid "Payment successfully! Amount %s added in your wallet "
+msgstr "भुगतान सफलतापूर्वक! राशि %s अपने बटुए में जोड़ा "
+
+#: /Controller/ProfilesController.php:45
+msgid "Profile Updated Successfully"
+msgstr "प्रोफाइल को सफलतापूर्वक अपडेट किया गया"
+
+#: /Controller/ProfilesController.php:68
+msgid "Photo Updated Successfully"
+msgstr "फोटो सफलतापूर्वक अपडेट"
+
+#: /Controller/ProfilesController.php:93
+#: /Plugin/Admin/Controller/UsersController.php:350
+msgid "Invalid Password"
+msgstr "अमान्य पासवर्ड"
+
+#: /Controller/RegistersController.php:118
+msgid "Please select any group"
+msgstr "कृपया किसी भी समूह का चयन करें"
+
+#: /Controller/RegistersController.php:129
+msgid "Invalid Security Code"
+msgstr "अवैध सुरक्षा कोड"
+
+#: /Controller/ResultsController.php:133;178
+#: /Plugin/Admin/Controller/ResultsController.php:206;229
+msgid "Score"
+msgstr "अंक"
+
+#: /Controller/ResultsController.php:142;188
+#: /Plugin/Admin/Controller/ResultsController.php:239
+#: /Plugin/Admin/View/Results/index.ctp:40;126
+#: /Plugin/Admin/View/Results/result.ctp:178
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:164
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:7
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:7
+#: /View/Results/attemptedpapers.ctp:17 /View/Results/view.ctp:380
+msgid "Max Marks"
+msgstr "अधिकतम अंकः 100"
+
+#: /Controller/ResultsController.php:143;187
+#: /Plugin/Admin/Controller/ResultsController.php:238
+#: /Plugin/Admin/View/Results/index.ctp:41;127
+#: /Plugin/Admin/View/Results/result.ctp:176
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:162
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:8
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:8
+#: /View/Results/attemptedpapers.ctp:15 /View/Results/index.ctp:29
+#: /View/Results/view.ctp:117;147;381
+msgid "Marks Scored"
+msgstr "अंक हासिल"
+
+#: /Controller/ResultsController.php:153;166;214
+msgid "Subject Wise Time Taken"
+msgstr "विषय वार समय लिया"
+
+#: /Controller/ResultsController.php:177
+msgid "Student Performance"
+msgstr "छात्र प्रदर्शन"
+
+#: /Controller/ResultsController.php:192 /View/Results/view.ctp:57
+msgid "Correct Question"
+msgstr "सही सवाल"
+
+#: /Controller/ResultsController.php:193 /View/Results/view.ctp:59;116;146
+msgid "Incorrect Question"
+msgstr "गलत प्रश्न"
+
+#: /Controller/ResultsController.php:194 /View/Results/view.ctp:67
+msgid "Right Marks"
+msgstr "सही मार्क्स"
+
+#: /Controller/ResultsController.php:195
+#: /Plugin/Admin/View/Questions/view.ctp:110 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:69;117;147
+msgid "Negative Marks"
+msgstr "नकारात्मक मार्क्स"
+
+#: /Controller/ResultsController.php:265
+msgid "Percentage(%) in Exam"
+msgstr "परीक्षा में प्रतिशत (%)"
+
+#: /Controller/ResultsController.php:274
+msgid "Percentage(%)"
+msgstr "प्रतिशत"
+
+#: /Controller/ResultsController.php:318
+msgid "st"
+msgstr "वां"
+
+#: /Controller/ResultsController.php:320
+msgid "nd"
+msgstr "वां"
+
+#: /Controller/ResultsController.php:322
+msgid "rd"
+msgstr "वां"
+
+#: /Controller/ResultsController.php:324
+msgid "th"
+msgstr "वां"
+
+#: /Controller/ResultsController.php:244;253
+msgid "You %s"
+msgstr "आप %s"
+
+#: /Controller/ResultsController.php:247
+msgid "Topper %s"
+msgstr "अव्वल %s"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+#: /View/Mails/compose.ctp:13
+msgid "Administrator"
+msgstr "प्रशासक"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Payment Gateway"
+msgstr "भुगतान गेटवे"
+
+#: /Controller/TransactionhistorysController.php:21
+#: /Plugin/Admin/Controller/StudentsController.php:422
+msgid "Pay Exam"
+msgstr "वेतन परीक्षा"
+
+#: /Controller/UsersController.php:30
+msgid "Your account has expired. Please contact administrator"
+msgstr "आपका खाता समाप्त हो गया है। व्यवस्थापक से संपर्क करें"
+
+#: /Controller/UsersController.php:37
+msgid "You have been logged in successfully"
+msgstr "आप सफलतापूर्वक में लॉग इन कर दिया गया है"
+
+#: /Controller/UsersController.php:44
+msgid "Your email not verified! Please click on link sent to your email inbox or spam"
+msgstr "आपका ईमेल सत्यापित नहीं! आपके ईमेल इनबॉक्स या स्पैम के लिए भेजे गए लिंक पर क्लिक करें"
+
+#: /Controller/UsersController.php:58
+#: /Plugin/Admin/Controller/UsersController.php:304
+msgid "Incorrect username/password"
+msgstr "गलत नाम / पासवर्ड"
+
+#: /Controller/UsersController.php:67
+msgid "You have been logged out successfully"
+msgstr "आप सफलतापूर्वक लॉग आउट कर दिया गया है"
+
+#: /Controller/UsersController.php:51
+msgid "You are %s Member! Please contact administrator"
+msgstr "आप कर रहे हैं %s सदस्य! व्यवस्थापक से संपर्क करें"
+
+#: /Controller/Component/CustomFunctionComponent.php:14
+#: /View/Helper/FunctionHelper.php:45
+msgid "Hours"
+msgstr "घंटे"
+
+#: /Controller/Component/CustomFunctionComponent.php:20
+#: /View/Helper/FunctionHelper.php:51
+msgid "Mins"
+msgstr "मिनट"
+
+#: /Controller/Component/CustomFunctionComponent.php:26;28
+#: /View/Helper/FunctionHelper.php:57;59
+msgid "Sec"
+msgstr "सेकंड"
+
+#: /Model/Result.php:169
+msgid "Grand Total"
+msgstr "कुल योग"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:93
+msgid "Your Question has been added for exam"
+msgstr "आपका प्रश्न परीक्षा के लिए जोड़ दिया गया है"
+
+#: /Plugin/Admin/Controller/AddquestionsController.php:113
+msgid "Your Question has been deleted for exam"
+msgstr "आपका प्रश्न परीक्षा के लिए हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/AdminAppController.php:86
+msgid "No Permission"
+msgstr "अनुमति नहीं"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:36;71
+msgid "Advertisement has been saved"
+msgstr "विज्ञापन बचा लिया गया है"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:52;63
+#: /Plugin/Admin/Controller/ContentsController.php:62;73
+#: /Plugin/Admin/Controller/DiffsController.php:32;43
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:53;64
+#: /Plugin/Admin/Controller/ExamsController.php:128;141
+#: /Plugin/Admin/Controller/GroupsController.php:55;66
+#: /Plugin/Admin/Controller/HelpcontentsController.php:52;63
+#: /Plugin/Admin/Controller/MenunamesController.php:32;43
+#: /Plugin/Admin/Controller/NewsController.php:52;63
+#: /Plugin/Admin/Controller/QtypesController.php:32;43
+#: /Plugin/Admin/Controller/QuestionsController.php:122;129
+#: /Plugin/Admin/Controller/SlidesController.php:61;72
+#: /Plugin/Admin/Controller/SmstemplatesController.php:51;62
+#: /Plugin/Admin/Controller/StudentsController.php:133;146;365
+#: /Plugin/Admin/Controller/SubjectsController.php:106;121
+#: /Plugin/Admin/Controller/TestimonialsController.php:52;63
+#: /Plugin/Admin/Controller/UsersController.php:116;127;245;250
+msgid "Invalid post"
+msgstr "अमान्य पोस्ट"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:101
+msgid "Advertisement has been deleted"
+msgstr "विज्ञापन हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/AdvertisementsController.php:160
+#: /Plugin/Admin/Controller/SlidesController.php:162
+#: /Plugin/Admin/Controller/StudentsController.php:326
+#: /Plugin/Admin/Controller/TestimonialsController.php:161
+msgid "Photo Changed Successfully"
+msgstr "फोटो सफलतापूर्वक परिवर्तित"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:29;85
+#: /Plugin/Admin/View/Results/result.ctp:235
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:221 /View/Exams/start.ctp:211
+#: /View/Exams/submit.ctp:20
+msgid "Not Attempted"
+msgstr "प्रयास नहीं किया"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:70
+msgid "Marks Updated"
+msgstr "मार्क्स Updated"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:104
+msgid "Successfully Finalize"
+msgstr "सफलतापूर्वक अंतिम रूप"
+
+#: /Plugin/Admin/Controller/AttemptedpapersController.php:132
+msgid "Successfully Closed Exam"
+msgstr "परीक्षा सफलतापूर्वक बंद"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:124
+msgid "French"
+msgstr "फ्रांसीसी"
+
+#: /Plugin/Admin/Controller/ConfigurationsController.php:139
+#: /Plugin/Admin/Controller/EmailsettingsController.php:24
+#: /Plugin/Admin/Controller/SmssettingsController.php:17
+msgid "Your Setting has been saved"
+msgstr "अपनी सेटिंग सहेजा गया है"
+
+#: /Plugin/Admin/Controller/ContentsController.php:47
+msgid "Page Added Successfully"
+msgstr "पृष्ठ को सफलता पूर्वक जोड़"
+
+#: /Plugin/Admin/Controller/ContentsController.php:81
+msgid "Pages updated Successfully"
+msgstr "पृष्ठ सफलतापूर्वक अद्यतन"
+
+#: /Plugin/Admin/Controller/ContentsController.php:111
+msgid "Page has been deleted"
+msgstr "पृष्ठ हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/ContentsController.php:143
+msgid "Page has been Unpublished"
+msgstr "पृष्ठ अप्रकाशित कर दिया गया है"
+
+#: /Plugin/Admin/Controller/ContentsController.php:148
+msgid "Page has been Published"
+msgstr "पृष्ठ प्रकाशित किया गया है"
+
+#: /Plugin/Admin/Controller/ContentsController.php:159
+#: /Plugin/Admin/Controller/SignaturesController.php:43
+#: /Plugin/Admin/Controller/WeblogosController.php:43
+msgid "Something wrong"
+msgstr "कुछ गलत"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:38
+msgid "Currency has been saved"
+msgstr "मुद्रा को बचाया जा चुका है"
+
+#: /Plugin/Admin/Controller/CurrenciesController.php:58
+msgid "Currency has been deleted"
+msgstr "मुद्रा हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:87
+msgid "Student Details"
+msgstr "छात्र विवरण"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:102
+#: /Plugin/Admin/View/Advertisements/edit.ctp:43
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:26
+#: /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Active"
+msgstr "सक्रिय"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:103
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:43
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+msgid "Pending"
+msgstr "विचाराधीन"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:104
+#: /Plugin/Admin/View/Advertisements/edit.ctp:43
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:26
+#: /Plugin/Admin/View/News/edit.ctp:26 /Plugin/Admin/View/Slides/edit.ctp:26
+#: /Plugin/Admin/View/Students/add.ctp:52
+#: /Plugin/Admin/View/Students/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/edit.ctp:30
+#: /Plugin/Admin/View/Users/edit.ctp:62
+msgid "Suspend"
+msgstr "निलंबित"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:115
+#: /Plugin/Admin/Controller/ExamsController.php:460
+msgid "Pass"
+msgstr "दर्रा"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:116
+#: /Plugin/Admin/Controller/ExamsController.php:461
+msgid "Fail"
+msgstr "असफल?"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:117
+#: /Plugin/Admin/Controller/ExamsController.php:462
+msgid "Absent"
+msgstr "अनुपस्थित"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:135
+#: /Plugin/Admin/Controller/ExamsController.php:480
+msgid "Student"
+msgstr "छात्र"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:158
+#: /Plugin/Admin/Controller/ExamsController.php:503
+msgid "Passing %age"
+msgstr "पासिंग %a जीई"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:159
+#: /Plugin/Admin/Controller/ExamsController.php:504
+msgid "Average %age"
+msgstr "औसत %a जीई"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:215
+msgid "Question Count"
+msgstr "प्रश्न गणना"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:226
+#: /Plugin/Admin/View/Dashboards/index.ctp:172
+#: /Plugin/Admin/View/Exams/view.ctp:147 /View/Exams/view.ctp:40
+msgid "Total Question"
+msgstr "कुल प्रश्न"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:235
+msgid "Question Bank Difficulty Wise"
+msgstr "प्रश्न बैंक कठिनाई समझदार"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:251
+msgid "Easy"
+msgstr "आसान"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:252
+msgid "Medium"
+msgstr "मध्यम"
+
+#: /Plugin/Admin/Controller/DashboardsController.php:253
+msgid "Hard"
+msgstr "कठिन"
+
+#: /Plugin/Admin/Controller/DiffsController.php:51
+#: /Plugin/Admin/Controller/MenunamesController.php:51
+#: /Plugin/Admin/Controller/QtypesController.php:51
+msgid "Name has been updated"
+msgstr "नाम अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:38;76
+msgid "Email template has been saved"
+msgstr "ईमेल टेम्पलेट सहेजा गया है"
+
+#: /Plugin/Admin/Controller/EmailtemplatesController.php:107
+msgid "Email template has been deleted"
+msgstr "ईमेल टेम्पलेट हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/ExamsController.php:61;154
+msgid "End Date is not less than Start date"
+msgstr "अंतिम तिथि प्रारंभ तिथि से कम नहीं है"
+
+#: /Plugin/Admin/Controller/ExamsController.php:65;160
+#: /Plugin/Admin/Controller/QuestionsController.php:81;152
+#: /Plugin/Admin/Controller/StudentsController.php:157
+#: /Plugin/Admin/Controller/SubjectsController.php:133
+#: /Plugin/Admin/Controller/UsersController.php:142
+msgid "Please Select any group"
+msgstr "कृपया किसी भी समूह का चयन करें"
+
+#: /Plugin/Admin/Controller/ExamsController.php:69
+msgid "Please Add Subject To Exam"
+msgstr "कृपया परीक्षा के लिए विषय जोड़ें"
+
+#: /Plugin/Admin/Controller/ExamsController.php:106
+msgid "Exam has been saved. Add questions in exam"
+msgstr "परीक्षा को बचाया जा चुका है। परीक्षा में प्रश्न जोड़ें"
+
+#: /Plugin/Admin/Controller/ExamsController.php:111
+msgid "Exam has been saved"
+msgstr "परीक्षा को बचाया जा चुका है"
+
+#: /Plugin/Admin/Controller/ExamsController.php:181
+msgid "Exam has been updated"
+msgstr "परीक्षा अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/ExamsController.php:215
+msgid "Exam has been deleted"
+msgstr "परीक्षा हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/ExamsController.php:303
+#: /Plugin/Admin/View/Addquestions/index.ctp:26
+#: /Plugin/Admin/View/Exams/add.ctp:213;264
+#: /Plugin/Admin/View/Exams/view.ctp:81;146
+#: /Plugin/Admin/View/Questions/add.ctp:158
+#: /Plugin/Admin/View/Questions/edit.ctp:173
+#: /Plugin/Admin/View/Questions/index.ctp:29
+#: /Plugin/Admin/View/Questions/view.ctp:112
+msgid "Difficulty Level"
+msgstr "कठिनाई का स्तर"
+
+#: /Plugin/Admin/Controller/ExamsController.php:347
+msgid "Subject Wise Question Count"
+msgstr "विषय वार प्रश्न गणना"
+
+#: /Plugin/Admin/Controller/ExamsController.php:392
+msgid "Exam sucessfully inactivated"
+msgstr "परीक्षा सफलतापूर्वक निष्क्रिय"
+
+#: /Plugin/Admin/Controller/ExamsController.php:398
+msgid "Exam sucessfully activated"
+msgstr "परीक्षा सफलतापूर्वक सक्रिय"
+
+#: /Plugin/Admin/Controller/ExamsController.php:689
+msgid "There are no question added!"
+msgstr "वहाँ कोई सवाल ही नहीं जोड़ रहे हैं!"
+
+#: /Plugin/Admin/Controller/ForgotsController.php:190
+msgid "Your username is sent to your registered email id"
+msgstr "आपका उपयोगकर्ता नाम अपने पंजीकृत ईमेल आईडी पर भेज दिया जाता है"
+
+#: /Plugin/Admin/Controller/GroupsController.php:40
+msgid "Group Added Successfully"
+msgstr "समूह को सफलता पूर्वक जोड़"
+
+#: /Plugin/Admin/Controller/GroupsController.php:74
+msgid "Group has been saved"
+msgstr "समूह को बचाया जा चुका है"
+
+#: /Plugin/Admin/Controller/GroupsController.php:105
+msgid "Group has been deleted"
+msgstr "समूह हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/GroupsController.php:111
+msgid "Delete subject first"
+msgstr "पहला विषय को हटाएँ"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:37;72
+msgid "Help content has been saved"
+msgstr "मदद सामग्री को सुरक्षित किया गया"
+
+#: /Plugin/Admin/Controller/HelpcontentsController.php:104
+msgid "Help content has been deleted"
+msgstr "मदद सामग्री हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:44
+msgid "Questions imported successfully"
+msgstr "सवाल सफलतापूर्वक आयात"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:49
+#: /Plugin/Admin/Controller/IestudentsController.php:46
+msgid "File not uploaded"
+msgstr "फ़ाइल अपलोड नहीं"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:55
+#: /Plugin/Admin/Controller/IestudentsController.php:52
+msgid "Only CSV File supported"
+msgstr "केवल सीएसवी फ़ाइल समर्थित"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:61
+#: /Plugin/Admin/View/Exams/add.ctp:241
+msgid "Please Select Subject"
+msgstr "कृपया विषय का चयन करें"
+
+#: /Plugin/Admin/Controller/IequestionsController.php:67
+msgid "Please Select any Group"
+msgstr "कृपया किसी भी समूह का चयन करें"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:41
+msgid "Students imported successfully"
+msgstr "छात्रों को सफलतापूर्वक आयात किया"
+
+#: /Plugin/Admin/Controller/IestudentsController.php:58
+msgid "Please Select Group"
+msgstr "ग्रुप का चयन करें"
+
+#: /Plugin/Admin/Controller/MailsController.php:109
+msgid "Student Email not found"
+msgstr "छात्र ईमेल नहीं मिला"
+
+#: /Plugin/Admin/Controller/NewsController.php:37;73
+msgid "News has been saved"
+msgstr "समाचार बचा लिया गया है"
+
+#: /Plugin/Admin/Controller/NewsController.php:104
+msgid "News has been deleted"
+msgstr "समाचार हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:18
+msgid "Paypal Payment Setting has been saved"
+msgstr "पेपैल भुगतान सेटिंग सहेजा गया है"
+
+#: /Plugin/Admin/Controller/PaymentsController.php:24
+msgid "Setting Problem"
+msgstr "स्थापना समस्या"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:69;140
+msgid "Please Choose the Correct answer"
+msgstr "कृपया सही उत्तर का चयन"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:73;144
+msgid "Please select true or false"
+msgstr "सही है या गलत चयन करें"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:77;148
+msgid "Please fill blank space"
+msgstr "कृपया खाली जगह को भरने"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:95
+msgid "Question added to bank successfully"
+msgstr "प्रश्न सफलतापूर्वक बैंक को जोड़ा गया"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:191
+msgid "Question has been updated"
+msgstr "प्रश्न अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:226
+msgid "Question has been deleted"
+msgstr "प्रश्न हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/QuestionsController.php:231
+#: /Plugin/Admin/Controller/SubjectsController.php:196
+msgid "Delete exam first!"
+msgstr "पहली परीक्षा करें!"
+
+#: /Plugin/Admin/Controller/ResultsController.php:91
+msgid "Question Difficulty Level"
+msgstr "प्रश्न कठिनाई स्तर"
+
+#: /Plugin/Admin/Controller/ResultsController.php:108
+msgid "Performance"
+msgstr "प्रदर्शन"
+
+#: /Plugin/Admin/Controller/ResultsController.php:213
+msgid "Candidate Marks Distribution"
+msgstr "उम्मीदवार मार्क्स वितरण"
+
+#: /Plugin/Admin/Controller/ResultsController.php:217
+msgid "Max Marks Distribution"
+msgstr "अधिकतम अंक वितरण"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:27
+#: /Plugin/Admin/Controller/SendsmsController.php:27
+msgid "Please select any type in the list"
+msgstr "कृपया सूची में किसी भी प्रकार का चयन करें"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:31
+msgid "Please type any email"
+msgstr "किसी भी ईमेल टाइप करें"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:82
+msgid "Email has been sent"
+msgstr "ईमेल भेजा जा चुका है"
+
+#: /Plugin/Admin/Controller/SendemailsController.php:87
+msgid "No email to send"
+msgstr "कोई ईमेल भेजने के लिए"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:31
+msgid "Please type any name"
+msgstr "किसी भी नाम टाइप करें"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:73
+msgid "Sms has been sent"
+msgstr "एसएमएस भेजा जा चुका है"
+
+#: /Plugin/Admin/Controller/SendsmsController.php:78
+msgid "No sms to send"
+msgstr "कोई एसएमएस भेजने के लिए"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:14
+msgid "Signature has been saved"
+msgstr "हस्ताक्षर बचा लिया गया है"
+
+#: /Plugin/Admin/Controller/SignaturesController.php:38
+msgid "Signature has been deleted"
+msgstr "हस्ताक्षर हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/SlidesController.php:39;80
+msgid "Slide has been saved"
+msgstr "स्लाइड बचा लिया गया है"
+
+#: /Plugin/Admin/Controller/SlidesController.php:111
+msgid "Slide has been deleted"
+msgstr "स्लाइड हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:36;70
+msgid "SMS template has been saved"
+msgstr "एसएमएस टेम्पलेट सहेजा गया है"
+
+#: /Plugin/Admin/Controller/SmstemplatesController.php:102
+msgid "SMS template has been deleted"
+msgstr "एसएमएस टेम्पलेट हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/StudentsController.php:111
+msgid "Student added Successfully"
+msgstr "छात्र को सफलतापूर्वक जोड़ा"
+
+#: /Plugin/Admin/Controller/StudentsController.php:117
+#: /Plugin/Admin/Controller/SubjectsController.php:70;92
+msgid "Please Select atleast one group"
+msgstr "कृपया कम से कम एक समूह का चयन करें"
+
+#: /Plugin/Admin/Controller/StudentsController.php:185
+msgid "Student has been updated"
+msgstr "छात्र अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/StudentsController.php:218
+msgid "Student has been deleted"
+msgstr "छात्र हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/StudentsController.php:377
+msgid "Student Wallet has been updated"
+msgstr "छात्र वॉलेट अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:60;86
+msgid "Subject Added Successfully"
+msgstr "विषय जोड़ा सफलतापूर्वक"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:65
+msgid "Subject already exist"
+msgstr "विषय पहले से ही मौजूद है"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:155
+msgid "Subject has been updated"
+msgstr "विषय अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/SubjectsController.php:191
+msgid "Subject has been deleted"
+msgstr "विषय हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:37
+msgid "Testimonial has been saved"
+msgstr "प्रशंसापत्र बचा लिया गया है"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:71
+msgid "Testimonial has been updated"
+msgstr "प्रशंसापत्र अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/TestimonialsController.php:102
+msgid "Testimonial has been deleted"
+msgstr "प्रशंसापत्र हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/UsersController.php:97
+msgid "User Added Successfully"
+msgstr "प्रयोक्ता को सफलता पूर्वक जोड़"
+
+#: /Plugin/Admin/Controller/UsersController.php:168
+msgid "User has been updated"
+msgstr "उपयोगकर्ता अद्यतन किया गया है"
+
+#: /Plugin/Admin/Controller/UsersController.php:200
+msgid "User has been deleted"
+msgstr "उपयोगकर्ता हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/UsersController.php:268
+msgid "Permission update successfully"
+msgstr "अनुमति अद्यतन सफलतापूर्वक"
+
+#: /Plugin/Admin/Controller/UsersController.php:297
+msgid "You have been logged in Successfully"
+msgstr "आप सफलतापूर्वक में लॉग इन कर दिया गया है"
+
+#: /Plugin/Admin/Controller/UsersController.php:321
+msgid "You have been logged out"
+msgstr "आप लॉग आउट हो चुके हों"
+
+#: /Plugin/Admin/Controller/UsersController.php:372
+msgid "Level User has been saved"
+msgstr "स्तर उपयोगकर्ता को बचाया जा चुका है"
+
+#: /Plugin/Admin/Controller/UsersController.php:394
+msgid "Level user has been deleted"
+msgstr "स्तर उपयोगकर्ता हटा दिया गया है"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:14
+msgid "Logo has been saved"
+msgstr "लोगो को बचाया जा चुका है"
+
+#: /Plugin/Admin/Controller/WeblogosController.php:38
+msgid "Logo has been deleted"
+msgstr "लोगो हटा दिया गया है"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:10
+#: /Plugin/Admin/View/Exams/view.ctp:10
+msgid "Add Questions"
+msgstr "प्रश्न जोड़ें"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:23
+#: /Plugin/Admin/View/Exams/add.ctp:212;257
+#: /Plugin/Admin/View/Exams/view.ctp:145 /Plugin/Admin/View/Qtypes/edit.ctp:3
+#: /Plugin/Admin/View/Qtypes/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:49
+#: /Plugin/Admin/View/Questions/index.ctp:26
+#: /Plugin/Admin/View/Questions/view.ctp:45
+msgid "Question Type"
+msgstr "प्रश्न प्रकार"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:29
+#: /Plugin/Admin/View/Questions/index.ctp:32
+#: /Plugin/Admin/View/Results/index.ctp:25;85 /View/Elements/pagination.ctp:36
+msgid "Search"
+msgstr "सर्च"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:33
+#: /Plugin/Admin/View/Sendemails/index.ctp:128
+#: /Plugin/Admin/View/Sendsms/index.ctp:130
+msgid "Reset"
+msgstr "रीसेट करें"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:36;80
+msgid "Add To Exam"
+msgstr "परीक्षा के लिए जोड़े"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:37;78
+msgid "Delete To Exam"
+msgstr "परीक्षा के लिए मिटाएं"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:38
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:22
+msgid "Back To Exam"
+msgstr "वापस परीक्षा के लिए"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:52
+#: /Plugin/Admin/View/Contents/pages.ctp:31
+#: /Plugin/Admin/View/Currencies/index.ctp:31
+#: /Plugin/Admin/View/Diffs/index.ctp:30
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:32
+#: /Plugin/Admin/View/Groups/index.ctp:31
+#: /Plugin/Admin/View/Helpcontents/index.ctp:32
+#: /Plugin/Admin/View/Menunames/index.ctp:30
+#: /Plugin/Admin/View/News/index.ctp:32 /Plugin/Admin/View/Qtypes/index.ctp:30
+#: /Plugin/Admin/View/Questions/index.ctp:49
+#: /Plugin/Admin/View/Results/index.ctp:122
+#: /Plugin/Admin/View/Slides/index.ctp:31
+#: /Plugin/Admin/View/Smstemplates/index.ctp:32
+#: /Plugin/Admin/View/Students/index.ctp:34
+#: /Plugin/Admin/View/Students/trnhistory.ctp:18
+#: /Plugin/Admin/View/Subjects/index.ctp:31
+#: /Plugin/Admin/View/Testimonials/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:18
+#: /Plugin/Admin/View/Users/index.ctp:32 /View/Helper/FunctionHelper.php:103
+msgid "#"
+msgstr "#"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:54
+#: /Plugin/Admin/View/Sendemails/index.ctp:84
+#: /Plugin/Admin/View/Sendsms/index.ctp:91 /View/Exams/view.ctp:10
+#: /View/Helper/FunctionHelper.php:105
+msgid "Type"
+msgstr "टाइप"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:55
+msgid "Body of Question"
+msgstr "प्रश्न का शरीर"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:56
+#: /Plugin/Admin/View/Users/index.ctp:33 /View/Results/view.ctp:184
+msgid "Level"
+msgstr "स्तर"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:57
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:163
+#: /Plugin/Admin/View/Dashboards/index.ctp:30
+#: /Plugin/Admin/View/Questions/add.ctp:147
+#: /Plugin/Admin/View/Questions/edit.ctp:161
+#: /Plugin/Admin/View/Questions/view.ctp:108 /View/Helper/FunctionHelper.php:84
+#: /View/Results/view.ctp:118;149
+msgid "Marks"
+msgstr "अंक"
+
+#: /Plugin/Admin/View/Addquestions/index.ctp:58
+#: /Plugin/Admin/View/Advertisements/index.ctp:35;47
+#: /Plugin/Admin/View/Contents/pages.ctp:36;50
+#: /Plugin/Admin/View/Currencies/index.ctp:35;47
+#: /Plugin/Admin/View/Diffs/index.ctp:32
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:35;46
+#: /Plugin/Admin/View/Groups/index.ctp:33;43
+#: /Plugin/Admin/View/Helpcontents/index.ctp:35;46
+#: /Plugin/Admin/View/Menunames/index.ctp:35
+#: /Plugin/Admin/View/News/index.ctp:35;46
+#: /Plugin/Admin/View/Qtypes/index.ctp:32
+#: /Plugin/Admin/View/Questions/index.ctp:53;65
+#: /Plugin/Admin/View/Results/index.ctp:44;130
+#: /Plugin/Admin/View/Slides/index.ctp:35;47
+#: /Plugin/Admin/View/Smstemplates/index.ctp:36;48
+#: /Plugin/Admin/View/Students/index.ctp:41;57
+#: /Plugin/Admin/View/Students/wallet.ctp:41
+#: /Plugin/Admin/View/Subjects/index.ctp:35;47
+#: /Plugin/Admin/View/Testimonials/index.ctp:37;54
+#: /Plugin/Admin/View/Users/assignrights.ctp:19;28
+#: /Plugin/Admin/View/Users/index.ctp:40;57 /View/Helper/FunctionHelper.php:110
+#: /View/Results/index.ctp:32
+msgid "Action"
+msgstr "कार्रवाई"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:2
+msgid "Add Advertisement"
+msgstr "विज्ञापन जोड़ें"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:6;8
+#: /Plugin/Admin/View/Advertisements/edit.ctp:11;13
+#: /Plugin/Admin/View/Advertisements/index.ctp:32
+msgid "Advertisement Name"
+msgstr "विज्ञापन का नाम"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:12;14
+#: /Plugin/Admin/View/Advertisements/edit.ctp:17;19
+#: /Plugin/Admin/View/Advertisements/index.ctp:33
+#: /Plugin/Admin/View/Contents/pages.ctp:34
+#: /Plugin/Admin/View/Menunames/edit.ctp:29;31
+#: /Plugin/Admin/View/Menunames/index.ctp:34
+#: /Plugin/Admin/View/Slides/add.ctp:14;16
+#: /Plugin/Admin/View/Slides/edit.ctp:18;20
+#: /Plugin/Admin/View/Slides/index.ctp:33
+msgid "Ordering"
+msgstr "आदेश"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:18;20
+#: /Plugin/Admin/View/Advertisements/edit.ctp:23;25
+msgid "URL"
+msgstr "यूआरएल"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:24
+#: /Plugin/Admin/View/Advertisements/edit.ctp:29
+msgid "URL Type"
+msgstr "यूआरएल टाइप"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26
+#: /Plugin/Admin/View/Advertisements/edit.ctp:31
+#: /Plugin/Admin/View/Contents/add.ctp:38
+#: /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "Internal"
+msgstr "आंतरिक"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:26
+#: /Plugin/Admin/View/Advertisements/edit.ctp:31
+#: /Plugin/Admin/View/Contents/add.ctp:38
+#: /Plugin/Admin/View/Contents/edit.ctp:44
+msgid "External"
+msgstr "बाहरी"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:30
+#: /Plugin/Admin/View/Advertisements/edit.ctp:35
+msgid "URL Target"
+msgstr "यूआरएल लक्ष्य"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32
+#: /Plugin/Admin/View/Advertisements/edit.ctp:37
+#: /Plugin/Admin/View/Contents/add.ctp:48
+#: /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_self"
+msgstr "स्व  "
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:32
+#: /Plugin/Admin/View/Advertisements/edit.ctp:37
+#: /Plugin/Admin/View/Contents/add.ctp:48
+#: /Plugin/Admin/View/Contents/edit.ctp:54
+msgid "_blank"
+msgstr "रिक्त (ब्लैंक)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:36
+msgid "Upload Image (350*260)"
+msgstr "अपलोड छवि (350 * 260)"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:43
+#: /Plugin/Admin/View/Contents/add.ctp:71
+#: /Plugin/Admin/View/Currencies/add.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:19
+#: /Plugin/Admin/View/Exams/add.ctp:221
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:26
+#: /Plugin/Admin/View/Groups/add.ctp:13
+#: /Plugin/Admin/View/Helpcontents/add.ctp:20
+#: /Plugin/Admin/View/News/add.ctp:20 /Plugin/Admin/View/Questions/add.ctp:163
+#: /Plugin/Admin/View/Signatures/index.ctp:16
+#: /Plugin/Admin/View/Smstemplates/add.ctp:20
+#: /Plugin/Admin/View/Students/add.ctp:63
+#: /Plugin/Admin/View/Subjects/add.ctp:19
+#: /Plugin/Admin/View/Testimonials/add.ctp:28
+#: /Plugin/Admin/View/Users/add.ctp:49 /Plugin/Admin/View/Users/leveladd.ctp:14
+#: /Plugin/Admin/View/Weblogos/index.ctp:15 /View/Exams/start.ctp:140
+msgid "Save"
+msgstr "सहेजें"
+
+#: /Plugin/Admin/View/Advertisements/add.ctp:44
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:21
+#: /Plugin/Admin/View/Contents/add.ctp:72
+#: /Plugin/Admin/View/Contents/edit.ctp:89
+#: /Plugin/Admin/View/Currencies/add.ctp:29
+#: /Plugin/Admin/View/Diffs/edit.ctp:29
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:20
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:45
+#: /Plugin/Admin/View/Exams/add.ctp:222;274
+#: /Plugin/Admin/View/Exams/edit.ctp:155 /Plugin/Admin/View/Groups/add.ctp:14
+#: /Plugin/Admin/View/Groups/edit.ctp:29
+#: /Plugin/Admin/View/Helpcontents/add.ctp:21
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:42
+#: /Plugin/Admin/View/Mails/compose.ctp:56
+#: /Plugin/Admin/View/Menunames/edit.ctp:47 /Plugin/Admin/View/News/add.ctp:21
+#: /Plugin/Admin/View/News/edit.ctp:42 /Plugin/Admin/View/Qtypes/edit.ctp:29
+#: /Plugin/Admin/View/Questions/add.ctp:164
+#: /Plugin/Admin/View/Questions/edit.ctp:181
+#: /Plugin/Admin/View/Slides/add.ctp:29
+#: /Plugin/Admin/View/Slides/changephoto.ctp:21
+#: /Plugin/Admin/View/Slides/edit.ctp:43
+#: /Plugin/Admin/View/Smstemplates/add.ctp:21
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:46
+#: /Plugin/Admin/View/Students/add.ctp:64
+#: /Plugin/Admin/View/Students/changepass.ctp:40
+#: /Plugin/Admin/View/Students/changephoto.ctp:22
+#: /Plugin/Admin/View/Students/edit.ctp:88
+#: /Plugin/Admin/View/Students/wallet.ctp:65
+#: /Plugin/Admin/View/Subjects/add.ctp:20
+#: /Plugin/Admin/View/Subjects/edit.ctp:39
+#: /Plugin/Admin/View/Testimonials/add.ctp:29
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:21
+#: /Plugin/Admin/View/Testimonials/edit.ctp:47
+#: /Plugin/Admin/View/Users/add.ctp:50 /Plugin/Admin/View/Users/edit.ctp:79
+#: /Plugin/Admin/View/Users/leveladd.ctp:15
+#: /View/Ajaxcontents/examclose.ctp:18;19 /View/Exams/feedbacks.ctp:36
+#: /View/Mails/compose.ctp:31
+msgid "Close"
+msgstr "बंद करें"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:3
+#: /Plugin/Admin/View/Slides/changephoto.ctp:3
+#: /Plugin/Admin/View/Students/changephoto.ctp:4
+#: /Plugin/Admin/View/Students/view.ctp:10
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:3
+#: /View/Profiles/index.ctp:12
+msgid "Update Photo"
+msgstr "अद्यतन फोटो"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:7
+#: /Plugin/Admin/View/Students/add.ctp:56
+#: /Plugin/Admin/View/Students/changephoto.ctp:8
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:7
+#: /View/Profiles/change_photo.ctp:26 /View/Registers/index.ctp:50
+msgid "Upload Photo"
+msgstr "फोटो अपलोड करें"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:19
+#: /Plugin/Admin/View/Advertisements/edit.ctp:57
+#: /Plugin/Admin/View/Contents/edit.ctp:87 /Plugin/Admin/View/Diffs/edit.ctp:27
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:43
+#: /Plugin/Admin/View/Exams/edit.ctp:153 /Plugin/Admin/View/Groups/edit.ctp:27
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:40
+#: /Plugin/Admin/View/Menunames/edit.ctp:45 /Plugin/Admin/View/News/edit.ctp:40
+#: /Plugin/Admin/View/Qtypes/edit.ctp:27
+#: /Plugin/Admin/View/Questions/edit.ctp:179
+#: /Plugin/Admin/View/Slides/add.ctp:27
+#: /Plugin/Admin/View/Slides/changephoto.ctp:19
+#: /Plugin/Admin/View/Slides/edit.ctp:41
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:44
+#: /Plugin/Admin/View/Students/changepass.ctp:38
+#: /Plugin/Admin/View/Students/changephoto.ctp:20
+#: /Plugin/Admin/View/Students/edit.ctp:86
+#: /Plugin/Admin/View/Students/wallet.ctp:63
+#: /Plugin/Admin/View/Subjects/edit.ctp:37
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:19
+#: /Plugin/Admin/View/Testimonials/edit.ctp:45
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:36
+#: /Plugin/Admin/View/Users/change_pass.ctp:39
+#: /Plugin/Admin/View/Users/edit.ctp:77 /View/Profiles/change_pass.ctp:58
+#: /View/Profiles/edit_profile.ctp:45
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: /Plugin/Admin/View/Advertisements/changephoto.ctp:20
+#: /Plugin/Admin/View/Advertisements/edit.ctp:58
+#: /Plugin/Admin/View/Contents/edit.ctp:88 /Plugin/Admin/View/Diffs/edit.ctp:28
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:44
+#: /Plugin/Admin/View/Exams/edit.ctp:154
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:27
+#: /Plugin/Admin/View/Groups/edit.ctp:28
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:41
+#: /Plugin/Admin/View/Menunames/edit.ctp:46 /Plugin/Admin/View/News/edit.ctp:41
+#: /Plugin/Admin/View/Qtypes/edit.ctp:28
+#: /Plugin/Admin/View/Questions/edit.ctp:180
+#: /Plugin/Admin/View/Slides/add.ctp:28
+#: /Plugin/Admin/View/Slides/changephoto.ctp:20
+#: /Plugin/Admin/View/Slides/edit.ctp:42
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:45
+#: /Plugin/Admin/View/Students/changepass.ctp:39
+#: /Plugin/Admin/View/Students/changephoto.ctp:21
+#: /Plugin/Admin/View/Students/edit.ctp:87
+#: /Plugin/Admin/View/Students/wallet.ctp:64
+#: /Plugin/Admin/View/Subjects/edit.ctp:38
+#: /Plugin/Admin/View/Testimonials/changephoto.ctp:20
+#: /Plugin/Admin/View/Testimonials/edit.ctp:46
+#: /Plugin/Admin/View/Users/edit.ctp:78 /View/Exams/submit.ctp:29
+msgid "Cancel"
+msgstr "रद्द"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:3
+msgid "Edit Advertisements"
+msgstr "विज्ञापन संपादित करें"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:8
+#: /Plugin/Admin/View/Contents/edit.ctp:29 /Plugin/Admin/View/Diffs/edit.ctp:8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:8
+#: /Plugin/Admin/View/Exams/edit.ctp:30 /Plugin/Admin/View/Groups/edit.ctp:8
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:9
+#: /Plugin/Admin/View/Menunames/edit.ctp:8 /Plugin/Admin/View/News/edit.ctp:9
+#: /Plugin/Admin/View/Qtypes/edit.ctp:8 /Plugin/Admin/View/Slides/edit.ctp:9
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:9
+#: /Plugin/Admin/View/Students/edit.ctp:13
+#: /Plugin/Admin/View/Subjects/edit.ctp:8
+#: /Plugin/Admin/View/Testimonials/edit.ctp:13
+msgid "Form"
+msgstr "फॉर्म"
+
+#: /Plugin/Admin/View/Advertisements/edit.ctp:41
+#: /Plugin/Admin/View/Advertisements/index.ctp:34
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:23
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:34
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:24
+#: /Plugin/Admin/View/Helpcontents/index.ctp:34
+#: /Plugin/Admin/View/News/edit.ctp:24 /Plugin/Admin/View/News/index.ctp:34
+#: /Plugin/Admin/View/Slides/edit.ctp:24 /Plugin/Admin/View/Slides/index.ctp:34
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:24
+#: /Plugin/Admin/View/Smstemplates/index.ctp:35
+#: /Plugin/Admin/View/Students/add.ctp:50
+#: /Plugin/Admin/View/Students/edit.ctp:35
+#: /Plugin/Admin/View/Students/index.ctp:40
+#: /Plugin/Admin/View/Testimonials/edit.ctp:28
+#: /Plugin/Admin/View/Testimonials/index.ctp:35
+#: /Plugin/Admin/View/Users/edit.ctp:60 /Plugin/Admin/View/Users/index.ctp:39
+msgid "Status"
+msgstr "स्थिति"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:10 /View/Pages/home.ctp:82
+msgid "Advertisements"
+msgstr "विज्ञापन"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:15
+msgid "Add New Advertisement"
+msgstr "न्यू विज्ञापन जोड़ें"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:16;52
+#: /Plugin/Admin/View/Contents/pages.ctp:16;53
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:16;41
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:17;50
+#: /Plugin/Admin/View/Groups/index.ctp:16;46
+#: /Plugin/Admin/View/Helpcontents/index.ctp:16;49
+#: /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:16;47
+#: /Plugin/Admin/View/News/index.ctp:16;49 /Plugin/Admin/View/Qtypes/edit.ctp:3
+#: /Plugin/Admin/View/Qtypes/index.ctp:16;41
+#: /Plugin/Admin/View/Questions/index.ctp:69
+#: /Plugin/Admin/View/Slides/index.ctp:16;52
+#: /Plugin/Admin/View/Smstemplates/index.ctp:17;51
+#: /Plugin/Admin/View/Students/index.ctp:16;62
+#: /Plugin/Admin/View/Subjects/index.ctp:16;51
+#: /Plugin/Admin/View/Testimonials/index.ctp:16;58
+#: /Plugin/Admin/View/Users/index.ctp:16;60
+msgid "Edit"
+msgstr "संपादित"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:17;53
+#: /Plugin/Admin/View/Contents/pages.ctp:17;54
+#: /Plugin/Admin/View/Currencies/index.ctp:16;50
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:18;51
+#: /Plugin/Admin/View/Groups/index.ctp:17;47
+#: /Plugin/Admin/View/Helpcontents/index.ctp:17;50
+#: /Plugin/Admin/View/News/index.ctp:17;50
+#: /Plugin/Admin/View/Questions/index.ctp:16;70
+#: /Plugin/Admin/View/Slides/index.ctp:17;53
+#: /Plugin/Admin/View/Smstemplates/index.ctp:18;52
+#: /Plugin/Admin/View/Students/index.ctp:17;63
+#: /Plugin/Admin/View/Subjects/index.ctp:17;52
+#: /Plugin/Admin/View/Testimonials/index.ctp:17;59
+#: /Plugin/Admin/View/Users/assignrights.ctp:8;32
+#: /Plugin/Admin/View/Users/index.ctp:17;61
+msgid "Delete"
+msgstr "हटाना"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:50
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:49
+#: /Plugin/Admin/View/Questions/index.ctp:68
+#: /Plugin/Admin/View/Slides/index.ctp:50
+#: /Plugin/Admin/View/Students/index.ctp:60
+msgid "View"
+msgstr "देखें"
+
+#: /Plugin/Admin/View/Advertisements/index.ctp:51
+#: /Plugin/Admin/View/Slides/index.ctp:51
+#: /Plugin/Admin/View/Testimonials/index.ctp:57
+#: /View/Profiles/change_pass.ctp:24 /View/Profiles/change_photo.ctp:11;19
+#: /View/Profiles/edit_profile.ctp:11
+msgid "Change Photo"
+msgstr "तस्वीर बदलिये"
+
+#: /Plugin/Admin/View/Advertisements/view.ctp:6
+#: /Plugin/Admin/View/Slides/view.ctp:3
+#: /Plugin/Admin/View/Testimonials/view.ctp:6
+msgid "View Slides"
+msgstr "देखें स्लाइड"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:28
+msgid "Attempted Papers of"
+msgstr "का प्रयास किया पत्रों"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:34
+#: /Plugin/Admin/View/Diffs/edit.ctp:11;13
+#: /Plugin/Admin/View/Diffs/index.ctp:31
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:6;8
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:11;13
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:33
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:8
+#: /Plugin/Admin/View/Qtypes/edit.ctp:11;13
+#: /Plugin/Admin/View/Qtypes/index.ctp:31
+#: /Plugin/Admin/View/Smstemplates/add.ctp:7;9
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:12;14
+#: /Plugin/Admin/View/Smstemplates/index.ctp:33
+#: /Plugin/Admin/View/Students/add.ctp:16;18
+#: /Plugin/Admin/View/Students/edit.ctp:31;33
+#: /Plugin/Admin/View/Students/index.ctp:36
+#: /Plugin/Admin/View/Students/wallet.ctp:17
+#: /Plugin/Admin/View/Testimonials/add.ctp:9;11
+#: /Plugin/Admin/View/Testimonials/edit.ctp:16;18
+#: /Plugin/Admin/View/Testimonials/index.ctp:33
+#: /Plugin/Admin/View/Users/add.ctp:30;32
+#: /Plugin/Admin/View/Users/edit.ctp:41;43
+#: /Plugin/Admin/View/Users/index.ctp:35
+#: /Plugin/Admin/View/Users/my_profile.ctp:11 /View/Exams/view.ctp:8
+#: /View/Helper/FunctionHelper.php:104 /View/Leaderboards/index.ctp:13
+#: /View/Pages/home.ctp:59 /View/Registers/index.ctp:20;22
+#: /View/Results/view.ctp:114;144
+msgid "Name"
+msgstr "नाम"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:36
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:5
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:5
+#: /Plugin/Admin/View/Results/index.ctp:38;97;124
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:5
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:5
+#: /Plugin/Admin/View/Students/add.ctp:6;8
+#: /Plugin/Admin/View/Students/edit.ctp:17;19
+#: /Plugin/Admin/View/Students/index.ctp:35
+#: /Plugin/Admin/View/Students/trnhistory.ctp:19
+#: /Plugin/Admin/View/Students/wallet.ctp:11
+#: /Plugin/Admin/View/Users/add.ctp:36;38
+#: /Plugin/Admin/View/Users/edit.ctp:47;49
+#: /Plugin/Admin/View/Users/index.ctp:36
+#: /Plugin/Admin/View/Users/my_profile.ctp:15
+#: /View/Emailverifications/resend.ctp:10 /View/Forgots/password.ctp:10;12
+#: /View/Registers/index.ctp:10;12 /View/Results/pdf/certificate.ctp:10
+#: /View/Users/login.ctp:10;12
+msgid "Email"
+msgstr "ईमेल"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:40
+#: /Plugin/Admin/View/Exams/view.ctp:66 /View/Exams/view.ctp:28
+msgid "Total Marks"
+msgstr "कुल अंक प्राप्त अंक श्रेणी या डिविज़न"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:42
+msgid "Obtained Marks"
+msgstr "प्राप्त अंकों"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:46
+msgid "Result Finalized"
+msgstr "परिणाम अंतिम रूप दिया"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:47
+msgid "Finalize It"
+msgstr "इसे अंतिम रूप देने"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19
+#: /Plugin/Admin/View/Results/index.ctp:20;57;143
+#: /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "PASSED"
+msgstr "पारित"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:48
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:19
+#: /Plugin/Admin/View/Results/index.ctp:20;57;143
+#: /Plugin/Admin/View/Results/result.ctp:38
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:33
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:22
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:22 /View/Results/index.ctp:41
+#: /View/Results/view.ctp:90
+msgid "FAILED"
+msgstr "मेज़रमेंट विफल रहा"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:49
+msgid "Finalized By"
+msgstr "द्वारा अंतिम रूप दिया"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:65
+msgid "Question No"
+msgstr "प्रश्न संख्या"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:78
+#: /Plugin/Admin/View/Questions/add.ctp:63;78
+#: /Plugin/Admin/View/Questions/edit.ctp:74;88;89
+#: /Plugin/Admin/View/Questions/view.ctp:58
+msgid "Option1"
+msgstr "विकल्प1"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:84
+#: /Plugin/Admin/View/Questions/add.ctp:64;82
+#: /Plugin/Admin/View/Questions/edit.ctp:75;92;93
+#: /Plugin/Admin/View/Questions/view.ctp:61
+msgid "Option2"
+msgstr "ऑप्शन"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:90
+#: /Plugin/Admin/View/Questions/add.ctp:65;86
+#: /Plugin/Admin/View/Questions/edit.ctp:76;96;97
+#: /Plugin/Admin/View/Questions/view.ctp:64
+msgid "Option3"
+msgstr "ऑप्शन"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:96
+#: /Plugin/Admin/View/Questions/add.ctp:66;90
+#: /Plugin/Admin/View/Questions/edit.ctp:77;100;101
+#: /Plugin/Admin/View/Questions/view.ctp:67
+msgid "Option4"
+msgstr "ऑप्शन"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:102
+#: /Plugin/Admin/View/Questions/add.ctp:67;94
+#: /Plugin/Admin/View/Questions/edit.ctp:78;104;105
+#: /Plugin/Admin/View/Questions/view.ctp:71
+msgid "Option5"
+msgstr "ऑप्शन"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:108
+#: /Plugin/Admin/View/Questions/add.ctp:68;98
+#: /Plugin/Admin/View/Questions/edit.ctp:79;108;109
+#: /Plugin/Admin/View/Questions/view.ctp:75
+msgid "Option6"
+msgstr "ऑप्शन"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:158
+#: /Plugin/Admin/View/Results/result.ctp:175
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:161
+#: /View/Results/attemptedpapers.ctp:14
+msgid "Marked Answer"
+msgstr "उल्लेखनीय जवाब"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:159
+#: /Plugin/Admin/View/Questions/view.ctp:79 /View/Results/view.ctp:181
+msgid "Correct Answer"
+msgstr "सही उत्तर"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:162
+#: /Plugin/Admin/View/Results/result.ctp:25;103;179
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:20;92;165
+#: /View/Results/attemptedpapers.ctp:18 /View/Results/view.ctp:382
+msgid "Time Taken"
+msgstr "लिया गया समय"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:164
+msgid "Marks Obtained"
+msgstr "मार्क"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "Checked by"
+msgstr "जाँचकर्ता"
+
+#: /Plugin/Admin/View/Attemptedpapers/index.ctp:181
+msgid "System"
+msgstr "व्यवस्था"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:1
+msgid "Configuration Options"
+msgstr "विन्यास विकल्प"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:6;8
+#: /View/Installers/step3.ctp:48
+msgid "Site Name"
+msgstr "साइट का नाम"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:10;12
+#: /View/Installers/step3.ctp:78
+msgid "Organization Name"
+msgstr "संस्था का नाम"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:16;18
+#: /View/Installers/step3.ctp:54
+msgid "Domain Name"
+msgstr "डोमेन नाम"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:20;22
+#: /View/Installers/step3.ctp:84
+msgid "Organization Email"
+msgstr "संगठन ईमेल"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:26;28
+msgid "Meta Title"
+msgstr "मेटा शीर्षक"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:30;32
+#: /View/Installers/step3.ctp:66
+msgid "Meta Description"
+msgstr "मेटा विवरण"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:36
+#: /View/Installers/step3.ctp:72;74
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:38;85
+#: /Plugin/Admin/View/Iequestions/index.ctp:25
+#: /Plugin/Admin/View/Questions/add.ctp:134;158
+#: /Plugin/Admin/View/Questions/edit.ctp:148;173
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;116
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;117
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "Please Select"
+msgstr "कृपया चुनें"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:40
+#: /Plugin/Admin/View/Currencies/index.ctp:10;34
+msgid "Currency"
+msgstr "करेंसी"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:46;48
+msgid "Header Contact"
+msgstr "हैडर से संपर्क करें"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:50;52
+msgid "Email Contact"
+msgstr "ईमेल से संपर्क करें"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:56;58
+msgid "Display records per page"
+msgstr "प्रति पृष्ठ प्रदर्शित रिकॉर्ड"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:60;62
+msgid "Max records per page"
+msgstr "मैक्स प्रति पेज रिकॉर्ड"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:66;68
+msgid "Date Format"
+msgstr "तिथि फ़ॉर्मेट"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:70
+msgid "Date, Month, Year, Hour, Min, Sec, Meridian, Date Seprator, Time Seprator"
+msgstr "तिथि, माह, वर्ष, घंटा, मिनट, सेकंड, मेरिडियन, दिनांक Seprator, टाइम Seprator"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:73
+msgid "Capthca"
+msgstr "Capthca"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Image"
+msgstr "छवि"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:75
+msgid "Text"
+msgstr "पाठ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:77
+msgid "Text Direction"
+msgstr "पाठ की दिशा"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Left-to-right (LTR)"
+msgstr "वाम-से-दाएँ (लीटर)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:79
+msgid "Right-to-Left (RTL)"
+msgstr "राइट-टू-वाम (आरटीएल)"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:83
+msgid "Language"
+msgstr "भाषा"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:89
+msgid "Enable SMS Notification"
+msgstr "एसएमएस अधिसूचना सक्षम करें"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:93
+msgid "Enable Email Notification"
+msgstr "ईमेल अधिसूचना सक्षम करें"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:97
+msgid "Manual Verification"
+msgstr "मैनुअल सत्यापन"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:103
+msgid "Front End Registration"
+msgstr "फ्रंट एंड पंजीकरण"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:107
+msgid "Front End Slides"
+msgstr "फ्रंट एंड स्लाइड"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:111
+msgid "Translation"
+msgstr "अ"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:117
+#: /Plugin/Admin/View/Exams/add.ctp:154 /Plugin/Admin/View/Exams/edit.ctp:101
+#: /Plugin/Admin/View/Exams/view.ctp:38
+msgid "Paid Exam"
+msgstr "अदा परीक्षा"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:125
+msgid "Math Editor"
+msgstr "गणित संपादक"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:131
+msgid "Exam Expiry"
+msgstr "परीक्षा समाप्ति"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:135
+msgid "Exam Feedback"
+msgstr "परीक्षा प्रतिक्रिया"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:139
+msgid "Tolrance Count"
+msgstr "Tolrance गणना"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:145 /View/Results/index.ctp:43
+msgid "Certificate"
+msgstr "प्रमाण पत्र"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:149
+msgid "Testimonial"
+msgstr "गुणों का वर्ण-पत्र"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:153
+msgid "Advertisement"
+msgstr "विज्ञापन"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:159
+msgid "No. of Visitor"
+msgstr "आगंतुक की संख्या"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:163
+msgid "No. of Student"
+msgstr "छात्र की संख्या"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:167
+msgid "No. of Exam"
+msgstr "परीक्षा की संख्या"
+
+#: /Plugin/Admin/View/Configurations/index.ctp:174
+#: /Plugin/Admin/View/Emailsettings/index.ctp:43
+#: /Plugin/Admin/View/Payments/index.ctp:31
+#: /Plugin/Admin/View/Smssettings/index.ctp:54
+msgid "Save Settings"
+msgstr "सेटिंग्स सहेजें"
+
+#: /Plugin/Admin/View/Contents/add.ctp:20
+msgid "Add Pages"
+msgstr "पेज जोड़े"
+
+#: /Plugin/Admin/View/Contents/add.ctp:26;28
+#: /Plugin/Admin/View/Contents/edit.ctp:32;34
+#: /Plugin/Admin/View/Contents/pages.ctp:32
+msgid "Link Name"
+msgstr "लिंक का नाम"
+
+#: /Plugin/Admin/View/Contents/add.ctp:30;32
+#: /Plugin/Admin/View/Contents/edit.ctp:36;38
+msgid "Link Order"
+msgstr "लिंक आदेश"
+
+#: /Plugin/Admin/View/Contents/add.ctp:36
+#: /Plugin/Admin/View/Contents/edit.ctp:42;59;61
+msgid "Page Type"
+msgstr "पृष्ठ प्रकार"
+
+#: /Plugin/Admin/View/Contents/add.ctp:42;44
+#: /Plugin/Admin/View/Contents/edit.ctp:48;50
+msgid "External Url"
+msgstr "बाहरी यूआरएल"
+
+#: /Plugin/Admin/View/Contents/add.ctp:46
+#: /Plugin/Admin/View/Contents/edit.ctp:52
+msgid "Url Target"
+msgstr "यूआरएल लक्ष्य"
+
+#: /Plugin/Admin/View/Contents/add.ctp:53;55
+#: /Plugin/Admin/View/Contents/pages.ctp:33
+#: /Plugin/Admin/View/Menunames/edit.ctp:17;19
+#: /Plugin/Admin/View/Menunames/index.ctp:32
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:20
+msgid "Page Name"
+msgstr "पन्ने का नाम"
+
+#: /Plugin/Admin/View/Contents/add.ctp:57;59
+#: /Plugin/Admin/View/Contents/edit.ctp:63;65
+msgid "Page Url"
+msgstr "पृष्ठ यूआरएल"
+
+#: /Plugin/Admin/View/Contents/add.ctp:63;65
+#: /Plugin/Admin/View/Contents/edit.ctp:69;71
+msgid "Page Content"
+msgstr "पृष्ठ सामग्री"
+
+#: /Plugin/Admin/View/Contents/edit.ctp:3
+msgid "Edit Pages"
+msgstr "पृष्ठ सम्पादित करें: %s"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:10
+msgid "Pages"
+msgstr "पृष्ठ"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:15
+msgid "Add New Page"
+msgstr "नया पृष्ठ जोड़ें"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:35;46
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:26
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Published"
+msgstr "प्रकाशित"
+
+#: /Plugin/Admin/View/Contents/pages.ctp:47
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:26
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:27
+msgid "Unpublished"
+msgstr "अप्रकाशित"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:4
+msgid "Add Currency"
+msgstr "मुद्रा जोड़े"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:9;11
+#: /Plugin/Admin/View/Currencies/index.ctp:32
+msgid "Currency Name"
+msgstr "मुद्रा का नाम"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:15;17
+#: /Plugin/Admin/View/Currencies/index.ctp:33
+msgid "Short Name"
+msgstr "संक्षिप्त नाम"
+
+#: /Plugin/Admin/View/Currencies/add.ctp:21
+msgid "Upload Currency (Less or equal to 50*50)"
+msgstr "मुद्रा शब्द (कम या बराबर 50 * 50 के लिए)"
+
+#: /Plugin/Admin/View/Currencies/index.ctp:15
+msgid "Add New Currency"
+msgstr "नई मुद्रा जोड़े"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:6
+msgid "In Progress Exam"
+msgstr "प्रगति परीक्षा में"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:10 /View/Exams/expired.ctp:13
+#: /View/Exams/index.ctp:13 /View/Exams/purchased.ctp:13
+#: /View/Exams/upcoming.ctp:13;21
+msgid "Upcoming Exam"
+msgstr "आगामी परीक्षा"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:14
+msgid "Completed Exam"
+msgstr "पूरे परीक्षा"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:18
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;90
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;97
+#: /Plugin/Admin/View/Students/index.ctp:10
+msgid "Students"
+msgstr "छात्र"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:23
+msgid "In Progress & Upcoming Exams"
+msgstr "प्रगति और आगामी परीक्षा में"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:27
+msgid "Date"
+msgstr "तिथि"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:28
+#: /Plugin/Admin/View/Exams/edit.ctp:34;36 /Plugin/Admin/View/Exams/view.ctp:8
+#: /View/Results/index.ctp:27
+msgid "Exam Name"
+msgstr "परीक्षा का नाम"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:29;122
+#: /Plugin/Admin/View/Iequestions/index.ctp:17
+#: /Plugin/Admin/View/Iestudents/index.ctp:17
+#: /Plugin/Admin/View/Questions/index.ctp:52
+#: /Plugin/Admin/View/Results/index.ctp:8;78;99
+#: /Plugin/Admin/View/Students/add.ctp:10
+#: /Plugin/Admin/View/Students/edit.ctp:21 /Plugin/Admin/View/Users/add.ctp:12
+#: /Plugin/Admin/View/Users/edit.ctp:19 /View/Registers/index.ctp:14;16
+msgid "Group"
+msgstr "समूह"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:31
+#: /Plugin/Admin/View/Exams/view.ctp:51 /View/Exams/view.ctp:16
+msgid "Duration"
+msgstr "अवधि"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:57
+msgid "Recent Exam Results"
+msgstr "हाल के परीक्षा परिणाम"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:61
+#: /Plugin/Admin/View/Exams/add.ctp:185 /Plugin/Admin/View/Exams/stats.ctp:9
+msgid "Exam"
+msgstr "के वर्ष"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:62
+#: /Plugin/Admin/View/Exams/stats.ctp:10
+msgid "Overall Result"
+msgstr "संपूर्ण परिणाम"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:63
+#: /Plugin/Admin/View/Exams/stats.ctp:11
+msgid "Student Stats"
+msgstr "छात्र आँकड़े"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:70
+#: /Plugin/Admin/View/Exams/stats.ctp:16
+#: /Plugin/Admin/View/Mails/compose.ctp:36 /View/Mails/compose.ctp:11
+msgid "To"
+msgstr "इसको"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:71
+#: /Plugin/Admin/View/Exams/stats.ctp:17 /View/Exams/view.ctp:3
+msgid "Details"
+msgstr "पर्यावरण प्रबंधन की योजना का ब्योरा "
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:99
+msgid "Top 10 Student Group Wise"
+msgstr "शीर्ष 10 छात्र समूह समझदार"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:118
+msgid "Student Statistic Table"
+msgstr "छात्र आँकड़ा सारणी"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:123
+msgid "Total Students"
+msgstr "कुल छात्रों"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:124
+msgid "Total Active"
+msgstr "कुल सक्रिय"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:125
+msgid "Total Pending"
+msgstr "कुल विचाराधीन"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:126
+msgid "Total Suspended"
+msgstr "कुल निलंबित"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:145
+msgid "Top 10 Question Bank Subject Wise"
+msgstr "शीर्ष 10 प्रश्न बैंक विषय वार"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:156
+msgid "Top 10 Difficulty Level of Questions"
+msgstr "सवालों की शीर्ष 10 कठिनाई स्तर"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:167
+msgid "Question Count Table"
+msgstr "प्रश्न गणना टेबल"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:171
+msgid "Bank Name"
+msgstr "बैंक का नाम"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:173
+msgid "Total Easy"
+msgstr "कुल आसान"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:174
+msgid "Total Normal"
+msgstr "कुल सामान्य"
+
+#: /Plugin/Admin/View/Dashboards/index.ctp:175
+msgid "Total Difficult"
+msgstr "कुल मुश्किल"
+
+#: /Plugin/Admin/View/Diffs/edit.ctp:3 /Plugin/Admin/View/Diffs/index.ctp:10
+msgid "Diffculty Level"
+msgstr "diffculty स्तर"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:10
+msgid "E-Mail Settings"
+msgstr "ईमेल सेटिंग्स"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:14
+msgid "Email Type"
+msgstr "ईमेल के प्रकार"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "LOCALHOST"
+msgstr "स्थानीय होस्ट"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:16
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:21;23
+msgid "Server Name / Host"
+msgstr "सर्वर नाम / होस्ट"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:25;27
+msgid "Port"
+msgstr "बंदरगाह"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:31;33
+#: /Plugin/Admin/View/Payments/index.ctp:6;8
+#: /Plugin/Admin/View/Smssettings/index.ctp:17;19
+#: /Plugin/Admin/View/Users/index.ctp:34
+msgid "User Name"
+msgstr "उपयोगकर्ता नाम"
+
+#: /Plugin/Admin/View/Emailsettings/index.ctp:35;37
+#: /Plugin/Admin/View/Forgots/reset.ctp:20
+#: /Plugin/Admin/View/Payments/index.ctp:12;14
+#: /Plugin/Admin/View/Smssettings/index.ctp:21;23
+#: /Plugin/Admin/View/Students/add.ctp:20;22
+#: /Plugin/Admin/View/Students/changepass.ctp:20;22
+#: /Plugin/Admin/View/Users/add.ctp:24;26
+#: /Plugin/Admin/View/Users/change_pass.ctp:26;28
+#: /Plugin/Admin/View/Users/edit.ctp:35;37
+#: /Plugin/Admin/View/Users/login_form.ctp:9 /View/Completes/index.ctp:41;47
+#: /View/Forgots/reset.ctp:25;27 /View/Profiles/change_pass.ctp:45;47
+#: /View/Registers/index.ctp:24;26 /View/Users/login.ctp:16;18
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:2
+msgid "Add Email Template"
+msgstr "ईमेल टेम्पलेट जोड़े"
+
+#: /Plugin/Admin/View/Emailtemplates/add.ctp:12;14
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:17;19
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:3
+#: /Plugin/Admin/View/Sendemails/index.ctp:120
+msgid "Email Template"
+msgstr "ई मेल टेम्पलेट"
+
+#: /Plugin/Admin/View/Emailtemplates/edit.ctp:3
+msgid "Edit Email Templates"
+msgstr "संपादित ईमेल टेम्पलेट्स"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:10
+msgid "Email Templates"
+msgstr "ईमेल टेम्पलेट्स"
+
+#: /Plugin/Admin/View/Emailtemplates/index.ctp:16
+msgid "Add New Email Template"
+msgstr "नया ईमेल खाका जोड़ें"
+
+#: /Plugin/Admin/View/Emailtemplates/view.ctp:12
+#: /Plugin/Admin/View/Smstemplates/add.ctp:13;15
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:18;20
+#: /Plugin/Admin/View/Smstemplates/index.ctp:34
+msgid "Template"
+msgstr "टेम्पलेट"
+
+#: /Plugin/Admin/View/Exams/add.ctp:76
+msgid "Subject Added successfully"
+msgstr "विषय जोड़ा सफलतापूर्वक"
+
+#: /Plugin/Admin/View/Exams/add.ctp:84
+msgid "Add Exam"
+msgstr "परीक्षा जोड़े"
+
+#: /Plugin/Admin/View/Exams/add.ctp:90;92
+#: /Plugin/Admin/View/Results/index.ctp:14
+msgid "Name of Exam"
+msgstr "परीक्षा का नाम"
+
+#: /Plugin/Admin/View/Exams/add.ctp:94;96
+#: /Plugin/Admin/View/Exams/edit.ctp:38;40 /View/Exams/view.ctp:14
+msgid "Passing Percentage"
+msgstr "पासिंग प्रतिशत"
+
+#: /Plugin/Admin/View/Exams/add.ctp:100;102
+#: /Plugin/Admin/View/Exams/edit.ctp:44;46
+msgid "Instruction"
+msgstr "निर्देश"
+
+#: /Plugin/Admin/View/Exams/add.ctp:106 /Plugin/Admin/View/Exams/edit.ctp:50
+msgid "Exam Duration (Min.)"
+msgstr "परीक्षा अवधि (मि।)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:108 /Plugin/Admin/View/Exams/edit.ctp:52
+msgid "0 for unlimited duration"
+msgstr "असीमित अवधि के लिए 0"
+
+#: /Plugin/Admin/View/Exams/add.ctp:110 /Plugin/Admin/View/Exams/edit.ctp:54
+msgid "Attempt Count"
+msgstr "प्रयास गणना"
+
+#: /Plugin/Admin/View/Exams/add.ctp:112 /Plugin/Admin/View/Exams/edit.ctp:56
+msgid "0 for unlimited attempt"
+msgstr "असीमित प्रयास के लिए 0"
+
+#: /Plugin/Admin/View/Exams/add.ctp:117 /Plugin/Admin/View/Exams/edit.ctp:60
+#: /Plugin/Admin/View/Exams/view.ctp:26 /View/Exams/view.ctp:20
+#: /View/Helper/FunctionHelper.php:99
+msgid "Start Date"
+msgstr "प्रारंभ तिथि"
+
+#: /Plugin/Admin/View/Exams/add.ctp:124 /Plugin/Admin/View/Exams/edit.ctp:67
+#: /Plugin/Admin/View/Exams/view.ctp:28 /View/Exams/view.ctp:22
+#: /View/Helper/FunctionHelper.php:97
+msgid "End Date"
+msgstr "समाप्ति की तिथि"
+
+#: /Plugin/Admin/View/Exams/add.ctp:133 /Plugin/Admin/View/Exams/edit.ctp:76
+#: /Plugin/Admin/View/Exams/view.ctp:32
+msgid "Show Answer Sheet"
+msgstr "दिखाएँ उत्तर पत्रक"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195
+#: /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130
+#: /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "Yes"
+msgstr "हाँ"
+
+#: /Plugin/Admin/View/Exams/add.ctp:135;145;149;156;169;181;191;195
+#: /Plugin/Admin/View/Exams/edit.ctp:78;92;96;103;116;120;126;130
+#: /Plugin/Admin/View/Exams/view.ctp:33;35;39;45;59;61
+msgid "No"
+msgstr "नहीं"
+
+#: /Plugin/Admin/View/Exams/add.ctp:137 /Plugin/Admin/View/Exams/edit.ctp:80
+#: /Plugin/Admin/View/Subjects/edit.ctp:11
+msgid "Select Group"
+msgstr "समूह का चयन करें"
+
+#: /Plugin/Admin/View/Exams/add.ctp:139
+msgid "Student Group"
+msgstr "छात्र समूह"
+
+#: /Plugin/Admin/View/Exams/add.ctp:143 /Plugin/Admin/View/Exams/edit.ctp:90
+#: /View/Exams/view.ctp:26
+msgid "Negative Marking"
+msgstr "नकारात्मक अंकन"
+
+#: /Plugin/Admin/View/Exams/add.ctp:147 /Plugin/Admin/View/Exams/edit.ctp:94
+msgid "Random Question"
+msgstr "रैंडम प्रश्न"
+
+#: /Plugin/Admin/View/Exams/add.ctp:159;161
+#: /Plugin/Admin/View/Exams/edit.ctp:106;108
+#: /Plugin/Admin/View/Exams/view.ctp:40
+#: /Plugin/Admin/View/Students/wallet.ctp:35;37 /View/Exams/view.ctp:33
+#: /View/Helper/FunctionHelper.php:96 /View/Payments/index.ctp:11;13
+msgid "Amount"
+msgstr "राशि"
+
+#: /Plugin/Admin/View/Exams/add.ctp:167 /Plugin/Admin/View/Exams/edit.ctp:118
+msgid "Browser Tolrance"
+msgstr "ब्राउज़र Tolrance"
+
+#: /Plugin/Admin/View/Exams/add.ctp:172 /Plugin/Admin/View/Exams/edit.ctp:136
+#: /Plugin/Admin/View/Students/add.ctp:46
+#: /Plugin/Admin/View/Students/edit.ctp:61
+msgid "Expiry Days"
+msgstr "समाप्ति दिन"
+
+#: /Plugin/Admin/View/Exams/add.ctp:174 /Plugin/Admin/View/Exams/edit.ctp:138
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:16
+#: /Plugin/Admin/View/Students/add.ctp:48
+#: /Plugin/Admin/View/Students/edit.ctp:61;63
+msgid "0 for Unlimited"
+msgstr "असीमित के लिए 0"
+
+#: /Plugin/Admin/View/Exams/add.ctp:179 /Plugin/Admin/View/Exams/edit.ctp:114
+#: /Plugin/Admin/View/Exams/view.ctp:44
+msgid "Result After Finish"
+msgstr "समाप्त करने के बाद रिजल्ट"
+
+#: /Plugin/Admin/View/Exams/add.ctp:183 /Plugin/Admin/View/Exams/view.ctp:46
+msgid "Mode"
+msgstr "मोड"
+
+#: /Plugin/Admin/View/Exams/add.ctp:185
+msgid "Prepration"
+msgstr "प्रिपरेशन"
+
+#: /Plugin/Admin/View/Exams/add.ctp:189 /Plugin/Admin/View/Exams/edit.ctp:124
+#: /Plugin/Admin/View/Exams/view.ctp:58
+msgid "Instant Result"
+msgstr "त्वरित परिणाम"
+
+#: /Plugin/Admin/View/Exams/add.ctp:193 /Plugin/Admin/View/Exams/edit.ctp:128
+#: /Plugin/Admin/View/Exams/view.ctp:60
+msgid "Option Shuffle"
+msgstr "देखिये साधा"
+
+#: /Plugin/Admin/View/Exams/add.ctp:203;233
+msgid "Add Subjects To Exams"
+msgstr "परीक्षा के लिए विषयों को जोड़े"
+
+#: /Plugin/Admin/View/Exams/add.ctp:209
+#: /Plugin/Admin/View/Subjects/add.ctp:12;14
+#: /Plugin/Admin/View/Subjects/edit.ctp:21;23
+#: /Plugin/Admin/View/Subjects/index.ctp:32
+msgid "Subject Name"
+msgstr "विषय नाम"
+
+#: /Plugin/Admin/View/Exams/add.ctp:210;245;247
+#: /Plugin/Admin/View/Results/result.ctp:100
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:89
+msgid "No. of Questions"
+msgstr "सवालों की नहीं।"
+
+#: /Plugin/Admin/View/Exams/add.ctp:211
+msgid "Ques Attempt Count"
+msgstr "सवाल गणना का प्रयास"
+
+#: /Plugin/Admin/View/Exams/add.ctp:251
+#: /Plugin/Admin/View/Exams/maxquestion.ctp:9
+#: /Plugin/Admin/View/Exams/view.ctp:148 /View/Exams/view.ctp:41
+msgid "Questions Attempt Count"
+msgstr "सवालों का प्रयास गणना"
+
+#: /Plugin/Admin/View/Exams/add.ctp:253
+msgid "Leave blank for not showing (0 for unlimited)"
+msgstr "दिखा नहीं करने के लिए खाली छोड़ दो (असीमित के लिए 0)"
+
+#: /Plugin/Admin/View/Exams/add.ctp:260;267
+msgid "ctrl+click to add multiples"
+msgstr "Ctrl + गुणकों में जोड़ने के लिए क्लिक करें"
+
+#: /Plugin/Admin/View/Exams/add.ctp:273
+msgid "Add"
+msgstr "जोड़ना"
+
+#: /Plugin/Admin/View/Exams/edit.ctp:3
+msgid "Edit Exam"
+msgstr "परीक्षा संपादित करें"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:3
+msgid "Exam Stats"
+msgstr "परीक्षा के आँकड़े"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18
+msgid "No of Student Passed"
+msgstr "छात्र का कोई उत्तीर्ण"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:18;19;20
+msgid "Download"
+msgstr "डाउनलोड करें"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:19
+msgid "No of Student Failed"
+msgstr "छात्र का कोई विफल"
+
+#: /Plugin/Admin/View/Exams/stats.ctp:20
+msgid "No of Student Absent"
+msgstr "छात्र अनुपस्थित नहीं"
+
+#: /Plugin/Admin/View/Exams/view.ctp:3 /Plugin/Admin/View/Results/view.ctp:4
+msgid "Exam Details"
+msgstr "परीक्षा विवरण"
+
+#: /Plugin/Admin/View/Exams/view.ctp:11
+msgid "Finalize Result"
+msgstr "परिणाम को अंतिम रूप देने"
+
+#: /Plugin/Admin/View/Exams/view.ctp:12 /View/Results/attemptedpapers.ctp:3
+msgid "Attempted Papers"
+msgstr "प्रयास किया पत्रों"
+
+#: /Plugin/Admin/View/Exams/view.ctp:15
+msgid "Eligible Group"
+msgstr "पात्र समूह"
+
+#: /Plugin/Admin/View/Exams/view.ctp:20
+msgid "Close Exam"
+msgstr "बंद परीक्षा"
+
+#: /Plugin/Admin/View/Exams/view.ctp:21
+msgid "Activate Exam"
+msgstr "परीक्षा सक्रिय"
+
+#: /Plugin/Admin/View/Exams/view.ctp:22
+msgid "Exam Closed Re-Activate Exam"
+msgstr "परीक्षा बंद को फिर से सक्रिय परीक्षा"
+
+#: /Plugin/Admin/View/Exams/view.ctp:34
+msgid "Browser Tolrence"
+msgstr "ब्राउज़र Tolrence"
+
+#: /Plugin/Admin/View/Exams/view.ctp:64 /View/Helper/FunctionHelper.php:101
+msgid "Expiry"
+msgstr "समापन 2"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65
+#: /View/Helper/FunctionHelper.php:120;127;128
+msgid "Unlimited"
+msgstr "असीमित"
+
+#: /Plugin/Admin/View/Exams/view.ctp:65 /View/Helper/FunctionHelper.php:127
+msgid "Days"
+msgstr "दिन"
+
+#: /Plugin/Admin/View/Exams/view.ctp:77
+msgid "Subjective"
+msgstr "कर्ता-कारक"
+
+#: /Plugin/Admin/View/Exams/view.ctp:78
+msgid "Objective"
+msgstr "उद्देश्य"
+
+#: /Plugin/Admin/View/Exams/view.ctp:79
+msgid "True &amp; False"
+msgstr "यह सच है & amp; असत्य"
+
+#: /Plugin/Admin/View/Exams/view.ctp:80
+msgid "Fill in the blanks"
+msgstr "रिक्त स्थानों की पूर्ति केवल संख्या में लिख कर करें यह एक एकाधिक पसंद सवाल है, सही उत्तर का चयन करें. बहु विकल्प प्रश्न / एकाधिक पसंद सवाल में सही उत्तर का चयन करें. कोई प्रतीक या माप लिखने की जरूरत नहीं है. (नीचे दिए गए बॉक्स में केवल संख्या लिखें|) (Fill in the box provided below only with the number)"
+
+#: /Plugin/Admin/View/Exams/view.ctp:82 /View/Results/view.ctp:115;145
+msgid "Total Questions"
+msgstr "कुल प्रश्न = 30"
+
+#: /Plugin/Admin/View/Exams/view.ctp:83
+msgid "Question Attempt Count"
+msgstr "प्रश्न प्रयास गणना"
+
+#: /Plugin/Admin/View/Exams/view.ctp:101;120
+msgid "H"
+msgstr "समय"
+
+#: /Plugin/Admin/View/Exams/view.ctp:115;165 /View/Exams/view.ctp:54
+msgid "Total"
+msgstr "कुल योग"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "E"
+msgstr "ङ"
+
+#: /Plugin/Admin/View/Exams/view.ctp:120
+msgid "M"
+msgstr "ड"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:3
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:3
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:3
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:3 /View/Results/index.ctp:26
+#: /View/Transactionhistorys/index.ctp:26
+msgid "S.No."
+msgstr "क्र.सं."
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:4
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:4
+#: /Plugin/Admin/View/Results/index.ctp:37;96;123
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:4
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:4
+msgid "Student Name"
+msgstr "छात्र का नाम"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:6
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:6
+msgid "Enrolment"
+msgstr "उपस्थिति पंजी"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadabsentlist.ctp:7
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:7
+#: /Plugin/Admin/View/Students/add.ctp:30;32
+#: /Plugin/Admin/View/Students/edit.ctp:45;47
+#: /Plugin/Admin/View/Students/index.ctp:37 /View/Registers/index.ctp:34;36
+msgid "Phone"
+msgstr "फोन"
+
+#: /Plugin/Admin/View/Exams/pdf/downloadlist.ctp:9
+#: /Plugin/Admin/View/Results/index.ctp:129
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:10
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:10
+msgid "Result Status"
+msgstr "परिणाम स्थिति"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:2
+#: /Plugin/Admin/View/Forgots/username.ctp:13
+#: /Plugin/Admin/View/Users/login_form.ctp:16 /View/Forgots/password.ctp:4
+msgid "Forgot Password"
+msgstr "पासवर्ड भूल गए"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:5
+#: /Plugin/Admin/View/Forgots/username.ctp:5
+#: /Plugin/Admin/View/Results/result.ctp:13
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:8
+msgid "Email ID"
+msgstr "ईमेल आईडी"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:9
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:9
+#: /Plugin/Admin/View/Forgots/reset.ctp:29
+#: /Plugin/Admin/View/Forgots/username.ctp:9
+#: /View/Emailverifications/index.ctp:17 /View/Emailverifications/resend.ctp:17
+#: /View/Exams/feedbacks.ctp:35 /View/Forgots/password.ctp:17
+#: /View/Forgots/presetcode.ctp:17 /View/Forgots/reset.ctp:39
+#: /View/Installers/step1.ctp:82 /View/Profiles/change_photo.ctp:33
+#: /View/Registers/index.ctp:61
+msgid "Submit"
+msgstr "सबमिट करें"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:12
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:12
+#: /Plugin/Admin/View/Forgots/reset.ctp:32
+#: /Plugin/Admin/View/Forgots/username.ctp:2
+msgid "Forgot Username"
+msgstr "उपयोगकर्ता नाम भूल गए"
+
+#: /Plugin/Admin/View/Forgots/password.ctp:13
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:13
+#: /Plugin/Admin/View/Forgots/reset.ctp:33
+#: /Plugin/Admin/View/Forgots/username.ctp:14
+msgid "Login"
+msgstr "लॉगिन करें"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:2
+#: /View/Emailverifications/index.ctp:10 /View/Forgots/presetcode.ctp:4;10
+msgid "Verification Code"
+msgstr "सत्यापन कोड"
+
+#: /Plugin/Admin/View/Forgots/presetcode.ctp:5
+msgid "Please enter verification Code"
+msgstr "सत्यापन कोड डालें"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:17 /View/Forgots/reset.ctp:19
+msgid "Reset Password"
+msgstr "पासवर्ड फिर से सेट करें"
+
+#: /Plugin/Admin/View/Forgots/reset.ctp:24
+#: /Plugin/Admin/View/Students/changepass.ctp:26;28
+#: /Plugin/Admin/View/Users/change_pass.ctp:32;34 /View/Forgots/reset.ctp:31;33
+#: /View/Profiles/change_pass.ctp:51;53
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+#: /Plugin/Admin/View/Groups/add.ctp:2
+msgid "Add Groups"
+msgstr "समूह"
+
+#: /Plugin/Admin/View/Groups/add.ctp:6;8
+#: /Plugin/Admin/View/Groups/edit.ctp:11;13
+#: /Plugin/Admin/View/Groups/index.ctp:32 /Plugin/Admin/View/Subjects/add.ctp:6
+msgid "Group Name"
+msgstr "समूह का नाम"
+
+#: /Plugin/Admin/View/Groups/edit.ctp:3
+msgid "Edit Groups"
+msgstr "समूहों को संपादित करें"
+
+#: /Plugin/Admin/View/Groups/index.ctp:10
+#: /Plugin/Admin/View/Questions/add.ctp:128
+#: /Plugin/Admin/View/Questions/edit.ctp:142
+#: /Plugin/Admin/View/Students/index.ctp:38
+#: /Plugin/Admin/View/Students/view.ctp:42
+#: /Plugin/Admin/View/Subjects/index.ctp:33
+#: /Plugin/Admin/View/Users/index.ctp:38 /View/Profiles/index.ctp:44
+msgid "Groups"
+msgstr "समूह"
+
+#: /Plugin/Admin/View/Groups/index.ctp:15
+msgid "Add New Group"
+msgstr "नया समूह जोड़ें"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:2
+msgid "Add Help Content"
+msgstr "सहायता सामग्री जोड़ें"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:7;9
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:12;14
+#: /Plugin/Admin/View/Helpcontents/index.ctp:33
+msgid "Title"
+msgstr "शीर्षक"
+
+#: /Plugin/Admin/View/Helpcontents/add.ctp:13;15
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:18;20
+#: /Plugin/Admin/View/Results/result.ctp:174
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:160
+#: /Plugin/Admin/View/Testimonials/add.ctp:15;17
+#: /Plugin/Admin/View/Testimonials/edit.ctp:22;24
+#: /Plugin/Admin/View/Testimonials/index.ctp:34
+#: /View/Results/attemptedpapers.ctp:13
+msgid "Description"
+msgstr "विवरण"
+
+#: /Plugin/Admin/View/Helpcontents/edit.ctp:3
+msgid "Edit Help Content"
+msgstr "सहायता सामग्री को संपादित"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:11
+msgid "Help Content"
+msgstr "सहायता सामग्री"
+
+#: /Plugin/Admin/View/Helpcontents/index.ctp:15
+msgid "Add New Help Content"
+msgstr "न्यू सहायता सामग्री जोड़ें"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:2
+msgid "Import/Export Qusetions"
+msgstr "आयात / निर्यात Qusetions"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:4
+msgid "Back To Questions"
+msgstr "वापस प्रश्नों के"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:5
+msgid "Export Questions"
+msgstr "निर्यात सवाल"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:11
+#: /Plugin/Admin/View/Iestudents/index.ctp:11
+msgid "Select File"
+msgstr "फ़ाइल का चयन करें"
+
+#: /Plugin/Admin/View/Iequestions/index.ctp:30
+msgid "Import Questions"
+msgstr "आयात सवाल"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:1
+#: /Plugin/Admin/View/Students/index.ctp:18
+msgid "Import/Export Students"
+msgstr "आयात / निर्यात छात्र"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:4
+msgid "Back To Students"
+msgstr "वापस करने के लिए छात्र"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:5
+msgid "Export Students"
+msgstr "निर्यात छात्र"
+
+#: /Plugin/Admin/View/Iestudents/index.ctp:24
+msgid "Import Students"
+msgstr "आयात छात्र"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:105
+msgid "All Messages"
+msgstr "सभी संदेश"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:111
+#: /Plugin/Admin/View/Users/my_profile.ctp:1 /View/Layouts/default.ctp:133
+#: /View/Profiles/change_pass.ctp:19 /View/Profiles/change_photo.ctp:6
+#: /View/Profiles/edit_profile.ctp:6
+msgid "My Profile"
+msgstr "मेरी प्रोफ़ाइल"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:113
+#: /Plugin/Admin/View/Students/changepass.ctp:16
+#: /Plugin/Admin/View/Students/view.ctp:11
+#: /Plugin/Admin/View/Users/change_pass.ctp:15 /View/Layouts/default.ctp:141
+#: /View/Profiles/change_pass.ctp:25;32 /View/Profiles/change_photo.ctp:12
+#: /View/Profiles/edit_profile.ctp:12 /View/Profiles/index.ctp:13
+msgid "Change Password"
+msgstr "पासवर्ड बदलें"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:114
+msgid "Logout"
+msgstr "लॉगआउट"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:123 /View/Layouts/default.ctp:188;353
+#: /View/Layouts/exam.ctp:106
+msgid "Powered by"
+msgstr "द्वारा संचालित"
+
+#: /Plugin/Admin/View/Layouts/default.ctp:124 /View/Layouts/default.ctp:190
+#: /View/Layouts/exam.ctp:108
+msgid "Date &amp; Time"
+msgstr "तिथि &amp; समय"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:31 /View/Mails/compose.ctp:4
+msgid "Compose Mail"
+msgstr "मेल लिखें"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:38
+msgid "Search Student Mail"
+msgstr "खोजें छात्र Mail"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:50 /View/Mails/compose.ctp:23;25
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr "संदेश"
+
+#: /Plugin/Admin/View/Mails/compose.ctp:55
+#: /Plugin/Admin/View/Sendemails/index.ctp:127
+#: /Plugin/Admin/View/Sendsms/index.ctp:129 /View/Mails/compose.ctp:30
+msgid "Send"
+msgstr "भेजें"
+
+#: /Plugin/Admin/View/Mails/index.ctp:30 /View/Mails/index.ctp:40
+msgid "Compose"
+msgstr "लिखें"
+
+#: /Plugin/Admin/View/Mails/index.ctp:33 /View/Mails/index.ctp:43
+msgid "Inbox"
+msgstr "इनबॉक्स"
+
+#: /Plugin/Admin/View/Mails/index.ctp:34 /View/Mails/index.ctp:44
+msgid "Sent Mail"
+msgstr "सेंट मेल (भेजी गई मेल)"
+
+#: /Plugin/Admin/View/Mails/index.ctp:35 /View/Mails/index.ctp:45
+msgid "Trash"
+msgstr "कचरा"
+
+#: /Plugin/Admin/View/Mails/index.ctp:55 /View/Mails/index.ctp:65
+msgid "More"
+msgstr "अधिक"
+
+#: /Plugin/Admin/View/Mails/index.ctp:59 /View/Mails/index.ctp:69
+msgid "Mark as Read"
+msgstr "पठित के रूप में चिह्नित करें"
+
+#: /Plugin/Admin/View/Mails/index.ctp:60 /View/Mails/index.ctp:70
+msgid "Mark as Unread"
+msgstr "अपठित के रूप में चिह्नित करें"
+
+#: /Plugin/Admin/View/Mails/index.ctp:61 /View/Mails/index.ctp:71
+msgid "Move to Inbox"
+msgstr "इनबॉक्स में ले जाएँ"
+
+#: /Plugin/Admin/View/Mails/view.ctp:6 /View/Mails/view.ctp:6
+msgid "Reply"
+msgstr "उत्तर दें"
+
+#: /Plugin/Admin/View/Mails/view.ctp:7 /View/Mails/view.ctp:7
+msgid "Forward"
+msgstr "फॉरवर्ड करें (आगे बढ़ें)"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:3
+#: /Plugin/Admin/View/Menunames/index.ctp:10
+msgid "Menu Names"
+msgstr "मेनू के नाम"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:11;13
+#: /Plugin/Admin/View/Menunames/index.ctp:31
+msgid "Model Name"
+msgstr "मॉडल का नाम"
+
+#: /Plugin/Admin/View/Menunames/edit.ctp:23;25
+#: /Plugin/Admin/View/Menunames/index.ctp:33
+msgid "Icon"
+msgstr "आइकॉन"
+
+#: /Plugin/Admin/View/News/add.ctp:2
+msgid "Add News"
+msgstr "नए %s1 जोड़ें"
+
+#: /Plugin/Admin/View/News/add.ctp:7;9 /Plugin/Admin/View/News/edit.ctp:12;14
+#: /Plugin/Admin/View/News/index.ctp:33
+msgid "News Title"
+msgstr "समाचार शीर्षक"
+
+#: /Plugin/Admin/View/News/add.ctp:13;15 /Plugin/Admin/View/News/edit.ctp:18;20
+msgid "News Description"
+msgstr "समाचार विवरण"
+
+#: /Plugin/Admin/View/News/edit.ctp:3
+msgid "Edit News"
+msgstr "समाचार संपादित करें"
+
+#: /Plugin/Admin/View/News/index.ctp:11
+msgid "News"
+msgstr "समाचार"
+
+#: /Plugin/Admin/View/News/index.ctp:15
+msgid "Add New News"
+msgstr "न्यू समाचार जोड़ें"
+
+#: /Plugin/Admin/View/Payments/index.ctp:2
+msgid "Paypal Payment Option"
+msgstr "पेपैल भुगतान विकल्प"
+
+#: /Plugin/Admin/View/Payments/index.ctp:18;20
+msgid "Signature"
+msgstr "हस्ताक्षर"
+
+#: /Plugin/Admin/View/Payments/index.ctp:24
+msgid "Sandbox Mode"
+msgstr "सैंडबॉक्स मोड"
+
+#: /Plugin/Admin/View/Payments/index.ctp:26
+#: /Plugin/Admin/View/Questions/add.ctp:111
+#: /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110
+#: /View/Results/view.ctp:367
+msgid "True"
+msgstr "सही"
+
+#: /Plugin/Admin/View/Questions/add.ctp:43
+#: /Plugin/Admin/View/Subjects/index.ctp:50
+msgid "Add Question"
+msgstr "प्रश्न जोड़ें"
+
+#: /Plugin/Admin/View/Questions/add.ctp:62;73
+#: /Plugin/Admin/View/Questions/edit.ctp:73;84;85
+#: /Plugin/Admin/View/Questions/index.ctp:50
+#: /Plugin/Admin/View/Questions/view.ctp:53 /View/Exams/start.ctp:19
+#: /View/Results/view.ctp:323
+msgid "Question"
+msgstr "प्रश्न"
+
+#: /Plugin/Admin/View/Questions/add.ctp:69
+#: /Plugin/Admin/View/Questions/edit.ctp:80
+#: /Plugin/Admin/View/Results/result.ctp:177
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:163
+#: /View/Results/view.ctp:376;377
+msgid "Correct Answers"
+msgstr "सही जवाब :"
+
+#: /Plugin/Admin/View/Questions/add.ctp:74
+msgid "Type your question here"
+msgstr "अपना प्रश्न यहां टाइप करें"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer1"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer2"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer3"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer4"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer5"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:101
+#: /Plugin/Admin/View/Questions/edit.ctp:112
+msgid "Answer6"
+msgstr "उत्तर 4"
+
+#: /Plugin/Admin/View/Questions/add.ctp:107
+#: /Plugin/Admin/View/Questions/edit.ctp:119
+msgid "True/False"
+msgstr "यह सही है / या गलत"
+
+#: /Plugin/Admin/View/Questions/add.ctp:111
+#: /Plugin/Admin/View/Questions/edit.ctp:123 /View/Exams/start.ctp:110
+#: /View/Results/view.ctp:367
+msgid "False"
+msgstr "गलत"
+
+#: /Plugin/Admin/View/Questions/add.ctp:121
+#: /Plugin/Admin/View/Questions/edit.ctp:132
+msgid "Blank Space"
+msgstr "खाली जगह"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Explanation (Optional)"
+msgstr "स्पष्टीकरण (वैकल्पिक)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:124
+msgid "Provide explanation in support of correct answer"
+msgstr "सही जवाब के समर्थन में विवरण प्रदान"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+#: /Plugin/Admin/View/Questions/edit.ctp:154
+msgid "Hint(optional)"
+msgstr "सुझाव (वैकल्पिक)"
+
+#: /Plugin/Admin/View/Questions/add.ctp:140
+msgid "Hint to help answer correctly"
+msgstr "सुझाव सही ढंग से जवाब देने में मदद करने के लिए"
+
+#: /Plugin/Admin/View/Questions/add.ctp:153
+#: /Plugin/Admin/View/Questions/edit.ctp:167
+msgid "without minus sign"
+msgstr "ऋण चिह्न के बिना"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:55
+msgid "Edit Question Type"
+msgstr "संपादित प्रश्न प्रकार"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:135
+#: /Plugin/Admin/View/Questions/view.ctp:97
+#: /View/Results/attemptedpapers.ctp:19
+msgid "Explanation"
+msgstr "व्याख्या"
+
+#: /Plugin/Admin/View/Questions/edit.ctp:154
+#: /Plugin/Admin/View/Questions/view.ctp:103 /View/Exams/start.ctp:27
+msgid "Hint"
+msgstr "संकेत"
+
+#: /Plugin/Admin/View/Questions/index.ctp:10 /View/Helper/FunctionHelper.php:88
+msgid "Questions"
+msgstr "प्रश्न"
+
+#: /Plugin/Admin/View/Questions/index.ctp:15
+msgid "Add New Question"
+msgstr "नये प्रश्न जोड़ें"
+
+#: /Plugin/Admin/View/Questions/index.ctp:17
+msgid "Import/Export Question"
+msgstr "आयात / निर्यात प्रश्न"
+
+#: /Plugin/Admin/View/Questions/view.ctp:83;91
+msgid "Answer"
+msgstr "उत्तर"
+
+#: /Plugin/Admin/View/Questions/viewquestion.ctp:14
+msgid "Question Details"
+msgstr "प्रश्न/विवरण"
+
+#: /Plugin/Admin/View/Results/index.ctp:3
+msgid "Exam Wise"
+msgstr "परीक्षा समझदार"
+
+#: /Plugin/Admin/View/Results/index.ctp:16
+msgid "Please Select Exam"
+msgstr "कृपया परीक्षा का चयन करें"
+
+#: /Plugin/Admin/View/Results/index.ctp:18
+msgid "Status of Result"
+msgstr "परिणाम की स्थिति"
+
+#: /Plugin/Admin/View/Results/index.ctp:20
+msgid "Please Select Result Status"
+msgstr "कृपया परिणाम स्थिति का चयन करें"
+
+#: /Plugin/Admin/View/Results/index.ctp:32;116
+msgid "Download Result"
+msgstr "डाउनलोड परिणाम"
+
+#: /Plugin/Admin/View/Results/index.ctp:36 /View/Leaderboards/index.ctp:12
+#: /View/Pages/home.ctp:58 /View/Results/view.ctp:478;541
+msgid "Rank"
+msgstr "रैंक"
+
+#: /Plugin/Admin/View/Results/index.ctp:39;125
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:6
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:6
+msgid "Test"
+msgstr "कसौटी"
+
+#: /Plugin/Admin/View/Results/index.ctp:42;128
+#: /Plugin/Admin/View/Results/pdf/downloadresult.ctp:9
+#: /Plugin/Admin/View/Results/pdf/dwstdresult.ctp:9
+msgid "Percent"
+msgstr "प्रतिशत"
+
+#: /Plugin/Admin/View/Results/index.ctp:43
+#: /Plugin/Admin/View/Results/result.ctp:37
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:32 /View/Results/index.ctp:31
+#: /View/Results/view.ctp:89
+msgid "Result"
+msgstr "परिणाम"
+
+#: /Plugin/Admin/View/Results/index.ctp:58;144
+msgid "View Result"
+msgstr "परिणाम देखें"
+
+#: /Plugin/Admin/View/Results/index.ctp:59;145
+msgid "Download/Print Result"
+msgstr "डाउनलोड / प्रिंट परिणाम"
+
+#: /Plugin/Admin/View/Results/index.ctp:67
+msgid "Student Wise"
+msgstr "छात्र समझदार"
+
+#: /Plugin/Admin/View/Results/index.ctp:72;74
+msgid "Name or Enrolment Number"
+msgstr "नाम या नामांकन संख्या"
+
+#: /Plugin/Admin/View/Results/index.ctp:98
+#: /Plugin/Admin/View/Students/add.ctp:40;42
+#: /Plugin/Admin/View/Students/edit.ctp:55;57 /View/Registers/index.ctp:44;46
+msgid "Enrolment Number"
+msgstr "नामांकन संख्या"
+
+#: /Plugin/Admin/View/Results/index.ctp:115
+#: /Plugin/Admin/View/Results/result.ctp:1;244
+#: /Plugin/Admin/View/Students/trnhistory.ctp:5
+#: /View/Results/attemptedpapers.ctp:8;84 /View/Results/view.ctp:1
+msgid "Back"
+msgstr "वापस जाएं"
+
+#: /Plugin/Admin/View/Results/result.ctp:7
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:5
+msgid "Assesment Report for"
+msgstr "के लिए Assesment रिपोर्ट"
+
+#: /Plugin/Admin/View/Results/result.ctp:17
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:12
+msgid "Taken Date"
+msgstr "की तारीख"
+
+#: /Plugin/Admin/View/Results/result.ctp:29
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:24
+#: /View/Results/view.ctp:150;474;537
+msgid "Total Time"
+msgstr "सीखने का कुल समय"
+
+#: /Plugin/Admin/View/Results/result.ctp:33
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:28
+msgid "Nos. of Browser tolrance attempt"
+msgstr "ब्राउज़र tolrance प्रयास की सं।"
+
+#: /Plugin/Admin/View/Results/result.ctp:48
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:43
+#: /View/Results/view.ctp:462;525
+msgid "Total Score"
+msgstr "कुल प्राप्तांक"
+
+#: /Plugin/Admin/View/Results/result.ctp:61
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:57
+msgid "Student Marks Distribution"
+msgstr "छात्र मार्क्स वितरण"
+
+#: /Plugin/Admin/View/Results/result.ctp:77
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:71
+msgid "Feedback"
+msgstr "प्रतिक्रिया"
+
+#: /Plugin/Admin/View/Results/result.ctp:91
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:83
+msgid "Marks Sheet"
+msgstr "मार्क्स शीट"
+
+#: /Plugin/Admin/View/Results/result.ctp:98
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:87
+msgid "Section Name"
+msgstr "अनुभाग का नाम"
+
+#: /Plugin/Admin/View/Results/result.ctp:99
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:88
+msgid "Section proportion"
+msgstr "धारा अनुपात"
+
+#: /Plugin/Admin/View/Results/result.ctp:101
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:90
+msgid "Actual"
+msgstr "वास्तविक  "
+
+#: /Plugin/Admin/View/Results/result.ctp:102
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:91
+msgid "Your Percentage"
+msgstr "अपने प्रतिशत"
+
+#: /Plugin/Admin/View/Results/result.ctp:124;137
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:116
+msgid "Section Summary"
+msgstr "धारा सारांश"
+
+#: /Plugin/Admin/View/Results/result.ctp:144
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:132
+msgid "Maximum Score"
+msgstr "अधिकतम अंक:"
+
+#: /Plugin/Admin/View/Results/result.ctp:148
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:136
+msgid "Developed Skill"
+msgstr "कौशल विकसित"
+
+#: /Plugin/Admin/View/Results/result.ctp:152
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:140
+msgid "Needs Development"
+msgstr "विकास की जरूरत"
+
+#: /Plugin/Admin/View/Results/result.ctp:156
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:144
+msgid "Lack of Skill"
+msgstr "कौशल की कमी"
+
+#: /Plugin/Admin/View/Results/result.ctp:167
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:156
+msgid "MCQ  answered"
+msgstr "MCQ जवाब"
+
+#: /Plugin/Admin/View/Results/result.ctp:173
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:159
+#: /View/Results/attemptedpapers.ctp:12
+msgid "S.N."
+msgstr "क्रमांक"
+
+#: /Plugin/Admin/View/Results/stdexamresult.ctp:128 /View/Exams/start.ctp:207
+msgid "Legend"
+msgstr "उपाख्यान"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:80
+msgid "Send Emails"
+msgstr "ईमेल भेजिए"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;96
+#: /Plugin/Admin/View/Sendsms/index.ctp:93;103
+msgid "Teachers"
+msgstr "शिक्षक"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:86;102
+msgid "Any Email"
+msgstr "किसी भी ईमेल"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:92
+msgid "Default all students if you add manually then search student email"
+msgstr "सभी छात्रों चूक करता है, तो आप तो स्वयं छात्र ईमेल खोज जोड़ें"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:98
+msgid "Default all teachers if you add manually then search teacher email"
+msgstr "सभी शिक्षकों चूक करता है, तो आप तो स्वयं शिक्षक ईमेल खोज जोड़ें"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:104
+msgid "Type any email comma seprated"
+msgstr "किसी भी ईमेल अल्पविराम seprated टाइप करें"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:110
+msgid "Type subject"
+msgstr "Subject - टाइप करें."
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:114
+msgid "Select Email Template"
+msgstr "ईमेल टेम्पलेट का चयन"
+
+#: /Plugin/Admin/View/Sendemails/index.ctp:122
+msgid "If you do not want to select email template then simply type email message. Once you load editor then you can not select template go to reset button"
+msgstr "आप तो ईमेल टेम्पलेट का चयन करने के लिए नहीं करना चाहते, तो बस ईमेल संदेश लिखें। एक बार जब आप संपादक लोड तो आप चयन नहीं कर सकते टेम्पलेट बटन रीसेट करने के लिए जाना"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:86
+msgid "Send Sms"
+msgstr "संदेश भेजो"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:93
+msgid "Any Sms"
+msgstr "किसी भी एसएमएस"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:99
+msgid "Default all student if you add manually then search students name"
+msgstr "सभी छात्र चूक करता है, तो आप मैन्युअल तो छात्रों के नाम खोज जोड़ें"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:105
+msgid "Default all teachers if you add manually then search teacher name"
+msgstr "सभी शिक्षकों चूक करता है, तो आप मैन्युअल तो शिक्षक नाम खोज जोड़ें"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:109
+msgid "Any Number"
+msgstr "कोई भी संख्या"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:111
+msgid "Type any number comma seprated"
+msgstr "किसी भी संख्या अल्पविराम seprated टाइप करें"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:115
+msgid "Select Sms Template"
+msgstr "चयन एसएमएस टेम्पलेट"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:121
+msgid "Sms Template"
+msgstr "एसएमएस टेम्पलेट"
+
+#: /Plugin/Admin/View/Sendsms/index.ctp:123
+msgid "If you do not want to select sms template then simply type sms message"
+msgstr "तुम तो एसएमएस टेम्पलेट का चयन करने के लिए नहीं करना चाहते, तो बस एसएमएस संदेश लिखें"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:2
+msgid "Certificate Signature"
+msgstr "प्रमाणपत्र हस्ताक्षर"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:9
+msgid "Upload Image(* height less than 75px)"
+msgstr "अपलोड छवि (* 75px से कम ऊंचाई)"
+
+#: /Plugin/Admin/View/Signatures/index.ctp:17
+msgid "Delete Signature"
+msgstr "हस्ताक्षर को हटाएँ"
+
+#: /Plugin/Admin/View/Slides/add.ctp:4
+msgid "Add Slides"
+msgstr "स्लाइड जोड़"
+
+#: /Plugin/Admin/View/Slides/add.ctp:8;10
+#: /Plugin/Admin/View/Slides/edit.ctp:12;14
+#: /Plugin/Admin/View/Slides/index.ctp:32
+msgid "Slide Name"
+msgstr "स्लाइड नाम"
+
+#: /Plugin/Admin/View/Slides/add.ctp:20
+#: /Plugin/Admin/View/Slides/changephoto.ctp:7
+msgid "Upload Slide (1350*550)"
+msgstr "अपलोड स्लाइड (1350 * 550)"
+
+#: /Plugin/Admin/View/Slides/edit.ctp:4
+msgid "Edit Slides"
+msgstr "स्लाइड संपादित करें"
+
+#: /Plugin/Admin/View/Slides/index.ctp:11
+msgid "Slides"
+msgstr "स्लाइड्स"
+
+#: /Plugin/Admin/View/Slides/index.ctp:15
+msgid "Add New Slide"
+msgstr "नई स्लाइड जोड़े"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:2
+msgid "SMS Settings"
+msgstr "एसएमएस सेटिंग्स"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:7;9
+msgid "API Link"
+msgstr "एपीआई लिंक"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:11;13
+msgid "Sender ID"
+msgstr "प्रेषक आईडी"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:27
+msgid "Heading Username"
+msgstr "शीर्षक यूजर का नाम"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:29
+msgid "Username field provided by sms gateway"
+msgstr "यूजर का नाम क्षेत्र एसएमएस गेटवे द्वारा प्रदान की"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:31
+msgid "Heading Password"
+msgstr "शीर्षक पासवर्ड"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:33
+msgid "Password field provided by sms gateway"
+msgstr "पासवर्ड क्षेत्र एसएमएस गेटवे द्वारा प्रदान की"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:37
+msgid "Heading Mobile No"
+msgstr "शीर्षक मोबाइल नहीं"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:39
+msgid "Mobile No field provided by sms gateway"
+msgstr "मोबाइल नं क्षेत्र एसएमएस गेटवे द्वारा प्रदान की"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:41
+msgid "Heading Message"
+msgstr "शीर्षक संदेश"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:43
+msgid "Message field provided by sms gateway"
+msgstr "संदेश क्षेत्र एसएमएस गेटवे द्वारा प्रदान की"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:47
+msgid "Heading Sender Id"
+msgstr "शीर्षक प्रेषक आईडी"
+
+#: /Plugin/Admin/View/Smssettings/index.ctp:49
+msgid "Sender Id field provided by sms gateway"
+msgstr "प्रेषक आईडी क्षेत्र एसएमएस गेटवे द्वारा प्रदान की"
+
+#: /Plugin/Admin/View/Smstemplates/add.ctp:2
+msgid "Add SMS Template"
+msgstr "एसएमएस खाका जोड़ें"
+
+#: /Plugin/Admin/View/Smstemplates/edit.ctp:3
+msgid "Edit SMS templates"
+msgstr "एसएमएस संपादित टेम्पलेट्स"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:10
+msgid "SMS Templates"
+msgstr "एसएमएस टेम्पलेट्स"
+
+#: /Plugin/Admin/View/Smstemplates/index.ctp:16
+msgid "Add New SMS Template"
+msgstr "नई एसएमएस खाका जोड़ें"
+
+#: /Plugin/Admin/View/Students/add.ctp:2
+msgid "Add Students"
+msgstr "छात्रों को जोड़ें"
+
+#: /Plugin/Admin/View/Students/add.ctp:26;28
+#: /Plugin/Admin/View/Students/edit.ctp:41;43 /View/Registers/index.ctp:30;32
+msgid "Address"
+msgstr "पता"
+
+#: /Plugin/Admin/View/Students/add.ctp:36;38
+#: /Plugin/Admin/View/Students/edit.ctp:51;53
+#: /View/Profiles/edit_profile.ctp:38;40 /View/Registers/index.ctp:40;42
+msgid "Guardian Phone"
+msgstr "गार्जियन फ़ोन"
+
+#: /Plugin/Admin/View/Students/edit.ctp:8
+msgid "Edit Students"
+msgstr "छात्र संपादित करें"
+
+#: /Plugin/Admin/View/Students/edit.ctp:65
+msgid "Renewal Date"
+msgstr "नवीकरण की तारीख"
+
+#: /Plugin/Admin/View/Students/index.ctp:15
+msgid "Add New Student"
+msgstr "नई छात्र जोड़े"
+
+#: /Plugin/Admin/View/Students/index.ctp:19;61
+msgid "Wallet"
+msgstr "वॉलेट डीबगर"
+
+#: /Plugin/Admin/View/Students/index.ctp:39
+#: /Plugin/Admin/View/Students/view.ctp:35 /View/Profiles/index.ctp:37
+msgid "Admission Date"
+msgstr "एडमिशन की तारीख"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:20
+#: /View/Transactionhistorys/index.ctp:27
+msgid "Credit"
+msgstr "क्रेडिट"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:21
+#: /View/Transactionhistorys/index.ctp:28
+msgid "Debit"
+msgstr "डेबिट"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:22
+#: /Plugin/Admin/View/Students/wallet.ctp:29 /View/Layouts/default.ctp:119
+#: /View/Transactionhistorys/index.ctp:29
+msgid "Balance"
+msgstr "संतुलन"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:23
+#: /View/Transactionhistorys/index.ctp:30
+msgid "Date & Time"
+msgstr "दिनांक समय"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:24
+#: /View/Transactionhistorys/index.ctp:31
+msgid "Payment Through"
+msgstr "के माध्यम से भुगतान"
+
+#: /Plugin/Admin/View/Students/trnhistory.ctp:25
+#: /Plugin/Admin/View/Students/wallet.ctp:47;49 /View/Payments/index.ctp:17;19
+#: /View/Transactionhistorys/index.ctp:32
+msgid "Remarks"
+msgstr "टिप्पणियां"
+
+#: /Plugin/Admin/View/Students/view.ctp:6 /View/Profiles/index.ctp:4
+msgid "View Student Information"
+msgstr "देखें विद्यार्थी सूचना"
+
+#: /Plugin/Admin/View/Students/view.ctp:17 /View/Profiles/index.ctp:19
+msgid "Full Name"
+msgstr "पूरा नाम"
+
+#: /Plugin/Admin/View/Students/view.ctp:18
+#: /View/Profiles/edit_profile.ctp:32;34 /View/Profiles/index.ctp:20
+msgid "Phone Number"
+msgstr "फोन नंबर"
+
+#: /Plugin/Admin/View/Students/view.ctp:25 /View/Profiles/index.ctp:27
+msgid "Registered Email"
+msgstr "पंजीकृत ईमेल"
+
+#: /Plugin/Admin/View/Students/view.ctp:26 /View/Profiles/index.ctp:28
+msgid "Alternate Number"
+msgstr "वैकल्पिक संपर्क नंबर"
+
+#: /Plugin/Admin/View/Students/view.ctp:34
+#: /View/Profiles/edit_profile.ctp:26;28 /View/Profiles/index.ctp:36
+msgid "Enrolment No"
+msgstr "नामांकन न."
+
+#: /Plugin/Admin/View/Students/view.ctp:52
+msgid "Last Login"
+msgstr "अंतिम लॉगिन"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:3
+msgid "Students Wallet"
+msgstr "छात्र वॉलेट"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:8
+msgid "Transaction Form"
+msgstr "लेन-देन फ़ॉर्म"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:23
+#: /Plugin/Admin/View/Users/add.ctp:42;44
+#: /Plugin/Admin/View/Users/edit.ctp:53;55
+#: /Plugin/Admin/View/Users/index.ctp:37
+#: /Plugin/Admin/View/Users/my_profile.ctp:19
+msgid "Mobile"
+msgstr "मोबाइल"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "ADD"
+msgstr "जोड़ें"
+
+#: /Plugin/Admin/View/Students/wallet.ctp:43
+msgid "DEDUCT"
+msgstr "कटौतियां"
+
+#: /Plugin/Admin/View/Subjects/add.ctp:2
+msgid "Add Subjects"
+msgstr "विषयों जोड़े"
+
+#: /Plugin/Admin/View/Subjects/edit.ctp:3
+msgid "Edit Subjects"
+msgstr "विषयों संपादित करें"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:10
+msgid "Subjects"
+msgstr "विषय"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:15
+msgid "Add New Subject"
+msgstr "नया विषय जोड़े"
+
+#: /Plugin/Admin/View/Subjects/index.ctp:34
+msgid "Question Bank"
+msgstr "प्रश्न बैंक"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:5
+msgid "Add Testimonials"
+msgstr "प्रशंसापत्र जोड़ें"
+
+#: /Plugin/Admin/View/Testimonials/add.ctp:21
+msgid "Upload Photo (150*150)"
+msgstr "अपलोड फोटो (150 * 150)"
+
+#: /Plugin/Admin/View/Testimonials/edit.ctp:8
+msgid "Edit Testimonials"
+msgstr "प्रशंसापत्र संपादित करें"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:10 /View/Pages/home.ctp:100
+msgid "Testimonials"
+msgstr "प्रशंसापत्र"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:15
+msgid "Add New Testimonial"
+msgstr "न्यू प्रशंसापत्र जोड़ें"
+
+#: /Plugin/Admin/View/Testimonials/index.ctp:36
+msgid "Photo"
+msgstr "तस्वीर"
+
+#: /Plugin/Admin/View/Users/add.ctp:2
+msgid "Add Users"
+msgstr "उपयोगकर्ता जोड़ें"
+
+#: /Plugin/Admin/View/Users/add.ctp:6 /Plugin/Admin/View/Users/edit.ctp:13
+msgid "User Level"
+msgstr "उपयोगकर्ता स्तर"
+
+#: /Plugin/Admin/View/Users/add.ctp:18;20
+#: /Plugin/Admin/View/Users/edit.ctp:29;31
+#: /Plugin/Admin/View/Users/my_profile.ctp:7
+msgid "Username"
+msgstr "उपयोगकर्तानाम"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:1
+msgid "Level users"
+msgstr "स्तर के उपयोगकर्ताओं"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:7
+msgid "Add New Level"
+msgstr "नए स्तर जोड़ने"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:9
+msgid "Back To Users"
+msgstr "वापस करने के लिए उपयोगकर्ता"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:18
+msgid "Level Name"
+msgstr "स्तर नाम"
+
+#: /Plugin/Admin/View/Users/assignrights.ctp:31
+msgid "Set Permission"
+msgstr "सेट की अनुमति"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:11
+#: /Plugin/Admin/View/Users/index.ctp:18
+msgid "Assign Form Rights"
+msgstr "निरुपित पर्चा विशेषाधिकार"
+
+#: /Plugin/Admin/View/Users/assignrightsedit.ctp:19
+msgid "Module Name"
+msgstr "मॉड्यूल का नाम"
+
+#: /Plugin/Admin/View/Users/change_pass.ctp:20;22
+#: /View/Profiles/change_pass.ctp:39;41
+msgid "Old Password"
+msgstr "पुराना पासवर्ड"
+
+#: /Plugin/Admin/View/Users/edit.ctp:4
+msgid "Edit Users"
+msgstr "उपयोगकर्ताओं को संपादित"
+
+#: /Plugin/Admin/View/Users/edit.ctp:9
+msgid "User Registration Form"
+msgstr "उपयोगकर्ता पंजीकरण फार्म"
+
+#: /Plugin/Admin/View/Users/index.ctp:10
+msgid "Users"
+msgstr "उपयोगकर्ता"
+
+#: /Plugin/Admin/View/Users/index.ctp:15
+msgid "Add New User"
+msgstr "नया उपयोगकर्ता जोड़ें"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:3
+msgid "Add Level Users"
+msgstr "स्तर के उपयोगकर्ताओं जोड़े"
+
+#: /Plugin/Admin/View/Users/leveladd.ctp:7;9
+msgid "Level User"
+msgstr "स्तर उपयोगकर्ता"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:2
+msgid "Dear user, log in to access the admin area!"
+msgstr "प्रिय उपयोगकर्ता, लोग इन व्यवस्थापक क्षेत्र का उपयोग करने के लिए!"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:5
+msgid "Admin / Teacher Username"
+msgstr "व्यवस्थापक / शिक्षक यूजर का नाम"
+
+#: /Plugin/Admin/View/Users/login_form.ctp:17
+msgid "Forgot User Name"
+msgstr "उपयोगकर्ता नाम भूल गए"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:2
+msgid "Organisation Logo"
+msgstr "संगठन लोगो"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:8
+msgid "Upload Image(* height less than 220px)"
+msgstr "अपलोड छवि (* 220px से कम ऊंचाई)"
+
+#: /Plugin/Admin/View/Weblogos/index.ctp:16
+msgid "Delete Logo"
+msgstr "लोगो मिटाएं"
+
+#: /Plugin/HighCharts/Controller/Component/HighChartsComponent.php:96
+msgid "Please provide a type for chart %s!"
+msgstr "चार्ट के लिए एक प्रकार प्रदान करें %s !"
+
+#: /Plugin/HighCharts/View/Helper/HighChartsHelper.php:101
+msgid "Chart: \"%s\" could not be found. Ensure that Chart Name is the same string that is passed to $this->HighCharts->render() in your view."
+msgstr "चार्ट: \\ \" %s \" नहीं पाया जा सका। सुनिश्चित करें कि चार्ट का नाम ही स्ट्रिंग है कि आपके विचार में $ this-> HighCharts-> प्रस्तुत करना () को पारित कर दिया है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:173
+msgid "The Express Checkout transaction has expired and the transaction needs to be restarted"
+msgstr "एक्सप्रेस चेकआउट लेनदेन समाप्त हो गया है और लेनदेन को पुनः आरंभ करने की जरूरत है"
+
+#: /Plugin/Paypal/Lib/Paypal.php:174
+msgid "You may have made a second call for the same payment or you may have used the same invoice ID for seperate transactions."
+msgstr "आप एक ही भुगतान के लिए एक दूसरे फोन बना सकते हैं या आप अलग लेन-देन के लिए एक ही चालान आईडी का उपयोग किया जा सकता है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:175
+msgid "Please use a different funcing source."
+msgstr "एक अलग funcing स्रोत का उपयोग करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:176
+msgid "An error occured, please retry the transaction."
+msgstr "हुई एक त्रुटि है, कृपया पुन: प्रयास लेनदेन।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:177
+msgid "This transaction couldn't be completed. Redirecting to payment gateway"
+msgstr "यह सौदा पूरा नहीं हो सका। भुगतान के प्रवेश द्वार के लिए पुनः निर्देशित"
+
+#: /Plugin/Paypal/Lib/Paypal.php:178
+msgid "You have not agreed to the billing agreement."
+msgstr "आप बिलिंग समझौते के लिए सहमत नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:179
+msgid "The billing agreement is disabled or inactive."
+msgstr "बिलिंग समझौते विकलांग या निष्क्रिय है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:180
+msgid "The credit card used is expired."
+msgstr "क्रेडिट कार्ड की अवधि समाप्त इस्तेमाल किया है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:181
+msgid "The transaction was refused because the AVS response returned the value of N, and the merchant account is not able to accept such transactions."
+msgstr "क्योंकि एवीएस प्रतिक्रिया एन के मूल्य में लौटे लेनदेन से इनकार कर दिया गया था, और व्यापारी खाते में इस तरह के लेन-देन को स्वीकार करने के लिए सक्षम नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:182
+msgid "The payment gateway account is restricted."
+msgstr "भुगतान गेटवे खाते के लिए प्रतिबंधित है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:183
+msgid "You must submit an IP address of the buyer with each API call."
+msgstr "आप प्रत्येक API कॉल के साथ खरीदार के एक आईपी पते प्रस्तुत करना होगा।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:184
+msgid "The merchant selected a value for the PaymentAction field that is not supported."
+msgstr "व्यापारी PaymentAction क्षेत्र है कि समर्थित नहीं है के लिए एक मूल्य का चयन किया।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:185
+msgid "The credit card field was blank."
+msgstr "क्रेडिट कार्ड क्षेत्र को खाली था।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:186
+msgid "The total amount and item amounts do not match."
+msgstr "कुल राशि और आइटम मात्रा में मेल नहीं खाते।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:187;192
+msgid "The credit card entered is currently restricted by the payment gateway."
+msgstr "क्रेडिट कार्ड में प्रवेश वर्तमान में भुगतान के प्रवेश द्वार के द्वारा प्रतिबंधित है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:188
+msgid "The merchant entered an invoice ID that is already associated with a transaction by the same merchant. Attempt with a new invoice ID"
+msgstr "व्यापारी एक चालान आईडी है कि पहले से ही व्यापारी द्वारा एक सौदे के साथ जुड़ा हुआ है में प्रवेश किया। एक नए चालान आईडी के साथ प्रयास"
+
+#: /Plugin/Paypal/Lib/Paypal.php:189
+msgid "The transaction was declined by the country filter managed by the merchant."
+msgstr "लेनदेन देश के व्यापारी द्वारा प्रबंधित फिल्टर द्वारा अस्वीकृत किया गया था।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:190
+msgid "The transaction was declined by the maximum amount filter managed by the merchant."
+msgstr "लेन-देन के व्यापारी द्वारा प्रबंधित अधिकतम राशि फिल्टर द्वारा अस्वीकृत किया गया था।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:191;193;208
+msgid "The transaction was declined by the payment gateway."
+msgstr "लेनदेन भुगतान गेटवे की गिरावट हुई।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:194
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity."
+msgstr "लेनदेन संभव धोखाधड़ी गतिविधि की वजह से भुगतान गेटवे की गिरावट हुई।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:195
+msgid "The transaction was declined by payment gateway because of possible fraudulent activity on the IP address."
+msgstr "लेन-देन के आईपी पते पर संभव धोखाधड़ी गतिविधि की वजह से भुगतान गेटवे की गिरावट हुई।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:196
+msgid "The merchant account attempting the transaction is not a business account."
+msgstr "लेनदेन का प्रयास व्यापारी खाते में एक व्यापार खाता नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:197
+msgid "The merchant account attempting the transaction is not able to process Direct Payment transactions. "
+msgstr "लेनदेन का प्रयास व्यापारी खाते पर कार्रवाई करने के डायरेक्ट पेमेंट के लेन-देन में सक्षम नहीं है। "
+
+#: /Plugin/Paypal/Lib/Paypal.php:198
+msgid "Access to Direct Payment was disabled for your account."
+msgstr "डायरेक्ट पेमेंट को देखकर अपने खाते के लिए निष्क्रिय किया गया।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:199
+msgid "The merchant account attempting the transaction does not have a confirmed email address with the payment gateway."
+msgstr "लेनदेन का प्रयास व्यापारी खाते भुगतान के प्रवेश द्वार के साथ एक ई-मेल पते की पुष्टि की जरूरत नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:200
+msgid "The merchant attempted a transaction where the amount exceeded the upper limit for that merchant."
+msgstr "व्यापारी एक सौदे जहां राशि है कि व्यापारी के लिए ऊपरी सीमा को पार करने का प्रयास किया।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:201
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set to decline transaction when the AVS returned a no match (AVS = N)."
+msgstr "लेनदेन एवीएस के लिए एक व्यापारी जोखिम फिल्टर की वजह से अस्वीकृत किया गया था। विशेष रूप से, व्यापारी लेनदेन अस्वीकार करने के लिए जब एवीएस लौटे कोई मुकाबला (एवीएस = एन) का गठन किया है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:202
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS returns a partial match."
+msgstr "लेनदेन एवीएस के लिए एक व्यापारी जोखिम फिल्टर की वजह से अस्वीकृत किया गया था। विशेष रूप से, व्यापारी लेनदेन अस्वीकार करने के लिए जब एवीएस एक आंशिक मैच देता है फिल्टर का गठन किया है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:203
+msgid "The transaction was declined because of a merchant risk filter for AVS. Specifically, the merchant has set the filter to decline transactions when the AVS is unsupported."
+msgstr "लेनदेन एवीएस के लिए एक व्यापारी जोखिम फिल्टर की वजह से अस्वीकृत किया गया था। विशेष रूप से, व्यापारी लेनदेन अस्वीकार करने के लिए जब एवीएस असमर्थित है फिल्टर का गठन किया है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:204
+msgid "The merchant entered an IP address that was in an invalid format. The IP address must be in a format such as 123.456.123.456."
+msgstr "व्यापारी एक आईपी पता है कि अवैध प्रारूप में दर्ज किया गया था। आईपी ​​पते ऐसी 123.456.123.456 के रूप में एक प्रारूप में होना चाहिए।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:205
+msgid "The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction."
+msgstr "व्यापारी की विन्यास एक सीवीवी दर्ज किए जाने की आवश्यकता है, लेकिन कोई सीवीवी इस सौदे के साथ प्रदान किया गया।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:206
+msgid "The merchant provided an address either in the United States or Canada, but the state provided is not a valid state in either country."
+msgstr "व्यापारी या तो संयुक्त राज्य अमेरिका या कनाडा में एक पते प्रदान की है, लेकिन राज्य प्रदान की या तो देश में एक वैध नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:207;219;220
+msgid "The transaction was declined by the issuing bank, not the payment gateway. The merchant should attempt another card."
+msgstr "लेनदेन जारी करने वाले बैंक, नहीं भुगतान गेटवे की गिरावट हुई। व्यापारी एक और कार्ड का प्रयास करना चाहिए।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:209
+msgid "The merchant's country of residence is not currently supported to allow Direct Payment transactions."
+msgstr "निवास के व्यापारी की देश में वर्तमान में अनुमति देने के लिए डायरेक्ट पेमेंट लेनदेन समर्थित नहीं है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:210
+msgid "The transaction was declined because the payment gateway is currently processing a transaction by the same buyer for the same amount. Can occur when a buyer submits multiple, identical transactions in quick succession."
+msgstr "लेन-देन के लिए मना कर दिया गया था क्योंकि भुगतान गेटवे वर्तमान में एक ही राशि के लिए एक ही खरीदार द्वारा एक सौदे के प्रसंस्करण है। हो सकता है जब एक खरीदार जल्दी उत्तराधिकार में एकाधिक, समान लेनदेन प्रस्तुत करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:211
+msgid "The CVV provided is invalid. The CVV is between 3-4 digits long."
+msgstr "प्रदान की सीवीवी अमान्य है। सीवीवी 3-4 के बीच अंक लंबा है।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:212
+msgid "Please try again later. Ensure you have passed the correct CVV and address info for the buyer. If creating a recurring profile, please try again by passing a init amount of 0."
+msgstr "बाद में पुन: प्रयास करें। सुनिश्चित करें कि आप खरीदार के लिए सही सीवीवी और पते की जानकारी बीत चुके हैं। अगर एक आवर्ती प्रोफाइल बनाने, 0 से init राशि से गुजर रहा पुन: प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:213;214
+msgid "Transaction is not compliant due to missing or invalid 3-D Secure authentication values. Check ECI, ECI3DS, CAVV, XID fields."
+msgstr "लेनदेन लापता या अमान्य 3-डी सुरक्षित प्रमाणीकरण मूल्यों के कारण अनुरूप नहीं है। ईसीआई, ECI3DS, CAVV, XID क्षेत्रों की जाँच करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:215
+msgid "The transaction was rejected by the payment gateway because of excessive failures over a short period of time for this credit card."
+msgstr "लेन-देन की वजह से इस क्रेडिट कार्ड के लिए समय की एक छोटी अवधि में अत्यधिक विफलताओं का भुगतान गेटवे द्वारा अस्वीकार कर दिया गया था।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:216
+msgid "The transaction was declined by payment gateway."
+msgstr "लेनदेन भुगतान गेटवे की गिरावट हुई।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:217
+msgid "The transaction was declined because the merchant does not have a valid commercial entity agreement on file with the payment gateway."
+msgstr "क्योंकि व्यापारी भुगतान के प्रवेश द्वार के साथ फाइल पर एक वैध वाणिज्यिक इकाई समझौता नहीं है लेनदेन अस्वीकृत किया गया था।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:218
+msgid "The transaction was declined because the CVV entered does not match the credit card."
+msgstr "लेन-देन के लिए मना कर दिया गया था क्योंकि सीवीवी डाला गया क्रेडिट कार्ड से मेल नहीं खाती।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:221
+msgid "The transaction was declined by the issuing bank because of an expired credit card. The merchant should attempt another card."
+msgstr "लेन-देन की एक समय सीमा समाप्त क्रेडिट कार्ड की वजह से जारी करने वाले बैंक द्वारा अस्वीकार कर दिया गया। व्यापारी एक और कार्ड का प्रयास करना चाहिए।"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:55
+#: /Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42
+#: /Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr "15 यूटिल"
+
+#: /View/Ajaxcontents/examclose.ctp:12
+msgid "Exceeded permissible limit for Navigating away"
+msgstr "दूर नेविगेट करने के लिए स्वीकार्य सीमा पार हो गई"
+
+#: /View/Ajaxcontents/examclose.ctp:15
+msgid "You have exceeded the permissible limit for navigating away from your test"
+msgstr "आप अपने परीक्षण से दूर नेविगेट करने के लिए स्वीकार्य सीमा पार कर चुके हैं"
+
+#: /View/Ajaxcontents/examclose.ctp:16
+msgid "Your test has finished. You can close the window now"
+msgstr "आपका परीक्षण समाप्त हो गया है। अब आप विंडो बंद कर सकते हैं"
+
+#: /View/Completes/index.ctp:9
+msgid "Installation Complete"
+msgstr "स्थापना का काम पूरा हो गया"
+
+#: /View/Completes/index.ctp:35
+msgid "Aho! The System is installed  successfully."
+msgstr "Aho! प्रणाली को सफलतापूर्वक स्थापित किया गया है।"
+
+#: /View/Completes/index.ctp:39
+msgid "Go to Admin/Teacher Interface"
+msgstr "व्यवस्थापक / शिक्षक अंतरफलक के लिए जाना"
+
+#: /View/Completes/index.ctp:40;46
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: /View/Completes/index.ctp:45
+msgid "Go to Front End/Student Interface"
+msgstr "फ्रंट एंड / छात्र अंतरफलक के लिए जाना"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168
+#: /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114
+#: /View/Installers/step3.ctp:116
+msgid "Visit our website"
+msgstr "हमारी वेबसाइट पर jaaein:"
+
+#: /View/Completes/index.ctp:59 /View/Installers/index.ctp:168
+#: /View/Installers/step1.ctp:93 /View/Installers/step2.ctp:114
+#: /View/Installers/step3.ctp:116
+msgid "for documentation and support"
+msgstr "प्रलेखन और समर्थन के लिए"
+
+#: /View/Dashboards/index.ctp:6
+msgid "My Exam Stats"
+msgstr "मेरी परीक्षा आँकड़े"
+
+#: /View/Dashboards/index.ctp:10
+msgid "Total Exam Given"
+msgstr "कुल परीक्षा को देखते हुए"
+
+#: /View/Dashboards/index.ctp:13
+msgid "Absent Exams"
+msgstr "अनुपस्थित परीक्षा"
+
+#: /View/Dashboards/index.ctp:16
+msgid "Best Score in"
+msgstr "में सर्वश्रेष्ठ स्कोर"
+
+#: /View/Dashboards/index.ctp:19
+msgid "On"
+msgstr "ऑन"
+
+#: /View/Dashboards/index.ctp:22
+msgid "Failed in"
+msgstr "में विफल"
+
+#: /View/Dashboards/index.ctp:25
+msgid "Average Percentage"
+msgstr "औसत प्रतिशत"
+
+#: /View/Dashboards/index.ctp:28
+msgid "Your Rank"
+msgstr "आपका रैंक"
+
+#: /View/Dashboards/index.ctp:37
+msgid "Month Wise Performance"
+msgstr "माहवार प्रदर्शन"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Exam Wise Performance"
+msgstr "परीक्षा वार प्रदर्शन"
+
+#: /View/Dashboards/index.ctp:49
+msgid "Top 10"
+msgstr "शीर्ष 10"
+
+#: /View/Dashboards/index.ctp:61 /View/Exams/expired.ctp:11
+#: /View/Exams/index.ctp:11;21 /View/Exams/purchased.ctp:11
+#: /View/Exams/upcoming.ctp:11
+msgid "Todays Exam"
+msgstr "आज परीक्षा"
+
+#: /View/Dashboards/index.ctp:61
+msgid "Top"
+msgstr "शीर्ष"
+
+#: /View/Dashboards/index.ctp:66 /View/Exams/index.ctp:28
+msgid "These are the exam(s) that can be taken right now"
+msgstr "ये परीक्षा (s) है कि अब ठीक किया जा सकता है"
+
+#: /View/Dashboards/index.ctp:71
+msgid "No Exams found for today"
+msgstr "कोई परीक्षा आज के लिए मिला"
+
+#: /View/Elements/flash.ctp:3
+msgid "Something went wrong"
+msgstr "कुछ गलत हो गया है"
+
+#: /View/Elements/pagination.ctp:15
+msgid "Show"
+msgstr "दिखाएँ"
+
+#: /View/Elements/pagination.ctp:17
+msgid "entries"
+msgstr "प्रविष्टियां"
+
+#: /View/Elements/pagination.ctp:24 /View/Exams/start.ctp:137
+#: /View/Results/view.ctp:388
+msgid "Prev"
+msgstr "पिछला"
+
+#: /View/Elements/pagination.ctp:26 /View/Exams/guidelines.ctp:39
+#: /View/Exams/start.ctp:162 /View/Results/view.ctp:391;518
+msgid "Next"
+msgstr "अगला"
+
+#: /View/Elements/pagination.ctp:30
+msgid "Showing {:start} to {:current} of {:count} entries"
+msgstr "दिखा {:start} {:current} की {:count} प्रविष्टियों"
+
+#: /View/Emailverifications/index.ctp:4
+msgid "Email Verification"
+msgstr "ई - मेल सत्यापन"
+
+#: /View/Emailverifications/index.ctp:12 /View/Forgots/presetcode.ctp:12
+msgid "Please Enter Verification Code in the Text Box"
+msgstr "पाठ बॉक्स में सत्यापन कोड डालें"
+
+#: /View/Emailverifications/resend.ctp:4 /View/Users/login.ctp:36
+msgid "Re-Send Email Verification"
+msgstr "फिर से भेजने के ईमेल सत्यापन"
+
+#: /View/Emailverifications/resend.ctp:12
+msgid "Please Enter Email Id in the Text Box which you enter at the time of registration"
+msgstr "कृपया पाठ बॉक्स जो आप पंजीकरण के समय प्रवेश में ईमेल आईडी दर्ज करें"
+
+#: /View/Exams/expired.ctp:12 /View/Exams/index.ctp:12
+#: /View/Exams/purchased.ctp:12;21 /View/Exams/upcoming.ctp:12
+msgid "Purchased Exam"
+msgstr "खरीदे परीक्षा"
+
+#: /View/Exams/expired.ctp:14;21 /View/Exams/index.ctp:14
+#: /View/Exams/purchased.ctp:14 /View/Exams/upcoming.ctp:14
+msgid "Expired Exam"
+msgstr "समय सीमा समाप्त परीक्षा"
+
+#: /View/Exams/expired.ctp:28
+msgid "These are the exam(s) which has been expired"
+msgstr "ये परीक्षा (s) जो समाप्त हो गई है किया गया है"
+
+#: /View/Exams/expired.ctp:33 /View/Exams/index.ctp:36
+#: /View/Exams/purchased.ctp:36 /View/Exams/upcoming.ctp:34
+msgid "No Exams found"
+msgstr "कोई परीक्षा पाया"
+
+#: /View/Exams/feedbacks.ctp:6
+msgid "Thank you for using the test"
+msgstr "परीक्षण का उपयोग करने के लिए धन्यवाद"
+
+#: /View/Exams/feedbacks.ctp:10
+msgid "1. The test instructions were"
+msgstr "1. टेस्ट निर्देश थे"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Largely Clear"
+msgstr "मोटे तौर पर साफ"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Medium Clear"
+msgstr "मीडियम साफ"
+
+#: /View/Exams/feedbacks.ctp:12;18
+msgid "Not Clear"
+msgstr "अस्पष्ट"
+
+#: /View/Exams/feedbacks.ctp:16
+msgid "2. Language of question was"
+msgstr "2. सवाल की भाषा थी"
+
+#: /View/Exams/feedbacks.ctp:22
+msgid "3. Overall test experience was"
+msgstr "3. समग्र परीक्षण अनुभव था"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Good"
+msgstr "अच्छी"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Better"
+msgstr "बेहतर"
+
+#: /View/Exams/feedbacks.ctp:24
+msgid "Best"
+msgstr "सर्वोत्तम"
+
+#: /View/Exams/feedbacks.ctp:28
+msgid "Any other feedback suggestion"
+msgstr "किसी अन्य प्रतिक्रिया सुझाव"
+
+#: /View/Exams/guidelines.ctp:14
+msgid "Please close all of your chat windows, screen-saver, and anti-virus programs before starting your test"
+msgstr "अपने परीक्षण शुरू करने से पहले अपने चैट खिड़कियां, स्क्रीन सेवर के सभी बंद करें, और विरोधी वायरस प्रोग्राम"
+
+#: /View/Exams/guidelines.ctp:22
+msgid "Please do not press \"F5\" during your test. This will finish your test and you will not be able to re-open the test"
+msgstr "कृपया \\ \"F5 \" प्रेस नहीं है अपने परीक्षण के दौरान। यह आपकी परीक्षा खत्म हो जाएगा और आप परीक्षण फिर से खोलने के लिए सक्षम नहीं होगा"
+
+#: /View/Exams/guidelines.ctp:30
+msgid "Your responses will be saved. If your test is disconnected for any reason, your responses up until that point will be saved"
+msgstr "आपकी प्रतिक्रियाओं का उद्धार होगा। अपने परीक्षण के लिए किसी भी कारण के लिए काट दिया जाता है, तो उस बिंदु तक अपनी प्रतिक्रियाओं को सहेजा जाएगा"
+
+#: /View/Exams/guidelines.ctp:38
+msgid "Please close all programs that upload or download files in the background For example: Dropbox, torrent, etc"
+msgstr "उदाहरण के लिए पृष्ठभूमि में सभी कार्यक्रमों है कि अपलोड बंद करने या फ़ाइलों को डाउनलोड करें: ड्रॉपबॉक्स, धार, आदि"
+
+#: /View/Exams/instruction.ctp:4
+msgid "Instructions"
+msgstr "निर्देश"
+
+#: /View/Exams/instruction.ctp:7
+msgid "I am ready to begin"
+msgstr "मैं शुरू करने के लिए तैयार हूँ"
+
+#: /View/Exams/instruction.ctp:13;16;21
+msgid "Exam Start"
+msgstr "परीक्षा प्रारंभ"
+
+#: /View/Exams/instruction.ctp:16
+msgid "This Exam is paid. Amount should be deducted on your wallet automatically. After starting the exam timer will not stop. Do you want to pay & start?"
+msgstr "इस परीक्षा में भुगतान किया जाता है। राशि आपके बटुए पर स्वचालित रूप से कटौती की जानी चाहिए। परीक्षा टाइमर बंद नहीं होगा शुरू करने के बाद। आप भुगतान और शुरू करने के लिए करना चाहते हैं?"
+
+#: /View/Exams/purchased.ctp:28
+msgid "These are the exam(s) which has been purchased"
+msgstr "ये परीक्षा (s) जो खरीदा गया है"
+
+#: /View/Exams/start.ctp:19
+msgid "Correct Marks"
+msgstr "सही के निशान"
+
+#: /View/Exams/start.ctp:144
+msgid "Save & Next"
+msgstr "सहेजें और अगला"
+
+#: /View/Exams/start.ctp:149
+msgid "Unreview"
+msgstr "असमीक्षित"
+
+#: /View/Exams/start.ctp:152;214 /View/Exams/submit.ctp:23
+msgid "Review"
+msgstr "समीक्षा करें"
+
+#: /View/Exams/start.ctp:155
+msgid "Reset Answer"
+msgstr "रीसेट उत्तर"
+
+#: /View/Exams/start.ctp:159;203 /View/Exams/submit.ctp:26
+msgid "Finish"
+msgstr "समाप्त"
+
+#: /View/Exams/start.ctp:210
+msgid "Current Question"
+msgstr "वर्तमान प्रश्न"
+
+#: /View/Exams/start.ctp:212 /View/Exams/submit.ctp:21
+msgid "Answered"
+msgstr "उत्तर"
+
+#: /View/Exams/start.ctp:213 /View/Exams/submit.ctp:22
+msgid "Not Answered"
+msgstr "जवाब नहीं दिया"
+
+#: /View/Exams/start.ctp:311
+msgid "Navigated Away"
+msgstr "दूर नेविगेट"
+
+#: /View/Exams/start.ctp:314
+msgid "you had navigated away from the test window. This will be reported to Moderator"
+msgstr "आप परीक्षण खिड़की से दूर नेविगेट था। यह मॉडरेटर को सूचित किया जाएगा"
+
+#: /View/Exams/start.ctp:315
+msgid "Do not repeat this behaviour"
+msgstr "इस व्यवहार को दोहराना नहीं है"
+
+#: /View/Exams/start.ctp:315
+msgid "Otherwise you may get disqualified"
+msgstr "नहीं तो आप अयोग्य घोषित हो सकती है"
+
+#: /View/Exams/start.ctp:316
+msgid "Continue"
+msgstr "जारी रखें "
+
+#: /View/Exams/submit.ctp:11
+msgid "Finalize"
+msgstr "अंतिम रूप दें,"
+
+#: /View/Exams/submit.ctp:17
+msgid "Do you wish to submit and close the"
+msgstr "आप प्रस्तुत करने और बंद करने के लिए चाहते हैं"
+
+#: /View/Exams/submit.ctp:17
+msgid "Once you submit, you will not be able to review the"
+msgstr "एक बार जब आप सबमिट करें, आप की समीक्षा करने में सक्षम नहीं होगा"
+
+#: /View/Exams/submit.ctp:18
+msgid "Summary of your attempts in this"
+msgstr "इस में अपने प्रयासों का सारांश"
+
+#: /View/Exams/submit.ctp:18
+msgid "as show below"
+msgstr "नीचे शो के रूप में"
+
+#: /View/Exams/submit.ctp:19
+msgid "Attempted"
+msgstr "प्रयास किया"
+
+#: /View/Exams/submit.ctp:32
+msgid "Return To First Question"
+msgstr "पहले सवाल का लौटें"
+
+#: /View/Exams/upcoming.ctp:28
+msgid "These are the exam(s) that are planned you in near future"
+msgstr "ये परीक्षा (s) है कि आप निकट भविष्य में की योजना बनाई हो रहे हैं"
+
+#: /View/Exams/view.ctp:61 /View/Helper/FunctionHelper.php:121
+msgid "Attempt Now"
+msgstr "अब प्रयास"
+
+#: /View/Groupperformances/index.ctp:4
+msgid "Your performance compared to your group"
+msgstr "अपने प्रदर्शन को अपने समूह की तुलना"
+
+#: /View/Helper/CaptchaHelper.php:15
+msgid "Can't read? Reload"
+msgstr "पढ़ा नहीं जा सकता? सीमा से अधिक लादना"
+
+#: /View/Helper/CaptchaHelper.php:16;32
+msgid "Enter security code shown above"
+msgstr "ऊपर दिखाए गए सुरक्षा कोड दर्ज करें"
+
+#: /View/Helper/CaptchaHelper.php:31
+msgid "Answer simple math"
+msgstr "सरल गणित के जवाब"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Attempts"
+msgstr "प्रयास"
+
+#: /View/Helper/FunctionHelper.php:95
+msgid "Remaining"
+msgstr "शेष="
+
+#: /View/Helper/FunctionHelper.php:98
+msgid "Expiry Date"
+msgstr "समयसीमा समाप्ति तिथि"
+
+#: /View/Helper/FunctionHelper.php:100
+msgid "Expired Date"
+msgstr "समाप्ति तिथि"
+
+#: /View/Helper/FunctionHelper.php:119
+msgid "Free"
+msgstr "मुफ्त"
+
+#: /View/Helper/FunctionHelper.php:120
+msgid "Not Purchased"
+msgstr "नहीं खरीदा"
+
+#: /View/Helper/FunctionHelper.php:137 /View/Results/index.ctp:42
+msgid "View Details"
+msgstr "विवरण देखिये।"
+
+#: /View/Helper/TinymceHelper.php:99
+msgid "Load Editor"
+msgstr "लोड संपादक"
+
+#: /View/Installers/index.ctp:9 /View/Installers/step1.ctp:9
+#: /View/Installers/step2.ctp:9 /View/Installers/step3.ctp:9
+msgid "Installation"
+msgstr "स्थापना"
+
+#: /View/Installers/index.ctp:37
+msgid "Step 1 of 4"
+msgstr "का चरण 3,"
+
+#: /View/Installers/index.ctp:38
+msgid "Server Configuration & Setup Requirements"
+msgstr "सर्वर विन्यास और सेटअप आवश्यकताओं"
+
+#: /View/Installers/index.ctp:42
+msgid "Setup Requirements"
+msgstr "सेटअप आवश्यकताओं"
+
+#: /View/Installers/index.ctp:44
+msgid "Installing this software require certain server side extension and capability"
+msgstr "इस सॉफ्टवेयर का अधिष्ठापन कुछ सर्वर साइड विस्तार और क्षमता की आवश्यकता होती है"
+
+#: /View/Installers/index.ctp:45
+msgid "please check below and compare with your server current statues on the right. You can click on the icon next to each technology for details."
+msgstr "नीचे की जाँच करें और सही पर अपने सर्वर चालू मूर्तियों के साथ तुलना करें। आप जानकारी के लिए प्रत्येक प्रौद्योगिकी के बगल में आइकन पर क्लिक कर सकते हैं।"
+
+#: /View/Installers/index.ctp:50;89
+msgid "Extensions &amp; Applications"
+msgstr "एक्सटेंशन & amp; अनुप्रयोगों"
+
+#: /View/Installers/index.ctp:56
+msgid "HTTP Server. For example: Apache"
+msgstr "HTTP सर्वर। उदाहरण के लिए: अपाचे"
+
+#: /View/Installers/index.ctp:57;61;65;69
+msgid "Require"
+msgstr "आवश्यकता"
+
+#: /View/Installers/index.ctp:60
+msgid "PHP 5.2.8 or greater"
+msgstr "पीएचपी 5.2.8 या अधिक से अधिक"
+
+#: /View/Installers/index.ctp:64
+msgid "Database Engine MySQL (4 or greater)"
+msgstr "डेटाबेस इंजिन MySQL (4 या अधिक)"
+
+#: /View/Installers/index.ctp:68;107
+msgid "PDO Extension"
+msgstr "पीडीओ विस्तार"
+
+#: /View/Installers/index.ctp:72;111
+msgid "GD Extension"
+msgstr "जी.डी. विस्तार"
+
+#: /View/Installers/index.ctp:73
+msgid "Mandatory"
+msgstr "अनिवार्य"
+
+#: /View/Installers/index.ctp:83
+msgid "Server Status"
+msgstr "सर्वर स्टेटस"
+
+#: /View/Installers/index.ctp:95
+msgid "Web Server"
+msgstr "वेब सर्वर"
+
+#: /View/Installers/index.ctp:99
+msgid "PHP Version"
+msgstr "PHP संस्करण"
+
+#: /View/Installers/index.ctp:103
+msgid "MYSQL Version"
+msgstr "MySQL संस्करण"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Unavailable"
+msgstr "पीडीओ अनुपलब्ध"
+
+#: /View/Installers/index.ctp:108
+msgid "PDO Available"
+msgstr "पीडीओ उपलब्ध"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Availiable"
+msgstr "जीडी availiable"
+
+#: /View/Installers/index.ctp:112
+msgid "GD Unavailiable"
+msgstr "जीडी Unavailiable"
+
+#: /View/Installers/index.ctp:124
+msgid "Directory &amp; File Permission"
+msgstr "निर्देशिका & amp; फ़ाइल अनुमति"
+
+#: /View/Installers/index.ctp:126
+msgid "These Folders of Files need to be"
+msgstr "फ़ाइलों के इन फ़ोल्डर होने की जरूरत"
+
+#: /View/Installers/index.ctp:126
+msgid "Writable"
+msgstr "लिखने योग्य"
+
+#: /View/Installers/index.ctp:126
+msgid "for application to be installed."
+msgstr "आवेदन के लिए स्थापित किया जाना है।"
+
+#: /View/Installers/index.ctp:131
+msgid "Folders or Files"
+msgstr "फ़ोल्डर या फ़ाइलें"
+
+#: /View/Installers/index.ctp:137
+msgid "app/tmp/"
+msgstr "एप्लिकेशन / tmp /"
+
+#: /View/Installers/index.ctp:141
+msgid "app/Config/database.php"
+msgstr "एप्लिकेशन / config / database.php"
+
+#: /View/Installers/index.ctp:145
+msgid "app/Config/core.php"
+msgstr "एप्लिकेशन / config / core.php"
+
+#: /View/Installers/index.ctp:156
+msgid "Refresh"
+msgstr "रिफ्रेश करें"
+
+#: /View/Installers/index.ctp:157
+msgid "Let's Start"
+msgstr "चलो शुरू करें."
+
+#: /View/Installers/step1.ctp:46
+msgid "Step 2 of 4"
+msgstr "का चरण 3,"
+
+#: /View/Installers/step1.ctp:48
+msgid "Installation Agreement"
+msgstr "स्थापना समझौते"
+
+#: /View/Installers/step1.ctp:81
+msgid "I Accept to Proceed"
+msgstr "मैं आगे बढ़ना करने के लिए स्वीकारें"
+
+#: /View/Installers/step2.ctp:46
+msgid "Step 3 of 4"
+msgstr "का चरण 3,"
+
+#: /View/Installers/step2.ctp:47
+msgid "Database Connection Settings"
+msgstr "डाटाबेस कनेक्शन सेटिंग"
+
+#: /View/Installers/step2.ctp:49
+msgid "Host Name"
+msgstr "मेजबाननाम"
+
+#: /View/Installers/step2.ctp:52
+msgid "Usually Localhost"
+msgstr "आमतौर पर स्थानीय होस्ट"
+
+#: /View/Installers/step2.ctp:58;61
+msgid "Database Name"
+msgstr "डेटाबेस का नाम"
+
+#: /View/Installers/step2.ctp:67
+msgid "Database User"
+msgstr "डाटाबेस उपयोगकर्ता"
+
+#: /View/Installers/step2.ctp:70
+msgid "Database User Name"
+msgstr "डाटाबेस प्रयोक्ता नाम"
+
+#: /View/Installers/step2.ctp:76
+msgid "Database Password"
+msgstr "डेटाबेस पासवर्ड"
+
+#: /View/Installers/step2.ctp:79
+msgid "Database User Password"
+msgstr "डाटाबेस यूजर पासवर्ड"
+
+#: /View/Installers/step2.ctp:84
+msgid "Database Type"
+msgstr "डेटाबेस प्रकार"
+
+#: /View/Installers/step2.ctp:101
+msgid "Test Connection"
+msgstr "परीक्षण कनेक्शन"
+
+#: /View/Installers/step3.ctp:46
+msgid "Step 4 of 4"
+msgstr "का चरण 3,"
+
+#: /View/Installers/step3.ctp:50
+msgid "Name of Your Website"
+msgstr "अपनी वेबसाइट के नाम"
+
+#: /View/Installers/step3.ctp:56
+msgid "http://yourdomain.com"
+msgstr "http://yourdomain.com"
+
+#: /View/Installers/step3.ctp:60
+msgid "Meta Keyword"
+msgstr "मेटा खोजशब्द"
+
+#: /View/Installers/step3.ctp:62
+msgid "Useful for SEO"
+msgstr "एसईओ के लिए उपयोगी"
+
+#: /View/Installers/step3.ctp:68
+msgid "Meta Content for SEO"
+msgstr "एसईओ के लिए मेटा सामग्री"
+
+#: /View/Installers/step3.ctp:74
+msgid "Please Select Timezone"
+msgstr "कृपया समय क्षेत्र का चयन करें"
+
+#: /View/Installers/step3.ctp:80
+msgid "Name of Your Organization/Company"
+msgstr "आपका संगठन / कंपनी का नाम"
+
+#: /View/Installers/step3.ctp:86
+msgid "Default Admin Email"
+msgstr "डिफ़ॉल्ट व्यवस्थापक ईमेल"
+
+#: /View/Installers/step3.ctp:92
+msgid "Install Sample Data With Dummy Entries"
+msgstr "डमी प्रविष्टियों के साथ नमूना डेटा स्थापित"
+
+#: /View/Installers/step3.ctp:103
+msgid "Install"
+msgstr "स्थापित करें"
+
+#: /View/Layouts/default.ctp:109
+msgid "Welcome to"
+msgstr " स्वागत है"
+
+#: /View/Layouts/default.ctp:128
+msgid "Set Avatar"
+msgstr "सेट अवतार"
+
+#: /View/Layouts/default.ctp:144
+msgid "Sign out"
+msgstr "साइन आउट करें"
+
+#: /View/Layouts/default.ctp:189 /View/Layouts/exam.ctp:107
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: /View/Layouts/default.ctp:264
+msgid "follow on facebook"
+msgstr "फेसबुक पर का पालन करें"
+
+#: /View/Layouts/default.ctp:328 /View/Pages/home.ctp:40
+msgid "Latest News & Events"
+msgstr "नवीनतम समाचार एवं घटनाक्रम"
+
+#: /View/Layouts/default.ctp:348
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr "समय"
+
+#: /View/Layouts/pdf/pdf.ctp:8
+msgid "Download PDF"
+msgstr "पीडीएफ डाउनलोड करें"
+
+#: /View/Leaderboards/index.ctp:14 /View/Pages/home.ctp:60
+msgid "Average Percentage(%)"
+msgstr "औसत प्रतिशत (%)"
+
+#: /View/Leaderboards/index.ctp:15 /View/Pages/home.ctp:61
+msgid "Exam Given"
+msgstr "परीक्षा को देखते हुए"
+
+#: /View/Mails/index.ctp:58
+msgid "Delete Forever"
+msgstr "हमेशा के लिए हटाएं"
+
+#: /View/Mails/index.ctp:60
+msgid "Move to Trash"
+msgstr "रद्दी में डालें"
+
+#: /View/News/show.ctp:4
+msgid "News Detail"
+msgstr "समाचार विस्तार से"
+
+#: /View/Pages/home.ctp:7
+msgid "No of Visitors"
+msgstr "आगंतुकों का कोई"
+
+#: /View/Pages/home.ctp:16
+msgid "No of Students"
+msgstr "छात्रों की संख्या"
+
+#: /View/Pages/home.ctp:25
+msgid "No of Exams"
+msgstr "परीक्षा का कोई"
+
+#: /View/Payments/index.ctp:4
+msgid "Payment From Pay Pal"
+msgstr "वेतन पाल से भुगतान"
+
+#: /View/Payments/index.ctp:24
+msgid "Pay From Pay Pal"
+msgstr "वेतन पाल से भुगतान"
+
+#: /View/Profiles/change_pass.ctp:22 /View/Profiles/change_photo.ctp:9
+#: /View/Profiles/edit_profile.ctp:9
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+#: /View/Profiles/change_pass.ctp:23 /View/Profiles/change_photo.ctp:10
+#: /View/Profiles/edit_profile.ctp:10;19 /View/Profiles/index.ctp:11
+msgid "Edit Profile"
+msgstr "प्रोफ़ाइल संपादित करें"
+
+#: /View/Registers/index.ctp:4
+msgid "New  Student Register"
+msgstr "नई छात्र रजिस्टर"
+
+#: /View/Registers/index.ctp:54
+msgid "Security Code"
+msgstr "सुरक्षा कोड"
+
+#: /View/Results/attemptedpapers.ctp:16
+msgid "Answers"
+msgstr "उत्तर"
+
+#: /View/Results/index.ctp:13
+msgid "My Results"
+msgstr "मेरे परिणाम"
+
+#: /View/Results/index.ctp:28
+msgid "Attempt Date"
+msgstr "प्रयास DATE"
+
+#: /View/Results/index.ctp:29
+msgid "Max.Marks"
+msgstr "अधिकतम अंकः 100"
+
+#: /View/Results/view.ctp:38
+msgid "SCORE CARD"
+msgstr "स्कोरकार्ड"
+
+#: /View/Results/view.ctp:39
+msgid "SUBJECT REPORT"
+msgstr "विषय की रिपोर्ट"
+
+#: /View/Results/view.ctp:40
+msgid "TIME MANAGEMENT"
+msgstr "समय प्रबंधन"
+
+#: /View/Results/view.ctp:42
+msgid "QUESTION REPORT"
+msgstr "प्रश्न की रिपोर्ट"
+
+#: /View/Results/view.ctp:43
+msgid "SOLUTION"
+msgstr "समाधान"
+
+#: /View/Results/view.ctp:44
+msgid "COMPARE REPORT"
+msgstr "तुलना की रिपोर्ट"
+
+#: /View/Results/view.ctp:49
+msgid "Score Card For"
+msgstr "स्कोर कार्ड के लिए"
+
+#: /View/Results/view.ctp:53
+msgid "Total No. of Student"
+msgstr "छात्र की कुल संख्या"
+
+#: /View/Results/view.ctp:55
+msgid "My Marks"
+msgstr "मेरे मार्क्स"
+
+#: /View/Results/view.ctp:63
+msgid "Total Marks of Test"
+msgstr "टेस्ट के कुल अंक"
+
+#: /View/Results/view.ctp:65
+msgid "My Percentile"
+msgstr "मेरे प्रतिशतता"
+
+#: /View/Results/view.ctp:73
+msgid "Total Question in Test"
+msgstr "टेस्ट में कुल प्रश्न"
+
+#: /View/Results/view.ctp:75
+msgid "Total Attempt Question in Test"
+msgstr "टेस्ट में कुल प्रयास प्रश्न"
+
+#: /View/Results/view.ctp:77
+msgid "Left Question"
+msgstr "वाम प्रश्न"
+
+#: /View/Results/view.ctp:79
+msgid "Left Question Marks"
+msgstr "वाम प्रश्न चिह्न"
+
+#: /View/Results/view.ctp:83
+msgid "Total Time of Test"
+msgstr "टेस्ट के कुल समय"
+
+#: /View/Results/view.ctp:85
+msgid "My Time"
+msgstr "मेरा समय"
+
+#: /View/Results/view.ctp:87
+msgid "My Rank"
+msgstr "मेरा रैंक"
+
+#: /View/Results/view.ctp:95
+msgid "Performance Report For"
+msgstr "प्रदर्शन रिपोर्ट के"
+
+#: /View/Results/view.ctp:102
+msgid "Question & Marks Wise Report For"
+msgstr "प्रश्न और मार्क्स के लिए समझदार रिपोर्ट"
+
+#: /View/Results/view.ctp:110
+msgid "Subject Report For"
+msgstr "के लिए विषय की रिपोर्ट"
+
+#: /View/Results/view.ctp:116;146;373
+msgid "Correct"
+msgstr "सही"
+
+#: /View/Results/view.ctp:118;149
+msgid "Unattempted Questions"
+msgstr "Unattempted सवाल"
+
+#: /View/Results/view.ctp:131
+msgid "Graphical Report For"
+msgstr "के लिए चित्रमय रिपोर्ट"
+
+#: /View/Results/view.ctp:140
+msgid "Time Management For"
+msgstr "समय प्रबंधन के लिए"
+
+#: /View/Results/view.ctp:174
+msgid "Question Report For"
+msgstr "प्रश्न रिपोर्ट के लिए"
+
+#: /View/Results/view.ctp:178
+msgid "Q.No."
+msgstr "प्र. क्र."
+
+#: /View/Results/view.ctp:179
+msgid "Question Status"
+msgstr "प्रश्न स्थिति"
+
+#: /View/Results/view.ctp:180
+msgid "Your Answer"
+msgstr "आपका उत्तर"
+
+#: /View/Results/view.ctp:182
+msgid "Your Score"
+msgstr "अपका स्कोर"
+
+#: /View/Results/view.ctp:183
+msgid "Your Time"
+msgstr "तुम्हारा समय"
+
+#: /View/Results/view.ctp:253
+msgid "Solution For"
+msgstr "समाधान के लिए"
+
+#: /View/Results/view.ctp:372
+msgid "Not Attempt"
+msgstr "प्रयास नहीं"
+
+#: /View/Results/view.ctp:372
+msgid "Attempt"
+msgstr "प्रयास"
+
+#: /View/Results/view.ctp:374
+msgid "Incorrect"
+msgstr "ग़लत"
+
+#: /View/Results/view.ctp:375
+msgid "Your Answers"
+msgstr "आपके उत्तर"
+
+#: /View/Results/view.ctp:384
+msgid "Solution"
+msgstr "समाधान"
+
+#: /View/Results/view.ctp:394
+msgid "Unbookmark"
+msgstr "Unbookmark"
+
+#: /View/Results/view.ctp:394
+msgid "Bookmark"
+msgstr "(4)      बुकमार्क"
+
+#: /View/Results/view.ctp:426
+msgid "Compare Report For"
+msgstr "तुलना के लिए रिपोर्ट"
+
+#: /View/Results/view.ctp:432;493
+msgid "Total Ques."
+msgstr "कुल सवाल।"
+
+#: /View/Results/view.ctp:436;497
+msgid "Maximum Marks"
+msgstr "अधिकतम  अंक "
+
+#: /View/Results/view.ctp:440;501
+msgid "Attempted Ques."
+msgstr "प्रयास किया सवाल।"
+
+#: /View/Results/view.ctp:444;505
+msgid "Unattempted Ques."
+msgstr "Unattempted सवाल।"
+
+#: /View/Results/view.ctp:448;509
+msgid "Correct Ques."
+msgstr "सही सवाल।"
+
+#: /View/Results/view.ctp:452;513
+msgid "Incorrect Ques."
+msgstr "गलत सवाल।"
+
+#: /View/Results/view.ctp:470;533
+msgid "Percentile"
+msgstr "प्रतिशतता"
+
+#: /View/Results/view.ctp:519
+msgid "Previous"
+msgstr "पिछला"
+
+#: /View/Results/pdf/certificate.ctp:10
+msgid "This is to certify that"
+msgstr "यह प्रमाणित किया जाता है कि"
+
+#: /View/Results/pdf/certificate.ctp:11
+msgid "has succesfully completed the"
+msgstr "सफलतापूर्वक पूरा कर लिया है"
+
+#: /View/Results/pdf/certificate.ctp:12
+msgid "in course program offered by"
+msgstr "पाठ्यक्रम में कार्यक्रम के द्वारा की पेशकश"
+
+#: /View/Users/login.ctp:4
+msgid "Student Login"
+msgstr "छात्र लॉग इन"
+
+#: /View/Users/login.ctp:23
+msgid "Sign In"
+msgstr "साइन इन करें"
+
+#: /View/Users/login.ctp:29
+msgid "Forgot Passwocrd"
+msgstr "Passwocrd भूल"
+
+#: /View/Users/login.ctp:33
+msgid "New User? Create Account"
+msgstr "नया उपयोगकर्ता? खाता बनाएं"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:219
+msgid "Engine is not loaded"
+msgstr "इंजन लोड नहीं है"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:291
+msgid "Pdf engine \"%s\" not found"
+msgstr "पीडीएफ इंजन \\ \" %s \" नहीं मिला"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:294
+msgid "Pdf engines must extend \"AbstractPdfEngine\""
+msgstr "पीडीएफ इंजन का विस्तार करना चाहिए \\ \"AbstractPdfEngine \""
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:311
+msgid "Crypto is not loaded"
+msgstr "क्रिप्टो भरी हुई नहीं है"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:318
+msgid "Pdf crypto \"%s\" not found"
+msgstr "पीडीएफ क्रिप्टो \\ \" %s \" नहीं मिला"
+
+#: /Plugin/CakePdf/Pdf/CakePdf.php:321
+msgid "Crypto engine must extend \"AbstractPdfCrypto\""
+msgstr "क्रिप्टो इंजन का विस्तार करना चाहिए \\ \"AbstractPdfCrypto \""
+
+#: /Plugin/CakePdf/View/PdfView.php:64
+msgid "Controller attribute $pdfConfig is not correct or missing"
+msgstr "नियंत्रक विशेषता $ pdfConfig सही या लापता नहीं है"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr "-> परीक्षण: यूआरएल"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr "कुल बनाया अनुरोध: अनुरोधों"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr "कुल समय बीत: अवधि (सेकंड)"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr "अनुरोध / दूसरा: आर पी एस अनुरोध / सेक"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr "औसत अनुरोध समय:: औसत समय सेकंड"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr "की औसत अनुरोध समय मानक विचलन: एसटीडी देव"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr "सबसे लंबे समय तक / कम से कम अनुरोध:: सबसे लंबे समय सेकंड /: कम से कम सेकंड"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr "आप प्राप्त करने के लिए कुछ किसी न किसी बेंच मार्किंग एक पूरी तरह से योग्य यूआरएल statisticsabout देता है।"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr "यूआरएल अनुरोध करने के लिए।"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr "पुनरावृत्तियों की संख्या में प्रदर्शन करने के लिए।"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr "सभी पुनरावृत्तियों के लिए अधिकतम कुल समय, seconds.If में एक एकल यात्रा मध्यांतर से अधिक लेता है, केवल एक ही अनुरोध बनाया जाएगा"
+
+#: /Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr "उदाहरण का प्रयोग करें: `--n 10 100 --टी http केक बेंचमार्क: // localhost / testsite`। <जानकारी> नोट: </ जानकारी> इस बेंचमार्क को शामिल नहीं करता ब्राउज़र बार प्रस्तुत करना।"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr "घटक आरंभीकरण"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr "नियंत्रक कार्रवाई"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr "नियंत्रक कार्रवाई प्रारंभ"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr "प्रसंस्करण उपकरण पट्टी राज्य"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr "प्रसंस्करण उपकरण पट्टी डेटा"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr "नियंत्रक शुरू प्रस्तुत करना"
+
+#: /Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr "लोड नहीं कर सका DebugToolbar पैनल %s"
+
+#: /Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr "कोर प्रोसेसिंग ($ _SERVER से व्युत्पन्न [\\ \"REQUEST_TIME \"])"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr "हेडर पहले में भेजा %s लाइन पर %s । FirePHP करने के लिए लॉग डेटा नहीं भेज सकते हैं।"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr "FireCake के लिए ग़लत पैरामीटर गणना :: अमेरिकन प्लान ()"
+
+#: /Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr "संदेशों की अधिकतम संख्या (99,999) पर पहुंच गया!"
+
+#: /Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr "कोई सक्रिय पैनल हैं। आप अपने उत्पादन में देखने के लिए एक पैनल सक्षम करना होगा।"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr "अनुप्रयोग स्थिरांक"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr "CakePHP स्थिरांक"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr "पीएचपी पर्यावरण"
+
+#: /Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr "HiDef पर्यावरण"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr "अनुरोध इतिहास"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr "कोई पिछले अनुरोध लॉग इन किया।"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr "पिछले अनुरोध उपलब्ध"
+
+#: /Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr "वर्तमान अनुरोध को पुनर्स्थापित"
+
+#: /Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr "शामिल फ़ाइलें"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr "Logs"
+
+#: /Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr "वहाँ कोई लॉग यह अनुरोध किया प्रविष्टियों थे"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr "अनुरोध"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr "कोई पोस्ट डाटा नहीं।"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr "कोई querystring डेटा।"
+
+#: /Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr "वर्तमान रूट"
+
+#: /Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr "सेशन"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr "एसक्यूएल लॉग"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr "कोई क्वेरी लॉग जब <2 डिबग।"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr "कोई क्वेरी लॉग।"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr "कुल समय: %s <br /> कुल प्रश्न एमएस: %s प्रश्नों"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr "क्वेरी समझाओ:"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr "क्वेरी विवरण देखने के लिए ऊपर के लिंक \"\\ समझाने\" एक \\ क्लिक करें।"
+
+#: /Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr "कोई सक्रिय डेटाबेस कनेक्शन"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr "स्मृति"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr "पीक स्मृति का उपयोग"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr "स्मृति का उपयोग"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr "टाइमर"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr "एसएमएस"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr "कुल अनुरोध के समय:"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr "एमएस में समय"
+
+#: /Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr "ग्राफ़"
+
+#: /Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr "चर देखें"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr "दृश्य रेंडरिंग"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr "प्रतिपादन %s"
+
+#: /Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr "पूरा प्रस्तुत करना देखें"
+
+#: /Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:226
+msgid "Explain"
+msgstr "समझायें।"
+
+#: /Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr "शुरू %s , अनुरोध में एमएस ले रही %s एमएस"
+
+#: /Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr "कोई मार्कअप त्रुटियों पाया"
+
+#: /Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr "शायद धीमी"
+
+#: /Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr "निरपेक्ष पथ या एपीपी के सापेक्ष।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:260
+msgid "An error occured while getting the status of your account."
+msgstr "जबकि अपने खाते की स्थिति हो रही एक त्रुटि हुई।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:313;361
+msgid "There was an error while connecting to Paypal"
+msgstr "जबकि पेपैल को जोड़ने के कोई त्रुटि हुई"
+
+#: /Plugin/Paypal/Lib/Paypal.php:316
+msgid "There was a problem initiating the transaction, please try again."
+msgstr "एक समस्या लेनदेन की शुरुआत थी, पुन: प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:364
+msgid "There was a problem getting your details, please try again."
+msgstr "एक समस्या तो आपकी जानकारी के लिए हो रही थी, फिर से प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:418
+msgid "There was an error completing the payment"
+msgstr "भुगतान को पूरा करने में कोई त्रुटि थी"
+
+#: /Plugin/Paypal/Lib/Paypal.php:421
+msgid "There was a problem processing the transaction, please try again."
+msgstr "एक समस्या लेनदेन प्रसंस्करण था, पुन: प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:455
+msgid "There was an error processing the card payment"
+msgstr "कार्ड भुगतान प्रसंस्करण में कोई त्रुटि थी"
+
+#: /Plugin/Paypal/Lib/Paypal.php:458
+msgid "There was a problem processing your card, please try again."
+msgstr "एक समस्या आपके कार्ड प्रसंस्करण था, पुन: प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:492
+msgid "There was an error processing the the refund"
+msgstr "वापसी प्रक्रिया में कोई त्रुटि थी"
+
+#: /Plugin/Paypal/Lib/Paypal.php:495
+msgid "A problem occurred during the refund process, please try again."
+msgstr "धन वापसी की प्रक्रिया के दौरान हुई एक समस्या है, पुन: प्रयास करें।"
+
+#: /Plugin/Paypal/Lib/Paypal.php:538;582;617
+msgid "There was an problem communicating with the payment gateway"
+msgstr "भुगतान के प्रवेश द्वार के साथ संवाद स्थापित करने के लिए एक समस्या थी"
+
+#: /Plugin/Paypal/Lib/Paypal.php:601
+msgid "Missing client id/secret"
+msgstr "ग्राहक आईडी गुम / गुप्त"
+
+#: /Plugin/Paypal/Lib/Paypal.php:644;733
+msgid "Must specify an expiry date"
+msgstr "एक समाप्ति तिथि का उल्लेख अवश्य"
+
+#: /Plugin/Paypal/Lib/Paypal.php:649;738
+msgid "Must include a M and Y in expiry date"
+msgstr "एक एम और समाप्ति की तारीख में Y शामिल करना चाहिए"
+
+#: /Plugin/Paypal/Lib/Paypal.php:657
+msgid "Invalid expiry date"
+msgstr "अमान्य समाप्ति की तारीख"
+
+#: /Plugin/Paypal/Lib/Paypal.php:663
+msgid "Invalid card number"
+msgstr "अवैध कार्ड संख्या"
+
+#: /Plugin/Paypal/Lib/Paypal.php:667
+msgid "Invalid CVV2 number"
+msgstr "अमान्य CVV2 नंबर"
+
+#: /Plugin/Paypal/Lib/Paypal.php:673
+msgid "Invalid card type"
+msgstr "अवैध कार्ड के प्रकार"
+
+#: /Plugin/Paypal/Lib/Paypal.php:715
+msgid "Could not detect client IP address"
+msgstr "ग्राहक आईपी पते का पता नहीं लगा सका"
+
+#: /Plugin/Paypal/Lib/Paypal.php:719
+msgid "Not a valid credit card number"
+msgstr "नहीं एक वैध क्रेडिट कार्ड नंबर"
+
+#: /Plugin/Paypal/Lib/Paypal.php:724
+msgid "You must include the 3 digit security number"
+msgstr "आप 3 अंकों सुरक्षा नंबर शामिल करना चाहिए"
+
+#: /Plugin/Paypal/Lib/Paypal.php:729
+msgid "Must specify an \"amount\" to charge"
+msgstr "एक \\ \"राशि \" निर्दिष्ट करना होगा चार्ज करने के लिए"
+
+#: /Plugin/Paypal/Lib/Paypal.php:777
+msgid "You must pass a valid order array"
+msgstr "आप एक वैध आदेश सरणी से गुजरना होगा"
+
+#: /Plugin/Paypal/Lib/Paypal.php:780
+msgid "Valid \"return\" and \"cancel\" urls must be provided"
+msgstr "वैध \\ \"लौटने \" और \\ \"\\ रद्द करें\" यूआरएल प्रदान किया जाना चाहिए"
+
+#: /Plugin/Paypal/Lib/Paypal.php:783
+msgid "You must provide a currency code"
+msgstr "आप एक मुद्रा कोड प्रदान करना होगा"
+
+#: /Plugin/Paypal/Lib/Paypal.php:836
+msgid "Original PayPal Transaction ID is required"
+msgstr "मूल पेपैल के लेन-देन आईडी की आवश्यकता है"
+
+#: /Plugin/Paypal/Lib/Paypal.php:841
+msgid "Must specify an \"amount\" to refund"
+msgstr "एक \\ \"राशि \" निर्दिष्ट करना होगा वापसी करने के लिए"
+
+#: /Plugin/Paypal/Lib/Paypal.php:845
+msgid "You must specify a refund type, such as Full or Partial"
+msgstr "आप इस तरह के पूर्ण या आंशिक रूप में, एक वापसी के प्रकार निर्दिष्ट करना होगा"
+
+#: /Plugin/Upload/Model/Behavior/UploadBehavior.php:301
+msgid "File was not downloaded."
+msgstr "फाइल डाउनलोड नहीं किया गया था।"
+
+#: /Plugin/Utils/Controller/Component/ArchiveComponent.php:156
+msgid "No %s found for that date range"
+msgstr "कोई %s कि दिनांक श्रेणी के लिए मिला"
+
+#: /Plugin/Utils/Controller/Component/FormPreserverComponent.php:77
+msgid "Your form data is preserved you'll be redirected to it after login."
+msgstr "अपने प्रपत्र डेटा संरक्षित है आप प्रवेश के बाद यह करने के लिए भेज दिया जाएगा।"
+
+#: /Plugin/Utils/Error/EmailErrorHandler.php:117
+msgid "Error notification from %s"
+msgstr "त्रुटि अधिसूचना से %s"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:59
+msgid "Afghanistan"
+msgstr "अफ़गानिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:60
+msgid "Albania"
+msgstr "अल्बानिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:61
+msgid "Algeria"
+msgstr "अल्जीरिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:62
+msgid "American Samoa"
+msgstr "अमेरिकी समोआ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:63
+msgid "Andorra"
+msgstr "एंडोरा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:64
+msgid "Angola"
+msgstr "अंगोला"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:65
+msgid "Anguilla"
+msgstr "एंगुइला"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:66
+msgid "Antarctica"
+msgstr "अंटार्कटिक"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:67
+msgid "Antigua and Barbuda"
+msgstr "एंटीगुआ और बारबुडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:68
+msgid "Argentina"
+msgstr "अर्जेंटीना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:69
+msgid "Armenia"
+msgstr "आर्मेनिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:70
+msgid "Aruba"
+msgstr "अरूबा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:71
+msgid "Australia"
+msgstr "ऑस्ट्रेलिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:72
+msgid "Austria"
+msgstr "ऑस्ट्रिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:73
+msgid "Azerbaijan"
+msgstr "अज़रबैजान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:74
+msgid "Bahamas"
+msgstr "बहामास"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:75
+msgid "Bahrain"
+msgstr "बहरीन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:76
+msgid "Bangladesh"
+msgstr "बांग्लादेश"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:77
+msgid "Barbados"
+msgstr "बारबाडोस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:78
+msgid "Belarus"
+msgstr "बेलारूस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:79
+msgid "Belgium"
+msgstr "बेल्जियम"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:80
+msgid "Belize"
+msgstr "बेलीज़"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:81
+msgid "Benin"
+msgstr "बेनिन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:82
+msgid "Bermuda"
+msgstr "बरमूडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:83
+msgid "Bhutan"
+msgstr "भूटान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:84
+msgid "Bolivia"
+msgstr "बोलीविया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:85
+msgid "Bosnia and Herzegovina"
+msgstr "बोस्निया और हर्जेगोविना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:86
+msgid "Botswana"
+msgstr "बोत्सवाना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:87
+msgid "Bouvet Island"
+msgstr "बुवेत द्वीप"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:88
+msgid "Brazil"
+msgstr "ब्राज़ील"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:89
+msgid "British Indian Ocean Territory"
+msgstr "ब्रिटिश हिंद महासागरीय क्षेत्र"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:90
+msgid "Brunei Darussalam"
+msgstr "ब्रुनेई दारुसलाम"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:91
+msgid "Bulgaria"
+msgstr "बुल्गारिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:92
+msgid "Burkina Faso"
+msgstr "बुर्किना फासो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:93
+msgid "Burundi"
+msgstr "बुरुंडी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:94
+msgid "Cambodia"
+msgstr "कम्बोडिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:95
+msgid "Cameroon"
+msgstr "कैमरून"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:96
+msgid "Canada"
+msgstr "कनाडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:97
+msgid "Cape Verde"
+msgstr "केप वेर्डे"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:98
+msgid "Cayman Islands"
+msgstr "केमैन द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:99
+msgid "Central African Republic"
+msgstr "मध्य अफ्रीकी गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:100
+msgid "Chad"
+msgstr "चाड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:101
+msgid "Chile"
+msgstr "चिली"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:102
+msgid "China"
+msgstr "चीन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:103
+msgid "Christmas Island"
+msgstr "क्रिसमस द्वीप"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:104
+msgid "Cocos (Keeling) Islands"
+msgstr "कोकोस (कीलिंग) द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:105
+msgid "Colombia"
+msgstr "कोलंबिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:106
+msgid "Comoros"
+msgstr "कोमोरोस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:107
+msgid "Congo"
+msgstr "कांगो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:108
+msgid "Congo, the Democratic Republic of the"
+msgstr "कांगो, लोकतांत्रिक गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:109
+msgid "Cook Islands"
+msgstr "कुक द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:110
+msgid "Costa Rica"
+msgstr "कोस्टा रिका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:111
+msgid "Cote D'Ivoire"
+msgstr "कोटे डी'आइवर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:112
+msgid "Croatia"
+msgstr "क्रोएशिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:113
+msgid "Cuba"
+msgstr "क्यूबा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:114
+msgid "Cyprus"
+msgstr "साइप्रस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:115
+msgid "Czech Republic"
+msgstr "चेक गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:116
+msgid "Denmark"
+msgstr "डेनमार्क"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:117
+msgid "Djibouti"
+msgstr "जिबूती"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:118
+msgid "Dominica"
+msgstr "डॉमिनिका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:119
+msgid "Dominican Republic"
+msgstr "डॉमिनिक गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:120
+msgid "Ecuador"
+msgstr "इक्वाडोर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:121
+msgid "Egypt"
+msgstr "मिस्र (इजिप्ट)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:122
+msgid "El Salvador"
+msgstr "अल सल्वाडोर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:123
+msgid "Equatorial Guinea"
+msgstr "इक्वेटोरियल गिनी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:124
+msgid "Eritrea"
+msgstr "इरिट्रिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:125
+msgid "Estonia"
+msgstr "एस्टोनिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:126
+msgid "Ethiopia"
+msgstr "इथियोपिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:127
+msgid "Falkland Islands (Malvinas)"
+msgstr "फ़ॉकलैंड दीपसमूह (माल्विनास)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:128
+msgid "Faroe Islands"
+msgstr "फ़ैरो द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:129
+msgid "Fiji"
+msgstr "फिजी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:130
+msgid "Finland"
+msgstr "फिनलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:131
+msgid "France"
+msgstr "फ्रांस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:132
+msgid "French Guiana"
+msgstr "फ्रेंच गुआना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:133
+msgid "French Polynesia"
+msgstr "फ़्रेंच पोलिनेशिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:134
+msgid "French Southern Territories"
+msgstr "फ़्रांसीसी दक्षिणी क्षेत्र"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:135
+msgid "Gabon"
+msgstr "गेबॉन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:136
+msgid "Gambia"
+msgstr "जाम्बिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:137
+msgid "Georgia"
+msgstr "जॉर्जिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:138
+msgid "Germany"
+msgstr "जर्मनी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:139
+msgid "Ghana"
+msgstr "घाना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:140
+msgid "Gibraltar"
+msgstr "जिब्राल्टर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:141
+msgid "Greece"
+msgstr "ग्रीस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:142
+msgid "Greenland"
+msgstr "ग्रीनलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:143
+msgid "Grenada"
+msgstr "ग्रेनेडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:144
+msgid "Guadeloupe"
+msgstr "ग्वाडेलूप"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:145
+msgid "Guam"
+msgstr "गुआम"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:146
+msgid "Guatemala"
+msgstr "ग्वाटेमाला"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:147
+msgid "Guinea"
+msgstr "गिनी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:148
+msgid "Guinea-Bissau"
+msgstr "गिनी-बिसाऊ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:149
+msgid "Guyana"
+msgstr "गुयाना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:150
+msgid "Haiti"
+msgstr "हैती"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:151
+msgid "Heard Island and Mcdonald Islands"
+msgstr "हर्ड द्वीप और मैकडोनाल्ड द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:152
+msgid "Holy See (Vatican City State)"
+msgstr "होली सी (वैटिकन सिटी प्रांत)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:153
+msgid "Honduras"
+msgstr "होंडुरास"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:154
+msgid "Hong Kong"
+msgstr "हांगकांग"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:155
+msgid "Hungary"
+msgstr "हंगरी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:156
+msgid "Iceland"
+msgstr "आइसलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:157
+msgid "India"
+msgstr "भारत"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:158
+msgid "Indonesia"
+msgstr "इंडोनिशया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:159
+msgid "Iran, Islamic Republic of"
+msgstr "ईरान, इस्लामी गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:160
+msgid "Iraq"
+msgstr "इराक"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:161
+msgid "Ireland"
+msgstr "आयरलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:162
+msgid "Israel"
+msgstr "इज़राइल"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:163
+msgid "Italy"
+msgstr "इटली"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:164
+msgid "Jamaica"
+msgstr "जमैका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:165
+msgid "Japan"
+msgstr "जापान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:166
+msgid "Jordan"
+msgstr "जॉर्डन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:167
+msgid "Kazakhstan"
+msgstr "कज़ाकिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:168
+msgid "Kenya"
+msgstr "केन्या"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:169
+msgid "Kiribati"
+msgstr "किरिबाती"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:170
+msgid "Korea, Democratic People's Republic of"
+msgstr "कोरिया, डेमोक्रेटिक पीपुल्स गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:171
+msgid "Korea, Republic of"
+msgstr "कोरिया गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:172
+msgid "Kuwait"
+msgstr "कुवैत"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:173
+msgid "Kyrgyzstan"
+msgstr "किर्गिज़स्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:174
+msgid "Lao People's Democratic Republic"
+msgstr "लाओ जन लोकतांत्रिक गणराज्य (पीपुल्स डेमोक्रेटिक रिपब्लिक)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:175
+msgid "Latvia"
+msgstr "लाटविया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:176
+msgid "Lebanon"
+msgstr "लेबनान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:177
+msgid "Lesotho"
+msgstr "लेसोथो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:178
+msgid "Liberia"
+msgstr "लाइबेरिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:179
+msgid "Libyan Arab Jamahiriya"
+msgstr "लीबिया का अरब जमहिरिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:180
+msgid "Liechtenstein"
+msgstr "लिचटेंस्टीन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:181
+msgid "Lithuania"
+msgstr "लिथुआनिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:182
+msgid "Luxembourg"
+msgstr "लक्ज़मबर्ग"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:183
+msgid "Macao"
+msgstr "मकाओ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:184
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "मैसिडोनिया, पूर्व युगोस्लाव गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:185
+msgid "Madagascar"
+msgstr "मेडागास्कर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:186
+msgid "Malawi"
+msgstr "मलावी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:187
+msgid "Malaysia"
+msgstr "मलेशिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:188
+msgid "Maldives"
+msgstr "मालदीव"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:189
+msgid "Mali"
+msgstr "माली"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:190
+msgid "Malta"
+msgstr "माल्टा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:191
+msgid "Marshall Islands"
+msgstr "मार्शल द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:192
+msgid "Martinique"
+msgstr "मार्टीनिक"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:193
+msgid "Mauritania"
+msgstr "मॉरीशस (मॉरिटानिया)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:194
+msgid "Mauritius"
+msgstr "मॉरीशस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:195
+msgid "Mayotte"
+msgstr "मायोटी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:196
+msgid "Mexico"
+msgstr "मैक्सिको"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:197
+msgid "Micronesia, Federated States of"
+msgstr "माइक्रोनेशिया, संघबद्ध राज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:198
+msgid "Moldova, Republic of"
+msgstr "माल्डोवा, गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:199
+msgid "Monaco"
+msgstr "मोनाको"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:200
+msgid "Mongolia"
+msgstr "मंगोलिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:201
+msgid "Montserrat"
+msgstr "मोंट्सेराट"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:202
+msgid "Morocco"
+msgstr "मोरक्को"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:203
+msgid "Mozambique"
+msgstr "मोज़ाम्बिक"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:204
+msgid "Myanmar"
+msgstr "म्यांमार"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:205
+msgid "Namibia"
+msgstr "नामीबिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:206
+msgid "Nauru"
+msgstr "नौरू"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:207
+msgid "Nepal"
+msgstr "नेपाल"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:208
+msgid "Netherlands"
+msgstr "नीदरलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:209
+msgid "Netherlands Antilles"
+msgstr "नेदरलैंड्स एंटाइल्स"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:210
+msgid "New Caledonia"
+msgstr "न्यू कैलेडोनिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:211
+msgid "New Zealand"
+msgstr "न्यूजीलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:212
+msgid "Nicaragua"
+msgstr "निकारागुआ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:213
+msgid "Niger"
+msgstr "नाइजर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:214
+msgid "Nigeria"
+msgstr "नाइजीरिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:215
+msgid "Niue"
+msgstr "नीयू"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:216
+msgid "Norfolk Island"
+msgstr "नॉरफ़ॉक द्वीप"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:217
+msgid "Northern Mariana Islands"
+msgstr "उत्तरी मारियाना द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:218
+msgid "Norway"
+msgstr "नॉर्वे"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:219
+msgid "Oman"
+msgstr "ओमान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:220
+msgid "Pakistan"
+msgstr "पाकिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:221
+msgid "Palau"
+msgstr "पलाऊ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:222
+msgid "Palestinian Territory, Occupied"
+msgstr "अधिकृत फ़िलिस्तीन क्षेत्र"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:223
+msgid "Panama"
+msgstr "पनामा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:224
+msgid "Papua New Guinea"
+msgstr "पापुआ न्यू गिनी"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:225
+msgid "Paraguay"
+msgstr "पराग्वे"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:226
+msgid "Peru"
+msgstr "पेरू"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:227
+msgid "Philippines"
+msgstr "फिलिपींस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:228
+msgid "Pitcairn"
+msgstr "पिटकेर्न"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:229
+msgid "Poland"
+msgstr "पोलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:230
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:231
+msgid "Puerto Rico"
+msgstr "पोर्टो रीको"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:232
+msgid "Qatar"
+msgstr "क़तर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:233
+msgid "Reunion"
+msgstr "रीयूनियन "
+
+#: /Plugin/Utils/Lib/I18nCountry.php:234
+msgid "Romania"
+msgstr "रोमानिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:235
+msgid "Russian Federation"
+msgstr "रूसी फेडरेशन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:236
+msgid "Rwanda"
+msgstr "रवांडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:237
+msgid "Saint Helena"
+msgstr "सेंट हेलेना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:238
+msgid "Saint Kitts and Nevis"
+msgstr "सेंट किट्स और नेविस"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:239
+msgid "Saint Lucia"
+msgstr "सेंट लूसिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:240
+msgid "Saint Pierre and Miquelon"
+msgstr "सेंट पियरे और मिकेलॉन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:241
+msgid "Saint Vincent and the Grenadines"
+msgstr "सेंट विन्सेंट और ग्रेनेडिन्स"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:242
+msgid "Samoa"
+msgstr "समोआ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:243
+msgid "San Marino"
+msgstr "सैन मारिनो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:244
+msgid "Sao Tome and Principe"
+msgstr "साओ टोम और प्रिंसिप"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:245
+msgid "Saudi Arabia"
+msgstr "सऊदी अरब"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:246
+msgid "Senegal"
+msgstr "सेनेगल"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:247
+msgid "Serbia and Montenegro"
+msgstr "सर्बिया और मोंटेनेग्रो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:248
+msgid "Seychelles"
+msgstr "सेशेल्स"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:249
+msgid "Sierra Leone"
+msgstr "सिएरा लियोन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:250
+msgid "Singapore"
+msgstr "सिंगापुर"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:251
+msgid "Slovakia"
+msgstr "स्लोवाकिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:252
+msgid "Slovenia"
+msgstr "स्लोवेनिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:253
+msgid "Solomon Islands"
+msgstr "सोलोमन द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:254
+msgid "Somalia"
+msgstr "सोमालिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:255
+msgid "South Africa"
+msgstr "दक्षिण अफ्रीका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:256
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:257
+msgid "Spain"
+msgstr "स्पेन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:258
+msgid "Sri Lanka"
+msgstr "श्रीलंका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:259
+msgid "Sudan"
+msgstr "सूडान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:260
+msgid "Suriname"
+msgstr "सूरीनाम"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:261
+msgid "Svalbard and Jan Mayen"
+msgstr "स्वालबार्ड और जैन मायेन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:262
+msgid "Swaziland"
+msgstr "स्वाज़ीलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:263
+msgid "Sweden"
+msgstr "स्वीडन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:264
+msgid "Switzerland"
+msgstr "स्विट्ज़रलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:265
+msgid "Syrian Arab Republic"
+msgstr "सीरियाई अरब गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:266
+msgid "Taiwan, Province of China"
+msgstr "ताइवान, चीन के प्रांत"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:267
+msgid "Tajikistan"
+msgstr "ताजिकिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:268
+msgid "Tanzania, United Republic of"
+msgstr "तंजानिया, संयुक्त गणराज्य"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:269
+msgid "Thailand"
+msgstr "थाईलैंड"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:270
+msgid "Timor-Leste"
+msgstr "तिमोर-लेस्ते"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:271
+msgid "Togo"
+msgstr "टोगो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:272
+msgid "Tokelau"
+msgstr "टोकेलाऊ"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:273
+msgid "Tonga"
+msgstr "टोंगा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:274
+msgid "Trinidad and Tobago"
+msgstr "त्रिनिदाद और टोबैगो"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:275
+msgid "Tunisia"
+msgstr "ट्यूनीशिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:276
+msgid "Turkey"
+msgstr "तुर्की"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:277
+msgid "Turkmenistan"
+msgstr "तुर्कमेनिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:278
+msgid "Turks and Caicos Islands"
+msgstr "तुर्क्स और कैकोज़ द्वीपसमूह"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:279
+msgid "Tuvalu"
+msgstr "तुवालु"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:280
+msgid "Uganda"
+msgstr "युगांडा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:281
+msgid "Ukraine"
+msgstr "यूक्रेन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:282
+msgid "United Arab Emirates"
+msgstr "संयुक्त अरब अमीरात"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:283
+msgid "United Kingdom"
+msgstr "युनाइटेड किंगडम (ब्रिटेन)"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:284
+msgid "United States"
+msgstr "संयुक्त राज्य अमेरिका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:285
+msgid "Uruguay"
+msgstr "उरुग्वे"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:286
+msgid "Uzbekistan"
+msgstr "उज़्बेकिस्तान"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:287
+msgid "Vanuatu"
+msgstr "वानुअतु"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:288
+msgid "Venezuela"
+msgstr "वेनेजुएला"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:289
+msgid "Viet Nam"
+msgstr "वियतनाम"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:290
+msgid "Virgin Islands, British"
+msgstr "वर्जिन आइलैंड्स, ब्रिटिश"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:291
+msgid "Virgin Islands, U.s."
+msgstr "वर्जिन आइलैंड्स, अमेरिका"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:292
+msgid "Wallis and Futuna"
+msgstr "वालिस और फ्यूचूना"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:293
+msgid "Western Sahara"
+msgstr "पश्चिमी सहारा"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:294
+msgid "Yemen"
+msgstr "यमन"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:295
+msgid "Zambia"
+msgstr "ज़ाम्बिया"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:296
+msgid "Zimbabwe"
+msgstr "ज़िम्बाब्वे"
+
+#: /Plugin/Utils/Lib/I18nCountry.php:342
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "अमान्य तर्क # 1: %s एक मान्य नहीं है %s identifyer।"
+
+#: /Plugin/Utils/Model/Behavior/CsvImportBehavior.php:173
+msgid "%s for Row %d failed to save."
+msgstr "%s पंक्ति के लिए %d बचाने में नाकाम रहे।"
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:48
+msgid "You need to define at least one field to be toggleable."
+msgstr "आप toggleable होना करने के लिए कम से कम एक क्षेत्र को परिभाषित करने की जरूरत है।"
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:69
+msgid "The field %s is not in the list of toggleable fields."
+msgstr "क्षेत्र %s toggleable क्षेत्रों की सूची में नहीं है।"
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:73
+msgid "The field %s does not have two toggleable states defined."
+msgstr "क्षेत्र %s दो toggleable राज्यों में परिभाषित नहीं है।"
+
+#: /Plugin/Utils/Model/Behavior/ToggleableBehavior.php:93
+msgid "Invalid record"
+msgstr "अमान्य रिकॉर्ड"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr "सर्वर lipsum.com रिटर्न त्रुटि कोड %s ।"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr "lipsum.com से रिस्पांस खाली है या डीकोड नहीं किया जा सकता है।"
+
+#: /Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290
+#: /Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr "सर्वर lipsum.com के लिए कनेक्शन विफल रहा है। %s ।"
+
+#: /Plugin/search-master/Controller/Component/PrgComponent.php:402
+msgid "Please correct the errors below."
+msgstr "नीचे की त्रुटियों को ठीक करें।"
+
+#: /View/Errors/error400.ctp:21 /View/Errors/error500.ctp:21
+#: /View/Errors/missing_controller.ctp:21
+#: /View/Errors/missing_datasource_config.ctp:21
+msgid "Error"
+msgstr "त्रुटि"
+
+#: /View/Errors/error400.ctp:23 /View/Errors/missing_controller.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "अनुरोध पता %s इस सर्वर पर नहीं मिला था।"
+
+#: /View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "एक आंतरिक त्रुटि हुई है।"
+
+#: /View/Errors/missing_datasource_config.ctp:22
+msgid "datasource configuration was not found"
+msgstr "डेटा स्रोत के विन्यास नहीं मिला था"
+
+#: /View/Layouts/error.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: तेजी से विकास PHP रूपरेखा"
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr "डिबग सेटिंग इस यूआरएल के लिए उपयोग की अनुमति नहीं है।"
+
+#: /View/Exam/index/index.ctp:16
+msgid "Add New Exam"
+msgstr "नई परीक्षा जोड़े"
+
+#: /View/Exam/index/index.ctp:49
+msgid "Inactive"
+msgstr "अक्रिय"
+
+#: /View/Exam/index/index.ctp:35
+msgid "Start & End Date"
+msgstr "शुरू और अंत दिनांक"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Certification of Completion"
+msgstr "समापन का प्रमाणन"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Click here to download excel file format"
+msgstr "एक्सेल फाइल प्रारूप डाउनलोड करने के लिए यहाँ क्लिक करें"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to close this exam?"
+msgstr "आप यकीन कर रहे हैं, तो आप इस परीक्षा को बंद करना चाहते हैं?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Are you sure, you want to re-activate this exam?"
+msgstr "आप यकीन कर रहे हैं, तो आप इस परीक्षा को फिर से सक्रिय करने के लिए करना चाहते हैं?"
+
+#: /View/Results/pdf/certificate.ctp:13
+msgid "Closed"
+msgstr "बंद"
+
+#: /Menu Name
+msgid "Results"
+msgstr "परिणाम"
+
+#: /Menu Name
+msgid "Configurations"
+msgstr "विन्यास"
+
+#: /Menu Name
+msgid "General"
+msgstr "सामान्य"
+
+#: /Menu Name
+msgid "Contents"
+msgstr "विषय सूची"
+
+#: /Menu Name
+msgid "Email & SMS"
+msgstr "ईमेल और एसएमएस"
+
+#: /View/Helps/index.ctp:4
+msgid "Customer Support Service"
+msgstr "ग्राहक सहायता सेवा"
+
+#: /View/Helps/index.ctp:8
+msgid "Knowledge Base (for Documentation)"
+msgstr "ज्ञानकोष (प्रलेखन के लिए)"
+
+#: /View/Helps/index.ctp:9
+msgid "Forum (24x7x)"
+msgstr "फोरम (24x7x)"
+
+#: /View/Helps/index.ctp:10
+msgid "Live Chat (For Sales & Billing Only)"
+msgstr "लाइव चैट (बिक्री एवं बिलिंग के लिए केवल)"
+
+#: /View/Helps/index.ctp:11
+msgid "Support (For Technical Support)"
+msgstr "सहायता (तकनीकी सहायता के लिए)"
+
+#: /View/Helps/index.ctp:18
+msgid "Visit Our Website"
+msgstr "हमारी वेबसाइट पर jaaein:"
+
+#: /View/Helps/index.ctp:18
+msgid "for more documentation & Details"
+msgstr "अधिक प्रलेखन और विवरण के लिए"
+
